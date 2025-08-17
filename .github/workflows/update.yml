@@ -31,6 +31,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Set up Python 3.13
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
       # 第 2 步: 安装和配置 uv (推荐的现代 Python 环境管理器)
       # 这个 Action 会自动处理缓存
       - name: Set up uv
