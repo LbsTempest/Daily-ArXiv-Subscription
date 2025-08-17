@@ -85,3 +85,29 @@ jobs:
           # Issue 的标题将从 .github/ISSUE_TEMPLATE.md 中自动提取
           # 这是该 Action 的一个智能特性
           filename: .github/ISSUE_TEMPLATE.md
+
+      - name: Send email notification
+        # 仅在有更新时才发送邮件
+        if: steps.commit.outputs.changes_detected == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          # --- ⬇️ 修改这部分为 Gmail 的配置 ⬇️ ---
+          # Gmail 的 SMTP 服务器信息
+          server_address: smtp.gmail.com
+          # 推荐使用 SSL 加密的 465 端口
+          server_port: 465
+
+          # 认证信息
+          # 用户名就是你的完整 Gmail 邮箱地址
+          username: ${{ secrets.MAIL_FROM }}
+          # 密码就是你刚刚生成的16位应用专用密码
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+
+          # 邮件主题、正文、收发件人等保持不变
+          subject: "【每日论文更新】ArXiv Daily Papers Update"
+          body_file: .github/ISSUE_TEMPLATE.md
+          to: ${{ secrets.MAIL_TO }}
+          from: GitHub Actions Bot <${{ secrets.MAIL_FROM }}> # 格式：发件人名字 <邮箱>
+
+          # 指定邮件内容为 HTML 格式
+          content_type: text/html
