@@ -1,0 +1,82 @@
+# 工作流名称，将显示在 Actions 标签页中
+name: Update Daily Papers
+
+on:
+  # 触发器1: 手动触发 (用于调试和立即运行)
+  # 允许你从 Actions 标签页手动点击 "Run workflow"
+  workflow_dispatch:
+
+  # 触发器2: 定时任务
+  schedule:
+    # 注意: GitHub Actions 使用 UTC 时间.
+    # '00 01 * * 1-5' 对应北京时间 (UTC+8) 的周一到周五的 9:00.
+    # (UTC时间的周一到周五 1:00)
+    - cron: '00 01 * * 1-5'
+
+# 为工作流设置默认权限，这是一种安全最佳实践
+permissions:
+  contents: write  # 允许检出代码和提交变更
+  issues: write    # 允许创建 Issue
+
+jobs:
+  update_papers:
+    # 任务名称
+    name: Update Papers from ArXiv
+    # 运行环境
+    runs-on: ubuntu-latest
+
+    steps:
+      # 第 1 步: 检出仓库代码
+      # 使用 v4 版本
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 第 2 步: 安装和配置 uv (推荐的现代 Python 环境管理器)
+      # 这个 Action 会自动处理缓存
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v1
+
+      # 第 3 步: 使用 uv 安装项目依赖
+      # uv sync 会读取 requirements.txt 并创建一个虚拟环境
+      - name: Install dependencies
+        run: uv sync
+
+      # 第 4 步: 运行核心的 Python 脚本
+      # 使用 uv run 来确保命令在正确的虚拟环境中执行
+      # 我们将 GitHub Token 作为环境变量传入，以备未来可能需要进行认证的 API 调用
+      - name: Run main script to update papers
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: uv run python main.py
+
+      # 第 5 步: 提交并推送文件变更
+      # 这个 Action 会自动检测本地文件的变动并提交
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          # 提交信息
+          commit_message: 'docs: ✨ Automatic update of daily papers'
+          # 要提交的分支 (如果你的主分支是 main)
+          branch: main
+          # 添加所有已更改或新增的文件
+          commit_options: '--all'
+          # 提交的作者信息
+          commit_user_name: GitHub Actions Bot
+          commit_user_email: actions@github.com
+          # 要添加到提交的文件模式
+          # 我们让它自动检测所有文件的变化，而不是像之前那样写死
+          file_pattern: '*.md'
+
+      # 第 6 步: 如果有更新，则创建 Issue 进行通知
+      # `stefanzweifel/git-auto-commit-action` 会输出一个 'changes_detected' 变量
+      # 我们可以用它来判断是否真的有文件被提交了
+      - name: Create an issue to notify on update
+        # 仅在 'commit' 步骤检测到并提交了更改时才运行此步骤
+        if: steps.commit.outputs.changes_detected == 'true'
+        uses: JasonEtco/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # Issue 的标题将从 .github/ISSUE_TEMPLATE.md 中自动提取
+          # 这是该 Action 的一个智能特性
+          filename: .github/ISSUE_TEMPLATE.md

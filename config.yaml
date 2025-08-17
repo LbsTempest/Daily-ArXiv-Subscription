@@ -1,0 +1,25 @@
+# API and general settings
+arxiv:
+  max_results_per_keyword: 100
+  retries: 5
+  wait_time_minutes: 30
+  request_delay_seconds: 5
+  # 论文领域过滤器, e.g., ["cs", "stat", "math"]. 空列表表示不过滤.
+  target_fields: ["cs", "stat"]
+
+output:
+  readme_path: "README.md"
+  issue_template_path: ".github/ISSUE_TEMPLATE.md"
+  issue_max_papers: 15
+  # 要在表格中显示的列
+  columns: ["Title", "Link", "Abstract", "Date", "Comment"]
+  # 在 Issue 中忽略的列
+  issue_ignore_columns: ["Abstract"]
+
+# 搜索关键词列表
+keywords:
+  - "Speech Synthesis"
+  - "TTS"
+  - "Audio Caption"
+  - "Speech language model"
+  # 添加新关键词只需要在这里加一行
