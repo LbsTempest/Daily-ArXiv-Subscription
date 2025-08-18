@@ -7,12 +7,12 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS](http://arxiv.org/abs/2508.05102v3)** |  | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
 | **[Facilitating Personalized TTS for Dysarthric Speakers Using Knowledge Anchoring and Curriculum Learning](http://arxiv.org/abs/2508.10412v1)** |  | 2025-08-14 | Interspeech 2025 |
 | **[Marco-Voice Technical Report](http://arxiv.org/abs/2508.02038v4)** |  | 2025-08-14 | <details><summary>Techn...</summary><p>Technical Report. Our code and dataset are publicly available at
   https://github.com/AIDC-AI/Marco-Voice and
   https://huggingface.co/datasets/AIDC-AI/CSEMOTIONS respectively</p></details> |
 | **[Fake-Mamba: Real-Time Speech Deepfake Detection Using Bidirectional Mamba as Self-Attention's Alternative](http://arxiv.org/abs/2508.09294v1)** |  | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted at IEEE ASRU 2025</p></details> |
-| **[Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS](http://arxiv.org/abs/2508.05102v2)** |  | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
 | **[Maestro-EVC: Controllable Emotional Voice Conversion Guided by References and Explicit Prosody](http://arxiv.org/abs/2508.06890v1)** |  | 2025-08-09 | <details><summary>Accep...</summary><p>Accepted at ASRU 2025</p></details> |
 | **[Text to Speech System for Meitei Mayek Script](http://arxiv.org/abs/2508.06870v1)** |  | 2025-08-09 |  |
 | **[DrVoice: Parallel Speech-Text Voice Conversation Model via Dual-Resolution Speech Representations](http://arxiv.org/abs/2506.09349v2)** |  | 2025-08-08 | Work in progress |
@@ -30,8 +30,9 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[MoE-TTS: Enhancing Out-of-Domain Text Understanding for Description-based TTS via Mixture-of-Experts](http://arxiv.org/abs/2508.11326v1)** |  | 2025-08-15 |  |
+| **[Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS](http://arxiv.org/abs/2508.05102v3)** |  | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
 | **[Facilitating Personalized TTS for Dysarthric Speakers Using Knowledge Anchoring and Curriculum Learning](http://arxiv.org/abs/2508.10412v1)** |  | 2025-08-14 | Interspeech 2025 |
-| **[Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS](http://arxiv.org/abs/2508.05102v2)** |  | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
 | **[Improved Dysarthric Speech to Text Conversion via TTS Personalization](http://arxiv.org/abs/2508.06391v1)** |  | 2025-08-08 |  |
 | **[The State Of TTS: A Case Study with Human Fooling Rates](http://arxiv.org/abs/2508.04179v1)** |  | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted at InterSpeech 2025</p></details> |
 | **[Toward Low-Latency End-to-End Voice Agents for Telecommunications Using Streaming ASR, Quantized LLMs, and Real-Time TTS](http://arxiv.org/abs/2508.04721v1)** |  | 2025-08-05 |  |
@@ -44,7 +45,6 @@ labels: documentation
 | **[TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data](http://arxiv.org/abs/2506.15614v1)** |  | 2025-06-18 |  |
 | **[A Self-Refining Framework for Enhancing ASR Using TTS-Synthesized Data](http://arxiv.org/abs/2506.11130v2)** |  | 2025-06-16 |  |
 | **[Voice Impression Control in Zero-Shot TTS](http://arxiv.org/abs/2506.05688v2)** |  | 2025-06-09 | <details><summary>5 pag...</summary><p>5 pages,5 figures, Accepted to INTERSPEECH 2025</p></details> |
-| **[Can we reconstruct a dysarthric voice with the large speech model Parler TTS?](http://arxiv.org/abs/2506.04397v1)** |  | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -70,6 +70,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Benchmarking Prosody Encoding in Discrete Speech Tokens](http://arxiv.org/abs/2508.11224v1)** |  | 2025-08-15 | Accepted by ASRU2025 |
 | **[OSUM-EChat: Enhancing End-to-End Empathetic Spoken Chatbot via Understanding-Driven Spoken Dialogue](http://arxiv.org/abs/2508.09600v1)** |  | 2025-08-13 |  |
 | **[DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models](http://arxiv.org/abs/2508.08961v2)** |  | 2025-08-13 |  |
 | **[Dual Information Speech Language Models for Emotional Conversations](http://arxiv.org/abs/2508.08095v1)** |  | 2025-08-11 | <details><summary>Prese...</summary><p>Presented at IEEE ICME 2025</p></details> |
@@ -85,4 +86,3 @@ labels: documentation
 | **[The Eloquence team submission for task 1 of MLC-SLM challenge](http://arxiv.org/abs/2507.19308v1)** |  | 2025-07-25 | <details><summary>Techn...</summary><p>Technical Report for MLC-SLM Challenge of Interspeech2025</p></details> |
 | **[Locate-and-Focus: Enhancing Terminology Translation in Speech Language Models](http://arxiv.org/abs/2507.18263v1)** |  | 2025-07-24 | Accepted at ACL 2025 |
 | **[The TEA-ASLP System for Multilingual Conversational Speech Recognition and Speech Diarization in MLC-SLM 2025 Challenge](http://arxiv.org/abs/2507.18051v1)** |  | 2025-07-24 | <details><summary>Inter...</summary><p>Interspeech 2025 workshop</p></details> |
-| **[Triple X: A LLM-Based Multilingual Speech Recognition System for the INTERSPEECH2025 MLC-SLM Challenge](http://arxiv.org/abs/2507.17288v1)** |  | 2025-07-23 |  |
