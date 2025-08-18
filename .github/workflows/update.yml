@@ -57,6 +57,7 @@ jobs:
       # 第 5 步: 提交并推送文件变更
       # 这个 Action 会自动检测本地文件的变动并提交
       - name: Commit and push changes
+        id: commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           # 提交信息
