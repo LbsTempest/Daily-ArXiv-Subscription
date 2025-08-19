@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - August 19, 2025
+title: Latest Papers - August 20, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**
@@ -7,29 +7,19 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Integrating Feedback Loss from Bi-modal Sarcasm Detector for Sarcastic Speech Synthesis](http://arxiv.org/abs/2508.13028v1)** |  | 2025-08-18 | <details><summary>Speec...</summary><p>Speech Synthesis Workshop 2025</p></details> |
+| **[Real-Time Sign Language Gestures to Speech Transcription using Deep Learning](http://arxiv.org/abs/2508.12713v1)** |  | 2025-08-18 | <details><summary>Cours...</summary><p>Course related research project</p></details> |
 | **[Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS](http://arxiv.org/abs/2508.05102v3)** |  | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
 | **[Facilitating Personalized TTS for Dysarthric Speakers Using Knowledge Anchoring and Curriculum Learning](http://arxiv.org/abs/2508.10412v1)** |  | 2025-08-14 | Interspeech 2025 |
 | **[Marco-Voice Technical Report](http://arxiv.org/abs/2508.02038v4)** |  | 2025-08-14 | <details><summary>Techn...</summary><p>Technical Report. Our code and dataset are publicly available at
   https://github.com/AIDC-AI/Marco-Voice and
   https://huggingface.co/datasets/AIDC-AI/CSEMOTIONS respectively</p></details> |
 | **[Fake-Mamba: Real-Time Speech Deepfake Detection Using Bidirectional Mamba as Self-Attention's Alternative](http://arxiv.org/abs/2508.09294v1)** |  | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted at IEEE ASRU 2025</p></details> |
-| **[Maestro-EVC: Controllable Emotional Voice Conversion Guided by References and Explicit Prosody](http://arxiv.org/abs/2508.06890v1)** |  | 2025-08-09 | <details><summary>Accep...</summary><p>Accepted at ASRU 2025</p></details> |
-| **[Text to Speech System for Meitei Mayek Script](http://arxiv.org/abs/2508.06870v1)** |  | 2025-08-09 |  |
-| **[DrVoice: Parallel Speech-Text Voice Conversation Model via Dual-Resolution Speech Representations](http://arxiv.org/abs/2506.09349v2)** |  | 2025-08-08 | Work in progress |
-| **[Llasa+: Free Lunch for Accelerated and Streaming Llama-Based Speech Synthesis](http://arxiv.org/abs/2508.06262v1)** |  | 2025-08-08 |  |
-| **[A Scalable Pipeline for Enabling Non-Verbal Speech Generation and Understanding](http://arxiv.org/abs/2508.05385v1)** |  | 2025-08-07 |  |
-| **[NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech Modeling with Paralinguistic Vocalizations](http://arxiv.org/abs/2508.04195v1)** |  | 2025-08-06 |  |
-| **[Parallel GPT: Harmonizing the Independence and Interdependence of Acoustic and Semantic Information for Zero-Shot Text-to-Speech](http://arxiv.org/abs/2508.04141v1)** |  | 2025-08-06 | <details><summary>Submi...</summary><p>Submitted to IEEE/ACM Transactions on Audio, Speech, and Language
-  Processing (TASLP)</p></details> |
-| **[Pseudo-Autoregressive Neural Codec Language Models for Efficient Zero-Shot Text-to-Speech Synthesis](http://arxiv.org/abs/2504.10352v3)** |  | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted in ACMMM 2025</p></details> |
-| **[MiSTR: Multi-Modal iEEG-to-Speech Synthesis with Transformer-Based Prosody Prediction and Neural Phase Reconstruction](http://arxiv.org/abs/2508.03166v1)** |  | 2025-08-05 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table. Accepted for presentation at Interspeech
-  2025</p></details> |
-| **[MuteSwap: Visual-informed Silent Video Identity Conversion](http://arxiv.org/abs/2507.00498v3)** |  | 2025-08-03 |  |
-| **[Next Tokens Denoising for Speech Synthesis](http://arxiv.org/abs/2507.22746v2)** |  | 2025-08-01 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[VisualSpeech: Enhancing Prosody Modeling in TTS Using Video](http://arxiv.org/abs/2501.19258v2)** |  | 2025-08-16 |  |
 | **[MoE-TTS: Enhancing Out-of-Domain Text Understanding for Description-based TTS via Mixture-of-Experts](http://arxiv.org/abs/2508.11326v1)** |  | 2025-08-15 |  |
 | **[Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS](http://arxiv.org/abs/2508.05102v3)** |  | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
 | **[Facilitating Personalized TTS for Dysarthric Speakers Using Knowledge Anchoring and Curriculum Learning](http://arxiv.org/abs/2508.10412v1)** |  | 2025-08-14 | Interspeech 2025 |
@@ -44,7 +34,6 @@ labels: documentation
 | **[An Exploration of ECAPA-TDNN and x-vector Speaker Representations in Zero-shot Multi-speaker TTS](http://arxiv.org/abs/2506.20190v1)** |  | 2025-06-25 | Accepted to TSD 2025 |
 | **[TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data](http://arxiv.org/abs/2506.15614v1)** |  | 2025-06-18 |  |
 | **[A Self-Refining Framework for Enhancing ASR Using TTS-Synthesized Data](http://arxiv.org/abs/2506.11130v2)** |  | 2025-06-16 |  |
-| **[Voice Impression Control in Zero-Shot TTS](http://arxiv.org/abs/2506.05688v2)** |  | 2025-06-09 | <details><summary>5 pag...</summary><p>5 pages,5 figures, Accepted to INTERSPEECH 2025</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -56,16 +45,6 @@ labels: documentation
 | **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](http://arxiv.org/abs/2508.03983v1)** |  | 2025-08-06 |  |
 | **[From Contrast to Commonality: Audio Commonality Captioning for Enhanced Audio-Text Cross-modal Understanding in Multimodal LLMs](http://arxiv.org/abs/2508.01659v1)** |  | 2025-08-03 |  |
 | **[CatchPhrase: EXPrompt-Guided Encoder Adaptation for Audio-to-Image Generation](http://arxiv.org/abs/2507.18750v1)** |  | 2025-07-24 |  |
-| **[DIFFA: Large Language Diffusion Models Can Listen and Understand](http://arxiv.org/abs/2507.18452v1)** |  | 2025-07-24 |  |
-| **[Multiple Choice Learning of Low Rank Adapters for Language Modeling](http://arxiv.org/abs/2507.10419v1)** |  | 2025-07-14 |  |
-| **[video-SALMONN 2: Captioning-Enhanced Audio-Visual Large Language Models](http://arxiv.org/abs/2506.15220v2)** |  | 2025-07-10 |  |
-| **[SonicMotion: Dynamic Spatial Audio Soundscapes with Latent Diffusion Models](http://arxiv.org/abs/2507.07318v1)** |  | 2025-07-09 |  |
-| **[MusiScene: Leveraging MU-LLaMA for Scene Imagination and Enhanced Video Background Music Generation](http://arxiv.org/abs/2507.05894v1)** |  | 2025-07-08 |  |
-| **[SonicVerse: Multi-Task Learning for Music Feature-Informed Captioning](http://arxiv.org/abs/2506.15154v1)** |  | 2025-06-18 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, Accepted to AIMC 2025</p></details> |
-| **[AC/DC: LLM-based Audio Comprehension via Dialogue Continuation](http://arxiv.org/abs/2506.10312v1)** |  | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025</p></details> |
-| **[Enhancing Retrieval-Augmented Audio Captioning with Generation-Assisted Multimodal Querying and Progressive Learning](http://arxiv.org/abs/2410.10913v3)** |  | 2025-06-10 |  |
-| **[CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech](http://arxiv.org/abs/2506.02863v1)** |  | 2025-06-03 |  |
-| **[FusionAudio-1.2M: Towards Fine-grained Audio Captioning with Multimodal Contextual Fusion](http://arxiv.org/abs/2506.01111v1)** |  | 2025-06-01 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
@@ -81,8 +60,3 @@ labels: documentation
 | **[Recent Advances in Speech Language Models: A Survey](http://arxiv.org/abs/2410.03751v4)** |  | 2025-08-07 | <details><summary>The r...</summary><p>The reduced version of this paper has been accepted at ACL 2025</p></details> |
 | **[What Makes a Good Speech Tokenizer for LLM-Centric Speech Generation? A Systematic Study](http://arxiv.org/abs/2506.12537v2)** |  | 2025-08-05 |  |
 | **[Hearing More with Less: Multi-Modal Retrieval-and-Selection Augmented Conversational LLM-Based ASR](http://arxiv.org/abs/2508.01166v1)** |  | 2025-08-02 |  |
-| **[Scaling Analysis of Interleaved Speech-Text Language Models](http://arxiv.org/abs/2504.02398v2)** |  | 2025-07-27 | <details><summary>Accep...</summary><p>Accepted at COLM 2025</p></details> |
-| **[SALM-Duplex: Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model](http://arxiv.org/abs/2505.15670v4)** |  | 2025-07-25 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025</p></details> |
-| **[The Eloquence team submission for task 1 of MLC-SLM challenge](http://arxiv.org/abs/2507.19308v1)** |  | 2025-07-25 | <details><summary>Techn...</summary><p>Technical Report for MLC-SLM Challenge of Interspeech2025</p></details> |
-| **[Locate-and-Focus: Enhancing Terminology Translation in Speech Language Models](http://arxiv.org/abs/2507.18263v1)** |  | 2025-07-24 | Accepted at ACL 2025 |
-| **[The TEA-ASLP System for Multilingual Conversational Speech Recognition and Speech Diarization in MLC-SLM 2025 Challenge](http://arxiv.org/abs/2507.18051v1)** |  | 2025-07-24 | <details><summary>Inter...</summary><p>Interspeech 2025 workshop</p></details> |
