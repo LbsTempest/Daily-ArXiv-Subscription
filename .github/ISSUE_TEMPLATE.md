@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - August 21, 2025
+title: Latest Papers - August 22, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Long-Context Speech Synthesis with Context-Aware Memory](http://arxiv.org/abs/2508.14713v1)** |  | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted by Interspeech25</p></details> |
+| **[Improving Resource-Efficient Speech Enhancement via Neural Differentiable DSP Vocoder Refinement](http://arxiv.org/abs/2508.14709v1)** |  | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted to the 2025 IEEE Automatic Speech Recognition and
+  Understanding Workshop (ASRU)</p></details> |
+| **[FMSD-TTS: Few-shot Multi-Speaker Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation](http://arxiv.org/abs/2505.14351v3)** |  | 2025-08-20 | 18 pages |
 | **[Integrating Feedback Loss from Bi-modal Sarcasm Detector for Sarcastic Speech Synthesis](http://arxiv.org/abs/2508.13028v1)** |  | 2025-08-18 | <details><summary>Speec...</summary><p>Speech Synthesis Workshop 2025</p></details> |
 | **[Real-Time Sign Language Gestures to Speech Transcription using Deep Learning](http://arxiv.org/abs/2508.12713v1)** |  | 2025-08-18 | <details><summary>Cours...</summary><p>Course related research project</p></details> |
 | **[Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS](http://arxiv.org/abs/2508.05102v3)** |  | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
@@ -21,15 +25,11 @@ labels: documentation
 | **[Llasa+: Free Lunch for Accelerated and Streaming Llama-Based Speech Synthesis](http://arxiv.org/abs/2508.06262v1)** |  | 2025-08-08 |  |
 | **[A Scalable Pipeline for Enabling Non-Verbal Speech Generation and Understanding](http://arxiv.org/abs/2508.05385v1)** |  | 2025-08-07 |  |
 | **[NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech Modeling with Paralinguistic Vocalizations](http://arxiv.org/abs/2508.04195v1)** |  | 2025-08-06 |  |
-| **[Parallel GPT: Harmonizing the Independence and Interdependence of Acoustic and Semantic Information for Zero-Shot Text-to-Speech](http://arxiv.org/abs/2508.04141v1)** |  | 2025-08-06 | <details><summary>Submi...</summary><p>Submitted to IEEE/ACM Transactions on Audio, Speech, and Language
-  Processing (TASLP)</p></details> |
-| **[Pseudo-Autoregressive Neural Codec Language Models for Efficient Zero-Shot Text-to-Speech Synthesis](http://arxiv.org/abs/2504.10352v3)** |  | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted in ACMMM 2025</p></details> |
-| **[MiSTR: Multi-Modal iEEG-to-Speech Synthesis with Transformer-Based Prosody Prediction and Neural Phase Reconstruction](http://arxiv.org/abs/2508.03166v1)** |  | 2025-08-05 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table. Accepted for presentation at Interspeech
-  2025</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS](http://arxiv.org/abs/2508.14313v1)** |  | 2025-08-19 |  |
 | **[VisualSpeech: Enhancing Prosody Modeling in TTS Using Video](http://arxiv.org/abs/2501.19258v2)** |  | 2025-08-16 |  |
 | **[MoE-TTS: Enhancing Out-of-Domain Text Understanding for Description-based TTS via Mixture-of-Experts](http://arxiv.org/abs/2508.11326v1)** |  | 2025-08-15 |  |
 | **[Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS](http://arxiv.org/abs/2508.05102v3)** |  | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
@@ -44,7 +44,6 @@ labels: documentation
 | **[You Sound a Little Tense: L2 Tailored Clear TTS Using Durational Vowel Properties](http://arxiv.org/abs/2506.23367v1)** |  | 2025-06-29 | <details><summary>Accep...</summary><p>Accepted to ISCA Speech Synthesis Workshop, 2025</p></details> |
 | **[An Exploration of ECAPA-TDNN and x-vector Speaker Representations in Zero-shot Multi-speaker TTS](http://arxiv.org/abs/2506.20190v1)** |  | 2025-06-25 | Accepted to TSD 2025 |
 | **[TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data](http://arxiv.org/abs/2506.15614v1)** |  | 2025-06-18 |  |
-| **[A Self-Refining Framework for Enhancing ASR Using TTS-Synthesized Data](http://arxiv.org/abs/2506.11130v2)** |  | 2025-06-16 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
