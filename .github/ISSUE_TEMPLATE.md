@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - August 28, 2025
+title: Latest Papers - August 29, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**
@@ -52,6 +52,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[MQAD: A Large-Scale Question Answering Dataset for Training Music Large Language Models](http://arxiv.org/abs/2508.19514v1)** |  | 2025-08-27 |  |
 | **[Soundscape Captioning using Sound Affective Quality Network and Large Language Model](http://arxiv.org/abs/2406.05914v3)** |  | 2025-08-25 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Multimedia, Code:
   https://github.com/Yuanbo2020/SoundSCaper</p></details> |
 | **[DIFFA: Large Language Diffusion Models Can Listen and Understand](http://arxiv.org/abs/2507.18452v2)** |  | 2025-08-21 |  |
@@ -69,7 +70,6 @@ labels: documentation
 | **[SonicVerse: Multi-Task Learning for Music Feature-Informed Captioning](http://arxiv.org/abs/2506.15154v1)** |  | 2025-06-18 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, Accepted to AIMC 2025</p></details> |
 | **[AC/DC: LLM-based Audio Comprehension via Dialogue Continuation](http://arxiv.org/abs/2506.10312v1)** |  | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025</p></details> |
 | **[Enhancing Retrieval-Augmented Audio Captioning with Generation-Assisted Multimodal Querying and Progressive Learning](http://arxiv.org/abs/2410.10913v3)** |  | 2025-06-10 |  |
-| **[CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech](http://arxiv.org/abs/2506.02863v1)** |  | 2025-06-03 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
