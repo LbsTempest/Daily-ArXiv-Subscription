@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - August 29, 2025
+title: Latest Papers - September 01, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Parallel GPT: Harmonizing the Independence and Interdependence of Acoustic and Semantic Information for Zero-Shot Text-to-Speech](http://arxiv.org/abs/2508.04141v2)** |  | 2025-08-28 | <details><summary>Submi...</summary><p>Submitted to IEEE/ACM Transactions on Audio, Speech, and Language
+  Processing (TASLP)</p></details> |
 | **[Towards Controllable Speech Synthesis in the Era of Large Language Models: A Systematic Survey](http://arxiv.org/abs/2412.06602v3)** |  | 2025-08-25 | <details><summary>The f...</summary><p>The first comprehensive survey on controllable TTS. Accepted to the
   EMNLP 2025 main conference</p></details> |
 | **[ClearMask: Noise-Free and Naturalness-Preserving Protection Against Voice Deepfake Attacks](http://arxiv.org/abs/2508.17660v1)** |  | 2025-08-25 | <details><summary>14 Pa...</summary><p>14 Pages, Accepted by AsiaCCS 2025</p></details> |
@@ -28,11 +30,11 @@ labels: documentation
   https://huggingface.co/datasets/AIDC-AI/CSEMOTIONS respectively</p></details> |
 | **[Fake-Mamba: Real-Time Speech Deepfake Detection Using Bidirectional Mamba as Self-Attention's Alternative](http://arxiv.org/abs/2508.09294v1)** |  | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted at IEEE ASRU 2025</p></details> |
 | **[Maestro-EVC: Controllable Emotional Voice Conversion Guided by References and Explicit Prosody](http://arxiv.org/abs/2508.06890v1)** |  | 2025-08-09 | <details><summary>Accep...</summary><p>Accepted at ASRU 2025</p></details> |
-| **[Text to Speech System for Meitei Mayek Script](http://arxiv.org/abs/2508.06870v1)** |  | 2025-08-09 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[MoTAS: MoE-Guided Feature Selection from TTS-Augmented Speech for Enhanced Multimodal Alzheimer's Early Screening](http://arxiv.org/abs/2508.20513v1)** |  | 2025-08-28 |  |
 | **[Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets](http://arxiv.org/abs/2508.15442v2)** |  | 2025-08-24 |  |
 | **[Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS](http://arxiv.org/abs/2508.14313v2)** |  | 2025-08-22 |  |
 | **[VisualSpeech: Enhancing Prosody Modeling in TTS Using Video](http://arxiv.org/abs/2501.19258v2)** |  | 2025-08-16 |  |
@@ -47,7 +49,6 @@ labels: documentation
 | **[A Dataset for Automatic Assessment of TTS Quality in Spanish](http://arxiv.org/abs/2507.01805v1)** |  | 2025-07-02 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. Accepted at Interspeech 2025</p></details> |
 | **[Multi-interaction TTS toward professional recording reproduction](http://arxiv.org/abs/2507.00808v2)** |  | 2025-07-02 | <details><summary>7 pag...</summary><p>7 pages,6 figures, Accepted to Speech Synthesis Workshop 2025 (SSW13)</p></details> |
 | **[You Sound a Little Tense: L2 Tailored Clear TTS Using Durational Vowel Properties](http://arxiv.org/abs/2506.23367v1)** |  | 2025-06-29 | <details><summary>Accep...</summary><p>Accepted to ISCA Speech Synthesis Workshop, 2025</p></details> |
-| **[An Exploration of ECAPA-TDNN and x-vector Speaker Representations in Zero-shot Multi-speaker TTS](http://arxiv.org/abs/2506.20190v1)** |  | 2025-06-25 | Accepted to TSD 2025 |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -74,6 +75,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[CodecBench: A Comprehensive Benchmark for Acoustic and Semantic Evaluation](http://arxiv.org/abs/2508.20660v1)** |  | 2025-08-28 |  |
 | **[FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing](http://arxiv.org/abs/2505.01263v2)** |  | 2025-08-25 |  |
 | **[TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling](http://arxiv.org/abs/2508.16790v1)** |  | 2025-08-22 |  |
 | **[LLaSO: A Foundational Framework for Reproducible Research in Large Language and Speech Model](http://arxiv.org/abs/2508.15418v1)** |  | 2025-08-21 |  |
@@ -89,4 +91,3 @@ labels: documentation
 | **[What Makes a Good Speech Tokenizer for LLM-Centric Speech Generation? A Systematic Study](http://arxiv.org/abs/2506.12537v2)** |  | 2025-08-05 |  |
 | **[Hearing More with Less: Multi-Modal Retrieval-and-Selection Augmented Conversational LLM-Based ASR](http://arxiv.org/abs/2508.01166v1)** |  | 2025-08-02 |  |
 | **[Scaling Analysis of Interleaved Speech-Text Language Models](http://arxiv.org/abs/2504.02398v2)** |  | 2025-07-27 | <details><summary>Accep...</summary><p>Accepted at COLM 2025</p></details> |
-| **[SALM-Duplex: Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model](http://arxiv.org/abs/2505.15670v4)** |  | 2025-07-25 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025</p></details> |
