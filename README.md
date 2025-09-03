@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv based on keywords.
 The subheadings in the README file represent the search keywords.
-Last update: 2025-09-03
+Last update: 2025-09-04
 
 ## Speech Synthesis
 | **Title** | **Link** | **Abstract** | **Date** | **Comment** |
