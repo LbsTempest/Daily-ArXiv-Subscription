@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 05, 2025
+title: Latest Papers - September 08, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds](http://arxiv.org/abs/2509.04345v1)** |  | 2025-09-04 |  |
+| **[Exposing Synthetic Speech: Model Attribution and Detection of AI-generated Speech via Audio Fingerprints](http://arxiv.org/abs/2411.14013v3)** |  | 2025-09-04 |  |
+| **[Open-Source Full-Duplex Conversational Datasets for Natural and Interactive Speech Synthesis](http://arxiv.org/abs/2509.04093v1)** |  | 2025-09-04 |  |
+| **[LibriQuote: A Speech Dataset of Fictional Character Utterances for Expressive Zero-Shot Speech Synthesis](http://arxiv.org/abs/2509.04072v1)** |  | 2025-09-04 |  |
 | **[Multi-level SSL Feature Gating for Audio Deepfake Detection](http://arxiv.org/abs/2509.03409v1)** |  | 2025-09-03 | <details><summary>This ...</summary><p>This paper has been accepted by ACM MM 2025</p></details> |
 | **[I2TTS: Image-indicated Immersive Text-to-speech Synthesis with Spatial Perception](http://arxiv.org/abs/2411.13314v4)** |  | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by APSIPA ASC2025</p></details> |
 | **[FELLE: Autoregressive Speech Synthesis with Token-Wise Coarse-to-Fine Flow Matching](http://arxiv.org/abs/2502.11128v2)** |  | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2025</p></details> |
@@ -24,11 +28,6 @@ labels: documentation
   2025 (Odense, Denmark). Code and demo:
   https://github.com/hi-paris/Prosody-Control-French-TTS. ACM Class: I.2.7;
   H.5.5</p></details> |
-| **[Enhancing Code-switched Text-to-Speech Synthesis Capability in Large Language Models with only Monolingual Corpora](http://arxiv.org/abs/2409.10969v2)** |  | 2025-08-22 | Accepted to ASRU2025 |
-| **[Long-Context Speech Synthesis with Context-Aware Memory](http://arxiv.org/abs/2508.14713v1)** |  | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted by Interspeech25</p></details> |
-| **[Improving Resource-Efficient Speech Enhancement via Neural Differentiable DSP Vocoder Refinement](http://arxiv.org/abs/2508.14709v1)** |  | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted to the 2025 IEEE Automatic Speech Recognition and
-  Understanding Workshop (ASRU)</p></details> |
-| **[FMSD-TTS: Few-shot Multi-Speaker Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation](http://arxiv.org/abs/2505.14351v3)** |  | 2025-08-20 | 18 pages |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
