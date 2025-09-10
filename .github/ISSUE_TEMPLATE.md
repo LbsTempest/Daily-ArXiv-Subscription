@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 10, 2025
+title: Latest Papers - September 11, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis](http://arxiv.org/abs/2509.07376v1)** |  | 2025-09-09 | EMNLP Findings |
+| **[When Fine-Tuning is Not Enough: Lessons from HSAD on Hybrid and Adversarial Audio Spoof Detection](http://arxiv.org/abs/2509.07323v1)** |  | 2025-09-09 | <details><summary>13 pa...</summary><p>13 pages, 11 figures.This work has been submitted to the IEEE for
+  possible publication</p></details> |
 | **[ParCzech4Speech: A New Speech Corpus Derived from Czech Parliamentary Data](http://arxiv.org/abs/2509.06675v1)** |  | 2025-09-08 |  |
 | **[Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis](http://arxiv.org/abs/2509.06074v1)** |  | 2025-09-07 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
 | **[Cloning a Conversational Voice AI Agent from Call\,Recording Datasets for Telesales](http://arxiv.org/abs/2509.04871v1)** |  | 2025-09-05 | 10 pages, 4 figures |
@@ -21,8 +24,6 @@ labels: documentation
 | **[FELLE: Autoregressive Speech Synthesis with Token-Wise Coarse-to-Fine Flow Matching](http://arxiv.org/abs/2502.11128v2)** |  | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2025</p></details> |
 | **[MixedG2P-T5: G2P-free Speech Synthesis for Mixed-script texts using Speech Self-Supervised Learning and Language Model](http://arxiv.org/abs/2509.01391v1)** |  | 2025-09-01 | <details><summary>In Pr...</summary><p>In Proceedings of the 17th Asia Pacific Signal and Information
   Processing Association Annual Summit and Conference (APSIPA ASC 2025)</p></details> |
-| **[An AI-Based Shopping Assistant System to Support the Visually Impaired](http://arxiv.org/abs/2509.01246v1)** |  | 2025-09-01 | <details><summary>7 pag...</summary><p>7 pages, Accepted for 2025 SICE-FES conference (IEEE)</p></details> |
-| **[FreeTalk:A plug-and-play and black-box defense against speech synthesis attacks](http://arxiv.org/abs/2509.00561v1)** |  | 2025-08-30 | under review |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
