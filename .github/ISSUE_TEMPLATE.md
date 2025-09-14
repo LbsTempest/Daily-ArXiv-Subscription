@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 12, 2025
+title: Latest Papers - September 15, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech](http://arxiv.org/abs/2509.09631v1)** |  | 2025-09-11 |  |
+| **[A Novel Data Augmentation Approach for Automatic Speaking Assessment on Opinion Expressions](http://arxiv.org/abs/2506.04077v2)** |  | 2025-09-11 | <details><summary>submi...</summary><p>submitted to the ISCA SLaTE-2025 Workshop</p></details> |
 | **[Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis](http://arxiv.org/abs/2509.07376v1)** |  | 2025-09-09 | EMNLP Findings |
 | **[When Fine-Tuning is Not Enough: Lessons from HSAD on Hybrid and Adversarial Audio Spoof Detection](http://arxiv.org/abs/2509.07323v1)** |  | 2025-09-09 | <details><summary>13 pa...</summary><p>13 pages, 11 figures.This work has been submitted to the IEEE for
   possible publication</p></details> |
@@ -21,9 +23,6 @@ labels: documentation
 | **[LibriQuote: A Speech Dataset of Fictional Character Utterances for Expressive Zero-Shot Speech Synthesis](http://arxiv.org/abs/2509.04072v1)** |  | 2025-09-04 |  |
 | **[Multi-level SSL Feature Gating for Audio Deepfake Detection](http://arxiv.org/abs/2509.03409v1)** |  | 2025-09-03 | <details><summary>This ...</summary><p>This paper has been accepted by ACM MM 2025</p></details> |
 | **[I2TTS: Image-indicated Immersive Text-to-speech Synthesis with Spatial Perception](http://arxiv.org/abs/2411.13314v4)** |  | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by APSIPA ASC2025</p></details> |
-| **[FELLE: Autoregressive Speech Synthesis with Token-Wise Coarse-to-Fine Flow Matching](http://arxiv.org/abs/2502.11128v2)** |  | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2025</p></details> |
-| **[MixedG2P-T5: G2P-free Speech Synthesis for Mixed-script texts using Speech Self-Supervised Learning and Language Model](http://arxiv.org/abs/2509.01391v1)** |  | 2025-09-01 | <details><summary>In Pr...</summary><p>In Proceedings of the 17th Asia Pacific Signal and Information
-  Processing Association Annual Summit and Conference (APSIPA ASC 2025)</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
