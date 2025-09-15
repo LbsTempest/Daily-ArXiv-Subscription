@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 15, 2025
+title: Latest Papers - September 16, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
-| **[DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech](http://arxiv.org/abs/2509.09631v1)** |  | 2025-09-11 |  |
+| **[DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech](http://arxiv.org/abs/2509.09631v2)** |  | 2025-09-12 |  |
+| **[DiTReducio: A Training-Free Acceleration for DiT-Based TTS via Progressive Calibration](http://arxiv.org/abs/2509.09748v1)** |  | 2025-09-11 |  |
 | **[A Novel Data Augmentation Approach for Automatic Speaking Assessment on Opinion Expressions](http://arxiv.org/abs/2506.04077v2)** |  | 2025-09-11 | <details><summary>submi...</summary><p>submitted to the ISCA SLaTE-2025 Workshop</p></details> |
 | **[Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis](http://arxiv.org/abs/2509.07376v1)** |  | 2025-09-09 | EMNLP Findings |
 | **[When Fine-Tuning is Not Enough: Lessons from HSAD on Hybrid and Adversarial Audio Spoof Detection](http://arxiv.org/abs/2509.07323v1)** |  | 2025-09-09 | <details><summary>13 pa...</summary><p>13 pages, 11 figures.This work has been submitted to the IEEE for
@@ -22,11 +23,11 @@ labels: documentation
 | **[Open-Source Full-Duplex Conversational Datasets for Natural and Interactive Speech Synthesis](http://arxiv.org/abs/2509.04093v1)** |  | 2025-09-04 |  |
 | **[LibriQuote: A Speech Dataset of Fictional Character Utterances for Expressive Zero-Shot Speech Synthesis](http://arxiv.org/abs/2509.04072v1)** |  | 2025-09-04 |  |
 | **[Multi-level SSL Feature Gating for Audio Deepfake Detection](http://arxiv.org/abs/2509.03409v1)** |  | 2025-09-03 | <details><summary>This ...</summary><p>This paper has been accepted by ACM MM 2025</p></details> |
-| **[I2TTS: Image-indicated Immersive Text-to-speech Synthesis with Spatial Perception](http://arxiv.org/abs/2411.13314v4)** |  | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by APSIPA ASC2025</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[DiTReducio: A Training-Free Acceleration for DiT-Based TTS via Progressive Calibration](http://arxiv.org/abs/2509.09748v1)** |  | 2025-09-11 |  |
 | **[LatinX: Aligning a Multilingual TTS Model with Direct Preference Optimization](http://arxiv.org/abs/2509.05863v1)** |  | 2025-09-06 |  |
 | **[Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets](http://arxiv.org/abs/2508.15442v3)** |  | 2025-09-05 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Main Conference (Oral)</p></details> |
 | **[You Sound a Little Tense: L2 Tailored Clear TTS Using Durational Vowel Properties](http://arxiv.org/abs/2506.23367v2)** |  | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted to ISCA Speech Synthesis Workshop, 2025, Project webpage
@@ -43,11 +44,12 @@ labels: documentation
 | **[Toward Low-Latency End-to-End Voice Agents for Telecommunications Using Streaming ASR, Quantized LLMs, and Real-Time TTS](http://arxiv.org/abs/2508.04721v1)** |  | 2025-08-05 |  |
 | **[A2TTS: TTS for Low Resource Indian Languages](http://arxiv.org/abs/2507.15272v1)** |  | 2025-07-21 |  |
 | **[Differentiable Reward Optimization for LLM based TTS system](http://arxiv.org/abs/2507.05911v1)** |  | 2025-07-08 |  |
-| **[A Dataset for Automatic Assessment of TTS Quality in Spanish](http://arxiv.org/abs/2507.01805v1)** |  | 2025-07-02 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. Accepted at Interspeech 2025</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Enhancing Speech Large Language Models with Prompt-Aware Mixture of Audio Encoders](http://arxiv.org/abs/2502.15178v2)** |  | 2025-09-12 | <details><summary>16 pa...</summary><p>16 pages,4 figures, 16 tables, to be published in EMNLP 2025 main
+  conference</p></details> |
 | **[MQAD: A Large-Scale Question Answering Dataset for Training Music Large Language Models](http://arxiv.org/abs/2508.19514v1)** |  | 2025-08-27 |  |
 | **[Soundscape Captioning using Sound Affective Quality Network and Large Language Model](http://arxiv.org/abs/2406.05914v3)** |  | 2025-08-25 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Multimedia, Code:
   https://github.com/Yuanbo2020/SoundSCaper</p></details> |
@@ -65,7 +67,6 @@ labels: documentation
 | **[MusiScene: Leveraging MU-LLaMA for Scene Imagination and Enhanced Video Background Music Generation](http://arxiv.org/abs/2507.05894v1)** |  | 2025-07-08 |  |
 | **[SonicVerse: Multi-Task Learning for Music Feature-Informed Captioning](http://arxiv.org/abs/2506.15154v1)** |  | 2025-06-18 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, Accepted to AIMC 2025</p></details> |
 | **[AC/DC: LLM-based Audio Comprehension via Dialogue Continuation](http://arxiv.org/abs/2506.10312v1)** |  | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025</p></details> |
-| **[Enhancing Retrieval-Augmented Audio Captioning with Generation-Assisted Multimodal Querying and Progressive Learning](http://arxiv.org/abs/2410.10913v3)** |  | 2025-06-10 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
