@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 16, 2025
+title: Latest Papers - September 17, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**
@@ -7,10 +7,11 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v1)** |  | 2025-09-14 |  |
+| **[Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis](http://arxiv.org/abs/2509.07376v2)** |  | 2025-09-14 | EMNLP Findings |
 | **[DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech](http://arxiv.org/abs/2509.09631v2)** |  | 2025-09-12 |  |
 | **[DiTReducio: A Training-Free Acceleration for DiT-Based TTS via Progressive Calibration](http://arxiv.org/abs/2509.09748v1)** |  | 2025-09-11 |  |
 | **[A Novel Data Augmentation Approach for Automatic Speaking Assessment on Opinion Expressions](http://arxiv.org/abs/2506.04077v2)** |  | 2025-09-11 | <details><summary>submi...</summary><p>submitted to the ISCA SLaTE-2025 Workshop</p></details> |
-| **[Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis](http://arxiv.org/abs/2509.07376v1)** |  | 2025-09-09 | EMNLP Findings |
 | **[When Fine-Tuning is Not Enough: Lessons from HSAD on Hybrid and Adversarial Audio Spoof Detection](http://arxiv.org/abs/2509.07323v1)** |  | 2025-09-09 | <details><summary>13 pa...</summary><p>13 pages, 11 figures.This work has been submitted to the IEEE for
   possible publication</p></details> |
 | **[ParCzech4Speech: A New Speech Corpus Derived from Czech Parliamentary Data](http://arxiv.org/abs/2509.06675v1)** |  | 2025-09-08 |  |
@@ -22,7 +23,6 @@ labels: documentation
 | **[Exposing Synthetic Speech: Model Attribution and Detection of AI-generated Speech via Audio Fingerprints](http://arxiv.org/abs/2411.14013v3)** |  | 2025-09-04 |  |
 | **[Open-Source Full-Duplex Conversational Datasets for Natural and Interactive Speech Synthesis](http://arxiv.org/abs/2509.04093v1)** |  | 2025-09-04 |  |
 | **[LibriQuote: A Speech Dataset of Fictional Character Utterances for Expressive Zero-Shot Speech Synthesis](http://arxiv.org/abs/2509.04072v1)** |  | 2025-09-04 |  |
-| **[Multi-level SSL Feature Gating for Audio Deepfake Detection](http://arxiv.org/abs/2509.03409v1)** |  | 2025-09-03 | <details><summary>This ...</summary><p>This paper has been accepted by ACM MM 2025</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -71,6 +71,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v1)** |  | 2025-09-14 |  |
 | **[Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding](http://arxiv.org/abs/2509.04685v1)** |  | 2025-09-04 |  |
 | **[An Empirical Analysis of Discrete Unit Representations in Speech Language Modeling Pre-training](http://arxiv.org/abs/2509.05359v1)** |  | 2025-09-03 | <details><summary>Publi...</summary><p>Published in International Conference on Text, Speech, and Dialogue,
   13-24</p></details> |
@@ -87,4 +88,3 @@ labels: documentation
 | **[Incorporating Contextual Paralinguistic Understanding in Large Speech-Language Models](http://arxiv.org/abs/2508.07273v1)** |  | 2025-08-10 | <details><summary>Accep...</summary><p>Accepted at (ASRU 2025) 2025 IEEE Automatic Speech Recognition and
   Understanding Workshop</p></details> |
 | **[ProsodyLM: Uncovering the Emerging Prosody Processing Capabilities in Speech Language Models](http://arxiv.org/abs/2507.20091v2)** |  | 2025-08-07 |  |
-| **[Recent Advances in Speech Language Models: A Survey](http://arxiv.org/abs/2410.03751v4)** |  | 2025-08-07 | <details><summary>The r...</summary><p>The reduced version of this paper has been accepted at ACL 2025</p></details> |
