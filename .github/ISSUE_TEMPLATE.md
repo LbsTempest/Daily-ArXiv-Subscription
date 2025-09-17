@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 17, 2025
+title: Latest Papers - September 18, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**
@@ -48,6 +48,9 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[MAGIC-Enhanced Keyword Prompting for Zero-Shot Audio Captioning with CLIP Models](http://arxiv.org/abs/2509.12591v1)** |  | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted in The 26th International Conference on Web Information
+  Systems Engineering (WISE), scheduled for 15-17 December 2025 in Marrakech,
+  Morocco</p></details> |
 | **[Enhancing Speech Large Language Models with Prompt-Aware Mixture of Audio Encoders](http://arxiv.org/abs/2502.15178v2)** |  | 2025-09-12 | <details><summary>16 pa...</summary><p>16 pages,4 figures, 16 tables, to be published in EMNLP 2025 main
   conference</p></details> |
 | **[MQAD: A Large-Scale Question Answering Dataset for Training Music Large Language Models](http://arxiv.org/abs/2508.19514v1)** |  | 2025-08-27 |  |
@@ -66,7 +69,6 @@ labels: documentation
 | **[SonicMotion: Dynamic Spatial Audio Soundscapes with Latent Diffusion Models](http://arxiv.org/abs/2507.07318v1)** |  | 2025-07-09 |  |
 | **[MusiScene: Leveraging MU-LLaMA for Scene Imagination and Enhanced Video Background Music Generation](http://arxiv.org/abs/2507.05894v1)** |  | 2025-07-08 |  |
 | **[SonicVerse: Multi-Task Learning for Music Feature-Informed Captioning](http://arxiv.org/abs/2506.15154v1)** |  | 2025-06-18 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, Accepted to AIMC 2025</p></details> |
-| **[AC/DC: LLM-based Audio Comprehension via Dialogue Continuation](http://arxiv.org/abs/2506.10312v1)** |  | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
