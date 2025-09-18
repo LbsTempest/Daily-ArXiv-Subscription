@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 18, 2025
+title: Latest Papers - September 19, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Text-to-Speech for Unseen Speakers via Low-Complexity Discrete Unit-Based Frame Selection](http://arxiv.org/abs/2408.17432v3)** |  | 2025-09-17 | <details><summary>Under...</summary><p>Under review for IEEE OJSP</p></details> |
+| **[KALL-E:Autoregressive Speech Synthesis with Next-Distribution Prediction](http://arxiv.org/abs/2412.16846v2)** |  | 2025-09-17 | 6 figures, 5 tables |
 | **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v1)** |  | 2025-09-14 |  |
 | **[Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis](http://arxiv.org/abs/2509.07376v2)** |  | 2025-09-14 | EMNLP Findings |
 | **[DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech](http://arxiv.org/abs/2509.09631v2)** |  | 2025-09-12 |  |
@@ -21,8 +23,6 @@ labels: documentation
 | **[DarkStream: real-time speech anonymization with low latency](http://arxiv.org/abs/2509.04667v1)** |  | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted for presentation at ASRU 2025</p></details> |
 | **[AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds](http://arxiv.org/abs/2509.04345v1)** |  | 2025-09-04 |  |
 | **[Exposing Synthetic Speech: Model Attribution and Detection of AI-generated Speech via Audio Fingerprints](http://arxiv.org/abs/2411.14013v3)** |  | 2025-09-04 |  |
-| **[Open-Source Full-Duplex Conversational Datasets for Natural and Interactive Speech Synthesis](http://arxiv.org/abs/2509.04093v1)** |  | 2025-09-04 |  |
-| **[LibriQuote: A Speech Dataset of Fictional Character Utterances for Expressive Zero-Shot Speech Synthesis](http://arxiv.org/abs/2509.04072v1)** |  | 2025-09-04 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -73,6 +73,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Summary on The Multilingual Conversational Speech Language Model Challenge: Datasets, Tasks, Baselines, and Methods](http://arxiv.org/abs/2509.13785v1)** |  | 2025-09-17 |  |
 | **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v1)** |  | 2025-09-14 |  |
 | **[Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding](http://arxiv.org/abs/2509.04685v1)** |  | 2025-09-04 |  |
 | **[An Empirical Analysis of Discrete Unit Representations in Speech Language Modeling Pre-training](http://arxiv.org/abs/2509.05359v1)** |  | 2025-09-03 | <details><summary>Publi...</summary><p>Published in International Conference on Text, Speech, and Dialogue,
@@ -89,4 +90,3 @@ labels: documentation
 | **[Think Before You Talk: Enhancing Meaningful Dialogue Generation in Full-Duplex Speech Language Models with Planning-Inspired Text Guidance](http://arxiv.org/abs/2508.07375v1)** |  | 2025-08-10 | Work in progress |
 | **[Incorporating Contextual Paralinguistic Understanding in Large Speech-Language Models](http://arxiv.org/abs/2508.07273v1)** |  | 2025-08-10 | <details><summary>Accep...</summary><p>Accepted at (ASRU 2025) 2025 IEEE Automatic Speech Recognition and
   Understanding Workshop</p></details> |
-| **[ProsodyLM: Uncovering the Emerging Prosody Processing Capabilities in Speech Language Models](http://arxiv.org/abs/2507.20091v2)** |  | 2025-08-07 |  |
