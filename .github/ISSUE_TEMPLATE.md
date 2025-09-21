@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 19, 2025
+title: Latest Papers - September 22, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[DAIEN-TTS: Disentangled Audio Infilling for Environment-Aware Text-to-Speech Synthesis](http://arxiv.org/abs/2509.14684v1)** |  | 2025-09-18 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
+| **[Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](http://arxiv.org/abs/2509.14579v1)** |  | 2025-09-18 | 5 pages, 2 figures |
 | **[Text-to-Speech for Unseen Speakers via Low-Complexity Discrete Unit-Based Frame Selection](http://arxiv.org/abs/2408.17432v3)** |  | 2025-09-17 | <details><summary>Under...</summary><p>Under review for IEEE OJSP</p></details> |
 | **[KALL-E:Autoregressive Speech Synthesis with Next-Distribution Prediction](http://arxiv.org/abs/2412.16846v2)** |  | 2025-09-17 | 6 figures, 5 tables |
 | **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v1)** |  | 2025-09-14 |  |
@@ -21,8 +23,6 @@ labels: documentation
 | **[Cloning a Conversational Voice AI Agent from Call\,Recording Datasets for Telesales](http://arxiv.org/abs/2509.04871v1)** |  | 2025-09-05 | 10 pages, 4 figures |
 | **[Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding](http://arxiv.org/abs/2509.04685v1)** |  | 2025-09-04 |  |
 | **[DarkStream: real-time speech anonymization with low latency](http://arxiv.org/abs/2509.04667v1)** |  | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted for presentation at ASRU 2025</p></details> |
-| **[AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds](http://arxiv.org/abs/2509.04345v1)** |  | 2025-09-04 |  |
-| **[Exposing Synthetic Speech: Model Attribution and Detection of AI-generated Speech via Audio Fingerprints](http://arxiv.org/abs/2411.14013v3)** |  | 2025-09-04 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -48,6 +48,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Aligning Audio Captions with Human Preferences](http://arxiv.org/abs/2509.14659v1)** |  | 2025-09-18 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[MAGIC-Enhanced Keyword Prompting for Zero-Shot Audio Captioning with CLIP Models](http://arxiv.org/abs/2509.12591v1)** |  | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted in The 26th International Conference on Web Information
   Systems Engineering (WISE), scheduled for 15-17 December 2025 in Marrakech,
   Morocco</p></details> |
@@ -68,11 +69,11 @@ labels: documentation
 | **[video-SALMONN 2: Captioning-Enhanced Audio-Visual Large Language Models](http://arxiv.org/abs/2506.15220v2)** |  | 2025-07-10 |  |
 | **[SonicMotion: Dynamic Spatial Audio Soundscapes with Latent Diffusion Models](http://arxiv.org/abs/2507.07318v1)** |  | 2025-07-09 |  |
 | **[MusiScene: Leveraging MU-LLaMA for Scene Imagination and Enhanced Video Background Music Generation](http://arxiv.org/abs/2507.05894v1)** |  | 2025-07-08 |  |
-| **[SonicVerse: Multi-Task Learning for Music Feature-Informed Captioning](http://arxiv.org/abs/2506.15154v1)** |  | 2025-06-18 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, Accepted to AIMC 2025</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Llama-Mimi: Speech Language Models with Interleaved Semantic and Acoustic Tokens](http://arxiv.org/abs/2509.14882v1)** |  | 2025-09-18 | 5 pages, 1 figures |
 | **[Summary on The Multilingual Conversational Speech Language Model Challenge: Datasets, Tasks, Baselines, and Methods](http://arxiv.org/abs/2509.13785v1)** |  | 2025-09-17 |  |
 | **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v1)** |  | 2025-09-14 |  |
 | **[Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding](http://arxiv.org/abs/2509.04685v1)** |  | 2025-09-04 |  |
@@ -88,5 +89,3 @@ labels: documentation
 | **[DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models](http://arxiv.org/abs/2508.08961v2)** |  | 2025-08-13 |  |
 | **[Dual Information Speech Language Models for Emotional Conversations](http://arxiv.org/abs/2508.08095v1)** |  | 2025-08-11 | <details><summary>Prese...</summary><p>Presented at IEEE ICME 2025</p></details> |
 | **[Think Before You Talk: Enhancing Meaningful Dialogue Generation in Full-Duplex Speech Language Models with Planning-Inspired Text Guidance](http://arxiv.org/abs/2508.07375v1)** |  | 2025-08-10 | Work in progress |
-| **[Incorporating Contextual Paralinguistic Understanding in Large Speech-Language Models](http://arxiv.org/abs/2508.07273v1)** |  | 2025-08-10 | <details><summary>Accep...</summary><p>Accepted at (ASRU 2025) 2025 IEEE Automatic Speech Recognition and
-  Understanding Workshop</p></details> |
