@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 22, 2025
+title: Latest Papers - September 23, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Beyond Video-to-SFX: Video to Audio Synthesis with Environmentally Aware Speech](http://arxiv.org/abs/2509.15492v1)** |  | 2025-09-19 |  |
 | **[DAIEN-TTS: Disentangled Audio Infilling for Environment-Aware Text-to-Speech Synthesis](http://arxiv.org/abs/2509.14684v1)** |  | 2025-09-18 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](http://arxiv.org/abs/2509.14579v1)** |  | 2025-09-18 | 5 pages, 2 figures |
 | **[Text-to-Speech for Unseen Speakers via Low-Complexity Discrete Unit-Based Frame Selection](http://arxiv.org/abs/2408.17432v3)** |  | 2025-09-17 | <details><summary>Under...</summary><p>Under review for IEEE OJSP</p></details> |
@@ -22,7 +23,6 @@ labels: documentation
 | **[Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis](http://arxiv.org/abs/2509.06074v1)** |  | 2025-09-07 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
 | **[Cloning a Conversational Voice AI Agent from Call\,Recording Datasets for Telesales](http://arxiv.org/abs/2509.04871v1)** |  | 2025-09-05 | 10 pages, 4 figures |
 | **[Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding](http://arxiv.org/abs/2509.04685v1)** |  | 2025-09-04 |  |
-| **[DarkStream: real-time speech anonymization with low latency](http://arxiv.org/abs/2509.04667v1)** |  | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted for presentation at ASRU 2025</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -48,12 +48,14 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Enhancing Speech Large Language Models with Prompt-Aware Mixture of Audio Encoders](http://arxiv.org/abs/2502.15178v3)** |  | 2025-09-19 | <details><summary>16 pa...</summary><p>16 pages,5 figures, 13 tables, to be published in EMNLP 2025 main
+  conference</p></details> |
+| **[Mamba-2 audio captioning: design space exploration and analysis](http://arxiv.org/abs/2509.15680v1)** |  | 2025-09-19 | <details><summary>Submi...</summary><p>Submitted to the 2026 IEEE International Conference on Acoustics,
+  Speech, and Signal Processing (ICASSP 2026). Under review</p></details> |
 | **[Aligning Audio Captions with Human Preferences](http://arxiv.org/abs/2509.14659v1)** |  | 2025-09-18 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[MAGIC-Enhanced Keyword Prompting for Zero-Shot Audio Captioning with CLIP Models](http://arxiv.org/abs/2509.12591v1)** |  | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted in The 26th International Conference on Web Information
   Systems Engineering (WISE), scheduled for 15-17 December 2025 in Marrakech,
   Morocco</p></details> |
-| **[Enhancing Speech Large Language Models with Prompt-Aware Mixture of Audio Encoders](http://arxiv.org/abs/2502.15178v2)** |  | 2025-09-12 | <details><summary>16 pa...</summary><p>16 pages,4 figures, 16 tables, to be published in EMNLP 2025 main
-  conference</p></details> |
 | **[MQAD: A Large-Scale Question Answering Dataset for Training Music Large Language Models](http://arxiv.org/abs/2508.19514v1)** |  | 2025-08-27 |  |
 | **[Soundscape Captioning using Sound Affective Quality Network and Large Language Model](http://arxiv.org/abs/2406.05914v3)** |  | 2025-08-25 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Multimedia, Code:
   https://github.com/Yuanbo2020/SoundSCaper</p></details> |
@@ -67,12 +69,13 @@ labels: documentation
 | **[CatchPhrase: EXPrompt-Guided Encoder Adaptation for Audio-to-Image Generation](http://arxiv.org/abs/2507.18750v1)** |  | 2025-07-24 |  |
 | **[Multiple Choice Learning of Low Rank Adapters for Language Modeling](http://arxiv.org/abs/2507.10419v1)** |  | 2025-07-14 |  |
 | **[video-SALMONN 2: Captioning-Enhanced Audio-Visual Large Language Models](http://arxiv.org/abs/2506.15220v2)** |  | 2025-07-10 |  |
-| **[SonicMotion: Dynamic Spatial Audio Soundscapes with Latent Diffusion Models](http://arxiv.org/abs/2507.07318v1)** |  | 2025-07-09 |  |
 | **[MusiScene: Leveraging MU-LLaMA for Scene Imagination and Enhanced Video Background Music Generation](http://arxiv.org/abs/2507.05894v1)** |  | 2025-07-08 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Layer-wise Minimal Pair Probing Reveals Contextual Grammatical-Conceptual Hierarchy in Speech Representations](http://arxiv.org/abs/2509.15655v1)** |  | 2025-09-19 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference (Oral)</p></details> |
+| **[Speech Language Models for Under-Represented Languages: Insights from Wolof](http://arxiv.org/abs/2509.15362v1)** |  | 2025-09-18 |  |
 | **[Llama-Mimi: Speech Language Models with Interleaved Semantic and Acoustic Tokens](http://arxiv.org/abs/2509.14882v1)** |  | 2025-09-18 | 5 pages, 1 figures |
 | **[Summary on The Multilingual Conversational Speech Language Model Challenge: Datasets, Tasks, Baselines, and Methods](http://arxiv.org/abs/2509.13785v1)** |  | 2025-09-17 |  |
 | **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v1)** |  | 2025-09-14 |  |
@@ -87,5 +90,3 @@ labels: documentation
 | **[LLaSO: A Foundational Framework for Reproducible Research in Large Language and Speech Model](http://arxiv.org/abs/2508.15418v1)** |  | 2025-08-21 |  |
 | **[Benchmarking Prosody Encoding in Discrete Speech Tokens](http://arxiv.org/abs/2508.11224v1)** |  | 2025-08-15 | Accepted by ASRU2025 |
 | **[DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models](http://arxiv.org/abs/2508.08961v2)** |  | 2025-08-13 |  |
-| **[Dual Information Speech Language Models for Emotional Conversations](http://arxiv.org/abs/2508.08095v1)** |  | 2025-08-11 | <details><summary>Prese...</summary><p>Presented at IEEE ICME 2025</p></details> |
-| **[Think Before You Talk: Enhancing Meaningful Dialogue Generation in Full-Duplex Speech Language Models with Planning-Inspired Text Guidance](http://arxiv.org/abs/2508.07375v1)** |  | 2025-08-10 | Work in progress |
