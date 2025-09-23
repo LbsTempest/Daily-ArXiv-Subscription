@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 23, 2025
+title: Latest Papers - September 24, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**
@@ -7,9 +7,11 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[TMD-TTS: A Unified Tibetan Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation](http://arxiv.org/abs/2509.18060v1)** |  | 2025-09-22 |  |
+| **[Sidon: Fast and Robust Open-Source Multilingual Speech Restoration for Large-scale Dataset Cleansing](http://arxiv.org/abs/2509.17052v1)** |  | 2025-09-21 | 5 pages, 1 figures |
+| **[Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](http://arxiv.org/abs/2509.14579v2)** |  | 2025-09-20 | 5 pages, 2 figures |
 | **[Beyond Video-to-SFX: Video to Audio Synthesis with Environmentally Aware Speech](http://arxiv.org/abs/2509.15492v1)** |  | 2025-09-19 |  |
 | **[DAIEN-TTS: Disentangled Audio Infilling for Environment-Aware Text-to-Speech Synthesis](http://arxiv.org/abs/2509.14684v1)** |  | 2025-09-18 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
-| **[Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](http://arxiv.org/abs/2509.14579v1)** |  | 2025-09-18 | 5 pages, 2 figures |
 | **[Text-to-Speech for Unseen Speakers via Low-Complexity Discrete Unit-Based Frame Selection](http://arxiv.org/abs/2408.17432v3)** |  | 2025-09-17 | <details><summary>Under...</summary><p>Under review for IEEE OJSP</p></details> |
 | **[KALL-E:Autoregressive Speech Synthesis with Next-Distribution Prediction](http://arxiv.org/abs/2412.16846v2)** |  | 2025-09-17 | 6 figures, 5 tables |
 | **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v1)** |  | 2025-09-14 |  |
@@ -21,12 +23,11 @@ labels: documentation
   possible publication</p></details> |
 | **[ParCzech4Speech: A New Speech Corpus Derived from Czech Parliamentary Data](http://arxiv.org/abs/2509.06675v1)** |  | 2025-09-08 |  |
 | **[Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis](http://arxiv.org/abs/2509.06074v1)** |  | 2025-09-07 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
-| **[Cloning a Conversational Voice AI Agent from Call\,Recording Datasets for Telesales](http://arxiv.org/abs/2509.04871v1)** |  | 2025-09-05 | 10 pages, 4 figures |
-| **[Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding](http://arxiv.org/abs/2509.04685v1)** |  | 2025-09-04 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Bridging the gap between training and inference in LM-based TTS models](http://arxiv.org/abs/2509.17021v1)** |  | 2025-09-21 | 5 pages, 4 figures |
 | **[DiTReducio: A Training-Free Acceleration for DiT-Based TTS via Progressive Calibration](http://arxiv.org/abs/2509.09748v1)** |  | 2025-09-11 |  |
 | **[LatinX: Aligning a Multilingual TTS Model with Direct Preference Optimization](http://arxiv.org/abs/2509.05863v1)** |  | 2025-09-06 |  |
 | **[Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets](http://arxiv.org/abs/2508.15442v3)** |  | 2025-09-05 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Main Conference (Oral)</p></details> |
@@ -43,11 +44,12 @@ labels: documentation
 | **[The State Of TTS: A Case Study with Human Fooling Rates](http://arxiv.org/abs/2508.04179v1)** |  | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted at InterSpeech 2025</p></details> |
 | **[Toward Low-Latency End-to-End Voice Agents for Telecommunications Using Streaming ASR, Quantized LLMs, and Real-Time TTS](http://arxiv.org/abs/2508.04721v1)** |  | 2025-08-05 |  |
 | **[A2TTS: TTS for Low Resource Indian Languages](http://arxiv.org/abs/2507.15272v1)** |  | 2025-07-21 |  |
-| **[Differentiable Reward Optimization for LLM based TTS system](http://arxiv.org/abs/2507.05911v1)** |  | 2025-07-08 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[From Contrast to Commonality: Audio Commonality Captioning for Enhanced Audio-Text Cross-modal Understanding in Multimodal LLMs](http://arxiv.org/abs/2508.01659v2)** |  | 2025-09-22 |  |
+| **[Qwen3-Omni Technical Report](http://arxiv.org/abs/2509.17765v1)** |  | 2025-09-22 | <details><summary>https...</summary><p>https://github.com/QwenLM/Qwen3-Omni</p></details> |
 | **[Enhancing Speech Large Language Models with Prompt-Aware Mixture of Audio Encoders](http://arxiv.org/abs/2502.15178v3)** |  | 2025-09-19 | <details><summary>16 pa...</summary><p>16 pages,5 figures, 13 tables, to be published in EMNLP 2025 main
   conference</p></details> |
 | **[Mamba-2 audio captioning: design space exploration and analysis](http://arxiv.org/abs/2509.15680v1)** |  | 2025-09-19 | <details><summary>Submi...</summary><p>Submitted to the 2026 IEEE International Conference on Acoustics,
@@ -65,11 +67,9 @@ labels: documentation
 | **[Auditory Intelligence: Understanding the World Through Sound](http://arxiv.org/abs/2508.07829v1)** |  | 2025-08-11 | <details><summary>Posit...</summary><p>Position paper without experimental/quantitative validation. Not
   submitted to any journal/conference</p></details> |
 | **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](http://arxiv.org/abs/2508.03983v1)** |  | 2025-08-06 |  |
-| **[From Contrast to Commonality: Audio Commonality Captioning for Enhanced Audio-Text Cross-modal Understanding in Multimodal LLMs](http://arxiv.org/abs/2508.01659v1)** |  | 2025-08-03 |  |
 | **[CatchPhrase: EXPrompt-Guided Encoder Adaptation for Audio-to-Image Generation](http://arxiv.org/abs/2507.18750v1)** |  | 2025-07-24 |  |
 | **[Multiple Choice Learning of Low Rank Adapters for Language Modeling](http://arxiv.org/abs/2507.10419v1)** |  | 2025-07-14 |  |
 | **[video-SALMONN 2: Captioning-Enhanced Audio-Visual Large Language Models](http://arxiv.org/abs/2506.15220v2)** |  | 2025-07-10 |  |
-| **[MusiScene: Leveraging MU-LLaMA for Scene Imagination and Enhanced Video Background Music Generation](http://arxiv.org/abs/2507.05894v1)** |  | 2025-07-08 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
