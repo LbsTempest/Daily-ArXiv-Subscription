@@ -67,11 +67,18 @@ class WorkflowRunner:
             "---",
             "**Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**\n"
         ]
+        
+        # 为邮件创建内容（不包含YAML front matter）
+        mail_content = [
+            "# 📧 每日ArXiv论文更新\n",
+            "**请查看 [Github页面](https://github.com/zezhishao/MTS_Daily_ArXiv) 获得更好的阅读体验和更多论文。**\n"
+        ]
 
         try:
             for keyword in self.config['keywords']:
                 readme_content.append(f"## {keyword}")
                 issue_content.append(f"## {keyword}")
+                mail_content.append(f"## {keyword}")
                 
                 raw_entries = self.arxiv_client.fetch_papers(
                     keyword,
@@ -81,6 +88,7 @@ class WorkflowRunner:
                 if not raw_entries:
                     readme_content.append("Failed to fetch papers for this keyword.")
                     issue_content.append("Failed to fetch papers for this keyword.")
+                    mail_content.append("Failed to fetch papers for this keyword.")
                     continue
                 
                 papers = self._process_entries(raw_entries, self.config['arxiv']['target_fields'])
@@ -98,6 +106,15 @@ class WorkflowRunner:
                 )
                 issue_content.append(issue_table + "\n")
                 
+                # 为邮件生成表格（限制论文数量）
+                mail_papers = papers[:self.config['output']['issue_max_papers']]
+                mail_table = self.md_generator.generate_table(
+                    mail_papers,
+                    self.config['output']['columns'],
+                    self.config['output']['issue_ignore_columns']
+                )
+                mail_content.append(mail_table + "\n")
+                
                 time.sleep(self.config['arxiv']['request_delay_seconds'])
 
             # 如果所有步骤都成功，才写入文件 (原子操作)
@@ -108,6 +125,12 @@ class WorkflowRunner:
             with open(self.config['output']['issue_template_path'], 'w', encoding='utf-8') as f:
                 f.write("\n".join(issue_content))
             logging.info(f"成功更新 {self.config['output']['issue_template_path']}")
+            
+            # 添加邮件模板底部信息并写入文件
+            mail_content.append("\n---\n*本邮件由 GitHub Actions 自动生成*")
+            with open(self.config['output']['mail_template_path'], 'w', encoding='utf-8') as f:
+                f.write("\n".join(mail_content))
+            logging.info(f"成功更新 {self.config['output']['mail_template_path']}")
 
         except Exception as e:
             logging.critical(f"工作流执行过程中发生严重错误: {e}", exc_info=True)

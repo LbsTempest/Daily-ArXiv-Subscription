@@ -52,7 +52,7 @@ jobs:
       - name: Run main script to update papers
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: uv run python main.py
+        run: uv run main.py
 
       # 第 5 步: 提交并推送文件变更
       # 这个 Action 会自动检测本地文件的变动并提交
@@ -106,9 +106,6 @@ jobs:
 
           # 邮件主题、正文、收发件人等保持不变
           subject: "【每日论文更新】ArXiv Daily Papers Update"
-          body_file: .github/ISSUE_TEMPLATE.md
+          html_body: file://.github/MAIL_TEMPLATE.md
           to: ${{ secrets.MAIL_TO }}
           from: GitHub Actions Bot <${{ secrets.MAIL_FROM }}> # 格式：发件人名字 <邮箱>
-
-          # 指定邮件内容为 HTML 格式
-          content_type: text/html
