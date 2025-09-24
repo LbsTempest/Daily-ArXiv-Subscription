@@ -9,6 +9,7 @@ import yaml
 from .paper import Paper
 from .arxiv_client import ArXivClient
 from .markdown_generator import MarkdownGenerator
+from .html_generator import HtmlGenerator
 
 # 设置基础日志
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -23,6 +24,7 @@ class WorkflowRunner:
             wait_time_minutes=self.config['arxiv']['wait_time_minutes']
         )
         self.md_generator = MarkdownGenerator()
+        self.html_generator = HtmlGenerator()
 
     def _process_entries(self, entries: List[Dict], target_fields: List[str]) -> List[Paper]:
         papers = []
@@ -68,17 +70,13 @@ class WorkflowRunner:
             "**Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**\n"
         ]
         
-        # 为邮件创建内容（不包含YAML front matter）
-        mail_content = [
-            "# 📧 每日ArXiv论文更新\n",
-            "**请查看 [Github页面](https://github.com/zezhishao/MTS_Daily_ArXiv) 获得更好的阅读体验和更多论文。**\n"
-        ]
+        # 为邮件创建内容（HTML格式）
+        mail_content_sections = []
 
         try:
             for keyword in self.config['keywords']:
                 readme_content.append(f"## {keyword}")
                 issue_content.append(f"## {keyword}")
-                mail_content.append(f"## {keyword}")
                 
                 raw_entries = self.arxiv_client.fetch_papers(
                     keyword,
@@ -88,7 +86,10 @@ class WorkflowRunner:
                 if not raw_entries:
                     readme_content.append("Failed to fetch papers for this keyword.")
                     issue_content.append("Failed to fetch papers for this keyword.")
-                    mail_content.append("Failed to fetch papers for this keyword.")
+                    mail_content_sections.append({
+                        "title": keyword,
+                        "content": '<p style="color: #666; font-style: italic;">暂无相关论文。</p>'
+                    })
                     continue
                 
                 papers = self._process_entries(raw_entries, self.config['arxiv']['target_fields'])
@@ -106,14 +107,17 @@ class WorkflowRunner:
                 )
                 issue_content.append(issue_table + "\n")
                 
-                # 为邮件生成表格（限制论文数量）
+                # 为邮件生成HTML表格
                 mail_papers = papers[:self.config['output']['issue_max_papers']]
-                mail_table = self.md_generator.generate_table(
+                mail_html_table = self.html_generator.generate_html_table(
                     mail_papers,
                     self.config['output']['columns'],
                     self.config['output']['issue_ignore_columns']
                 )
-                mail_content.append(mail_table + "\n")
+                mail_content_sections.append({
+                    "title": keyword,
+                    "content": mail_html_table
+                })
                 
                 time.sleep(self.config['arxiv']['request_delay_seconds'])
 
@@ -126,10 +130,10 @@ class WorkflowRunner:
                 f.write("\n".join(issue_content))
             logging.info(f"成功更新 {self.config['output']['issue_template_path']}")
             
-            # 添加邮件模板底部信息并写入文件
-            mail_content.append("\n---\n*本邮件由 GitHub Actions 自动生成*")
+            # 生成HTML邮件内容
+            mail_html_content = self.html_generator.generate_email_content(mail_content_sections)
             with open(self.config['output']['mail_template_path'], 'w', encoding='utf-8') as f:
-                f.write("\n".join(mail_content))
+                f.write(mail_html_content)
             logging.info(f"成功更新 {self.config['output']['mail_template_path']}")
 
         except Exception as e:
