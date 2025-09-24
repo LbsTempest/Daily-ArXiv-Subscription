@@ -10,6 +10,7 @@ arxiv:
 output:
   readme_path: "README.md"
   issue_template_path: ".github/ISSUE_TEMPLATE.md"
+  mail_template_path: ".github/MAIL_TEMPLATE.md"
   issue_max_papers: 15
   # 要在表格中显示的列
   columns: ["Title", "Link", "Abstract", "Date", "Comment"]
