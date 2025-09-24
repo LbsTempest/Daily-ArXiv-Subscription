@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SupertonicTTS: Towards Highly Efficient and Streamlined Text-to-Speech System](http://arxiv.org/abs/2503.23108v3)** |  | 2025-09-23 | 22 pages, preprint |
 | **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](http://arxiv.org/abs/2509.19001v1)** |  | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted to ICASSP2026</p></details> |
 | **[OpenOmni: Advancing Open-Source Omnimodal Large Language Models with Progressive Multimodal Alignment and Real-Time Self-Aware Emotional Speech Synthesis](http://arxiv.org/abs/2501.04561v6)** |  | 2025-09-23 |  |
 | **[Discrete-time diffusion-like models for speech synthesis](http://arxiv.org/abs/2509.18470v1)** |  | 2025-09-22 |  |
