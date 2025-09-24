@@ -7,6 +7,10 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SupertonicTTS: Towards Highly Efficient and Streamlined Text-to-Speech System](http://arxiv.org/abs/2503.23108v3)** |  | 2025-09-23 | 22 pages, preprint |
+| **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](http://arxiv.org/abs/2509.19001v1)** |  | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted to ICASSP2026</p></details> |
+| **[OpenOmni: Advancing Open-Source Omnimodal Large Language Models with Progressive Multimodal Alignment and Real-Time Self-Aware Emotional Speech Synthesis](http://arxiv.org/abs/2501.04561v6)** |  | 2025-09-23 |  |
+| **[Discrete-time diffusion-like models for speech synthesis](http://arxiv.org/abs/2509.18470v1)** |  | 2025-09-22 |  |
 | **[TMD-TTS: A Unified Tibetan Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation](http://arxiv.org/abs/2509.18060v1)** |  | 2025-09-22 |  |
 | **[Sidon: Fast and Robust Open-Source Multilingual Speech Restoration for Large-scale Dataset Cleansing](http://arxiv.org/abs/2509.17052v1)** |  | 2025-09-21 | 5 pages, 1 figures |
 | **[Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](http://arxiv.org/abs/2509.14579v2)** |  | 2025-09-20 | 5 pages, 2 figures |
@@ -18,15 +22,13 @@ labels: documentation
 | **[Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis](http://arxiv.org/abs/2509.07376v2)** |  | 2025-09-14 | EMNLP Findings |
 | **[DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech](http://arxiv.org/abs/2509.09631v2)** |  | 2025-09-12 |  |
 | **[DiTReducio: A Training-Free Acceleration for DiT-Based TTS via Progressive Calibration](http://arxiv.org/abs/2509.09748v1)** |  | 2025-09-11 |  |
-| **[A Novel Data Augmentation Approach for Automatic Speaking Assessment on Opinion Expressions](http://arxiv.org/abs/2506.04077v2)** |  | 2025-09-11 | <details><summary>submi...</summary><p>submitted to the ISCA SLaTE-2025 Workshop</p></details> |
-| **[When Fine-Tuning is Not Enough: Lessons from HSAD on Hybrid and Adversarial Audio Spoof Detection](http://arxiv.org/abs/2509.07323v1)** |  | 2025-09-09 | <details><summary>13 pa...</summary><p>13 pages, 11 figures.This work has been submitted to the IEEE for
-  possible publication</p></details> |
-| **[ParCzech4Speech: A New Speech Corpus Derived from Czech Parliamentary Data](http://arxiv.org/abs/2509.06675v1)** |  | 2025-09-08 |  |
-| **[Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis](http://arxiv.org/abs/2509.06074v1)** |  | 2025-09-07 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](http://arxiv.org/abs/2509.19001v1)** |  | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted to ICASSP2026</p></details> |
+| **[Explore the Reinforcement Learning for the LLM based ASR and TTS system](http://arxiv.org/abs/2509.18569v1)** |  | 2025-09-23 |  |
+| **[No Verifiable Reward for Prosody: Toward Preference-Guided Prosody Learning in TTS](http://arxiv.org/abs/2509.18531v1)** |  | 2025-09-23 | <details><summary>submi...</summary><p>submitted to ICASSP 2026</p></details> |
 | **[Bridging the gap between training and inference in LM-based TTS models](http://arxiv.org/abs/2509.17021v1)** |  | 2025-09-21 | 5 pages, 4 figures |
 | **[DiTReducio: A Training-Free Acceleration for DiT-Based TTS via Progressive Calibration](http://arxiv.org/abs/2509.09748v1)** |  | 2025-09-11 |  |
 | **[LatinX: Aligning a Multilingual TTS Model with Direct Preference Optimization](http://arxiv.org/abs/2509.05863v1)** |  | 2025-09-06 |  |
@@ -41,9 +43,6 @@ labels: documentation
 | **[Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS](http://arxiv.org/abs/2508.05102v3)** |  | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
 | **[Facilitating Personalized TTS for Dysarthric Speakers Using Knowledge Anchoring and Curriculum Learning](http://arxiv.org/abs/2508.10412v1)** |  | 2025-08-14 | Interspeech 2025 |
 | **[Improved Dysarthric Speech to Text Conversion via TTS Personalization](http://arxiv.org/abs/2508.06391v1)** |  | 2025-08-08 |  |
-| **[The State Of TTS: A Case Study with Human Fooling Rates](http://arxiv.org/abs/2508.04179v1)** |  | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted at InterSpeech 2025</p></details> |
-| **[Toward Low-Latency End-to-End Voice Agents for Telecommunications Using Streaming ASR, Quantized LLMs, and Real-Time TTS](http://arxiv.org/abs/2508.04721v1)** |  | 2025-08-05 |  |
-| **[A2TTS: TTS for Low Resource Indian Languages](http://arxiv.org/abs/2507.15272v1)** |  | 2025-07-21 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -74,6 +73,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[HarmoniFuse: A Component-Selective and Prompt-Adaptive Framework for Multi-Task Speech Language Modeling](http://arxiv.org/abs/2509.18570v1)** |  | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages; submitted to ICASSP 2026</p></details> |
 | **[Layer-wise Minimal Pair Probing Reveals Contextual Grammatical-Conceptual Hierarchy in Speech Representations](http://arxiv.org/abs/2509.15655v1)** |  | 2025-09-19 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference (Oral)</p></details> |
 | **[Speech Language Models for Under-Represented Languages: Insights from Wolof](http://arxiv.org/abs/2509.15362v1)** |  | 2025-09-18 |  |
 | **[Llama-Mimi: Speech Language Models with Interleaved Semantic and Acoustic Tokens](http://arxiv.org/abs/2509.14882v1)** |  | 2025-09-18 | 5 pages, 1 figures |
@@ -89,4 +89,3 @@ labels: documentation
 | **[TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling](http://arxiv.org/abs/2508.16790v1)** |  | 2025-08-22 |  |
 | **[LLaSO: A Foundational Framework for Reproducible Research in Large Language and Speech Model](http://arxiv.org/abs/2508.15418v1)** |  | 2025-08-21 |  |
 | **[Benchmarking Prosody Encoding in Discrete Speech Tokens](http://arxiv.org/abs/2508.11224v1)** |  | 2025-08-15 | Accepted by ASRU2025 |
-| **[DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models](http://arxiv.org/abs/2508.08961v2)** |  | 2025-08-13 |  |
