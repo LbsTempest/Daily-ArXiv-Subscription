@@ -67,7 +67,7 @@ class WorkflowRunner:
             f"title: {issue_title}",
             "labels: documentation",
             "---",
-            "**Please check the [Github page](https://github.com/zezhishao/MTS_Daily_ArXiv) for a better reading experience and more papers.**\n"
+            "**Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**\n"
         ]
         
         # 为邮件创建内容（HTML格式）

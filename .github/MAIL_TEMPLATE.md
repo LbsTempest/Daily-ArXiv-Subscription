@@ -38,7 +38,7 @@
     ">
         <p style="margin: 0; color: #495057;">
             <strong>💡 提示：</strong>
-            请查看 <a href="https://github.com/zezhishao/MTS_Daily_ArXiv" style="color: #007bff; text-decoration: none;">Github页面</a> 
+            请查看 <a href="https://github.com/LbsTempest/Daily-ArXiv-Subscription" style="color: #007bff; text-decoration: none;">Github页面</a> 
             获得更好的阅读体验和更多论文。
         </p>
     </div>
