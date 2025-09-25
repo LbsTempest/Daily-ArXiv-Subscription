@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 25, 2025
+title: Latest Papers - September 26, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance](http://arxiv.org/abs/2509.19883v1)** |  | 2025-09-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 5 tables</p></details> |
+| **[Efficient Speech Watermarking for Speech Synthesis via Progressive Knowledge Distillation](http://arxiv.org/abs/2509.19812v1)** |  | 2025-09-24 | <details><summary>6 pag...</summary><p>6 pages of main text, 1 page of references, 2 figures, 2 tables,
+  accepted at ASRU 2025</p></details> |
+| **[Selective Classifier-free Guidance for Zero-shot Text-to-speech](http://arxiv.org/abs/2509.19668v1)** |  | 2025-09-24 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, 1 table. Submitted to ICASSP 2026</p></details> |
 | **[SupertonicTTS: Towards Highly Efficient and Streamlined Text-to-Speech System](http://arxiv.org/abs/2503.23108v3)** |  | 2025-09-23 | 22 pages, preprint |
 | **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](http://arxiv.org/abs/2509.19001v1)** |  | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted to ICASSP2026</p></details> |
 | **[OpenOmni: Advancing Open-Source Omnimodal Large Language Models with Progressive Multimodal Alignment and Real-Time Self-Aware Emotional Speech Synthesis](http://arxiv.org/abs/2501.04561v6)** |  | 2025-09-23 |  |
@@ -19,13 +23,11 @@ labels: documentation
 | **[Text-to-Speech for Unseen Speakers via Low-Complexity Discrete Unit-Based Frame Selection](http://arxiv.org/abs/2408.17432v3)** |  | 2025-09-17 | <details><summary>Under...</summary><p>Under review for IEEE OJSP</p></details> |
 | **[KALL-E:Autoregressive Speech Synthesis with Next-Distribution Prediction](http://arxiv.org/abs/2412.16846v2)** |  | 2025-09-17 | 6 figures, 5 tables |
 | **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v1)** |  | 2025-09-14 |  |
-| **[Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis](http://arxiv.org/abs/2509.07376v2)** |  | 2025-09-14 | EMNLP Findings |
-| **[DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech](http://arxiv.org/abs/2509.09631v2)** |  | 2025-09-12 |  |
-| **[DiTReducio: A Training-Free Acceleration for DiT-Based TTS via Progressive Calibration](http://arxiv.org/abs/2509.09748v1)** |  | 2025-09-11 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Eliminating stability hallucinations in llm-based tts models via attention guidance](http://arxiv.org/abs/2509.19852v1)** |  | 2025-09-24 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP2026</p></details> |
 | **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](http://arxiv.org/abs/2509.19001v1)** |  | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted to ICASSP2026</p></details> |
 | **[Explore the Reinforcement Learning for the LLM based ASR and TTS system](http://arxiv.org/abs/2509.18569v1)** |  | 2025-09-23 |  |
 | **[No Verifiable Reward for Prosody: Toward Preference-Guided Prosody Learning in TTS](http://arxiv.org/abs/2509.18531v1)** |  | 2025-09-23 | <details><summary>submi...</summary><p>submitted to ICASSP 2026</p></details> |
@@ -42,7 +44,6 @@ labels: documentation
 | **[MoE-TTS: Enhancing Out-of-Domain Text Understanding for Description-based TTS via Mixture-of-Experts](http://arxiv.org/abs/2508.11326v1)** |  | 2025-08-15 |  |
 | **[Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS](http://arxiv.org/abs/2508.05102v3)** |  | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
 | **[Facilitating Personalized TTS for Dysarthric Speakers Using Knowledge Anchoring and Curriculum Learning](http://arxiv.org/abs/2508.10412v1)** |  | 2025-08-14 | Interspeech 2025 |
-| **[Improved Dysarthric Speech to Text Conversion via TTS Personalization](http://arxiv.org/abs/2508.06391v1)** |  | 2025-08-08 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
