@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 29, 2025
+title: Latest Papers - September 30, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech](http://arxiv.org/abs/2506.02863v2)** |  | 2025-09-26 |  |
+| **[Speaker Anonymisation for Speech-based Suicide Risk Detection](http://arxiv.org/abs/2509.22148v1)** |  | 2025-09-26 |  |
+| **[Comprehend and Talk: Text to Speech Synthesis via Dual Language Modeling](http://arxiv.org/abs/2509.22062v1)** |  | 2025-09-26 | <details><summary>confe...</summary><p>conference paper about TTS</p></details> |
 | **[Facilitating Personalized TTS for Dysarthric Speakers Using Knowledge Anchoring and Curriculum Learning](http://arxiv.org/abs/2508.10412v2)** |  | 2025-09-25 | Interspeech 2025 |
 | **[UDDETTS: Unifying Discrete and Dimensional Emotions for Controllable Emotional Text-to-Speech](http://arxiv.org/abs/2505.10599v2)** |  | 2025-09-25 | Under review |
 | **[Objective Evaluation of Prosody and Intelligibility in Speech Synthesis via Conditional Prediction of Discrete Tokens](http://arxiv.org/abs/2509.20485v1)** |  | 2025-09-24 | <details><summary>Under...</summary><p>Under review for IEEE OJSP</p></details> |
@@ -20,15 +23,13 @@ labels: documentation
 | **[Discrete-time diffusion-like models for speech synthesis](http://arxiv.org/abs/2509.18470v1)** |  | 2025-09-22 |  |
 | **[TMD-TTS: A Unified Tibetan Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation](http://arxiv.org/abs/2509.18060v1)** |  | 2025-09-22 |  |
 | **[Sidon: Fast and Robust Open-Source Multilingual Speech Restoration for Large-scale Dataset Cleansing](http://arxiv.org/abs/2509.17052v1)** |  | 2025-09-21 | 5 pages, 1 figures |
-| **[Beyond Global Emotion: Fine-Grained Emotional Speech Synthesis with Dynamic Word-Level Modulation](http://arxiv.org/abs/2509.20378v1)** |  | 2025-09-20 |  |
-| **[Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](http://arxiv.org/abs/2509.14579v2)** |  | 2025-09-20 | 5 pages, 2 figures |
-| **[Beyond Video-to-SFX: Video to Audio Synthesis with Environmentally Aware Speech](http://arxiv.org/abs/2509.15492v1)** |  | 2025-09-19 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SPADE: Structured Pruning and Adaptive Distillation for Efficient LLM-TTS](http://arxiv.org/abs/2509.20802v2)** |  | 2025-09-26 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
+| **[Align2Speak: Improving TTS for Low Resource Languages via ASR-Guided Online Preference Optimization](http://arxiv.org/abs/2509.21718v1)** |  | 2025-09-26 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[Facilitating Personalized TTS for Dysarthric Speakers Using Knowledge Anchoring and Curriculum Learning](http://arxiv.org/abs/2508.10412v2)** |  | 2025-09-25 | Interspeech 2025 |
-| **[SPADE: Structured Pruning and Adaptive Distillation for Efficient LLM-TTS](http://arxiv.org/abs/2509.20802v1)** |  | 2025-09-25 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[Eliminating stability hallucinations in llm-based tts models via attention guidance](http://arxiv.org/abs/2509.19852v1)** |  | 2025-09-24 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP2026</p></details> |
 | **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](http://arxiv.org/abs/2509.19001v1)** |  | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted to ICASSP2026</p></details> |
 | **[Explore the Reinforcement Learning for the LLM based ASR and TTS system](http://arxiv.org/abs/2509.18569v1)** |  | 2025-09-23 |  |
@@ -43,11 +44,11 @@ labels: documentation
 | **[MoTAS: MoE-Guided Feature Selection from TTS-Augmented Speech for Enhanced Multimodal Alzheimer's Early Screening](http://arxiv.org/abs/2508.20513v1)** |  | 2025-08-28 |  |
 | **[Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS](http://arxiv.org/abs/2508.14313v2)** |  | 2025-08-22 |  |
 | **[VisualSpeech: Enhancing Prosody Modeling in TTS Using Video](http://arxiv.org/abs/2501.19258v2)** |  | 2025-08-16 |  |
-| **[MoE-TTS: Enhancing Out-of-Domain Text Understanding for Description-based TTS via Mixture-of-Experts](http://arxiv.org/abs/2508.11326v1)** |  | 2025-08-15 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech](http://arxiv.org/abs/2506.02863v2)** |  | 2025-09-26 |  |
 | **[From Contrast to Commonality: Audio Commonality Captioning for Enhanced Audio-Text Cross-modal Understanding in Multimodal LLMs](http://arxiv.org/abs/2508.01659v2)** |  | 2025-09-22 |  |
 | **[Qwen3-Omni Technical Report](http://arxiv.org/abs/2509.17765v1)** |  | 2025-09-22 | <details><summary>https...</summary><p>https://github.com/QwenLM/Qwen3-Omni</p></details> |
 | **[Enhancing Speech Large Language Models with Prompt-Aware Mixture of Audio Encoders](http://arxiv.org/abs/2502.15178v3)** |  | 2025-09-19 | <details><summary>16 pa...</summary><p>16 pages,5 figures, 13 tables, to be published in EMNLP 2025 main
@@ -69,7 +70,6 @@ labels: documentation
 | **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](http://arxiv.org/abs/2508.03983v1)** |  | 2025-08-06 |  |
 | **[CatchPhrase: EXPrompt-Guided Encoder Adaptation for Audio-to-Image Generation](http://arxiv.org/abs/2507.18750v1)** |  | 2025-07-24 |  |
 | **[Multiple Choice Learning of Low Rank Adapters for Language Modeling](http://arxiv.org/abs/2507.10419v1)** |  | 2025-07-14 |  |
-| **[video-SALMONN 2: Captioning-Enhanced Audio-Visual Large Language Models](http://arxiv.org/abs/2506.15220v2)** |  | 2025-07-10 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
