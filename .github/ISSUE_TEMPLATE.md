@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 30, 2025
+title: Latest Papers - October 01, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech](http://arxiv.org/abs/2509.25131v1)** |  | 2025-09-29 | <details><summary>Code ...</summary><p>Code is available at https://github.com/dvlab-research/MGM-Omni</p></details> |
+| **[VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning](http://arxiv.org/abs/2509.24650v1)** |  | 2025-09-29 | Technical Report |
+| **[Word-Level Emotional Expression Control in Zero-Shot Text-to-Speech Synthesis](http://arxiv.org/abs/2509.24629v1)** |  | 2025-09-29 |  |
+| **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v2)** |  | 2025-09-29 |  |
+| **[UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities](http://arxiv.org/abs/2509.24391v1)** |  | 2025-09-29 | <details><summary>Proje...</summary><p>Project page: https://wsntxxn.github.io/uniflow_audio</p></details> |
+| **[Sidon: Fast and Robust Open-Source Multilingual Speech Restoration for Large-scale Dataset Cleansing](http://arxiv.org/abs/2509.17052v2)** |  | 2025-09-29 | 5 pages, 1 figures |
+| **[Generalizable Speech Deepfake Detection via Information Bottleneck Enhanced Adversarial Alignment](http://arxiv.org/abs/2509.23618v1)** |  | 2025-09-28 |  |
 | **[CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech](http://arxiv.org/abs/2506.02863v2)** |  | 2025-09-26 |  |
 | **[Speaker Anonymisation for Speech-based Suicide Risk Detection](http://arxiv.org/abs/2509.22148v1)** |  | 2025-09-26 |  |
 | **[Comprehend and Talk: Text to Speech Synthesis via Dual Language Modeling](http://arxiv.org/abs/2509.22062v1)** |  | 2025-09-26 | <details><summary>confe...</summary><p>conference paper about TTS</p></details> |
@@ -16,20 +23,15 @@ labels: documentation
 | **[CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance](http://arxiv.org/abs/2509.19883v1)** |  | 2025-09-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 5 tables</p></details> |
 | **[Efficient Speech Watermarking for Speech Synthesis via Progressive Knowledge Distillation](http://arxiv.org/abs/2509.19812v1)** |  | 2025-09-24 | <details><summary>6 pag...</summary><p>6 pages of main text, 1 page of references, 2 figures, 2 tables,
   accepted at ASRU 2025</p></details> |
-| **[Selective Classifier-free Guidance for Zero-shot Text-to-speech](http://arxiv.org/abs/2509.19668v1)** |  | 2025-09-24 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, 1 table. Submitted to ICASSP 2026</p></details> |
-| **[SupertonicTTS: Towards Highly Efficient and Streamlined Text-to-Speech System](http://arxiv.org/abs/2503.23108v3)** |  | 2025-09-23 | 22 pages, preprint |
-| **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](http://arxiv.org/abs/2509.19001v1)** |  | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted to ICASSP2026</p></details> |
-| **[OpenOmni: Advancing Open-Source Omnimodal Large Language Models with Progressive Multimodal Alignment and Real-Time Self-Aware Emotional Speech Synthesis](http://arxiv.org/abs/2501.04561v6)** |  | 2025-09-23 |  |
-| **[Discrete-time diffusion-like models for speech synthesis](http://arxiv.org/abs/2509.18470v1)** |  | 2025-09-22 |  |
-| **[TMD-TTS: A Unified Tibetan Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation](http://arxiv.org/abs/2509.18060v1)** |  | 2025-09-22 |  |
-| **[Sidon: Fast and Robust Open-Source Multilingual Speech Restoration for Large-scale Dataset Cleansing](http://arxiv.org/abs/2509.17052v1)** |  | 2025-09-21 | 5 pages, 1 figures |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning](http://arxiv.org/abs/2509.24650v1)** |  | 2025-09-29 | Technical Report |
 | **[SPADE: Structured Pruning and Adaptive Distillation for Efficient LLM-TTS](http://arxiv.org/abs/2509.20802v2)** |  | 2025-09-26 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[Align2Speak: Improving TTS for Low Resource Languages via ASR-Guided Online Preference Optimization](http://arxiv.org/abs/2509.21718v1)** |  | 2025-09-26 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[Facilitating Personalized TTS for Dysarthric Speakers Using Knowledge Anchoring and Curriculum Learning](http://arxiv.org/abs/2508.10412v2)** |  | 2025-09-25 | Interspeech 2025 |
+| **[DiaMoE-TTS: A Unified IPA-Based Dialect TTS Framework with Mixture-of-Experts and Parameter-Efficient Zero-Shot Adaptation](http://arxiv.org/abs/2509.22727v1)** |  | 2025-09-25 | 5 pages, 2 figures |
 | **[Eliminating stability hallucinations in llm-based tts models via attention guidance](http://arxiv.org/abs/2509.19852v1)** |  | 2025-09-24 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP2026</p></details> |
 | **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](http://arxiv.org/abs/2509.19001v1)** |  | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted to ICASSP2026</p></details> |
 | **[Explore the Reinforcement Learning for the LLM based ASR and TTS system](http://arxiv.org/abs/2509.18569v1)** |  | 2025-09-23 |  |
@@ -42,12 +44,11 @@ labels: documentation
   here: https://rosielab.github.io/clear_speech/ Code here:
   https://github.com/chocobearz/Matcha-TTS-L2-clarity</p></details> |
 | **[MoTAS: MoE-Guided Feature Selection from TTS-Augmented Speech for Enhanced Multimodal Alzheimer's Early Screening](http://arxiv.org/abs/2508.20513v1)** |  | 2025-08-28 |  |
-| **[Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS](http://arxiv.org/abs/2508.14313v2)** |  | 2025-08-22 |  |
-| **[VisualSpeech: Enhancing Prosody Modeling in TTS Using Video](http://arxiv.org/abs/2501.19258v2)** |  | 2025-08-16 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[When Audio Generators Become Good Listeners: Generative Features for Understanding Tasks](http://arxiv.org/abs/2509.24635v1)** |  | 2025-09-29 |  |
 | **[CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech](http://arxiv.org/abs/2506.02863v2)** |  | 2025-09-26 |  |
 | **[From Contrast to Commonality: Audio Commonality Captioning for Enhanced Audio-Text Cross-modal Understanding in Multimodal LLMs](http://arxiv.org/abs/2508.01659v2)** |  | 2025-09-22 |  |
 | **[Qwen3-Omni Technical Report](http://arxiv.org/abs/2509.17765v1)** |  | 2025-09-22 | <details><summary>https...</summary><p>https://github.com/QwenLM/Qwen3-Omni</p></details> |
@@ -69,18 +70,18 @@ labels: documentation
   submitted to any journal/conference</p></details> |
 | **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](http://arxiv.org/abs/2508.03983v1)** |  | 2025-08-06 |  |
 | **[CatchPhrase: EXPrompt-Guided Encoder Adaptation for Audio-to-Image Generation](http://arxiv.org/abs/2507.18750v1)** |  | 2025-07-24 |  |
-| **[Multiple Choice Learning of Low Rank Adapters for Language Modeling](http://arxiv.org/abs/2507.10419v1)** |  | 2025-07-14 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v2)** |  | 2025-09-29 |  |
+| **[DM-Codec: Distilling Multimodal Representations for Speech Tokenization](http://arxiv.org/abs/2410.15017v2)** |  | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
 | **[UniSS: Unified Expressive Speech-to-Speech Translation with Your Voice](http://arxiv.org/abs/2509.21144v1)** |  | 2025-09-25 |  |
 | **[Speech Language Models for Under-Represented Languages: Insights from Wolof](http://arxiv.org/abs/2509.15362v2)** |  | 2025-09-25 |  |
 | **[HarmoniFuse: A Component-Selective and Prompt-Adaptive Framework for Multi-Task Speech Language Modeling](http://arxiv.org/abs/2509.18570v1)** |  | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages; submitted to ICASSP 2026</p></details> |
 | **[Layer-wise Minimal Pair Probing Reveals Contextual Grammatical-Conceptual Hierarchy in Speech Representations](http://arxiv.org/abs/2509.15655v1)** |  | 2025-09-19 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference (Oral)</p></details> |
 | **[Llama-Mimi: Speech Language Models with Interleaved Semantic and Acoustic Tokens](http://arxiv.org/abs/2509.14882v1)** |  | 2025-09-18 | 5 pages, 1 figures |
 | **[Summary on The Multilingual Conversational Speech Language Model Challenge: Datasets, Tasks, Baselines, and Methods](http://arxiv.org/abs/2509.13785v1)** |  | 2025-09-17 |  |
-| **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v1)** |  | 2025-09-14 |  |
 | **[Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding](http://arxiv.org/abs/2509.04685v1)** |  | 2025-09-04 |  |
 | **[An Empirical Analysis of Discrete Unit Representations in Speech Language Modeling Pre-training](http://arxiv.org/abs/2509.05359v1)** |  | 2025-09-03 | <details><summary>Publi...</summary><p>Published in International Conference on Text, Speech, and Dialogue,
   13-24</p></details> |
@@ -89,4 +90,3 @@ labels: documentation
 | **[CodecBench: A Comprehensive Benchmark for Acoustic and Semantic Evaluation](http://arxiv.org/abs/2508.20660v1)** |  | 2025-08-28 |  |
 | **[FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing](http://arxiv.org/abs/2505.01263v2)** |  | 2025-08-25 |  |
 | **[TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling](http://arxiv.org/abs/2508.16790v1)** |  | 2025-08-22 |  |
-| **[LLaSO: A Foundational Framework for Reproducible Research in Large Language and Speech Model](http://arxiv.org/abs/2508.15418v1)** |  | 2025-08-21 |  |
