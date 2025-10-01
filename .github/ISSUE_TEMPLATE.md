@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 01, 2025
+title: Latest Papers - October 02, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs](http://arxiv.org/abs/2509.26514v1)** |  | 2025-09-30 |  |
+| **[HiStyle: Hierarchical Style Embedding Predictor for Text-Prompt-Guided Controllable Speech Synthesis](http://arxiv.org/abs/2509.25842v1)** |  | 2025-09-30 |  |
+| **[LTA-L2S: Lexical Tone-Aware Lip-to-Speech Synthesis for Mandarin with Cross-Lingual Transfer Learning](http://arxiv.org/abs/2509.25670v1)** |  | 2025-09-30 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech](http://arxiv.org/abs/2509.25131v1)** |  | 2025-09-29 | <details><summary>Code ...</summary><p>Code is available at https://github.com/dvlab-research/MGM-Omni</p></details> |
 | **[VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning](http://arxiv.org/abs/2509.24650v1)** |  | 2025-09-29 | Technical Report |
 | **[Word-Level Emotional Expression Control in Zero-Shot Text-to-Speech Synthesis](http://arxiv.org/abs/2509.24629v1)** |  | 2025-09-29 |  |
@@ -19,10 +22,6 @@ labels: documentation
 | **[Comprehend and Talk: Text to Speech Synthesis via Dual Language Modeling](http://arxiv.org/abs/2509.22062v1)** |  | 2025-09-26 | <details><summary>confe...</summary><p>conference paper about TTS</p></details> |
 | **[Facilitating Personalized TTS for Dysarthric Speakers Using Knowledge Anchoring and Curriculum Learning](http://arxiv.org/abs/2508.10412v2)** |  | 2025-09-25 | Interspeech 2025 |
 | **[UDDETTS: Unifying Discrete and Dimensional Emotions for Controllable Emotional Text-to-Speech](http://arxiv.org/abs/2505.10599v2)** |  | 2025-09-25 | Under review |
-| **[Objective Evaluation of Prosody and Intelligibility in Speech Synthesis via Conditional Prediction of Discrete Tokens](http://arxiv.org/abs/2509.20485v1)** |  | 2025-09-24 | <details><summary>Under...</summary><p>Under review for IEEE OJSP</p></details> |
-| **[CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance](http://arxiv.org/abs/2509.19883v1)** |  | 2025-09-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 5 tables</p></details> |
-| **[Efficient Speech Watermarking for Speech Synthesis via Progressive Knowledge Distillation](http://arxiv.org/abs/2509.19812v1)** |  | 2025-09-24 | <details><summary>6 pag...</summary><p>6 pages of main text, 1 page of references, 2 figures, 2 tables,
-  accepted at ASRU 2025</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -74,6 +73,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Optimizing Speech Language Models for Acoustic Consistency](http://arxiv.org/abs/2509.26276v1)** |  | 2025-09-30 |  |
 | **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v2)** |  | 2025-09-29 |  |
 | **[DM-Codec: Distilling Multimodal Representations for Speech Tokenization](http://arxiv.org/abs/2410.15017v2)** |  | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
 | **[UniSS: Unified Expressive Speech-to-Speech Translation with Your Voice](http://arxiv.org/abs/2509.21144v1)** |  | 2025-09-25 |  |
@@ -89,4 +89,3 @@ labels: documentation
 | **[Entropy-based Coarse and Compressed Semantic Speech Representation Learning](http://arxiv.org/abs/2509.00503v1)** |  | 2025-08-30 |  |
 | **[CodecBench: A Comprehensive Benchmark for Acoustic and Semantic Evaluation](http://arxiv.org/abs/2508.20660v1)** |  | 2025-08-28 |  |
 | **[FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing](http://arxiv.org/abs/2505.01263v2)** |  | 2025-08-25 |  |
-| **[TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling](http://arxiv.org/abs/2508.16790v1)** |  | 2025-08-22 |  |
