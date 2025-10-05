@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 03, 2025
+title: Latest Papers - October 06, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -73,6 +73,8 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates](http://arxiv.org/abs/2510.00981v2)** |  | 2025-10-02 |  |
+| **[Backdoor Attacks Against Speech Language Models](http://arxiv.org/abs/2510.01157v1)** |  | 2025-10-01 |  |
 | **[Optimizing Speech Language Models for Acoustic Consistency](http://arxiv.org/abs/2509.26276v1)** |  | 2025-09-30 |  |
 | **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v2)** |  | 2025-09-29 |  |
 | **[DM-Codec: Distilling Multimodal Representations for Speech Tokenization](http://arxiv.org/abs/2410.15017v2)** |  | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
@@ -87,5 +89,3 @@ labels: documentation
   13-24</p></details> |
 | **[OSUM-EChat: Enhancing End-to-End Empathetic Spoken Chatbot via Understanding-Driven Spoken Dialogue](http://arxiv.org/abs/2508.09600v2)** |  | 2025-09-03 |  |
 | **[Entropy-based Coarse and Compressed Semantic Speech Representation Learning](http://arxiv.org/abs/2509.00503v1)** |  | 2025-08-30 |  |
-| **[CodecBench: A Comprehensive Benchmark for Acoustic and Semantic Evaluation](http://arxiv.org/abs/2508.20660v1)** |  | 2025-08-28 |  |
-| **[FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing](http://arxiv.org/abs/2505.01263v2)** |  | 2025-08-25 |  |
