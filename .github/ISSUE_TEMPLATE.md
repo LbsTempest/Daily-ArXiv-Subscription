@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 06, 2025
+title: Latest Papers - October 07, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation](http://arxiv.org/abs/2504.20629v2)** |  | 2025-10-03 | ACM Multimedia 2025 |
 | **[BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs](http://arxiv.org/abs/2509.26514v1)** |  | 2025-09-30 |  |
 | **[HiStyle: Hierarchical Style Embedding Predictor for Text-Prompt-Guided Controllable Speech Synthesis](http://arxiv.org/abs/2509.25842v1)** |  | 2025-09-30 |  |
 | **[LTA-L2S: Lexical Tone-Aware Lip-to-Speech Synthesis for Mandarin with Cross-Lingual Transfer Learning](http://arxiv.org/abs/2509.25670v1)** |  | 2025-09-30 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
@@ -20,8 +21,7 @@ labels: documentation
 | **[CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech](http://arxiv.org/abs/2506.02863v2)** |  | 2025-09-26 |  |
 | **[Speaker Anonymisation for Speech-based Suicide Risk Detection](http://arxiv.org/abs/2509.22148v1)** |  | 2025-09-26 |  |
 | **[Comprehend and Talk: Text to Speech Synthesis via Dual Language Modeling](http://arxiv.org/abs/2509.22062v1)** |  | 2025-09-26 | <details><summary>confe...</summary><p>conference paper about TTS</p></details> |
-| **[Facilitating Personalized TTS for Dysarthric Speakers Using Knowledge Anchoring and Curriculum Learning](http://arxiv.org/abs/2508.10412v2)** |  | 2025-09-25 | Interspeech 2025 |
-| **[UDDETTS: Unifying Discrete and Dimensional Emotions for Controllable Emotional Text-to-Speech](http://arxiv.org/abs/2505.10599v2)** |  | 2025-09-25 | Under review |
+| **[KAME: Tandem Architecture for Enhancing Knowledge in Real-Time Speech-to-Speech Conversational AI](http://arxiv.org/abs/2510.02327v1)** |  | 2025-09-26 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -47,6 +47,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Taming Text-to-Sounding Video Generation via Advanced Modality Condition and Interaction](http://arxiv.org/abs/2510.03117v1)** |  | 2025-10-03 |  |
 | **[When Audio Generators Become Good Listeners: Generative Features for Understanding Tasks](http://arxiv.org/abs/2509.24635v1)** |  | 2025-09-29 |  |
 | **[CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech](http://arxiv.org/abs/2506.02863v2)** |  | 2025-09-26 |  |
 | **[From Contrast to Commonality: Audio Commonality Captioning for Enhanced Audio-Text Cross-modal Understanding in Multimodal LLMs](http://arxiv.org/abs/2508.01659v2)** |  | 2025-09-22 |  |
@@ -68,7 +69,6 @@ labels: documentation
 | **[Auditory Intelligence: Understanding the World Through Sound](http://arxiv.org/abs/2508.07829v1)** |  | 2025-08-11 | <details><summary>Posit...</summary><p>Position paper without experimental/quantitative validation. Not
   submitted to any journal/conference</p></details> |
 | **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](http://arxiv.org/abs/2508.03983v1)** |  | 2025-08-06 |  |
-| **[CatchPhrase: EXPrompt-Guided Encoder Adaptation for Audio-to-Image Generation](http://arxiv.org/abs/2507.18750v1)** |  | 2025-07-24 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
