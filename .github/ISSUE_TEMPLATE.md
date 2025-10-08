@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 08, 2025
+title: Latest Papers - October 09, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[ECTSpeech: Enhancing Efficient Speech Synthesis via Easy Consistency Tuning](http://arxiv.org/abs/2510.05984v1)** |  | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted for publication by Proceedings of the 2025 ACM Multimedia
+  Asia Conference(MMAsia '25)</p></details> |
+| **[Sparse deepfake detection promotes better disentanglement](http://arxiv.org/abs/2510.05696v1)** |  | 2025-10-07 |  |
 | **[Paper2Video: Automatic Video Generation from Scientific Papers](http://arxiv.org/abs/2510.05096v1)** |  | 2025-10-06 | 20 pages, 8 figures |
 | **[AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation](http://arxiv.org/abs/2504.20629v2)** |  | 2025-10-03 | ACM Multimedia 2025 |
 | **[BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs](http://arxiv.org/abs/2509.26514v1)** |  | 2025-09-30 |  |
@@ -20,12 +23,11 @@ labels: documentation
 | **[Sidon: Fast and Robust Open-Source Multilingual Speech Restoration for Large-scale Dataset Cleansing](http://arxiv.org/abs/2509.17052v2)** |  | 2025-09-29 | 5 pages, 1 figures |
 | **[Generalizable Speech Deepfake Detection via Information Bottleneck Enhanced Adversarial Alignment](http://arxiv.org/abs/2509.23618v1)** |  | 2025-09-28 |  |
 | **[CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech](http://arxiv.org/abs/2506.02863v2)** |  | 2025-09-26 |  |
-| **[Speaker Anonymisation for Speech-based Suicide Risk Detection](http://arxiv.org/abs/2509.22148v1)** |  | 2025-09-26 |  |
-| **[Comprehend and Talk: Text to Speech Synthesis via Dual Language Modeling](http://arxiv.org/abs/2509.22062v1)** |  | 2025-09-26 | <details><summary>confe...</summary><p>conference paper about TTS</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[EMORL-TTS: Reinforcement Learning for Fine-Grained Emotion Control in LLM-based TTS](http://arxiv.org/abs/2510.05758v1)** |  | 2025-10-07 | <details><summary>Under...</summary><p>Under review for ICASSP 2026</p></details> |
 | **[Speak, Edit, Repeat: High-Fidelity Voice Editing and Zero-Shot TTS with Cross-Attentive Mamba](http://arxiv.org/abs/2510.04738v1)** |  | 2025-10-06 |  |
 | **[UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models](http://arxiv.org/abs/2510.04593v1)** |  | 2025-10-06 |  |
 | **[VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning](http://arxiv.org/abs/2509.24650v1)** |  | 2025-09-29 | Technical Report |
@@ -40,7 +42,6 @@ labels: documentation
 | **[Bridging the gap between training and inference in LM-based TTS models](http://arxiv.org/abs/2509.17021v1)** |  | 2025-09-21 | 5 pages, 4 figures |
 | **[DiTReducio: A Training-Free Acceleration for DiT-Based TTS via Progressive Calibration](http://arxiv.org/abs/2509.09748v1)** |  | 2025-09-11 |  |
 | **[LatinX: Aligning a Multilingual TTS Model with Direct Preference Optimization](http://arxiv.org/abs/2509.05863v1)** |  | 2025-09-06 |  |
-| **[Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets](http://arxiv.org/abs/2508.15442v3)** |  | 2025-09-05 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Main Conference (Oral)</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
