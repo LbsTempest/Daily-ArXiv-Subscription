@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 09, 2025
+title: Latest Papers - October 10, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Making Machines Sound Sarcastic: LLM-Enhanced and Retrieval-Guided Sarcastic Speech Synthesis](http://arxiv.org/abs/2510.07096v1)** |  | 2025-10-08 |  |
+| **[XLSR-Kanformer: A KAN-Intergrated model for Synthetic Speech Detection](http://arxiv.org/abs/2510.06706v1)** |  | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE International Conference on Advanced Video and
+  Signal-Based Surveillance</p></details> |
 | **[ECTSpeech: Enhancing Efficient Speech Synthesis via Easy Consistency Tuning](http://arxiv.org/abs/2510.05984v1)** |  | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted for publication by Proceedings of the 2025 ACM Multimedia
   Asia Conference(MMAsia '25)</p></details> |
 | **[Sparse deepfake detection promotes better disentanglement](http://arxiv.org/abs/2510.05696v1)** |  | 2025-10-07 |  |
@@ -21,8 +24,6 @@ labels: documentation
 | **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v2)** |  | 2025-09-29 |  |
 | **[UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities](http://arxiv.org/abs/2509.24391v1)** |  | 2025-09-29 | <details><summary>Proje...</summary><p>Project page: https://wsntxxn.github.io/uniflow_audio</p></details> |
 | **[Sidon: Fast and Robust Open-Source Multilingual Speech Restoration for Large-scale Dataset Cleansing](http://arxiv.org/abs/2509.17052v2)** |  | 2025-09-29 | 5 pages, 1 figures |
-| **[Generalizable Speech Deepfake Detection via Information Bottleneck Enhanced Adversarial Alignment](http://arxiv.org/abs/2509.23618v1)** |  | 2025-09-28 |  |
-| **[CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech](http://arxiv.org/abs/2506.02863v2)** |  | 2025-09-26 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
