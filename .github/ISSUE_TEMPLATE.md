@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 10, 2025
+title: Latest Papers - October 14, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,13 +7,14 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Paper2Video: Automatic Video Generation from Scientific Papers](http://arxiv.org/abs/2510.05096v2)** |  | 2025-10-09 | <details><summary>Proje...</summary><p>Project Page: https://showlab.github.io/Paper2Video/</p></details> |
+| **[IntMeanFlow: Few-step Speech Generation with Integral Velocity Distillation](http://arxiv.org/abs/2510.07979v1)** |  | 2025-10-09 |  |
 | **[Making Machines Sound Sarcastic: LLM-Enhanced and Retrieval-Guided Sarcastic Speech Synthesis](http://arxiv.org/abs/2510.07096v1)** |  | 2025-10-08 |  |
 | **[XLSR-Kanformer: A KAN-Intergrated model for Synthetic Speech Detection](http://arxiv.org/abs/2510.06706v1)** |  | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE International Conference on Advanced Video and
   Signal-Based Surveillance</p></details> |
 | **[ECTSpeech: Enhancing Efficient Speech Synthesis via Easy Consistency Tuning](http://arxiv.org/abs/2510.05984v1)** |  | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted for publication by Proceedings of the 2025 ACM Multimedia
   Asia Conference(MMAsia '25)</p></details> |
 | **[Sparse deepfake detection promotes better disentanglement](http://arxiv.org/abs/2510.05696v1)** |  | 2025-10-07 |  |
-| **[Paper2Video: Automatic Video Generation from Scientific Papers](http://arxiv.org/abs/2510.05096v1)** |  | 2025-10-06 | 20 pages, 8 figures |
 | **[AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation](http://arxiv.org/abs/2504.20629v2)** |  | 2025-10-03 | ACM Multimedia 2025 |
 | **[BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs](http://arxiv.org/abs/2509.26514v1)** |  | 2025-09-30 |  |
 | **[HiStyle: Hierarchical Style Embedding Predictor for Text-Prompt-Guided Controllable Speech Synthesis](http://arxiv.org/abs/2509.25842v1)** |  | 2025-09-30 |  |
@@ -23,7 +24,6 @@ labels: documentation
 | **[Word-Level Emotional Expression Control in Zero-Shot Text-to-Speech Synthesis](http://arxiv.org/abs/2509.24629v1)** |  | 2025-09-29 |  |
 | **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v2)** |  | 2025-09-29 |  |
 | **[UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities](http://arxiv.org/abs/2509.24391v1)** |  | 2025-09-29 | <details><summary>Proje...</summary><p>Project page: https://wsntxxn.github.io/uniflow_audio</p></details> |
-| **[Sidon: Fast and Robust Open-Source Multilingual Speech Restoration for Large-scale Dataset Cleansing](http://arxiv.org/abs/2509.17052v2)** |  | 2025-09-29 | 5 pages, 1 figures |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -73,6 +73,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[VoiceAgentBench: Are Voice Assistants ready for agentic tasks?](http://arxiv.org/abs/2510.07978v1)** |  | 2025-10-09 |  |
 | **[FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates](http://arxiv.org/abs/2510.00981v2)** |  | 2025-10-02 |  |
 | **[Backdoor Attacks Against Speech Language Models](http://arxiv.org/abs/2510.01157v1)** |  | 2025-10-01 |  |
 | **[Optimizing Speech Language Models for Acoustic Consistency](http://arxiv.org/abs/2509.26276v1)** |  | 2025-09-30 |  |
@@ -88,4 +89,3 @@ labels: documentation
 | **[An Empirical Analysis of Discrete Unit Representations in Speech Language Modeling Pre-training](http://arxiv.org/abs/2509.05359v1)** |  | 2025-09-03 | <details><summary>Publi...</summary><p>Published in International Conference on Text, Speech, and Dialogue,
   13-24</p></details> |
 | **[OSUM-EChat: Enhancing End-to-End Empathetic Spoken Chatbot via Understanding-Driven Spoken Dialogue](http://arxiv.org/abs/2508.09600v2)** |  | 2025-09-03 |  |
-| **[Entropy-based Coarse and Compressed Semantic Speech Representation Learning](http://arxiv.org/abs/2509.00503v1)** |  | 2025-08-30 |  |
