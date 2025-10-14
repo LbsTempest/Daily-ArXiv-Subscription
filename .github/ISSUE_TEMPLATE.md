@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 14, 2025
+title: Latest Papers - October 15, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis](http://arxiv.org/abs/2510.11646v1)** |  | 2025-10-13 |  |
+| **[Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker](http://arxiv.org/abs/2510.11124v1)** |  | 2025-10-13 | <details><summary>Submi...</summary><p>Submitted to Expert Systems with Applications,11 pages</p></details> |
+| **[Discrete-Time Diffusion-Like Models for Speech Synthesis](http://arxiv.org/abs/2509.18470v2)** |  | 2025-10-13 |  |
+| **[ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](http://arxiv.org/abs/2510.10774v1)** |  | 2025-10-12 |  |
 | **[Paper2Video: Automatic Video Generation from Scientific Papers](http://arxiv.org/abs/2510.05096v2)** |  | 2025-10-09 | <details><summary>Proje...</summary><p>Project Page: https://showlab.github.io/Paper2Video/</p></details> |
 | **[IntMeanFlow: Few-step Speech Generation with Integral Velocity Distillation](http://arxiv.org/abs/2510.07979v1)** |  | 2025-10-09 |  |
 | **[Making Machines Sound Sarcastic: LLM-Enhanced and Retrieval-Guided Sarcastic Speech Synthesis](http://arxiv.org/abs/2510.07096v1)** |  | 2025-10-08 |  |
@@ -20,14 +24,11 @@ labels: documentation
 | **[HiStyle: Hierarchical Style Embedding Predictor for Text-Prompt-Guided Controllable Speech Synthesis](http://arxiv.org/abs/2509.25842v1)** |  | 2025-09-30 |  |
 | **[LTA-L2S: Lexical Tone-Aware Lip-to-Speech Synthesis for Mandarin with Cross-Lingual Transfer Learning](http://arxiv.org/abs/2509.25670v1)** |  | 2025-09-30 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech](http://arxiv.org/abs/2509.25131v1)** |  | 2025-09-29 | <details><summary>Code ...</summary><p>Code is available at https://github.com/dvlab-research/MGM-Omni</p></details> |
-| **[VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning](http://arxiv.org/abs/2509.24650v1)** |  | 2025-09-29 | Technical Report |
-| **[Word-Level Emotional Expression Control in Zero-Shot Text-to-Speech Synthesis](http://arxiv.org/abs/2509.24629v1)** |  | 2025-09-29 |  |
-| **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v2)** |  | 2025-09-29 |  |
-| **[UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities](http://arxiv.org/abs/2509.24391v1)** |  | 2025-09-29 | <details><summary>Proje...</summary><p>Project page: https://wsntxxn.github.io/uniflow_audio</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker](http://arxiv.org/abs/2510.11124v1)** |  | 2025-10-13 | <details><summary>Submi...</summary><p>Submitted to Expert Systems with Applications,11 pages</p></details> |
 | **[EMORL-TTS: Reinforcement Learning for Fine-Grained Emotion Control in LLM-based TTS](http://arxiv.org/abs/2510.05758v1)** |  | 2025-10-07 | <details><summary>Under...</summary><p>Under review for ICASSP 2026</p></details> |
 | **[Speak, Edit, Repeat: High-Fidelity Voice Editing and Zero-Shot TTS with Cross-Attentive Mamba](http://arxiv.org/abs/2510.04738v1)** |  | 2025-10-06 |  |
 | **[UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models](http://arxiv.org/abs/2510.04593v1)** |  | 2025-10-06 |  |
@@ -42,11 +43,11 @@ labels: documentation
 | **[No Verifiable Reward for Prosody: Toward Preference-Guided Prosody Learning in TTS](http://arxiv.org/abs/2509.18531v1)** |  | 2025-09-23 | <details><summary>submi...</summary><p>submitted to ICASSP 2026</p></details> |
 | **[Bridging the gap between training and inference in LM-based TTS models](http://arxiv.org/abs/2509.17021v1)** |  | 2025-09-21 | 5 pages, 4 figures |
 | **[DiTReducio: A Training-Free Acceleration for DiT-Based TTS via Progressive Calibration](http://arxiv.org/abs/2509.09748v1)** |  | 2025-09-11 |  |
-| **[LatinX: Aligning a Multilingual TTS Model with Direct Preference Optimization](http://arxiv.org/abs/2509.05863v1)** |  | 2025-09-06 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Diffusion-Link: Diffusion Probabilistic Model for Bridging the Audio-Text Modality Gap](http://arxiv.org/abs/2510.11330v1)** |  | 2025-10-13 | <details><summary>5 pag...</summary><p>5 pages. Submitted to IEEE ICASSP 2026</p></details> |
 | **[AURA Score: A Metric For Holistic Audio Question Answering Evaluation](http://arxiv.org/abs/2510.04934v1)** |  | 2025-10-06 |  |
 | **[Taming Text-to-Sounding Video Generation via Advanced Modality Condition and Interaction](http://arxiv.org/abs/2510.03117v1)** |  | 2025-10-03 |  |
 | **[When Audio Generators Become Good Listeners: Generative Features for Understanding Tasks](http://arxiv.org/abs/2509.24635v1)** |  | 2025-09-29 |  |
@@ -67,8 +68,6 @@ labels: documentation
 | **[DIFFA: Large Language Diffusion Models Can Listen and Understand](http://arxiv.org/abs/2507.18452v2)** |  | 2025-08-21 |  |
 | **[CLAIR-A: Leveraging Large Language Models to Judge Audio Captions](http://arxiv.org/abs/2409.12962v2)** |  | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted to ASRU 2025; Code is publicly available at
   https://github.com/DavidMChan/clair-a</p></details> |
-| **[Auditory Intelligence: Understanding the World Through Sound](http://arxiv.org/abs/2508.07829v1)** |  | 2025-08-11 | <details><summary>Posit...</summary><p>Position paper without experimental/quantitative validation. Not
-  submitted to any journal/conference</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
