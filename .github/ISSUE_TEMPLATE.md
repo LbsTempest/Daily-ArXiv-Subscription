@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 15, 2025
+title: Latest Papers - October 16, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,10 +7,10 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](http://arxiv.org/abs/2510.10774v2)** |  | 2025-10-14 |  |
 | **[BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis](http://arxiv.org/abs/2510.11646v1)** |  | 2025-10-13 |  |
 | **[Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker](http://arxiv.org/abs/2510.11124v1)** |  | 2025-10-13 | <details><summary>Submi...</summary><p>Submitted to Expert Systems with Applications,11 pages</p></details> |
 | **[Discrete-Time Diffusion-Like Models for Speech Synthesis](http://arxiv.org/abs/2509.18470v2)** |  | 2025-10-13 |  |
-| **[ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](http://arxiv.org/abs/2510.10774v1)** |  | 2025-10-12 |  |
 | **[Paper2Video: Automatic Video Generation from Scientific Papers](http://arxiv.org/abs/2510.05096v2)** |  | 2025-10-09 | <details><summary>Proje...</summary><p>Project Page: https://showlab.github.io/Paper2Video/</p></details> |
 | **[IntMeanFlow: Few-step Speech Generation with Integral Velocity Distillation](http://arxiv.org/abs/2510.07979v1)** |  | 2025-10-09 |  |
 | **[Making Machines Sound Sarcastic: LLM-Enhanced and Retrieval-Guided Sarcastic Speech Synthesis](http://arxiv.org/abs/2510.07096v1)** |  | 2025-10-08 |  |
@@ -47,6 +47,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception](http://arxiv.org/abs/2510.12720v1)** |  | 2025-10-14 | <details><summary>https...</summary><p>https://github.com/ddlBoJack/Omni-Captioner</p></details> |
 | **[Diffusion-Link: Diffusion Probabilistic Model for Bridging the Audio-Text Modality Gap](http://arxiv.org/abs/2510.11330v1)** |  | 2025-10-13 | <details><summary>5 pag...</summary><p>5 pages. Submitted to IEEE ICASSP 2026</p></details> |
 | **[AURA Score: A Metric For Holistic Audio Question Answering Evaluation](http://arxiv.org/abs/2510.04934v1)** |  | 2025-10-06 |  |
 | **[Taming Text-to-Sounding Video Generation via Advanced Modality Condition and Interaction](http://arxiv.org/abs/2510.03117v1)** |  | 2025-10-03 |  |
@@ -66,12 +67,11 @@ labels: documentation
 | **[Soundscape Captioning using Sound Affective Quality Network and Large Language Model](http://arxiv.org/abs/2406.05914v3)** |  | 2025-08-25 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Multimedia, Code:
   https://github.com/Yuanbo2020/SoundSCaper</p></details> |
 | **[DIFFA: Large Language Diffusion Models Can Listen and Understand](http://arxiv.org/abs/2507.18452v2)** |  | 2025-08-21 |  |
-| **[CLAIR-A: Leveraging Large Language Models to Judge Audio Captions](http://arxiv.org/abs/2409.12962v2)** |  | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted to ASRU 2025; Code is publicly available at
-  https://github.com/DavidMChan/clair-a</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Understanding the Modality Gap: An Empirical Study on the Speech-Text Alignment Mechanism of Large Speech Language Models](http://arxiv.org/abs/2510.12116v1)** |  | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference)</p></details> |
 | **[VoiceAgentBench: Are Voice Assistants ready for agentic tasks?](http://arxiv.org/abs/2510.07978v1)** |  | 2025-10-09 |  |
 | **[FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates](http://arxiv.org/abs/2510.00981v2)** |  | 2025-10-02 |  |
 | **[Backdoor Attacks Against Speech Language Models](http://arxiv.org/abs/2510.01157v1)** |  | 2025-10-01 |  |
@@ -87,4 +87,3 @@ labels: documentation
 | **[Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding](http://arxiv.org/abs/2509.04685v1)** |  | 2025-09-04 |  |
 | **[An Empirical Analysis of Discrete Unit Representations in Speech Language Modeling Pre-training](http://arxiv.org/abs/2509.05359v1)** |  | 2025-09-03 | <details><summary>Publi...</summary><p>Published in International Conference on Text, Speech, and Dialogue,
   13-24</p></details> |
-| **[OSUM-EChat: Enhancing End-to-End Empathetic Spoken Chatbot via Understanding-Driven Spoken Dialogue](http://arxiv.org/abs/2508.09600v2)** |  | 2025-09-03 |  |
