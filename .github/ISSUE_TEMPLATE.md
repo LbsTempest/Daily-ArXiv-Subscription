@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 16, 2025
+title: Latest Papers - October 17, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Closing the Gap Between Text and Speech Understanding in LLMs](http://arxiv.org/abs/2510.13632v1)** |  | 2025-10-15 |  |
+| **[Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](http://arxiv.org/abs/2510.12995v1)** |  | 2025-10-14 |  |
 | **[ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](http://arxiv.org/abs/2510.10774v2)** |  | 2025-10-14 |  |
 | **[BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis](http://arxiv.org/abs/2510.11646v1)** |  | 2025-10-13 |  |
 | **[Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker](http://arxiv.org/abs/2510.11124v1)** |  | 2025-10-13 | <details><summary>Submi...</summary><p>Submitted to Expert Systems with Applications,11 pages</p></details> |
@@ -22,12 +24,12 @@ labels: documentation
 | **[AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation](http://arxiv.org/abs/2504.20629v2)** |  | 2025-10-03 | ACM Multimedia 2025 |
 | **[BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs](http://arxiv.org/abs/2509.26514v1)** |  | 2025-09-30 |  |
 | **[HiStyle: Hierarchical Style Embedding Predictor for Text-Prompt-Guided Controllable Speech Synthesis](http://arxiv.org/abs/2509.25842v1)** |  | 2025-09-30 |  |
-| **[LTA-L2S: Lexical Tone-Aware Lip-to-Speech Synthesis for Mandarin with Cross-Lingual Transfer Learning](http://arxiv.org/abs/2509.25670v1)** |  | 2025-09-30 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
-| **[MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech](http://arxiv.org/abs/2509.25131v1)** |  | 2025-09-29 | <details><summary>Code ...</summary><p>Code is available at https://github.com/dvlab-research/MGM-Omni</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models](http://arxiv.org/abs/2510.13293v1)** |  | 2025-10-15 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
+| **[Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](http://arxiv.org/abs/2510.12995v1)** |  | 2025-10-14 |  |
 | **[Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker](http://arxiv.org/abs/2510.11124v1)** |  | 2025-10-13 | <details><summary>Submi...</summary><p>Submitted to Expert Systems with Applications,11 pages</p></details> |
 | **[EMORL-TTS: Reinforcement Learning for Fine-Grained Emotion Control in LLM-based TTS](http://arxiv.org/abs/2510.05758v1)** |  | 2025-10-07 | <details><summary>Under...</summary><p>Under review for ICASSP 2026</p></details> |
 | **[Speak, Edit, Repeat: High-Fidelity Voice Editing and Zero-Shot TTS with Cross-Attentive Mamba](http://arxiv.org/abs/2510.04738v1)** |  | 2025-10-06 |  |
@@ -41,13 +43,15 @@ labels: documentation
 | **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](http://arxiv.org/abs/2509.19001v1)** |  | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted to ICASSP2026</p></details> |
 | **[Explore the Reinforcement Learning for the LLM based ASR and TTS system](http://arxiv.org/abs/2509.18569v1)** |  | 2025-09-23 |  |
 | **[No Verifiable Reward for Prosody: Toward Preference-Guided Prosody Learning in TTS](http://arxiv.org/abs/2509.18531v1)** |  | 2025-09-23 | <details><summary>submi...</summary><p>submitted to ICASSP 2026</p></details> |
-| **[Bridging the gap between training and inference in LM-based TTS models](http://arxiv.org/abs/2509.17021v1)** |  | 2025-09-21 | 5 pages, 4 figures |
-| **[DiTReducio: A Training-Free Acceleration for DiT-Based TTS via Progressive Calibration](http://arxiv.org/abs/2509.09748v1)** |  | 2025-09-11 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
 | **[Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception](http://arxiv.org/abs/2510.12720v1)** |  | 2025-10-14 | <details><summary>https...</summary><p>https://github.com/ddlBoJack/Omni-Captioner</p></details> |
+| **[Adaptive vector steering: A training-free, layer-wise intervention for hallucination mitigation in large audio and multimodal models](http://arxiv.org/abs/2510.12851v1)** |  | 2025-10-14 | <details><summary>Note:...</summary><p>Note: This preprint is a version of the paper submitted to ICASSP
+  2026. The author list here includes contributors who provided additional
+  supervision and guidance. The official ICASSP submission may differ slightly
+  in author composition</p></details> |
 | **[Diffusion-Link: Diffusion Probabilistic Model for Bridging the Audio-Text Modality Gap](http://arxiv.org/abs/2510.11330v1)** |  | 2025-10-13 | <details><summary>5 pag...</summary><p>5 pages. Submitted to IEEE ICASSP 2026</p></details> |
 | **[AURA Score: A Metric For Holistic Audio Question Answering Evaluation](http://arxiv.org/abs/2510.04934v1)** |  | 2025-10-06 |  |
 | **[Taming Text-to-Sounding Video Generation via Advanced Modality Condition and Interaction](http://arxiv.org/abs/2510.03117v1)** |  | 2025-10-03 |  |
@@ -66,11 +70,12 @@ labels: documentation
 | **[MQAD: A Large-Scale Question Answering Dataset for Training Music Large Language Models](http://arxiv.org/abs/2508.19514v1)** |  | 2025-08-27 |  |
 | **[Soundscape Captioning using Sound Affective Quality Network and Large Language Model](http://arxiv.org/abs/2406.05914v3)** |  | 2025-08-25 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Multimedia, Code:
   https://github.com/Yuanbo2020/SoundSCaper</p></details> |
-| **[DIFFA: Large Language Diffusion Models Can Listen and Understand](http://arxiv.org/abs/2507.18452v2)** |  | 2025-08-21 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations](http://arxiv.org/abs/2503.12115v2)** |  | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted by IEEE Journal of Selected Topics in Signal
+  Processing(JSTSP)</p></details> |
 | **[Understanding the Modality Gap: An Empirical Study on the Speech-Text Alignment Mechanism of Large Speech Language Models](http://arxiv.org/abs/2510.12116v1)** |  | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference)</p></details> |
 | **[VoiceAgentBench: Are Voice Assistants ready for agentic tasks?](http://arxiv.org/abs/2510.07978v1)** |  | 2025-10-09 |  |
 | **[FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates](http://arxiv.org/abs/2510.00981v2)** |  | 2025-10-02 |  |
@@ -85,5 +90,3 @@ labels: documentation
 | **[Llama-Mimi: Speech Language Models with Interleaved Semantic and Acoustic Tokens](http://arxiv.org/abs/2509.14882v1)** |  | 2025-09-18 | 5 pages, 1 figures |
 | **[Summary on The Multilingual Conversational Speech Language Model Challenge: Datasets, Tasks, Baselines, and Methods](http://arxiv.org/abs/2509.13785v1)** |  | 2025-09-17 |  |
 | **[Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding](http://arxiv.org/abs/2509.04685v1)** |  | 2025-09-04 |  |
-| **[An Empirical Analysis of Discrete Unit Representations in Speech Language Modeling Pre-training](http://arxiv.org/abs/2509.05359v1)** |  | 2025-09-03 | <details><summary>Publi...</summary><p>Published in International Conference on Text, Speech, and Dialogue,
-  13-24</p></details> |
