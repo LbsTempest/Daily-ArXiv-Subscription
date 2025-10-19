@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 17, 2025
+title: Latest Papers - October 20, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[RLAIF-SPA: Optimizing LLM-based Emotional Speech Synthesis via RLAIF](http://arxiv.org/abs/2510.14628v1)** |  | 2025-10-16 |  |
 | **[Closing the Gap Between Text and Speech Understanding in LLMs](http://arxiv.org/abs/2510.13632v1)** |  | 2025-10-15 |  |
 | **[Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](http://arxiv.org/abs/2510.12995v1)** |  | 2025-10-14 |  |
 | **[ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](http://arxiv.org/abs/2510.10774v2)** |  | 2025-10-14 |  |
@@ -23,7 +24,6 @@ labels: documentation
 | **[Sparse deepfake detection promotes better disentanglement](http://arxiv.org/abs/2510.05696v1)** |  | 2025-10-07 |  |
 | **[AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation](http://arxiv.org/abs/2504.20629v2)** |  | 2025-10-03 | ACM Multimedia 2025 |
 | **[BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs](http://arxiv.org/abs/2509.26514v1)** |  | 2025-09-30 |  |
-| **[HiStyle: Hierarchical Style Embedding Predictor for Text-Prompt-Guided Controllable Speech Synthesis](http://arxiv.org/abs/2509.25842v1)** |  | 2025-09-30 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -47,6 +47,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Do Joint Language-Audio Embeddings Encode Perceptual Timbre Semantics?](http://arxiv.org/abs/2510.14249v1)** |  | 2025-10-16 |  |
 | **[Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception](http://arxiv.org/abs/2510.12720v1)** |  | 2025-10-14 | <details><summary>https...</summary><p>https://github.com/ddlBoJack/Omni-Captioner</p></details> |
 | **[Adaptive vector steering: A training-free, layer-wise intervention for hallucination mitigation in large audio and multimodal models](http://arxiv.org/abs/2510.12851v1)** |  | 2025-10-14 | <details><summary>Note:...</summary><p>Note: This preprint is a version of the paper submitted to ICASSP
   2026. The author list here includes contributors who provided additional
@@ -68,12 +69,11 @@ labels: documentation
   Systems Engineering (WISE), scheduled for 15-17 December 2025 in Marrakech,
   Morocco</p></details> |
 | **[MQAD: A Large-Scale Question Answering Dataset for Training Music Large Language Models](http://arxiv.org/abs/2508.19514v1)** |  | 2025-08-27 |  |
-| **[Soundscape Captioning using Sound Affective Quality Network and Large Language Model](http://arxiv.org/abs/2406.05914v3)** |  | 2025-08-25 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Multimedia, Code:
-  https://github.com/Yuanbo2020/SoundSCaper</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SPIRIT: Patching Speech Language Models against Jailbreak Attacks](http://arxiv.org/abs/2505.13541v2)** |  | 2025-10-16 |  |
 | **[Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations](http://arxiv.org/abs/2503.12115v2)** |  | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted by IEEE Journal of Selected Topics in Signal
   Processing(JSTSP)</p></details> |
 | **[Understanding the Modality Gap: An Empirical Study on the Speech-Text Alignment Mechanism of Large Speech Language Models](http://arxiv.org/abs/2510.12116v1)** |  | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference)</p></details> |
@@ -89,4 +89,3 @@ labels: documentation
 | **[Layer-wise Minimal Pair Probing Reveals Contextual Grammatical-Conceptual Hierarchy in Speech Representations](http://arxiv.org/abs/2509.15655v1)** |  | 2025-09-19 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference (Oral)</p></details> |
 | **[Llama-Mimi: Speech Language Models with Interleaved Semantic and Acoustic Tokens](http://arxiv.org/abs/2509.14882v1)** |  | 2025-09-18 | 5 pages, 1 figures |
 | **[Summary on The Multilingual Conversational Speech Language Model Challenge: Datasets, Tasks, Baselines, and Methods](http://arxiv.org/abs/2509.13785v1)** |  | 2025-09-17 |  |
-| **[Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding](http://arxiv.org/abs/2509.04685v1)** |  | 2025-09-04 |  |
