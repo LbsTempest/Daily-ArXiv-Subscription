@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 20, 2025
+title: Latest Papers - October 21, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[DiEmo-TTS: Disentangled Emotion Representations via Self-Supervised Distillation for Cross-Speaker Emotion Transfer in Text-to-Speech](http://arxiv.org/abs/2505.19687v2)** |  | 2025-10-17 | <details><summary>Proce...</summary><p>Proceedings of Interspeech 2025</p></details> |
 | **[RLAIF-SPA: Optimizing LLM-based Emotional Speech Synthesis via RLAIF](http://arxiv.org/abs/2510.14628v1)** |  | 2025-10-16 |  |
 | **[Closing the Gap Between Text and Speech Understanding in LLMs](http://arxiv.org/abs/2510.13632v1)** |  | 2025-10-15 |  |
 | **[Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](http://arxiv.org/abs/2510.12995v1)** |  | 2025-10-14 |  |
@@ -23,7 +24,6 @@ labels: documentation
   Asia Conference(MMAsia '25)</p></details> |
 | **[Sparse deepfake detection promotes better disentanglement](http://arxiv.org/abs/2510.05696v1)** |  | 2025-10-07 |  |
 | **[AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation](http://arxiv.org/abs/2504.20629v2)** |  | 2025-10-03 | ACM Multimedia 2025 |
-| **[BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs](http://arxiv.org/abs/2509.26514v1)** |  | 2025-09-30 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
