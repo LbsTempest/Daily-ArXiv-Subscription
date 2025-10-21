@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 21, 2025
+title: Latest Papers - October 22, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[U-Codec: Ultra Low Frame-rate Neural Speech Codec for Fast High-fidelity Speech Generation](http://arxiv.org/abs/2510.16718v1)** |  | 2025-10-19 |  |
 | **[DiEmo-TTS: Disentangled Emotion Representations via Self-Supervised Distillation for Cross-Speaker Emotion Transfer in Text-to-Speech](http://arxiv.org/abs/2505.19687v2)** |  | 2025-10-17 | <details><summary>Proce...</summary><p>Proceedings of Interspeech 2025</p></details> |
 | **[RLAIF-SPA: Optimizing LLM-based Emotional Speech Synthesis via RLAIF](http://arxiv.org/abs/2510.14628v1)** |  | 2025-10-16 |  |
 | **[Closing the Gap Between Text and Speech Understanding in LLMs](http://arxiv.org/abs/2510.13632v1)** |  | 2025-10-15 |  |
@@ -23,11 +24,11 @@ labels: documentation
 | **[ECTSpeech: Enhancing Efficient Speech Synthesis via Easy Consistency Tuning](http://arxiv.org/abs/2510.05984v1)** |  | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted for publication by Proceedings of the 2025 ACM Multimedia
   Asia Conference(MMAsia '25)</p></details> |
 | **[Sparse deepfake detection promotes better disentanglement](http://arxiv.org/abs/2510.05696v1)** |  | 2025-10-07 |  |
-| **[AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation](http://arxiv.org/abs/2504.20629v2)** |  | 2025-10-03 | ACM Multimedia 2025 |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[HaTT: Hadamard avoiding TT recompression](http://arxiv.org/abs/2410.04385v2)** |  | 2025-10-19 | <details><summary>31 pa...</summary><p>31 pages, 13 figures, 3 tables</p></details> |
 | **[Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models](http://arxiv.org/abs/2510.13293v1)** |  | 2025-10-15 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](http://arxiv.org/abs/2510.12995v1)** |  | 2025-10-14 |  |
 | **[Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker](http://arxiv.org/abs/2510.11124v1)** |  | 2025-10-13 | <details><summary>Submi...</summary><p>Submitted to Expert Systems with Applications,11 pages</p></details> |
@@ -42,7 +43,6 @@ labels: documentation
 | **[Eliminating stability hallucinations in llm-based tts models via attention guidance](http://arxiv.org/abs/2509.19852v1)** |  | 2025-09-24 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP2026</p></details> |
 | **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](http://arxiv.org/abs/2509.19001v1)** |  | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted to ICASSP2026</p></details> |
 | **[Explore the Reinforcement Learning for the LLM based ASR and TTS system](http://arxiv.org/abs/2509.18569v1)** |  | 2025-09-23 |  |
-| **[No Verifiable Reward for Prosody: Toward Preference-Guided Prosody Learning in TTS](http://arxiv.org/abs/2509.18531v1)** |  | 2025-09-23 | <details><summary>submi...</summary><p>submitted to ICASSP 2026</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -73,6 +73,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Late Fusion and Multi-Level Fission Amplify Cross-Modal Transfer in Text-Speech LMs](http://arxiv.org/abs/2503.06211v2)** |  | 2025-10-20 |  |
 | **[SPIRIT: Patching Speech Language Models against Jailbreak Attacks](http://arxiv.org/abs/2505.13541v2)** |  | 2025-10-16 |  |
 | **[Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations](http://arxiv.org/abs/2503.12115v2)** |  | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted by IEEE Journal of Selected Topics in Signal
   Processing(JSTSP)</p></details> |
@@ -88,4 +89,3 @@ labels: documentation
 | **[HarmoniFuse: A Component-Selective and Prompt-Adaptive Framework for Multi-Task Speech Language Modeling](http://arxiv.org/abs/2509.18570v1)** |  | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages; submitted to ICASSP 2026</p></details> |
 | **[Layer-wise Minimal Pair Probing Reveals Contextual Grammatical-Conceptual Hierarchy in Speech Representations](http://arxiv.org/abs/2509.15655v1)** |  | 2025-09-19 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference (Oral)</p></details> |
 | **[Llama-Mimi: Speech Language Models with Interleaved Semantic and Acoustic Tokens](http://arxiv.org/abs/2509.14882v1)** |  | 2025-09-18 | 5 pages, 1 figures |
-| **[Summary on The Multilingual Conversational Speech Language Model Challenge: Datasets, Tasks, Baselines, and Methods](http://arxiv.org/abs/2509.13785v1)** |  | 2025-09-17 |  |
