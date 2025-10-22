@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 22, 2025
+title: Latest Papers - October 23, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -73,19 +73,4 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
-| **[Late Fusion and Multi-Level Fission Amplify Cross-Modal Transfer in Text-Speech LMs](http://arxiv.org/abs/2503.06211v2)** |  | 2025-10-20 |  |
-| **[SPIRIT: Patching Speech Language Models against Jailbreak Attacks](http://arxiv.org/abs/2505.13541v2)** |  | 2025-10-16 |  |
-| **[Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations](http://arxiv.org/abs/2503.12115v2)** |  | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted by IEEE Journal of Selected Topics in Signal
-  Processing(JSTSP)</p></details> |
-| **[Understanding the Modality Gap: An Empirical Study on the Speech-Text Alignment Mechanism of Large Speech Language Models](http://arxiv.org/abs/2510.12116v1)** |  | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference)</p></details> |
-| **[VoiceAgentBench: Are Voice Assistants ready for agentic tasks?](http://arxiv.org/abs/2510.07978v1)** |  | 2025-10-09 |  |
-| **[FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates](http://arxiv.org/abs/2510.00981v2)** |  | 2025-10-02 |  |
-| **[Backdoor Attacks Against Speech Language Models](http://arxiv.org/abs/2510.01157v1)** |  | 2025-10-01 |  |
-| **[Optimizing Speech Language Models for Acoustic Consistency](http://arxiv.org/abs/2509.26276v1)** |  | 2025-09-30 |  |
-| **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v2)** |  | 2025-09-29 |  |
-| **[DM-Codec: Distilling Multimodal Representations for Speech Tokenization](http://arxiv.org/abs/2410.15017v2)** |  | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
-| **[UniSS: Unified Expressive Speech-to-Speech Translation with Your Voice](http://arxiv.org/abs/2509.21144v1)** |  | 2025-09-25 |  |
-| **[Speech Language Models for Under-Represented Languages: Insights from Wolof](http://arxiv.org/abs/2509.15362v2)** |  | 2025-09-25 |  |
-| **[HarmoniFuse: A Component-Selective and Prompt-Adaptive Framework for Multi-Task Speech Language Modeling](http://arxiv.org/abs/2509.18570v1)** |  | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages; submitted to ICASSP 2026</p></details> |
-| **[Layer-wise Minimal Pair Probing Reveals Contextual Grammatical-Conceptual Hierarchy in Speech Representations](http://arxiv.org/abs/2509.15655v1)** |  | 2025-09-19 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference (Oral)</p></details> |
-| **[Llama-Mimi: Speech Language Models with Interleaved Semantic and Acoustic Tokens](http://arxiv.org/abs/2509.14882v1)** |  | 2025-09-18 | 5 pages, 1 figures |
+| **[VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model](http://arxiv.org/abs/2505.03739v2)** |  | 2025-10-21 | <details><summary>Train...</summary><p>Training and Inference Codes: https://github.com/VITA-MLLM/VITA-Audio</p></details> |
