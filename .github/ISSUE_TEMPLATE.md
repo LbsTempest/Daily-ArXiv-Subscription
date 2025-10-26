@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 24, 2025
+title: Latest Papers - October 27, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis](http://arxiv.org/abs/2505.12226v2)** |  | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Vox-Evaluator: Enhancing Stability and Fidelity for Zero-shot TTS with A Multi-Level Evaluator](http://arxiv.org/abs/2510.20210v1)** |  | 2025-10-23 | 10 pages, 5 figures |
 | **[U-Codec: Ultra Low Frame-rate Neural Speech Codec for Fast High-fidelity Speech Generation](http://arxiv.org/abs/2510.16718v1)** |  | 2025-10-19 |  |
 | **[DiEmo-TTS: Disentangled Emotion Representations via Self-Supervised Distillation for Cross-Speaker Emotion Transfer in Text-to-Speech](http://arxiv.org/abs/2505.19687v2)** |  | 2025-10-17 | <details><summary>Proce...</summary><p>Proceedings of Interspeech 2025</p></details> |
 | **[RLAIF-SPA: Optimizing LLM-based Emotional Speech Synthesis via RLAIF](http://arxiv.org/abs/2510.14628v1)** |  | 2025-10-16 |  |
@@ -21,13 +23,11 @@ labels: documentation
 | **[Making Machines Sound Sarcastic: LLM-Enhanced and Retrieval-Guided Sarcastic Speech Synthesis](http://arxiv.org/abs/2510.07096v1)** |  | 2025-10-08 |  |
 | **[XLSR-Kanformer: A KAN-Intergrated model for Synthetic Speech Detection](http://arxiv.org/abs/2510.06706v1)** |  | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE International Conference on Advanced Video and
   Signal-Based Surveillance</p></details> |
-| **[ECTSpeech: Enhancing Efficient Speech Synthesis via Easy Consistency Tuning](http://arxiv.org/abs/2510.05984v1)** |  | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted for publication by Proceedings of the 2025 ACM Multimedia
-  Asia Conference(MMAsia '25)</p></details> |
-| **[Sparse deepfake detection promotes better disentanglement](http://arxiv.org/abs/2510.05696v1)** |  | 2025-10-07 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Vox-Evaluator: Enhancing Stability and Fidelity for Zero-shot TTS with A Multi-Level Evaluator](http://arxiv.org/abs/2510.20210v1)** |  | 2025-10-23 | 10 pages, 5 figures |
 | **[HaTT: Hadamard avoiding TT recompression](http://arxiv.org/abs/2410.04385v2)** |  | 2025-10-19 | <details><summary>31 pa...</summary><p>31 pages, 13 figures, 3 tables</p></details> |
 | **[Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models](http://arxiv.org/abs/2510.13293v1)** |  | 2025-10-15 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](http://arxiv.org/abs/2510.12995v1)** |  | 2025-10-14 |  |
@@ -42,7 +42,6 @@ labels: documentation
 | **[DiaMoE-TTS: A Unified IPA-Based Dialect TTS Framework with Mixture-of-Experts and Parameter-Efficient Zero-Shot Adaptation](http://arxiv.org/abs/2509.22727v1)** |  | 2025-09-25 | 5 pages, 2 figures |
 | **[Eliminating stability hallucinations in llm-based tts models via attention guidance](http://arxiv.org/abs/2509.19852v1)** |  | 2025-09-24 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP2026</p></details> |
 | **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](http://arxiv.org/abs/2509.19001v1)** |  | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted to ICASSP2026</p></details> |
-| **[Explore the Reinforcement Learning for the LLM based ASR and TTS system](http://arxiv.org/abs/2509.18569v1)** |  | 2025-09-23 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
