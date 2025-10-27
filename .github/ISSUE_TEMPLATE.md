@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 27, 2025
+title: Latest Papers - October 28, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,13 +7,15 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space](http://arxiv.org/abs/2505.13181v2)** |  | 2025-10-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025; Demos and code are available at
+  https://github.com/ictnlp/SLED-TTS</p></details> |
+| **[Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](http://arxiv.org/abs/2510.12995v2)** |  | 2025-10-23 |  |
 | **[Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis](http://arxiv.org/abs/2505.12226v2)** |  | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[Vox-Evaluator: Enhancing Stability and Fidelity for Zero-shot TTS with A Multi-Level Evaluator](http://arxiv.org/abs/2510.20210v1)** |  | 2025-10-23 | 10 pages, 5 figures |
 | **[U-Codec: Ultra Low Frame-rate Neural Speech Codec for Fast High-fidelity Speech Generation](http://arxiv.org/abs/2510.16718v1)** |  | 2025-10-19 |  |
 | **[DiEmo-TTS: Disentangled Emotion Representations via Self-Supervised Distillation for Cross-Speaker Emotion Transfer in Text-to-Speech](http://arxiv.org/abs/2505.19687v2)** |  | 2025-10-17 | <details><summary>Proce...</summary><p>Proceedings of Interspeech 2025</p></details> |
 | **[RLAIF-SPA: Optimizing LLM-based Emotional Speech Synthesis via RLAIF](http://arxiv.org/abs/2510.14628v1)** |  | 2025-10-16 |  |
 | **[Closing the Gap Between Text and Speech Understanding in LLMs](http://arxiv.org/abs/2510.13632v1)** |  | 2025-10-15 |  |
-| **[Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](http://arxiv.org/abs/2510.12995v1)** |  | 2025-10-14 |  |
 | **[ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](http://arxiv.org/abs/2510.10774v2)** |  | 2025-10-14 |  |
 | **[BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis](http://arxiv.org/abs/2510.11646v1)** |  | 2025-10-13 |  |
 | **[Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker](http://arxiv.org/abs/2510.11124v1)** |  | 2025-10-13 | <details><summary>Submi...</summary><p>Submitted to Expert Systems with Applications,11 pages</p></details> |
@@ -21,16 +23,14 @@ labels: documentation
 | **[Paper2Video: Automatic Video Generation from Scientific Papers](http://arxiv.org/abs/2510.05096v2)** |  | 2025-10-09 | <details><summary>Proje...</summary><p>Project Page: https://showlab.github.io/Paper2Video/</p></details> |
 | **[IntMeanFlow: Few-step Speech Generation with Integral Velocity Distillation](http://arxiv.org/abs/2510.07979v1)** |  | 2025-10-09 |  |
 | **[Making Machines Sound Sarcastic: LLM-Enhanced and Retrieval-Guided Sarcastic Speech Synthesis](http://arxiv.org/abs/2510.07096v1)** |  | 2025-10-08 |  |
-| **[XLSR-Kanformer: A KAN-Intergrated model for Synthetic Speech Detection](http://arxiv.org/abs/2510.06706v1)** |  | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE International Conference on Advanced Video and
-  Signal-Based Surveillance</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](http://arxiv.org/abs/2510.12995v2)** |  | 2025-10-23 |  |
 | **[Vox-Evaluator: Enhancing Stability and Fidelity for Zero-shot TTS with A Multi-Level Evaluator](http://arxiv.org/abs/2510.20210v1)** |  | 2025-10-23 | 10 pages, 5 figures |
 | **[HaTT: Hadamard avoiding TT recompression](http://arxiv.org/abs/2410.04385v2)** |  | 2025-10-19 | <details><summary>31 pa...</summary><p>31 pages, 13 figures, 3 tables</p></details> |
 | **[Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models](http://arxiv.org/abs/2510.13293v1)** |  | 2025-10-15 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
-| **[Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](http://arxiv.org/abs/2510.12995v1)** |  | 2025-10-14 |  |
 | **[Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker](http://arxiv.org/abs/2510.11124v1)** |  | 2025-10-13 | <details><summary>Submi...</summary><p>Submitted to Expert Systems with Applications,11 pages</p></details> |
 | **[EMORL-TTS: Reinforcement Learning for Fine-Grained Emotion Control in LLM-based TTS](http://arxiv.org/abs/2510.05758v1)** |  | 2025-10-07 | <details><summary>Under...</summary><p>Under review for ICASSP 2026</p></details> |
 | **[Speak, Edit, Repeat: High-Fidelity Voice Editing and Zero-Shot TTS with Cross-Attentive Mamba](http://arxiv.org/abs/2510.04738v1)** |  | 2025-10-06 |  |
@@ -72,6 +72,13 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Brain-tuning Improves Generalizability and Efficiency of Brain Alignment in Speech Models](http://arxiv.org/abs/2510.21520v1)** |  | 2025-10-24 | <details><summary>Publi...</summary><p>Published at the 39th Conference on Neural Information Processing
+  Systems (NeurIPS 2025)</p></details> |
+| **[Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space](http://arxiv.org/abs/2505.13181v2)** |  | 2025-10-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025; Demos and code are available at
+  https://github.com/ictnlp/SLED-TTS</p></details> |
+| **[Are These Even Words? Quantifying the Gibberishness of Generative Speech Models](http://arxiv.org/abs/2510.21317v1)** |  | 2025-10-24 |  |
+| **[SpecTokenizer: A Lightweight Streaming Codec in the Compressed Spectrum Domain](http://arxiv.org/abs/2510.21209v1)** |  | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025; 5 pages, 1 figure, 5 tables</p></details> |
+| **[Data-Centric Lessons To Improve Speech-Language Pretraining](http://arxiv.org/abs/2510.20860v1)** |  | 2025-10-22 | Tech Report |
 | **[Efficient Interleaved Speech Modeling through Knowledge Distillation](http://arxiv.org/abs/2506.23670v2)** |  | 2025-10-21 |  |
 | **[VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model](http://arxiv.org/abs/2505.03739v2)** |  | 2025-10-21 | <details><summary>Train...</summary><p>Training and Inference Codes: https://github.com/VITA-MLLM/VITA-Audio</p></details> |
 | **[Late Fusion and Multi-Level Fission Amplify Cross-Modal Transfer in Text-Speech LMs](http://arxiv.org/abs/2503.06211v2)** |  | 2025-10-20 |  |
@@ -83,8 +90,3 @@ labels: documentation
 | **[VoiceAgentBench: Are Voice Assistants ready for agentic tasks?](http://arxiv.org/abs/2510.07978v1)** |  | 2025-10-09 |  |
 | **[FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates](http://arxiv.org/abs/2510.00981v2)** |  | 2025-10-02 |  |
 | **[Backdoor Attacks Against Speech Language Models](http://arxiv.org/abs/2510.01157v1)** |  | 2025-10-01 |  |
-| **[Optimizing Speech Language Models for Acoustic Consistency](http://arxiv.org/abs/2509.26276v1)** |  | 2025-09-30 |  |
-| **[FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs](http://arxiv.org/abs/2509.11425v2)** |  | 2025-09-29 |  |
-| **[DM-Codec: Distilling Multimodal Representations for Speech Tokenization](http://arxiv.org/abs/2410.15017v2)** |  | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
-| **[UniSS: Unified Expressive Speech-to-Speech Translation with Your Voice](http://arxiv.org/abs/2509.21144v1)** |  | 2025-09-25 |  |
-| **[Speech Language Models for Under-Represented Languages: Insights from Wolof](http://arxiv.org/abs/2509.15362v2)** |  | 2025-09-25 |  |
