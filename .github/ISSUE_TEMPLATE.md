@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 28, 2025
+title: Latest Papers - October 29, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity](http://arxiv.org/abs/2510.23541v1)** |  | 2025-10-27 |  |
+| **[UltraVoice: Scaling Fine-Grained Style-Controlled Speech Conversations for Spoken Dialogue Models](http://arxiv.org/abs/2510.22588v1)** |  | 2025-10-26 | 23 pages, 4 figures |
 | **[Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space](http://arxiv.org/abs/2505.13181v2)** |  | 2025-10-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025; Demos and code are available at
   https://github.com/ictnlp/SLED-TTS</p></details> |
 | **[Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](http://arxiv.org/abs/2510.12995v2)** |  | 2025-10-23 |  |
@@ -21,8 +23,6 @@ labels: documentation
 | **[Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker](http://arxiv.org/abs/2510.11124v1)** |  | 2025-10-13 | <details><summary>Submi...</summary><p>Submitted to Expert Systems with Applications,11 pages</p></details> |
 | **[Discrete-Time Diffusion-Like Models for Speech Synthesis](http://arxiv.org/abs/2509.18470v2)** |  | 2025-10-13 |  |
 | **[Paper2Video: Automatic Video Generation from Scientific Papers](http://arxiv.org/abs/2510.05096v2)** |  | 2025-10-09 | <details><summary>Proje...</summary><p>Project Page: https://showlab.github.io/Paper2Video/</p></details> |
-| **[IntMeanFlow: Few-step Speech Generation with Integral Velocity Distillation](http://arxiv.org/abs/2510.07979v1)** |  | 2025-10-09 |  |
-| **[Making Machines Sound Sarcastic: LLM-Enhanced and Retrieval-Guided Sarcastic Speech Synthesis](http://arxiv.org/abs/2510.07096v1)** |  | 2025-10-08 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -72,6 +72,9 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[OpenS2S: Advancing Fully Open-Source End-to-End Empathetic Large Speech Language Model](http://arxiv.org/abs/2507.05177v3)** |  | 2025-10-27 | <details><summary>Techn...</summary><p>Technical Report, Update on OpenS2S_v1.5</p></details> |
+| **[EchoMind: An Interrelated Multi-level Benchmark for Evaluating Empathetic Speech Language Models](http://arxiv.org/abs/2510.22758v1)** |  | 2025-10-26 | <details><summary>Speec...</summary><p>Speech Language Models, Spoken Language Understanding, Vocal Cue
+  Perception, Empathetic Dialogue, Benchmark Evaluation</p></details> |
 | **[Brain-tuning Improves Generalizability and Efficiency of Brain Alignment in Speech Models](http://arxiv.org/abs/2510.21520v1)** |  | 2025-10-24 | <details><summary>Publi...</summary><p>Published at the 39th Conference on Neural Information Processing
   Systems (NeurIPS 2025)</p></details> |
 | **[Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space](http://arxiv.org/abs/2505.13181v2)** |  | 2025-10-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025; Demos and code are available at
@@ -88,5 +91,3 @@ labels: documentation
   Processing(JSTSP)</p></details> |
 | **[Understanding the Modality Gap: An Empirical Study on the Speech-Text Alignment Mechanism of Large Speech Language Models](http://arxiv.org/abs/2510.12116v1)** |  | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference)</p></details> |
 | **[VoiceAgentBench: Are Voice Assistants ready for agentic tasks?](http://arxiv.org/abs/2510.07978v1)** |  | 2025-10-09 |  |
-| **[FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates](http://arxiv.org/abs/2510.00981v2)** |  | 2025-10-02 |  |
-| **[Backdoor Attacks Against Speech Language Models](http://arxiv.org/abs/2510.01157v1)** |  | 2025-10-01 |  |
