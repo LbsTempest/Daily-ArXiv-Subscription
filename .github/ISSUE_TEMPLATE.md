@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 29, 2025
+title: Latest Papers - October 30, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
-| **[SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity](http://arxiv.org/abs/2510.23541v1)** |  | 2025-10-27 |  |
+| **[SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity](http://arxiv.org/abs/2510.23541v2)** |  | 2025-10-28 |  |
+| **[DrVoice: Parallel Speech-Text Voice Conversation Model via Dual-Resolution Speech Representations](http://arxiv.org/abs/2506.09349v3)** |  | 2025-10-28 | Work in progress |
 | **[UltraVoice: Scaling Fine-Grained Style-Controlled Speech Conversations for Spoken Dialogue Models](http://arxiv.org/abs/2510.22588v1)** |  | 2025-10-26 | 23 pages, 4 figures |
 | **[Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space](http://arxiv.org/abs/2505.13181v2)** |  | 2025-10-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025; Demos and code are available at
   https://github.com/ictnlp/SLED-TTS</p></details> |
@@ -22,7 +23,6 @@ labels: documentation
 | **[BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis](http://arxiv.org/abs/2510.11646v1)** |  | 2025-10-13 |  |
 | **[Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker](http://arxiv.org/abs/2510.11124v1)** |  | 2025-10-13 | <details><summary>Submi...</summary><p>Submitted to Expert Systems with Applications,11 pages</p></details> |
 | **[Discrete-Time Diffusion-Like Models for Speech Synthesis](http://arxiv.org/abs/2509.18470v2)** |  | 2025-10-13 |  |
-| **[Paper2Video: Automatic Video Generation from Scientific Papers](http://arxiv.org/abs/2510.05096v2)** |  | 2025-10-09 | <details><summary>Proje...</summary><p>Project Page: https://showlab.github.io/Paper2Video/</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
