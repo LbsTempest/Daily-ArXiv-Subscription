@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 03, 2025
+title: Latest Papers - November 04, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Reconstructing Unseen Sentences from Speech-related Biosignals for Open-vocabulary Neural Communication](http://arxiv.org/abs/2510.27247v1)** |  | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Neural Systems and
+  Rehabilitation Engineering</p></details> |
 | **[SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity](http://arxiv.org/abs/2510.23541v2)** |  | 2025-10-28 |  |
 | **[DrVoice: Parallel Speech-Text Voice Conversation Model via Dual-Resolution Speech Representations](http://arxiv.org/abs/2506.09349v3)** |  | 2025-10-28 | Work in progress |
 | **[SFMS-ALR: Script-First Multilingual Speech Synthesis with Adaptive Locale Resolution](http://arxiv.org/abs/2510.25178v1)** |  | 2025-10-27 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 1 table. Demonstration prototype available at
@@ -23,7 +25,6 @@ labels: documentation
 | **[Closing the Gap Between Text and Speech Understanding in LLMs](http://arxiv.org/abs/2510.13632v1)** |  | 2025-10-15 |  |
 | **[ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](http://arxiv.org/abs/2510.10774v2)** |  | 2025-10-14 |  |
 | **[BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis](http://arxiv.org/abs/2510.11646v1)** |  | 2025-10-13 |  |
-| **[Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker](http://arxiv.org/abs/2510.11124v1)** |  | 2025-10-13 | <details><summary>Submi...</summary><p>Submitted to Expert Systems with Applications,11 pages</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -73,6 +74,10 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[FastLongSpeech: Enhancing Large Speech-Language Models for Efficient Long-Speech Processing](http://arxiv.org/abs/2507.14815v2)** |  | 2025-10-31 | <details><summary>NeurI...</summary><p>NeurIPS 2025. The code is at
+  https://github.com/ictnlp/FastLongSpeech. This model is at
+  https://huggingface.co/ICTNLP/FastLongSpeech. The dataset is at
+  https://huggingface.co/datasets/ICTNLP/LongSpeech-Eval</p></details> |
 | **[OpenS2S: Advancing Fully Open-Source End-to-End Empathetic Large Speech Language Model](http://arxiv.org/abs/2507.05177v3)** |  | 2025-10-27 | <details><summary>Techn...</summary><p>Technical Report, Update on OpenS2S_v1.5</p></details> |
 | **[EchoMind: An Interrelated Multi-level Benchmark for Evaluating Empathetic Speech Language Models](http://arxiv.org/abs/2510.22758v1)** |  | 2025-10-26 | <details><summary>Speec...</summary><p>Speech Language Models, Spoken Language Understanding, Vocal Cue
   Perception, Empathetic Dialogue, Benchmark Evaluation</p></details> |
@@ -91,4 +96,3 @@ labels: documentation
 | **[Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations](http://arxiv.org/abs/2503.12115v2)** |  | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted by IEEE Journal of Selected Topics in Signal
   Processing(JSTSP)</p></details> |
 | **[Understanding the Modality Gap: An Empirical Study on the Speech-Text Alignment Mechanism of Large Speech Language Models](http://arxiv.org/abs/2510.12116v1)** |  | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference)</p></details> |
-| **[VoiceAgentBench: Are Voice Assistants ready for agentic tasks?](http://arxiv.org/abs/2510.07978v1)** |  | 2025-10-09 |  |
