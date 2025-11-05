@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 05, 2025
+title: Latest Papers - November 06, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -48,6 +48,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SeaLLMs-Audio: Large Audio-Language Models for Southeast Asia](http://arxiv.org/abs/2511.01670v1)** |  | 2025-11-03 | 10 pages |
 | **[Do Joint Language-Audio Embeddings Encode Perceptual Timbre Semantics?](http://arxiv.org/abs/2510.14249v1)** |  | 2025-10-16 |  |
 | **[Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception](http://arxiv.org/abs/2510.12720v1)** |  | 2025-10-14 | <details><summary>https...</summary><p>https://github.com/ddlBoJack/Omni-Captioner</p></details> |
 | **[Adaptive vector steering: A training-free, layer-wise intervention for hallucination mitigation in large audio and multimodal models](http://arxiv.org/abs/2510.12851v1)** |  | 2025-10-14 | <details><summary>Note:...</summary><p>Note: This preprint is a version of the paper submitted to ICASSP
@@ -69,7 +70,6 @@ labels: documentation
 | **[MAGIC-Enhanced Keyword Prompting for Zero-Shot Audio Captioning with CLIP Models](http://arxiv.org/abs/2509.12591v1)** |  | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted in The 26th International Conference on Web Information
   Systems Engineering (WISE), scheduled for 15-17 December 2025 in Marrakech,
   Morocco</p></details> |
-| **[MQAD: A Large-Scale Question Answering Dataset for Training Music Large Language Models](http://arxiv.org/abs/2508.19514v1)** |  | 2025-08-27 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
