@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 06, 2025
+title: Latest Papers - November 07, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -74,6 +74,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[VoiceAgentBench: Are Voice Assistants ready for agentic tasks?](http://arxiv.org/abs/2510.07978v2)** |  | 2025-11-05 |  |
 | **[FastLongSpeech: Enhancing Large Speech-Language Models for Efficient Long-Speech Processing](http://arxiv.org/abs/2507.14815v2)** |  | 2025-10-31 | <details><summary>NeurI...</summary><p>NeurIPS 2025. The code is at
   https://github.com/ictnlp/FastLongSpeech. This model is at
   https://huggingface.co/ICTNLP/FastLongSpeech. The dataset is at
@@ -95,4 +96,3 @@ labels: documentation
 | **[SPIRIT: Patching Speech Language Models against Jailbreak Attacks](http://arxiv.org/abs/2505.13541v2)** |  | 2025-10-16 |  |
 | **[Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations](http://arxiv.org/abs/2503.12115v2)** |  | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted by IEEE Journal of Selected Topics in Signal
   Processing(JSTSP)</p></details> |
-| **[Understanding the Modality Gap: An Empirical Study on the Speech-Text Alignment Mechanism of Large Speech Language Models](http://arxiv.org/abs/2510.12116v1)** |  | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference)</p></details> |
