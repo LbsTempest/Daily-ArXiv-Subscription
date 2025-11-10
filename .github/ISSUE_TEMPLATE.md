@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 10, 2025
+title: Latest Papers - November 11, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
