@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 12, 2025
+title: Latest Papers - November 13, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -12,8 +12,8 @@ labels: documentation
 | **[Neural Speech Synthesis for Estonian](https://arxiv.org/pdf/2010.02636v1)** |  | 2020-10-07 | 9 pages in Estonian |
 | **[Text to speech synthesis](https://arxiv.org/pdf/2401.13891v1)** |  | 2024-01-26 |  |
 | **[ToneUnit: A Speech Discretization Approach for Tonal Language Speech Synthesis](https://arxiv.org/pdf/2406.08989v2)** |  | 2024-09-04 |  |
-| **[Analysis and Synthesis of Hypo and Hyperarticulated Speech](https://arxiv.org/pdf/2006.04136v1)** |  | 2020-06-09 |  |
 | **[Integrated Speech and Gesture Synthesis](https://arxiv.org/pdf/2108.11436v1)** |  | 2021-08-27 | <details><summary>9 pag...</summary><p>9 pages, accepted at ICMI 2021</p></details> |
+| **[Analysis and Synthesis of Hypo and Hyperarticulated Speech](https://arxiv.org/pdf/2006.04136v1)** |  | 2020-06-09 |  |
 | **[Speech Synthesis using EEG](https://arxiv.org/pdf/2002.12756v2)** |  | 2020-05-05 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE ICASSP 2020</p></details> |
 | **[End to End Bangla Speech Synthesis](https://arxiv.org/pdf/2108.00500v1)** |  | 2021-08-03 |  |
 | **[Audiovisual Speech Synthesis using Tacotron2](https://arxiv.org/pdf/2008.00620v2)** |  | 2021-08-31 | <details><summary>This ...</summary><p>This work has been submitted to the 23rd ACM International Conference on Multimodal Interaction for possible publication</p></details> |
@@ -37,10 +37,10 @@ labels: documentation
 | **[EMORL-TTS: Reinforcement Learning for Fine-Grained Emotion Control in LLM-based TTS](https://arxiv.org/pdf/2510.05758v1)** |  | 2025-10-08 | <details><summary>Under...</summary><p>Under review for ICASSP 2026</p></details> |
 | **[One TTS Alignment To Rule Them All](https://arxiv.org/pdf/2108.10447v1)** |  | 2021-08-25 |  |
 | **[Scaling NVIDIA's Multi-speaker Multi-lingual TTS Systems with Zero-Shot TTS to Indic Languages](https://arxiv.org/pdf/2401.13851v2)** |  | 2024-01-30 | <details><summary>Prese...</summary><p>Presentation accepted at ICASSP 2024</p></details> |
-| **[Obstruction characterization of co-TT graphs](https://arxiv.org/pdf/2308.12614v2)** |  | 2024-11-15 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2206.05917</p></details> |
 | **[Diff-TTS: A Denoising Diffusion Model for Text-to-Speech](https://arxiv.org/pdf/2104.01409v1)** |  | 2021-04-06 | <details><summary>Submi...</summary><p>Submitted to INTERSPEECH 2021</p></details> |
-| **[A Non-autoregressive Model for Joint STT and TTS](https://arxiv.org/pdf/2501.09104v2)** |  | 2025-01-22 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 3 tables</p></details> |
+| **[Obstruction characterization of co-TT graphs](https://arxiv.org/pdf/2308.12614v2)** |  | 2024-11-15 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2206.05917</p></details> |
 | **[Tangent Cones to TT Varieties](https://arxiv.org/pdf/1705.10152v1)** |  | 2017-05-30 |  |
+| **[A Non-autoregressive Model for Joint STT and TTS](https://arxiv.org/pdf/2501.09104v2)** |  | 2025-01-22 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 3 tables</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
