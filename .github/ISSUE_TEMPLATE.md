@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 13, 2025
+title: Latest Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -37,8 +37,8 @@ labels: documentation
 | **[EMORL-TTS: Reinforcement Learning for Fine-Grained Emotion Control in LLM-based TTS](https://arxiv.org/pdf/2510.05758v1)** |  | 2025-10-08 | <details><summary>Under...</summary><p>Under review for ICASSP 2026</p></details> |
 | **[One TTS Alignment To Rule Them All](https://arxiv.org/pdf/2108.10447v1)** |  | 2021-08-25 |  |
 | **[Scaling NVIDIA's Multi-speaker Multi-lingual TTS Systems with Zero-Shot TTS to Indic Languages](https://arxiv.org/pdf/2401.13851v2)** |  | 2024-01-30 | <details><summary>Prese...</summary><p>Presentation accepted at ICASSP 2024</p></details> |
-| **[Diff-TTS: A Denoising Diffusion Model for Text-to-Speech](https://arxiv.org/pdf/2104.01409v1)** |  | 2021-04-06 | <details><summary>Submi...</summary><p>Submitted to INTERSPEECH 2021</p></details> |
 | **[Obstruction characterization of co-TT graphs](https://arxiv.org/pdf/2308.12614v2)** |  | 2024-11-15 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2206.05917</p></details> |
+| **[Diff-TTS: A Denoising Diffusion Model for Text-to-Speech](https://arxiv.org/pdf/2104.01409v1)** |  | 2021-04-06 | <details><summary>Submi...</summary><p>Submitted to INTERSPEECH 2021</p></details> |
 | **[Tangent Cones to TT Varieties](https://arxiv.org/pdf/1705.10152v1)** |  | 2017-05-30 |  |
 | **[A Non-autoregressive Model for Joint STT and TTS](https://arxiv.org/pdf/2501.09104v2)** |  | 2025-01-22 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 3 tables</p></details> |
 
