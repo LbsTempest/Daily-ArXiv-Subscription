@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 17, 2025
+title: Latest Papers - November 18, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Evolutionary Retrofitting](https://arxiv.org/abs/2410.11330v2)** |  | 2025-11-14 |  |
+| **[CLARITY: Contextual Linguistic Adaptation and Accent Retrieval for Dual-Bias Mitigation in Text-to-Speech Generation](https://arxiv.org/abs/2511.11104v1)** |  | 2025-11-14 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding](https://arxiv.org/abs/2509.04685v3)** |  | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Project page: https://zhengrachel.github.io/VARSTok</p></details> |
 | **[DOTA-ME-CS: Daily Oriented Text Audio-Mandarin English-Code Switching Dataset](https://arxiv.org/abs/2501.12122v2)** |  | 2025-11-13 |  |
 | **[VocalNet-M2: Advancing Low-Latency Spoken Language Modeling via Integrated Multi-Codebook Tokenization and Multi-Token Prediction](https://arxiv.org/abs/2511.10232v1)** |  | 2025-11-13 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[dCoNNear: An Artifact-Free Neural Network Architecture for Closed-loop Audio Signal Processing](https://arxiv.org/abs/2501.04116v3)** |  | 2025-11-06 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Audio, Speech and Language Processing, vol. 33, pp. 4414-4429, 2025</p></details> |
 | **[DARAS: Dynamic Audio-Room Acoustic Synthesis for Blind Room Impulse Response Estimation](https://arxiv.org/abs/2507.08135v2)** |  | 2025-11-04 | <details><summary>14 pa...</summary><p>14 pages, 9 figures, accepted for publication in IEEE/ACM Transactions on Audio, Speech, and Language Processing</p></details> |
 | **[MOSPA: Human Motion Generation Driven by Spatial Audio](https://arxiv.org/abs/2507.11949v2)** |  | 2025-11-02 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight)</p></details> |
-| **[Reconstructing Unseen Sentences from Speech-related Biosignals for Open-vocabulary Neural Communication](https://arxiv.org/abs/2510.27247v1)** |  | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Neural Systems and Rehabilitation Engineering</p></details> |
-| **[HM-Talker: Hybrid Motion Modeling for High-Fidelity Talking Head Synthesis](https://arxiv.org/abs/2508.10566v2)** |  | 2025-10-30 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[TimeAudio: Bridging Temporal Gaps in Large Audio-Language Models](https://arxiv.org/abs/2511.11039v1)** |  | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</p></details> |
 | **[Music Flamingo: Scaling Music Understanding in Audio Language Models](https://arxiv.org/abs/2511.10289v1)** |  | 2025-11-13 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/adlr/MF/</p></details> |
 | **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](https://arxiv.org/abs/2508.03983v2)** |  | 2025-11-13 |  |
 | **[DIFFA: Large Language Diffusion Models Can Listen and Understand](https://arxiv.org/abs/2507.18452v3)** |  | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
@@ -59,23 +60,22 @@ labels: documentation
 | **[Adaptive vector steering: A training-free, layer-wise intervention for hallucination mitigation in large audio and multimodal models](https://arxiv.org/abs/2510.12851v1)** |  | 2025-10-14 | <details><summary>Note:...</summary><p>Note: This preprint is a version of the paper submitted to ICASSP 2026. The author list here includes contributors who provided additional supervision and guidance. The official ICASSP submission may differ slightly in author composition</p></details> |
 | **[Diffusion-Link: Diffusion Probabilistic Model for Bridging the Audio-Text Modality Gap](https://arxiv.org/abs/2510.11330v1)** |  | 2025-10-13 | <details><summary>5 pag...</summary><p>5 pages. Submitted to IEEE ICASSP 2026</p></details> |
 | **[AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration](https://arxiv.org/abs/2510.10395v1)** |  | 2025-10-12 | <details><summary>Proje...</summary><p>Project webpage: https://avocado-captioner.github.io/</p></details> |
-| **[Empowering LLMs with Pseudo-Untrimmed Videos for Audio-Visual Temporal Understanding](https://arxiv.org/abs/2403.16276v3)** |  | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard](https://arxiv.org/abs/2511.10222v2)** |  | 2025-11-14 |  |
+| **[Analysing Personal Attacks in U.S. Presidential Debates](https://arxiv.org/abs/2511.11108v1)** |  | 2025-11-14 | 13 pages |
+| **[TimeAudio: Bridging Temporal Gaps in Large Audio-Language Models](https://arxiv.org/abs/2511.11039v1)** |  | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</p></details> |
+| **[Synthetic Voices, Real Threats: Evaluating Large Text-to-Speech Models in Generating Harmful Audio](https://arxiv.org/abs/2511.10913v1)** |  | 2025-11-14 |  |
+| **[Q2E: Query-to-Event Decomposition for Zero-Shot Multilingual Text-to-Video Retrieval](https://arxiv.org/abs/2506.10202v2)** |  | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted in IJCNLP-AACL 2025 (also presented in MAGMAR 2025 at ACL 2025)</p></details> |
+| **[BanglaTalk: Towards Real-Time Speech Assistance for Bengali Regional Dialects](https://arxiv.org/abs/2510.06188v2)** |  | 2025-11-13 |  |
+| **[TEDxTN: A Three-way Speech Translation Corpus for Code-Switched Tunisian Arabic - English](https://arxiv.org/abs/2511.10780v1)** |  | 2025-11-13 | <details><summary>The T...</summary><p>The Third Arabic Natural Language Processing Conference. Association for Computational Linguistics. 2025</p></details> |
 | **[Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding](https://arxiv.org/abs/2509.04685v3)** |  | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Project page: https://zhengrachel.github.io/VARSTok</p></details> |
 | **[DOTA-ME-CS: Daily Oriented Text Audio-Mandarin English-Code Switching Dataset](https://arxiv.org/abs/2501.12122v2)** |  | 2025-11-13 |  |
 | **[National Institute on Aging PREPARE Challenge: Early Detection of Cognitive Impairment Using Speech -- The SpeechCARE Solution](https://arxiv.org/abs/2511.08132v2)** |  | 2025-11-13 |  |
 | **[MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models](https://arxiv.org/abs/2511.10262v1)** |  | 2025-11-13 | Work in progress |
 | **[VocalNet-M2: Advancing Low-Latency Spoken Language Modeling via Integrated Multi-Codebook Tokenization and Multi-Token Prediction](https://arxiv.org/abs/2511.10232v1)** |  | 2025-11-13 |  |
-| **[Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard](https://arxiv.org/abs/2511.10222v1)** |  | 2025-11-13 |  |
 | **[Backdoor Attacks Against Speech Language Models](https://arxiv.org/abs/2510.01157v2)** |  | 2025-11-13 |  |
 | **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](https://arxiv.org/abs/2508.03983v2)** |  | 2025-11-13 |  |
 | **[Omnilingual ASR: Open-Source Multilingual Speech Recognition for 1600+ Languages](https://arxiv.org/abs/2511.09690v1)** |  | 2025-11-12 |  |
-| **[Hearing More with Less: Multi-Modal Retrieval-and-Selection Augmented Conversational LLM-Based ASR](https://arxiv.org/abs/2508.01166v2)** |  | 2025-11-12 | AAAI 2026 |
-| **[End-to-end Contrastive Language-Speech Pretraining Model For Long-form Spoken Question Answering](https://arxiv.org/abs/2511.09282v1)** |  | 2025-11-12 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, accepted by AAAI 2026</p></details> |
-| **[POTSA: A Cross-Lingual Speech Alignment Framework for Low Resource Speech-to-Text Translation](https://arxiv.org/abs/2511.09232v1)** |  | 2025-11-12 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, submitted to ICASSP 2026</p></details> |
-| **[MERaLiON-SER: Robust Speech Emotion Recognition Model for English and SEA Languages](https://arxiv.org/abs/2511.04914v3)** |  | 2025-11-12 | <details><summary>https...</summary><p>https://huggingface.co/MERaLiON/MERaLiON-SER-v1</p></details> |
-| **[Context-Aware Dynamic Chunking for Streaming Tibetan Speech Recognition](https://arxiv.org/abs/2511.09085v1)** |  | 2025-11-12 |  |
-| **[Back to the Future: The Role of Past and Future Context Predictability in Incremental Language Production](https://arxiv.org/abs/2511.07752v2)** |  | 2025-11-12 | 42 pages, 13 figures |
