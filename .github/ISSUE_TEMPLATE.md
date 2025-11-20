@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 20, 2025
+title: Latest Papers - November 21, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
-| **[StreamingTalker: Audio-driven 3D Facial Animation with Autoregressive Diffusion Model](https://arxiv.org/abs/2511.14223v1)** |  | 2025-11-18 |  |
+| **[Streaming Generation of Co-Speech Gestures via Accelerated Rolling Diffusion](https://arxiv.org/abs/2503.10488v3)** |  | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted at the 40th AAAI Conference on Artificial Intelligence (AAAI-26) Main Track</p></details> |
+| **[PresentCoach: Dual-Agent Presentation Coaching through Exemplars and Interactive Feedback](https://arxiv.org/abs/2511.15253v1)** |  | 2025-11-19 | 13pages,6figures |
+| **[StreamingTalker: Audio-driven 3D Facial Animation with Autoregressive Diffusion Model](https://arxiv.org/abs/2511.14223v2)** |  | 2025-11-19 |  |
 | **[Beyond Statistical Similarity: Rethinking Metrics for Deep Generative Models in Engineering Design](https://arxiv.org/abs/2302.02913v5)** |  | 2025-11-17 |  |
 | **[Computational Measurement of Political Positions: A Review of Text-Based Ideal Point Estimation Algorithms](https://arxiv.org/abs/2511.13238v1)** |  | 2025-11-17 | <details><summary>46 pa...</summary><p>46 pages, 8 figures, 2 tables, accepted for publication in Quality & Quantity</p></details> |
 | **[Hi-Reco: High-Fidelity Real-Time Conversational Digital Humans](https://arxiv.org/abs/2511.12662v1)** |  | 2025-11-16 | <details><summary>Proce...</summary><p>Proceedings of the Computer Graphics International 2025 (CGI'25)</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[DOTA-ME-CS: Daily Oriented Text Audio-Mandarin English-Code Switching Dataset](https://arxiv.org/abs/2501.12122v2)** |  | 2025-11-13 |  |
 | **[VocalNet-M2: Advancing Low-Latency Spoken Language Modeling via Integrated Multi-Codebook Tokenization and Multi-Token Prediction](https://arxiv.org/abs/2511.10232v1)** |  | 2025-11-13 |  |
 | **[Can Current Detectors Catch Face-to-Voice Deepfake Attacks?](https://arxiv.org/abs/2510.21004v2)** |  | 2025-11-13 | <details><summary>8 pag...</summary><p>8 pages, Accepted at Workshop on AI for Cyber Threat Intelligence, co-located with ACSAC 2025</p></details> |
-| **[SpeechJudge: Towards Human-Level Judgment for Speech Naturalness](https://arxiv.org/abs/2511.07931v1)** |  | 2025-11-11 | <details><summary>Proje...</summary><p>Project Page: https://speechjudge.github.io/</p></details> |
-| **[SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech](https://arxiv.org/abs/2511.07821v1)** |  | 2025-11-11 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[CASTELLA: Long Audio Dataset with Captions and Temporal Boundaries](https://arxiv.org/abs/2511.15131v1)** |  | 2025-11-19 |  |
 | **[EBind: a practical approach to space binding](https://arxiv.org/abs/2511.14229v1)** |  | 2025-11-18 |  |
 | **[Spatial Blind Spot: Auditory Motion Perception Deficits in Audio LLMs](https://arxiv.org/abs/2511.13273v1)** |  | 2025-11-17 |  |
 | **[FoleyBench: A Benchmark For Video-to-Audio Models](https://arxiv.org/abs/2511.13219v1)** |  | 2025-11-17 |  |
@@ -59,11 +60,12 @@ labels: documentation
 | **[STAR-Bench: Probing Deep Spatio-Temporal Reasoning as Audio 4D Intelligence](https://arxiv.org/abs/2510.24693v1)** |  | 2025-10-28 | <details><summary>Homep...</summary><p>Homepage: https://internlm.github.io/StarBench/</p></details> |
 | **[Listening without Looking: Modality Bias in Audio-Visual Captioning](https://arxiv.org/abs/2510.24024v1)** |  | 2025-10-28 | under review |
 | **[ProLAP: Probabilistic Language-Audio Pre-Training](https://arxiv.org/abs/2510.18423v1)** |  | 2025-10-21 | Under review |
-| **[Do Joint Language-Audio Embeddings Encode Perceptual Timbre Semantics?](https://arxiv.org/abs/2510.14249v1)** |  | 2025-10-16 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Retrieval Augmented Generation based context discovery for ASR](https://arxiv.org/abs/2509.19567v2)** |  | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
+| **[PresentCoach: Dual-Agent Presentation Coaching through Exemplars and Interactive Feedback](https://arxiv.org/abs/2511.15253v1)** |  | 2025-11-19 | 13pages,6figures |
 | **[Ground Truth Generation for Multilingual Historical NLP using LLMs](https://arxiv.org/abs/2511.14688v1)** |  | 2025-11-18 | <details><summary>13 pa...</summary><p>13 pages, 5 tables, 1 figure</p></details> |
 | **[In-context Language Learning for Endangered Languages in Speech Recognition](https://arxiv.org/abs/2505.20445v4)** |  | 2025-11-18 | Interspeech2025 |
 | **[Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning](https://arxiv.org/abs/2511.14249v1)** |  | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
@@ -77,5 +79,3 @@ labels: documentation
 | **[Seeing isn't Hearing: Benchmarking Vision Language Models at Interpreting Spectrograms](https://arxiv.org/abs/2511.13225v1)** |  | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to IJCNLP-AACL 2025</p></details> |
 | **[Distinguishing Repetition Disfluency from Morphological Reduplication in Bangla ASR Transcripts: A Novel Corpus and Benchmarking Analysis](https://arxiv.org/abs/2511.13159v1)** |  | 2025-11-17 |  |
 | **[VocalBench-zh: Decomposing and Benchmarking the Speech Conversational Abilities in Mandarin Context](https://arxiv.org/abs/2511.08230v2)** |  | 2025-11-17 | <details><summary>This ...</summary><p>This article will serve as an extension of the preceding work, "VocalBench: Benchmarking the Vocal Conversational Abilities for Speech Interaction Models" (arXiv:2505.15727). Therefore, we have chosen to withdraw to avoid potential duplicate publication. We will update the previously open-sourced paper of VocalBench in several weeks to include the content of VocalBench-zh</p></details> |
-| **[DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models](https://arxiv.org/abs/2508.08961v3)** |  | 2025-11-16 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[Improving Direct Persian-English Speech-to-Speech Translation with Discrete Units and Synthetic Parallel Data](https://arxiv.org/abs/2511.12690v1)** |  | 2025-11-16 |  |
