@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 21, 2025
+title: Latest Papers - November 24, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Codec2Vec: Self-Supervised Speech Representation Learning Using Neural Speech Codecs](https://arxiv.org/abs/2511.16639v1)** |  | 2025-11-20 | <details><summary>To be...</summary><p>To be presented at ASRU 2025</p></details> |
+| **[SceneGuard: Training-Time Voice Protection with Scene-Consistent Audible Background Noise](https://arxiv.org/abs/2511.16114v1)** |  | 2025-11-20 |  |
+| **[UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models](https://arxiv.org/abs/2510.04593v2)** |  | 2025-11-20 |  |
 | **[Streaming Generation of Co-Speech Gestures via Accelerated Rolling Diffusion](https://arxiv.org/abs/2503.10488v3)** |  | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted at the 40th AAAI Conference on Artificial Intelligence (AAAI-26) Main Track</p></details> |
 | **[PresentCoach: Dual-Agent Presentation Coaching through Exemplars and Interactive Feedback](https://arxiv.org/abs/2511.15253v1)** |  | 2025-11-19 | 13pages,6figures |
 | **[StreamingTalker: Audio-driven 3D Facial Animation with Autoregressive Diffusion Model](https://arxiv.org/abs/2511.14223v2)** |  | 2025-11-19 |  |
@@ -19,13 +22,11 @@ labels: documentation
 | **[Evolutionary Retrofitting](https://arxiv.org/abs/2410.11330v2)** |  | 2025-11-14 |  |
 | **[CLARITY: Contextual Linguistic Adaptation and Accent Retrieval for Dual-Bias Mitigation in Text-to-Speech Generation](https://arxiv.org/abs/2511.11104v1)** |  | 2025-11-14 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding](https://arxiv.org/abs/2509.04685v3)** |  | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Project page: https://zhengrachel.github.io/VARSTok</p></details> |
-| **[DOTA-ME-CS: Daily Oriented Text Audio-Mandarin English-Code Switching Dataset](https://arxiv.org/abs/2501.12122v2)** |  | 2025-11-13 |  |
-| **[VocalNet-M2: Advancing Low-Latency Spoken Language Modeling via Integrated Multi-Codebook Tokenization and Multi-Token Prediction](https://arxiv.org/abs/2511.10232v1)** |  | 2025-11-13 |  |
-| **[Can Current Detectors Catch Face-to-Voice Deepfake Attacks?](https://arxiv.org/abs/2510.21004v2)** |  | 2025-11-13 | <details><summary>8 pag...</summary><p>8 pages, Accepted at Workshop on AI for Cyber Threat Intelligence, co-located with ACSAC 2025</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models](https://arxiv.org/abs/2510.04593v2)** |  | 2025-11-20 |  |
 | **[TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data](https://arxiv.org/abs/2506.15614v3)** |  | 2025-11-11 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Audio, Speech and Language Processing</p></details> |
 | **[SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech](https://arxiv.org/abs/2511.07821v1)** |  | 2025-11-11 |  |
 | **[TT-Edge: A Hardware-Software Co-Design for Energy-Efficient Tensor-Train Decomposition on Edge AI](https://arxiv.org/abs/2511.13738v1)** |  | 2025-11-07 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 4 Tables, DATE 2026 accepted paper</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[TTS-VAR: A Test-Time Scaling Framework for Visual Auto-Regressive Generation](https://arxiv.org/abs/2507.18537v2)** |  | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[EMORL-TTS: Reinforcement Learning for Fine-Grained Emotion Control in LLM-based TTS](https://arxiv.org/abs/2510.05758v1)** |  | 2025-10-07 | <details><summary>Under...</summary><p>Under review for ICASSP 2026</p></details> |
 | **[Speak, Edit, Repeat: High-Fidelity Voice Editing and Zero-Shot TTS with Cross-Attentive Mamba](https://arxiv.org/abs/2510.04738v1)** |  | 2025-10-06 |  |
-| **[UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models](https://arxiv.org/abs/2510.04593v1)** |  | 2025-10-06 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,12 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[NLP Datasets for Idiom and Figurative Language Tasks](https://arxiv.org/abs/2511.16345v1)** |  | 2025-11-20 | 32 pages, 10 figures |
+| **[Recent Advances in Discrete Speech Tokens: A Review](https://arxiv.org/abs/2502.06490v3)** |  | 2025-11-20 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, 3 tables. This version is a major revision of the previous one, including reorganization of the section structure, more experimental results, and extensive revisions to both text and figures</p></details> |
+| **[UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models](https://arxiv.org/abs/2510.04593v2)** |  | 2025-11-20 |  |
+| **[Discriminating Form and Meaning in Multilingual Models with Minimal-Pair ABX Tasks](https://arxiv.org/abs/2505.17747v4)** |  | 2025-11-19 | <details><summary>Comme...</summary><p>Comments: Published in EMNLP 2025. https://aclanthology.org/2025.emnlp-main.1210.pdf</p></details> |
+| **[Efficient Environmental Claim Detection with Hyperbolic Graph Neural Networks](https://arxiv.org/abs/2502.13628v3)** |  | 2025-11-19 |  |
+| **[Step-Audio-R1 Technical Report](https://arxiv.org/abs/2511.15848v1)** |  | 2025-11-19 | <details><summary>15 pa...</summary><p>15 pages, 5 figures. Technical Report</p></details> |
 | **[Retrieval Augmented Generation based context discovery for ASR](https://arxiv.org/abs/2509.19567v2)** |  | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
 | **[PresentCoach: Dual-Agent Presentation Coaching through Exemplars and Interactive Feedback](https://arxiv.org/abs/2511.15253v1)** |  | 2025-11-19 | 13pages,6figures |
 | **[Ground Truth Generation for Multilingual Historical NLP using LLMs](https://arxiv.org/abs/2511.14688v1)** |  | 2025-11-18 | <details><summary>13 pa...</summary><p>13 pages, 5 tables, 1 figure</p></details> |
@@ -73,9 +79,3 @@ labels: documentation
 | **[Beyond Statistical Similarity: Rethinking Metrics for Deep Generative Models in Engineering Design](https://arxiv.org/abs/2302.02913v5)** |  | 2025-11-17 |  |
 | **[Toward Conversational Hungarian Speech Recognition: Introducing the BEA-Large and BEA-Dialogue Datasets](https://arxiv.org/abs/2511.13529v1)** |  | 2025-11-17 | <details><summary>Submi...</summary><p>Submitted to LREC 2026</p></details> |
 | **[Applying Large Language Models to Characterize Public Narratives](https://arxiv.org/abs/2511.13505v1)** |  | 2025-11-17 |  |
-| **[Spatial Blind Spot: Auditory Motion Perception Deficits in Audio LLMs](https://arxiv.org/abs/2511.13273v1)** |  | 2025-11-17 |  |
-| **[Passive Dementia Screening via Facial Temporal Micro-Dynamics Analysis of In-the-Wild Talking-Head Video](https://arxiv.org/abs/2511.13802v1)** |  | 2025-11-17 |  |
-| **[Computational Measurement of Political Positions: A Review of Text-Based Ideal Point Estimation Algorithms](https://arxiv.org/abs/2511.13238v1)** |  | 2025-11-17 | <details><summary>46 pa...</summary><p>46 pages, 8 figures, 2 tables, accepted for publication in Quality & Quantity</p></details> |
-| **[Seeing isn't Hearing: Benchmarking Vision Language Models at Interpreting Spectrograms](https://arxiv.org/abs/2511.13225v1)** |  | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to IJCNLP-AACL 2025</p></details> |
-| **[Distinguishing Repetition Disfluency from Morphological Reduplication in Bangla ASR Transcripts: A Novel Corpus and Benchmarking Analysis](https://arxiv.org/abs/2511.13159v1)** |  | 2025-11-17 |  |
-| **[VocalBench-zh: Decomposing and Benchmarking the Speech Conversational Abilities in Mandarin Context](https://arxiv.org/abs/2511.08230v2)** |  | 2025-11-17 | <details><summary>This ...</summary><p>This article will serve as an extension of the preceding work, "VocalBench: Benchmarking the Vocal Conversational Abilities for Speech Interaction Models" (arXiv:2505.15727). Therefore, we have chosen to withdraw to avoid potential duplicate publication. We will update the previously open-sourced paper of VocalBench in several weeks to include the content of VocalBench-zh</p></details> |
