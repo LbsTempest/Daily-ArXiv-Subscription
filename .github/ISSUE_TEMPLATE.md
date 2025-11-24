@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 24, 2025
+title: Latest Papers - November 25, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Revisiting Audio-language Pretraining for Learning General-purpose Audio Representation](https://arxiv.org/abs/2511.16757v1)** |  | 2025-11-20 | Work in progress |
 | **[CASTELLA: Long Audio Dataset with Captions and Temporal Boundaries](https://arxiv.org/abs/2511.15131v1)** |  | 2025-11-19 |  |
 | **[EBind: a practical approach to space binding](https://arxiv.org/abs/2511.14229v1)** |  | 2025-11-18 |  |
 | **[Spatial Blind Spot: Auditory Motion Perception Deficits in Audio LLMs](https://arxiv.org/abs/2511.13273v1)** |  | 2025-11-17 |  |
@@ -59,11 +60,13 @@ labels: documentation
 | **[SeaLLMs-Audio: Large Audio-Language Models for Southeast Asia](https://arxiv.org/abs/2511.01670v1)** |  | 2025-11-03 | 10 pages |
 | **[STAR-Bench: Probing Deep Spatio-Temporal Reasoning as Audio 4D Intelligence](https://arxiv.org/abs/2510.24693v1)** |  | 2025-10-28 | <details><summary>Homep...</summary><p>Homepage: https://internlm.github.io/StarBench/</p></details> |
 | **[Listening without Looking: Modality Bias in Audio-Visual Captioning](https://arxiv.org/abs/2510.24024v1)** |  | 2025-10-28 | under review |
-| **[ProLAP: Probabilistic Language-Audio Pre-Training](https://arxiv.org/abs/2510.18423v1)** |  | 2025-10-21 | Under review |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Enhancing Quranic Learning: A Multimodal Deep Learning Approach for Arabic Phoneme Recognition](https://arxiv.org/abs/2511.17477v1)** |  | 2025-11-21 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 3 tables</p></details> |
+| **[A Differentiable Alignment Framework for Sequence-to-Sequence Modeling via Optimal Transport](https://arxiv.org/abs/2502.01588v3)** |  | 2025-11-21 |  |
+| **[Revisiting Audio-language Pretraining for Learning General-purpose Audio Representation](https://arxiv.org/abs/2511.16757v1)** |  | 2025-11-20 | Work in progress |
 | **[NLP Datasets for Idiom and Figurative Language Tasks](https://arxiv.org/abs/2511.16345v1)** |  | 2025-11-20 | 32 pages, 10 figures |
 | **[Recent Advances in Discrete Speech Tokens: A Review](https://arxiv.org/abs/2502.06490v3)** |  | 2025-11-20 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, 3 tables. This version is a major revision of the previous one, including reorganization of the section structure, more experimental results, and extensive revisions to both text and figures</p></details> |
 | **[UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models](https://arxiv.org/abs/2510.04593v2)** |  | 2025-11-20 |  |
@@ -76,6 +79,3 @@ labels: documentation
 | **[In-context Language Learning for Endangered Languages in Speech Recognition](https://arxiv.org/abs/2505.20445v4)** |  | 2025-11-18 | Interspeech2025 |
 | **[Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning](https://arxiv.org/abs/2511.14249v1)** |  | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Hidden in the Noise: Unveiling Backdoors in Audio LLMs Alignment through Latent Acoustic Pattern Triggers](https://arxiv.org/abs/2508.02175v3)** |  | 2025-11-18 |  |
-| **[Beyond Statistical Similarity: Rethinking Metrics for Deep Generative Models in Engineering Design](https://arxiv.org/abs/2302.02913v5)** |  | 2025-11-17 |  |
-| **[Toward Conversational Hungarian Speech Recognition: Introducing the BEA-Large and BEA-Dialogue Datasets](https://arxiv.org/abs/2511.13529v1)** |  | 2025-11-17 | <details><summary>Submi...</summary><p>Submitted to LREC 2026</p></details> |
-| **[Applying Large Language Models to Characterize Public Narratives](https://arxiv.org/abs/2511.13505v1)** |  | 2025-11-17 |  |
