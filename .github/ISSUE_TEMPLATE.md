@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 26, 2025
+title: Latest Papers - November 27, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Continual Audio Deepfake Detection via Universal Adversarial Perturbation](https://arxiv.org/abs/2511.19974v1)** |  | 2025-11-25 |  |
 | **[SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech](https://arxiv.org/abs/2511.07821v2)** |  | 2025-11-24 |  |
 | **[Context-Aware Whisper for Arabic ASR Under Linguistic Varieties](https://arxiv.org/abs/2511.18774v1)** |  | 2025-11-24 |  |
 | **[PresentCoach: Dual-Agent Presentation Coaching through Exemplars and Interactive Feedback](https://arxiv.org/abs/2511.15253v2)** |  | 2025-11-24 | 13pages,6figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Computational Measurement of Political Positions: A Review of Text-Based Ideal Point Estimation Algorithms](https://arxiv.org/abs/2511.13238v1)** |  | 2025-11-17 | <details><summary>46 pa...</summary><p>46 pages, 8 figures, 2 tables, accepted for publication in Quality & Quantity</p></details> |
 | **[Hi-Reco: High-Fidelity Real-Time Conversational Digital Humans](https://arxiv.org/abs/2511.12662v1)** |  | 2025-11-16 | <details><summary>Proce...</summary><p>Proceedings of the Computer Graphics International 2025 (CGI'25)</p></details> |
 | **[VoiceCraft-X: Unifying Multilingual, Voice-Cloning Speech Synthesis and Speech Editing](https://arxiv.org/abs/2511.12347v1)** |  | 2025-11-15 | <details><summary>EMNLP...</summary><p>EMNLP 2025. Demo and code are available at https://zhishengzheng.com/voicecraft-x/</p></details> |
-| **[Lina-Speech: Gated Linear Attention and Initial-State Tuning for Multi-Sample Prompting Text-To-Speech Synthesis](https://arxiv.org/abs/2410.23320v2)** |  | 2025-11-15 | <details><summary>Audio...</summary><p>Audio-AAAI Workshop, 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,11 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Bridging the Language Gap: Synthetic Voice Diversity via Latent Mixup for Equitable Speech Recognition](https://arxiv.org/abs/2511.20534v1)** |  | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted at ICML 2025 Workshop on Machine Learning for Audio</p></details> |
+| **[Mispronunciation Detection and Diagnosis Without Model Training: A Retrieval-Based Approach](https://arxiv.org/abs/2511.20107v1)** |  | 2025-11-25 |  |
+| **[Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation](https://arxiv.org/abs/2510.24821v2)** |  | 2025-11-25 | 18 pages, 5 figures |
+| **[It Hears, It Sees too: Multi-Modal LLM for Depression Detection By Integrating Visual Understanding into Audio Language Models](https://arxiv.org/abs/2511.19877v1)** |  | 2025-11-25 |  |
+| **[A Layered Protocol Architecture for the Internet of Agents](https://arxiv.org/abs/2511.19699v1)** |  | 2025-11-24 |  |
 | **[FinAudio: A Benchmark for Audio Large Language Models in Financial Applications](https://arxiv.org/abs/2503.20990v2)** |  | 2025-11-24 |  |
 | **[PresentCoach: Dual-Agent Presentation Coaching through Exemplars and Interactive Feedback](https://arxiv.org/abs/2511.15253v2)** |  | 2025-11-24 | 13pages,6figures |
 | **[The Locally Deployable Virtual Doctor: LLM Based Human Interface for Automated Anamnesis and Database Conversion](https://arxiv.org/abs/2511.18632v1)** |  | 2025-11-23 |  |
@@ -74,8 +79,3 @@ labels: documentation
 | **[Gradient Masters at BLP-2025 Task 1: Advancing Low-Resource NLP for Bengali using Ensemble-Based Adversarial Training for Hate Speech Detection](https://arxiv.org/abs/2511.18324v1)** |  | 2025-11-23 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 4 tables. Accepted at the Second International Workshop on Bangla Language Processing (BLP-2025) co-located with AACL-IJCNLP 2025. Ranked 6th (Subtask 1A, 73.23% micro F1) and 3rd (Subtask 1B, 73.28% micro F1) on the official leaderboard</p></details> |
 | **[Point of Order: Action-Aware LLM Persona Modeling for Realistic Civic Simulation](https://arxiv.org/abs/2511.17813v1)** |  | 2025-11-21 | <details><summary>8 pag...</summary><p>8 pages (29 pages including appendix), 18 figures. Code and datasets are available at https://github.com/smerrillunc/action-aware-llms. Submitted to ACL 2026</p></details> |
 | **[Enhancing Quranic Learning: A Multimodal Deep Learning Approach for Arabic Phoneme Recognition](https://arxiv.org/abs/2511.17477v1)** |  | 2025-11-21 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 3 tables</p></details> |
-| **[A Differentiable Alignment Framework for Sequence-to-Sequence Modeling via Optimal Transport](https://arxiv.org/abs/2502.01588v3)** |  | 2025-11-21 |  |
-| **[Evaluating Adversarial Vulnerabilities in Modern Large Language Models](https://arxiv.org/abs/2511.17666v1)** |  | 2025-11-21 |  |
-| **[Revisiting Audio-language Pretraining for Learning General-purpose Audio Representation](https://arxiv.org/abs/2511.16757v1)** |  | 2025-11-20 | Work in progress |
-| **[NLP Datasets for Idiom and Figurative Language Tasks](https://arxiv.org/abs/2511.16345v1)** |  | 2025-11-20 | 32 pages, 10 figures |
-| **[Recent Advances in Discrete Speech Tokens: A Review](https://arxiv.org/abs/2502.06490v3)** |  | 2025-11-20 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, 3 tables. This version is a major revision of the previous one, including reorganization of the section structure, more experimental results, and extensive revisions to both text and figures</p></details> |
