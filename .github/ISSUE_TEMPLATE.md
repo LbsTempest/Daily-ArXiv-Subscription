@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - December 01, 2025
+title: Latest Papers - December 02, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[CoordSpeaker: Exploiting Gesture Captioning for Coordinated Caption-Empowered Co-Speech Gesture Generation](https://arxiv.org/abs/2511.22863v1)** |  | 2025-11-28 |  |
+| **[Gelina: Unified Speech and Gesture Synthesis via Interleaved Token Prediction](https://arxiv.org/abs/2510.12834v2)** |  | 2025-11-27 | 5 pages |
+| **[GLA-Grad++: An Improved Griffin-Lim Guided Diffusion Model for Speech Synthesis](https://arxiv.org/abs/2511.22293v1)** |  | 2025-11-27 |  |
 | **[Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale](https://arxiv.org/abs/2511.21270v1)** |  | 2025-11-26 | 4 pages, 2 figures |
 | **[Continual Audio Deepfake Detection via Universal Adversarial Perturbation](https://arxiv.org/abs/2511.19974v1)** |  | 2025-11-25 |  |
 | **[SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech](https://arxiv.org/abs/2511.07821v2)** |  | 2025-11-24 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models](https://arxiv.org/abs/2510.04593v2)** |  | 2025-11-20 |  |
 | **[Streaming Generation of Co-Speech Gestures via Accelerated Rolling Diffusion](https://arxiv.org/abs/2503.10488v3)** |  | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted at the 40th AAAI Conference on Artificial Intelligence (AAAI-26) Main Track</p></details> |
 | **[StreamingTalker: Audio-driven 3D Facial Animation with Autoregressive Diffusion Model](https://arxiv.org/abs/2511.14223v2)** |  | 2025-11-19 |  |
-| **[Beyond Statistical Similarity: Rethinking Metrics for Deep Generative Models in Engineering Design](https://arxiv.org/abs/2302.02913v5)** |  | 2025-11-17 |  |
-| **[Computational Measurement of Political Positions: A Review of Text-Based Ideal Point Estimation Algorithms](https://arxiv.org/abs/2511.13238v1)** |  | 2025-11-17 | <details><summary>46 pa...</summary><p>46 pages, 8 figures, 2 tables, accepted for publication in Quality & Quantity</p></details> |
-| **[Hi-Reco: High-Fidelity Real-Time Conversational Digital Humans](https://arxiv.org/abs/2511.12662v1)** |  | 2025-11-16 | <details><summary>Proce...</summary><p>Proceedings of the Computer Graphics International 2025 (CGI'25)</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[STAR-Bench: Probing Deep Spatio-Temporal Reasoning as Audio 4D Intelligence](https://arxiv.org/abs/2510.24693v2)** |  | 2025-11-28 | <details><summary>Homep...</summary><p>Homepage: https://internlm.github.io/StarBench/</p></details> |
 | **[FoleyBench: A Benchmark For Video-to-Audio Models](https://arxiv.org/abs/2511.13219v2)** |  | 2025-11-24 |  |
 | **[Revisiting Audio-language Pretraining for Learning General-purpose Audio Representation](https://arxiv.org/abs/2511.16757v1)** |  | 2025-11-20 | Work in progress |
 | **[CASTELLA: Long Audio Dataset with Captions and Temporal Boundaries](https://arxiv.org/abs/2511.15131v1)** |  | 2025-11-19 |  |
@@ -58,24 +59,23 @@ labels: documentation
 | **[SAR-LM: Symbolic Audio Reasoning with Large Language Models](https://arxiv.org/abs/2511.06483v1)** |  | 2025-11-09 |  |
 | **[Caption Injection for Optimization in Generative Search Engine](https://arxiv.org/abs/2511.04080v1)** |  | 2025-11-06 |  |
 | **[SeaLLMs-Audio: Large Audio-Language Models for Southeast Asia](https://arxiv.org/abs/2511.01670v1)** |  | 2025-11-03 | 10 pages |
-| **[STAR-Bench: Probing Deep Spatio-Temporal Reasoning as Audio 4D Intelligence](https://arxiv.org/abs/2510.24693v1)** |  | 2025-10-28 | <details><summary>Homep...</summary><p>Homepage: https://internlm.github.io/StarBench/</p></details> |
 | **[Listening without Looking: Modality Bias in Audio-Visual Captioning](https://arxiv.org/abs/2510.24024v1)** |  | 2025-10-28 | under review |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[LFM2 Technical Report](https://arxiv.org/abs/2511.23404v1)** |  | 2025-11-28 |  |
+| **[Scaling HuBERT for African Languages: From Base to Large and XL](https://arxiv.org/abs/2511.23370v1)** |  | 2025-11-28 | <details><summary>Journ...</summary><p>Journée d'études AFIA-ATALA 2025 : Technologies linguistiques pour les langues peu dotées</p></details> |
+| **[HPSU: A Benchmark for Human-Level Perception in Real-World Spoken Speech Understanding](https://arxiv.org/abs/2511.23178v1)** |  | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[FEANEL: A Benchmark for Fine-Grained Error Analysis in K-12 English Writing](https://arxiv.org/abs/2511.22883v1)** |  | 2025-11-28 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, and 4 tables. The dataset is available at https://huggingface.co/datasets/Feanel/FEANEL</p></details> |
+| **[CoordSpeaker: Exploiting Gesture Captioning for Coordinated Caption-Empowered Co-Speech Gesture Generation](https://arxiv.org/abs/2511.22863v1)** |  | 2025-11-28 |  |
+| **[Modeling Romanized Hindi and Bengali: Dataset Creation and Multilingual LLM Integration](https://arxiv.org/abs/2511.22769v1)** |  | 2025-11-27 | <details><summary>Proce...</summary><p>Proceedings of the 8th Workshop on Big Data for Cybersecurity (BigCyber)</p></details> |
+| **[PURE Codec: Progressive Unfolding of Residual Entropy for Speech Codec Learning](https://arxiv.org/abs/2511.22687v1)** |  | 2025-11-27 | Accepted by ASRU2025 |
+| **[Joint Speech and Text Training for LLM-Based End-to-End Spoken Dialogue State Tracking](https://arxiv.org/abs/2511.22503v1)** |  | 2025-11-27 | <details><summary>submi...</summary><p>submitted to ICASSP 2026</p></details> |
+| **[VSpeechLM: A Visual Speech Language Model for Visual Text-to-Speech Task](https://arxiv.org/abs/2511.22229v1)** |  | 2025-11-27 | MM Asia 2025 |
+| **[Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity](https://arxiv.org/abs/2511.21974v1)** |  | 2025-11-26 | <details><summary>13 pa...</summary><p>13 pages (main text), 5 figures (main text) 6 pages (appendix), 6 figures (appendix), journal submission to TACL ("a" decision: pre-MIT Press publication version)</p></details> |
+| **[A Layered Protocol Architecture for the Internet of Agents](https://arxiv.org/abs/2511.19699v2)** |  | 2025-11-26 |  |
 | **[Voice, Bias, and Coreference: An Interpretability Study of Gender in Speech Translation](https://arxiv.org/abs/2511.21517v1)** |  | 2025-11-26 | <details><summary>Submi...</summary><p>Submitted to LREC 2026</p></details> |
 | **[Improved Visually Prompted Keyword Localisation in Real Low-Resource Settings](https://arxiv.org/abs/2409.06013v2)** |  | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted at SpeD 2025</p></details> |
 | **[Step-Audio-R1 Technical Report](https://arxiv.org/abs/2511.15848v2)** |  | 2025-11-26 | <details><summary>22 pa...</summary><p>22 pages, 5 figures. Technical Report</p></details> |
 | **[Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale](https://arxiv.org/abs/2511.21270v1)** |  | 2025-11-26 | 4 pages, 2 figures |
-| **[Developing an Open Conversational Speech Corpus for the Isan Language](https://arxiv.org/abs/2511.21229v1)** |  | 2025-11-26 | <details><summary>31 pa...</summary><p>31 pages, in Thai language, 3 figures, 25 tables</p></details> |
-| **[Passive Dementia Screening via Facial Temporal Micro-Dynamics Analysis of In-the-Wild Talking-Head Video](https://arxiv.org/abs/2511.13802v2)** |  | 2025-11-26 |  |
-| **[Enhancing Large Language Models for Detecting Mental Manipulation via Annotation-Free Data Augmentation and Anti-Curriculum Distillation](https://arxiv.org/abs/2505.15255v4)** |  | 2025-11-26 | Preprint |
-| **[RosettaSpeech: Zero-Shot Speech-to-Speech Translation from Monolingual Data](https://arxiv.org/abs/2511.20974v1)** |  | 2025-11-26 | Work in progress |
-| **[Towards Audio Token Compression in Large Audio Language Models](https://arxiv.org/abs/2511.20973v1)** |  | 2025-11-26 |  |
-| **[SingingSDS: A Singing-Capable Spoken Dialogue System for Conversational Roleplay Applications](https://arxiv.org/abs/2511.20972v1)** |  | 2025-11-26 |  |
-| **[Bridging the Language Gap: Synthetic Voice Diversity via Latent Mixup for Equitable Speech Recognition](https://arxiv.org/abs/2511.20534v1)** |  | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted at ICML 2025 Workshop on Machine Learning for Audio</p></details> |
-| **[Mispronunciation Detection and Diagnosis Without Model Training: A Retrieval-Based Approach](https://arxiv.org/abs/2511.20107v1)** |  | 2025-11-25 |  |
-| **[Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation](https://arxiv.org/abs/2510.24821v2)** |  | 2025-11-25 | 18 pages, 5 figures |
-| **[It Hears, It Sees too: Multi-Modal LLM for Depression Detection By Integrating Visual Understanding into Audio Language Models](https://arxiv.org/abs/2511.19877v1)** |  | 2025-11-25 |  |
-| **[A Layered Protocol Architecture for the Internet of Agents](https://arxiv.org/abs/2511.19699v1)** |  | 2025-11-24 |  |
