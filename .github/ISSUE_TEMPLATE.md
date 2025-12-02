@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - December 02, 2025
+title: Latest Papers - December 03, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Speech Audio Generation from dynamic MRI via a Knowledge Enhanced Conditional Variational Autoencoder](https://arxiv.org/abs/2503.06588v2)** |  | 2025-12-01 |  |
+| **[SpeechJudge: Towards Human-Level Judgment for Speech Naturalness](https://arxiv.org/abs/2511.07931v2)** |  | 2025-11-30 | <details><summary>Datas...</summary><p>Dataset, Model, and Code: https://github.com/AmphionTeam/SpeechJudge</p></details> |
 | **[CoordSpeaker: Exploiting Gesture Captioning for Coordinated Caption-Empowered Co-Speech Gesture Generation](https://arxiv.org/abs/2511.22863v1)** |  | 2025-11-28 |  |
 | **[Gelina: Unified Speech and Gesture Synthesis via Interleaved Token Prediction](https://arxiv.org/abs/2510.12834v2)** |  | 2025-11-27 | 5 pages |
 | **[GLA-Grad++: An Improved Griffin-Lim Guided Diffusion Model for Speech Synthesis](https://arxiv.org/abs/2511.22293v1)** |  | 2025-11-27 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Codec2Vec: Self-Supervised Speech Representation Learning Using Neural Speech Codecs](https://arxiv.org/abs/2511.16639v1)** |  | 2025-11-20 | <details><summary>To be...</summary><p>To be presented at ASRU 2025</p></details> |
 | **[SceneGuard: Training-Time Voice Protection with Scene-Consistent Audible Background Noise](https://arxiv.org/abs/2511.16114v1)** |  | 2025-11-20 |  |
 | **[UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models](https://arxiv.org/abs/2510.04593v2)** |  | 2025-11-20 |  |
-| **[Streaming Generation of Co-Speech Gestures via Accelerated Rolling Diffusion](https://arxiv.org/abs/2503.10488v3)** |  | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted at the 40th AAAI Conference on Artificial Intelligence (AAAI-26) Main Track</p></details> |
-| **[StreamingTalker: Audio-driven 3D Facial Animation with Autoregressive Diffusion Model](https://arxiv.org/abs/2511.14223v2)** |  | 2025-11-19 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[FR-TTS: Test-Time Scaling for NTP-based Image Generation with Effective Filling-based Reward Signal](https://arxiv.org/abs/2512.00438v1)** |  | 2025-11-29 |  |
 | **[Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale](https://arxiv.org/abs/2511.21270v1)** |  | 2025-11-26 | 4 pages, 2 figures |
 | **[SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech](https://arxiv.org/abs/2511.07821v2)** |  | 2025-11-24 |  |
 | **[UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models](https://arxiv.org/abs/2510.04593v2)** |  | 2025-11-20 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models](https://arxiv.org/abs/2510.13293v1)** |  | 2025-10-15 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker](https://arxiv.org/abs/2510.11124v1)** |  | 2025-10-13 | <details><summary>Submi...</summary><p>Submitted to Expert Systems with Applications,11 pages</p></details> |
 | **[TTS-VAR: A Test-Time Scaling Framework for Visual Auto-Regressive Generation](https://arxiv.org/abs/2507.18537v2)** |  | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[EMORL-TTS: Reinforcement Learning for Fine-Grained Emotion Control in LLM-based TTS](https://arxiv.org/abs/2510.05758v1)** |  | 2025-10-07 | <details><summary>Under...</summary><p>Under review for ICASSP 2026</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,18 +64,18 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Cross-Lingual Interleaving for Speech Language Models](https://arxiv.org/abs/2512.01865v1)** |  | 2025-12-01 |  |
+| **[MAC-SLU: Multi-Intent Automotive Cabin Spoken Language Understanding Benchmark](https://arxiv.org/abs/2512.01603v1)** |  | 2025-12-01 |  |
+| **[CCFQA: A Benchmark for Cross-Lingual and Cross-Modal Speech and Text Factuality Evaluation](https://arxiv.org/abs/2508.07295v2)** |  | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026</p></details> |
+| **[MCAT: Scaling Many-to-Many Speech-to-Text Translation with MLLMs to 70 Languages](https://arxiv.org/abs/2512.01512v1)** |  | 2025-12-01 |  |
+| **[SpeechIQ: Speech-Agentic Intelligence Quotient Across Cognitive Levels in Voice Understanding by Large Language Models](https://arxiv.org/abs/2507.19361v2)** |  | 2025-12-01 | <details><summary>ACL 2...</summary><p>ACL 2025 main. Our Speech-IQ leaderboard is hosted at huggingface.co/spaces/nvidia/Speech-IQ-leaderboard. Speech-IQ Calculator: https://github.com/YukinoWan/SpeechIQ</p></details> |
+| **[NeKo: Cross-Modality Post-Recognition Error Correction with Tasks-Guided Mixture-of-Experts Language Model](https://arxiv.org/abs/2411.05945v2)** |  | 2025-12-01 | <details><summary>ACL 2...</summary><p>ACL 2025 Industry Track. NeKo LMs: https://huggingface.co/nvidia/NeKo-v0-post-correction</p></details> |
+| **[fMRI2GES: Co-speech Gesture Reconstruction from fMRI Signal with Dual Brain Decoding Alignment](https://arxiv.org/abs/2512.01189v1)** |  | 2025-12-01 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2025</p></details> |
+| **[Comparative Evaluation of Expressive Japanese Character Text-to-Speech with VITS and Style-BERT-VITS2](https://arxiv.org/abs/2505.17320v2)** |  | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted to IEEE UEMCON 2025</p></details> |
+| **[SpeechJudge: Towards Human-Level Judgment for Speech Naturalness](https://arxiv.org/abs/2511.07931v2)** |  | 2025-11-30 | <details><summary>Datas...</summary><p>Dataset, Model, and Code: https://github.com/AmphionTeam/SpeechJudge</p></details> |
+| **[Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts](https://arxiv.org/abs/2311.01070v4)** |  | 2025-11-29 | <details><summary>Accep...</summary><p>Accepted and Presented at IEEE ICASSP 2024 (this is extended version)</p></details> |
+| **[OmniFusion: Simultaneous Multilingual Multimodal Translations via Modular Fusion](https://arxiv.org/abs/2512.00234v1)** |  | 2025-11-28 | <details><summary>Prepr...</summary><p>Preprint for ACL 2026</p></details> |
 | **[LFM2 Technical Report](https://arxiv.org/abs/2511.23404v1)** |  | 2025-11-28 |  |
 | **[Scaling HuBERT for African Languages: From Base to Large and XL](https://arxiv.org/abs/2511.23370v1)** |  | 2025-11-28 | <details><summary>Journ...</summary><p>Journée d'études AFIA-ATALA 2025 : Technologies linguistiques pour les langues peu dotées</p></details> |
 | **[HPSU: A Benchmark for Human-Level Perception in Real-World Spoken Speech Understanding](https://arxiv.org/abs/2511.23178v1)** |  | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[FEANEL: A Benchmark for Fine-Grained Error Analysis in K-12 English Writing](https://arxiv.org/abs/2511.22883v1)** |  | 2025-11-28 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, and 4 tables. The dataset is available at https://huggingface.co/datasets/Feanel/FEANEL</p></details> |
-| **[CoordSpeaker: Exploiting Gesture Captioning for Coordinated Caption-Empowered Co-Speech Gesture Generation](https://arxiv.org/abs/2511.22863v1)** |  | 2025-11-28 |  |
-| **[Modeling Romanized Hindi and Bengali: Dataset Creation and Multilingual LLM Integration](https://arxiv.org/abs/2511.22769v1)** |  | 2025-11-27 | <details><summary>Proce...</summary><p>Proceedings of the 8th Workshop on Big Data for Cybersecurity (BigCyber)</p></details> |
-| **[PURE Codec: Progressive Unfolding of Residual Entropy for Speech Codec Learning](https://arxiv.org/abs/2511.22687v1)** |  | 2025-11-27 | Accepted by ASRU2025 |
-| **[Joint Speech and Text Training for LLM-Based End-to-End Spoken Dialogue State Tracking](https://arxiv.org/abs/2511.22503v1)** |  | 2025-11-27 | <details><summary>submi...</summary><p>submitted to ICASSP 2026</p></details> |
-| **[VSpeechLM: A Visual Speech Language Model for Visual Text-to-Speech Task](https://arxiv.org/abs/2511.22229v1)** |  | 2025-11-27 | MM Asia 2025 |
-| **[Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity](https://arxiv.org/abs/2511.21974v1)** |  | 2025-11-26 | <details><summary>13 pa...</summary><p>13 pages (main text), 5 figures (main text) 6 pages (appendix), 6 figures (appendix), journal submission to TACL ("a" decision: pre-MIT Press publication version)</p></details> |
-| **[A Layered Protocol Architecture for the Internet of Agents](https://arxiv.org/abs/2511.19699v2)** |  | 2025-11-26 |  |
-| **[Voice, Bias, and Coreference: An Interpretability Study of Gender in Speech Translation](https://arxiv.org/abs/2511.21517v1)** |  | 2025-11-26 | <details><summary>Submi...</summary><p>Submitted to LREC 2026</p></details> |
-| **[Improved Visually Prompted Keyword Localisation in Real Low-Resource Settings](https://arxiv.org/abs/2409.06013v2)** |  | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted at SpeD 2025</p></details> |
-| **[Step-Audio-R1 Technical Report](https://arxiv.org/abs/2511.15848v2)** |  | 2025-11-26 | <details><summary>22 pa...</summary><p>22 pages, 5 figures. Technical Report</p></details> |
-| **[Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale](https://arxiv.org/abs/2511.21270v1)** |  | 2025-11-26 | 4 pages, 2 figures |
