@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - December 03, 2025
+title: Latest Papers - December 04, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -64,6 +64,12 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Bangla Hate Speech Classification with Fine-tuned Transformer Models](https://arxiv.org/abs/2512.02845v1)** |  | 2025-12-02 |  |
+| **[BOOM: Beyond Only One Modality KIT's Multimodal Multilingual Lecture Companion](https://arxiv.org/abs/2512.02817v1)** |  | 2025-12-02 | Under review |
+| **[Reasoning-Aware Multimodal Fusion for Hateful Video Detection](https://arxiv.org/abs/2512.02743v1)** |  | 2025-12-02 |  |
+| **[See, Hear, and Understand: Benchmarking Audiovisual Human Speech Understanding in Multimodal Large Language Models](https://arxiv.org/abs/2512.02231v1)** |  | 2025-12-01 | preprint |
+| **[Animating Language Practice: Engagement with Stylized Conversational Agents in Japanese Learning](https://arxiv.org/abs/2507.06483v2)** |  | 2025-12-01 |  |
+| **[Swivuriso: The South African Next Voices Multilingual Speech Dataset](https://arxiv.org/abs/2512.02201v1)** |  | 2025-12-01 | Work in Progress |
 | **[Cross-Lingual Interleaving for Speech Language Models](https://arxiv.org/abs/2512.01865v1)** |  | 2025-12-01 |  |
 | **[MAC-SLU: Multi-Intent Automotive Cabin Spoken Language Understanding Benchmark](https://arxiv.org/abs/2512.01603v1)** |  | 2025-12-01 |  |
 | **[CCFQA: A Benchmark for Cross-Lingual and Cross-Modal Speech and Text Factuality Evaluation](https://arxiv.org/abs/2508.07295v2)** |  | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026</p></details> |
@@ -72,10 +78,4 @@ labels: documentation
 | **[NeKo: Cross-Modality Post-Recognition Error Correction with Tasks-Guided Mixture-of-Experts Language Model](https://arxiv.org/abs/2411.05945v2)** |  | 2025-12-01 | <details><summary>ACL 2...</summary><p>ACL 2025 Industry Track. NeKo LMs: https://huggingface.co/nvidia/NeKo-v0-post-correction</p></details> |
 | **[fMRI2GES: Co-speech Gesture Reconstruction from fMRI Signal with Dual Brain Decoding Alignment](https://arxiv.org/abs/2512.01189v1)** |  | 2025-12-01 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2025</p></details> |
 | **[Comparative Evaluation of Expressive Japanese Character Text-to-Speech with VITS and Style-BERT-VITS2](https://arxiv.org/abs/2505.17320v2)** |  | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted to IEEE UEMCON 2025</p></details> |
-| **[SpeechJudge: Towards Human-Level Judgment for Speech Naturalness](https://arxiv.org/abs/2511.07931v2)** |  | 2025-11-30 | <details><summary>Datas...</summary><p>Dataset, Model, and Code: https://github.com/AmphionTeam/SpeechJudge</p></details> |
-| **[Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts](https://arxiv.org/abs/2311.01070v4)** |  | 2025-11-29 | <details><summary>Accep...</summary><p>Accepted and Presented at IEEE ICASSP 2024 (this is extended version)</p></details> |
-| **[OmniFusion: Simultaneous Multilingual Multimodal Translations via Modular Fusion](https://arxiv.org/abs/2512.00234v1)** |  | 2025-11-28 | <details><summary>Prepr...</summary><p>Preprint for ACL 2026</p></details> |
-| **[LFM2 Technical Report](https://arxiv.org/abs/2511.23404v1)** |  | 2025-11-28 |  |
-| **[Scaling HuBERT for African Languages: From Base to Large and XL](https://arxiv.org/abs/2511.23370v1)** |  | 2025-11-28 | <details><summary>Journ...</summary><p>Journée d'études AFIA-ATALA 2025 : Technologies linguistiques pour les langues peu dotées</p></details> |
-| **[HPSU: A Benchmark for Human-Level Perception in Real-World Spoken Speech Understanding](https://arxiv.org/abs/2511.23178v1)** |  | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[FEANEL: A Benchmark for Fine-Grained Error Analysis in K-12 English Writing](https://arxiv.org/abs/2511.22883v1)** |  | 2025-11-28 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, and 4 tables. The dataset is available at https://huggingface.co/datasets/Feanel/FEANEL</p></details> |
+| **[Dialect Identification Using Resource-Efficient Fine-Tuning Approaches](https://arxiv.org/abs/2512.02074v1)** |  | 2025-11-30 | <details><summary>Publi...</summary><p>Published in APSIPA ASC 2025</p></details> |
