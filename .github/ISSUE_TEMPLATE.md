@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - December 04, 2025
+title: Latest Papers - December 05, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -64,6 +64,8 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue](https://arxiv.org/abs/2510.13747v2)** |  | 2025-12-03 |  |
+| **[NLP Datasets for Idiom and Figurative Language Tasks](https://arxiv.org/abs/2511.16345v2)** |  | 2025-12-03 | 32 pages, 10 figures |
 | **[Bangla Hate Speech Classification with Fine-tuned Transformer Models](https://arxiv.org/abs/2512.02845v1)** |  | 2025-12-02 |  |
 | **[BOOM: Beyond Only One Modality KIT's Multimodal Multilingual Lecture Companion](https://arxiv.org/abs/2512.02817v1)** |  | 2025-12-02 | Under review |
 | **[Reasoning-Aware Multimodal Fusion for Hateful Video Detection](https://arxiv.org/abs/2512.02743v1)** |  | 2025-12-02 |  |
@@ -77,5 +79,3 @@ labels: documentation
 | **[SpeechIQ: Speech-Agentic Intelligence Quotient Across Cognitive Levels in Voice Understanding by Large Language Models](https://arxiv.org/abs/2507.19361v2)** |  | 2025-12-01 | <details><summary>ACL 2...</summary><p>ACL 2025 main. Our Speech-IQ leaderboard is hosted at huggingface.co/spaces/nvidia/Speech-IQ-leaderboard. Speech-IQ Calculator: https://github.com/YukinoWan/SpeechIQ</p></details> |
 | **[NeKo: Cross-Modality Post-Recognition Error Correction with Tasks-Guided Mixture-of-Experts Language Model](https://arxiv.org/abs/2411.05945v2)** |  | 2025-12-01 | <details><summary>ACL 2...</summary><p>ACL 2025 Industry Track. NeKo LMs: https://huggingface.co/nvidia/NeKo-v0-post-correction</p></details> |
 | **[fMRI2GES: Co-speech Gesture Reconstruction from fMRI Signal with Dual Brain Decoding Alignment](https://arxiv.org/abs/2512.01189v1)** |  | 2025-12-01 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2025</p></details> |
-| **[Comparative Evaluation of Expressive Japanese Character Text-to-Speech with VITS and Style-BERT-VITS2](https://arxiv.org/abs/2505.17320v2)** |  | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted to IEEE UEMCON 2025</p></details> |
-| **[Dialect Identification Using Resource-Efficient Fine-Tuning Approaches](https://arxiv.org/abs/2512.02074v1)** |  | 2025-11-30 | <details><summary>Publi...</summary><p>Published in APSIPA ASC 2025</p></details> |
