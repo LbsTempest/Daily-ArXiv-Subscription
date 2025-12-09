@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - December 09, 2025
+title: Latest Papers - December 10, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Is Self-Supervised Learning Enough to Fill in the Gap? A Study on Speech Inpainting](https://arxiv.org/abs/2405.20101v2)** |  | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted for publication to Computer Speech and Language journal (to appear)</p></details> |
 | **[M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis](https://arxiv.org/abs/2512.04720v1)** |  | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[SpeechJudge: Towards Human-Level Judgment for Speech Naturalness](https://arxiv.org/abs/2511.07931v2)** |  | 2025-11-30 | <details><summary>Datas...</summary><p>Dataset, Model, and Code: https://github.com/AmphionTeam/SpeechJudge</p></details> |
 | **[GLA-Grad++: An Improved Griffin-Lim Guided Diffusion Model for Speech Synthesis](https://arxiv.org/abs/2511.22293v1)** |  | 2025-11-27 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Lina-Speech: Gated Linear Attention and Initial-State Tuning for Multi-Sample Prompting Text-To-Speech Synthesis](https://arxiv.org/abs/2410.23320v2)** |  | 2025-11-15 | <details><summary>Audio...</summary><p>Audio-AAAI Workshop, 2026</p></details> |
 | **[Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding](https://arxiv.org/abs/2509.04685v3)** |  | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Project page: https://zhengrachel.github.io/VARSTok</p></details> |
 | **[VocalNet-M2: Advancing Low-Latency Spoken Language Modeling via Integrated Multi-Codebook Tokenization and Multi-Token Prediction](https://arxiv.org/abs/2511.10232v1)** |  | 2025-11-13 |  |
-| **[Speech Recognition Model Improves Text-to-Speech Synthesis using Fine-Grained Reward](https://arxiv.org/abs/2511.17555v1)** |  | 2025-11-12 | <details><summary>The p...</summary><p>The paper makes an important contribution to the very challenging problem of training TTS models, with a novel application of reinforcement learning and demonstrating convincing improvements</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
