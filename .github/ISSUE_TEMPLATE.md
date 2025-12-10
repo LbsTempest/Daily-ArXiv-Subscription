@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - December 10, 2025
+title: Latest Papers - December 11, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Beyond Unified Models: A Service-Oriented Approach to Low Latency, Context Aware Phonemization for Real Time TTS](https://arxiv.org/abs/2512.08006v1)** |  | 2025-12-08 |  |
 | **[M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis](https://arxiv.org/abs/2512.04720v1)** |  | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS](https://arxiv.org/abs/2512.04552v1)** |  | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026. Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 | **[FR-TTS: Test-Time Scaling for NTP-based Image Generation with Effective Filling-based Reward Signal](https://arxiv.org/abs/2512.00438v1)** |  | 2025-11-29 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering](https://arxiv.org/abs/2508.03543v3)** |  | 2025-10-25 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 3 tables</p></details> |
 | **[Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](https://arxiv.org/abs/2510.12995v2)** |  | 2025-10-23 |  |
 | **[Vox-Evaluator: Enhancing Stability and Fidelity for Zero-shot TTS with A Multi-Level Evaluator](https://arxiv.org/abs/2510.20210v1)** |  | 2025-10-23 | 10 pages, 5 figures |
-| **[DiEmo-TTS: Disentangled Emotion Representations via Self-Supervised Distillation for Cross-Speaker Emotion Transfer in Text-to-Speech](https://arxiv.org/abs/2505.19687v2)** |  | 2025-10-17 | <details><summary>Proce...</summary><p>Proceedings of Interspeech 2025</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
