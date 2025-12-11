@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - December 11, 2025
+title: Latest Papers - December 12, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[DMP-TTS: Disentangled multi-modal Prompting for Controllable Text-to-Speech with Chained Guidance](https://arxiv.org/abs/2512.09504v1)** |  | 2025-12-10 |  |
 | **[Beyond Unified Models: A Service-Oriented Approach to Low Latency, Context Aware Phonemization for Real Time TTS](https://arxiv.org/abs/2512.08006v1)** |  | 2025-12-08 |  |
 | **[M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis](https://arxiv.org/abs/2512.04720v1)** |  | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS](https://arxiv.org/abs/2512.04552v1)** |  | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026. Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[SP-MCQA: Evaluating Intelligibility of TTS Beyond the Word Level](https://arxiv.org/abs/2510.26190v1)** |  | 2025-10-30 |  |
 | **[EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering](https://arxiv.org/abs/2508.03543v3)** |  | 2025-10-25 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 3 tables</p></details> |
 | **[Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](https://arxiv.org/abs/2510.12995v2)** |  | 2025-10-23 |  |
-| **[Vox-Evaluator: Enhancing Stability and Fidelity for Zero-shot TTS with A Multi-Level Evaluator](https://arxiv.org/abs/2510.20210v1)** |  | 2025-10-23 | 10 pages, 5 figures |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
