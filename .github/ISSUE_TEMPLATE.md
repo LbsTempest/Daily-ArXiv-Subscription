@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - December 12, 2025
+title: Latest Papers - December 15, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences](https://arxiv.org/abs/2512.10918v1)** |  | 2025-12-11 | 11 pages |
 | **[Is Self-Supervised Learning Enough to Fill in the Gap? A Study on Speech Inpainting](https://arxiv.org/abs/2405.20101v2)** |  | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted for publication to Computer Speech and Language journal (to appear)</p></details> |
 | **[M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis](https://arxiv.org/abs/2512.04720v1)** |  | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[SpeechJudge: Towards Human-Level Judgment for Speech Naturalness](https://arxiv.org/abs/2511.07931v2)** |  | 2025-11-30 | <details><summary>Datas...</summary><p>Dataset, Model, and Code: https://github.com/AmphionTeam/SpeechJudge</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[VoiceCraft-X: Unifying Multilingual, Voice-Cloning Speech Synthesis and Speech Editing](https://arxiv.org/abs/2511.12347v1)** |  | 2025-11-15 | <details><summary>EMNLP...</summary><p>EMNLP 2025. Demo and code are available at https://zhishengzheng.com/voicecraft-x/</p></details> |
 | **[Lina-Speech: Gated Linear Attention and Initial-State Tuning for Multi-Sample Prompting Text-To-Speech Synthesis](https://arxiv.org/abs/2410.23320v2)** |  | 2025-11-15 | <details><summary>Audio...</summary><p>Audio-AAAI Workshop, 2026</p></details> |
 | **[Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding](https://arxiv.org/abs/2509.04685v3)** |  | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Project page: https://zhengrachel.github.io/VARSTok</p></details> |
-| **[VocalNet-M2: Advancing Low-Latency Spoken Language Modeling via Integrated Multi-Codebook Tokenization and Multi-Token Prediction](https://arxiv.org/abs/2511.10232v1)** |  | 2025-11-13 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[BRACE: A Benchmark for Robust Audio Caption Quality Evaluation](https://arxiv.org/abs/2512.10403v1)** |  | 2025-12-11 |  |
+| **[Semantic-Aware Confidence Calibration for Automated Audio Captioning](https://arxiv.org/abs/2512.10170v1)** |  | 2025-12-11 | 5 pages, 2 figures |
 | **[Spatial Blind Spot: Auditory Motion Perception Deficits in Audio LLMs](https://arxiv.org/abs/2511.13273v1)** |  | 2025-11-17 |  |
 | **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](https://arxiv.org/abs/2508.03983v2)** |  | 2025-11-13 |  |
 | **[DIFFA: Large Language Diffusion Models Can Listen and Understand](https://arxiv.org/abs/2507.18452v3)** |  | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
@@ -58,8 +60,6 @@ labels: documentation
 | **[When Audio Generators Become Good Listeners: Generative Features for Understanding Tasks](https://arxiv.org/abs/2509.24635v1)** |  | 2025-09-29 |  |
 | **[CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech](https://arxiv.org/abs/2506.02863v2)** |  | 2025-09-26 |  |
 | **[From Contrast to Commonality: Audio Commonality Captioning for Enhanced Audio-Text Cross-modal Understanding in Multimodal LLMs](https://arxiv.org/abs/2508.01659v2)** |  | 2025-09-22 |  |
-| **[Qwen3-Omni Technical Report](https://arxiv.org/abs/2509.17765v1)** |  | 2025-09-22 | <details><summary>https...</summary><p>https://github.com/QwenLM/Qwen3-Omni</p></details> |
-| **[Enhancing Speech Large Language Models with Prompt-Aware Mixture of Audio Encoders](https://arxiv.org/abs/2502.15178v3)** |  | 2025-09-19 | <details><summary>16 pa...</summary><p>16 pages,5 figures, 13 tables, to be published in EMNLP 2025 main conference</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
