@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - December 19, 2025
+title: Latest Papers - December 22, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,8 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec](https://arxiv.org/abs/2512.13251v2)** |  | 2025-12-18 |  |
 | **[GLM-TTS Technical Report](https://arxiv.org/abs/2512.14291v1)** |  | 2025-12-16 |  |
-| **[DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec](https://arxiv.org/abs/2512.13251v1)** |  | 2025-12-15 |  |
 | **[CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences](https://arxiv.org/abs/2512.10918v1)** |  | 2025-12-11 | 11 pages |
 | **[Is Self-Supervised Learning Enough to Fill in the Gap? A Study on Speech Inpainting](https://arxiv.org/abs/2405.20101v2)** |  | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted for publication to Computer Speech and Language journal (to appear)</p></details> |
 | **[M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis](https://arxiv.org/abs/2512.04720v1)** |  | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
