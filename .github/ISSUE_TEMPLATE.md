@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - December 23, 2025
+title: Latest Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis](https://arxiv.org/abs/2512.18699v1)** |  | 2025-12-21 |  |
 | **[DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec](https://arxiv.org/abs/2512.13251v2)** |  | 2025-12-18 |  |
 | **[GLM-TTS Technical Report](https://arxiv.org/abs/2512.14291v1)** |  | 2025-12-16 |  |
 | **[CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences](https://arxiv.org/abs/2512.10918v1)** |  | 2025-12-11 | 11 pages |
@@ -21,11 +22,12 @@ labels: documentation
 | **[SceneGuard: Training-Time Voice Protection with Scene-Consistent Audible Background Noise](https://arxiv.org/abs/2511.16114v1)** |  | 2025-11-20 |  |
 | **[Beyond Statistical Similarity: Rethinking Metrics for Deep Generative Models in Engineering Design](https://arxiv.org/abs/2302.02913v5)** |  | 2025-11-17 |  |
 | **[Hi-Reco: High-Fidelity Real-Time Conversational Digital Humans](https://arxiv.org/abs/2511.12662v1)** |  | 2025-11-16 | <details><summary>Proce...</summary><p>Proceedings of the Computer Graphics International 2025 (CGI'25)</p></details> |
-| **[VoiceCraft-X: Unifying Multilingual, Voice-Cloning Speech Synthesis and Speech Editing](https://arxiv.org/abs/2511.12347v1)** |  | 2025-11-15 | <details><summary>EMNLP...</summary><p>EMNLP 2025. Demo and code are available at https://zhishengzheng.com/voicecraft-x/</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models](https://arxiv.org/abs/2512.19433v1)** |  | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://github.com/Alpha-VLLM/Lumina-DiMOO</p></details> |
+| **[Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis](https://arxiv.org/abs/2512.18699v1)** |  | 2025-12-21 |  |
 | **[Robust TTS Training via Self-Purifying Flow Matching for the WildSpoof 2026 TTS Track](https://arxiv.org/abs/2512.17293v1)** |  | 2025-12-19 | <details><summary>2 pag...</summary><p>2 pages, preprint, This work has been submitted to the IEEE for possible publication. Submitted to ICASSP 2026 SPGC (WildSpoof Challenge, TTS track)</p></details> |
 | **[GLM-TTS Technical Report](https://arxiv.org/abs/2512.14291v1)** |  | 2025-12-16 |  |
 | **[F5-TTS-RO: Extending F5-TTS to Romanian TTS via Lightweight Input Adaptation](https://arxiv.org/abs/2512.12297v1)** |  | 2025-12-13 | <details><summary>Accep...</summary><p>Accepted at The 20th International Conference on Linguistic Resources and Tools for Natural Language Processing</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[SyncVoice: Towards Video Dubbing with Vision-Augmented Pretrained TTS Model](https://arxiv.org/abs/2512.05126v1)** |  | 2025-11-23 |  |
 | **[UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models](https://arxiv.org/abs/2510.04593v2)** |  | 2025-11-20 |  |
 | **[TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data](https://arxiv.org/abs/2506.15614v3)** |  | 2025-11-11 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Audio, Speech and Language Processing</p></details> |
-| **[TT-Edge: A Hardware-Software Co-Design for Energy-Efficient Tensor-Train Decomposition on Edge AI](https://arxiv.org/abs/2511.13738v1)** |  | 2025-11-07 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 4 Tables, DATE 2026 accepted paper</p></details> |
-| **[TT-Prune: Joint Model Pruning and Resource Allocation for Communication-efficient Time-triggered Federated Learning](https://arxiv.org/abs/2511.04653v1)** |  | 2025-11-06 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
