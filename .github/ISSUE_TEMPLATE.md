@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - December 24, 2025
+title: Latest Papers - December 25, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[DrVoice: Parallel Speech-Text Voice Conversation Model via Dual-Resolution Speech Representations](https://arxiv.org/abs/2506.09349v4)** |  | 2025-12-23 | Work in progress |
 | **[Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis](https://arxiv.org/abs/2512.18699v1)** |  | 2025-12-21 |  |
 | **[DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec](https://arxiv.org/abs/2512.13251v2)** |  | 2025-12-18 |  |
 | **[GLM-TTS Technical Report](https://arxiv.org/abs/2512.14291v1)** |  | 2025-12-16 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Codec2Vec: Self-Supervised Speech Representation Learning Using Neural Speech Codecs](https://arxiv.org/abs/2511.16639v1)** |  | 2025-11-20 | <details><summary>To be...</summary><p>To be presented at ASRU 2025</p></details> |
 | **[SceneGuard: Training-Time Voice Protection with Scene-Consistent Audible Background Noise](https://arxiv.org/abs/2511.16114v1)** |  | 2025-11-20 |  |
 | **[Beyond Statistical Similarity: Rethinking Metrics for Deep Generative Models in Engineering Design](https://arxiv.org/abs/2302.02913v5)** |  | 2025-11-17 |  |
-| **[Hi-Reco: High-Fidelity Real-Time Conversational Digital Humans](https://arxiv.org/abs/2511.12662v1)** |  | 2025-11-16 | <details><summary>Proce...</summary><p>Proceedings of the Computer Graphics International 2025 (CGI'25)</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
