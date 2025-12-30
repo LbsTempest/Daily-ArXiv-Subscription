@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - December 30, 2025
+title: Latest Papers - December 31, 2025
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration](https://arxiv.org/abs/2512.23300v1)** |  | 2025-12-29 | ACL 2025 demo |
+| **[ManchuTTS: Towards High-Quality Manchu Speech Synthesis via Flow Matching and Hierarchical Text Representation](https://arxiv.org/abs/2512.22491v1)** |  | 2025-12-27 |  |
 | **[Zero-Shot to Zero-Lies: Detecting Bengali Deepfake Audio through Transfer Learning](https://arxiv.org/abs/2512.21702v1)** |  | 2025-12-25 | <details><summary>Accep...</summary><p>Accepted for publication in 2025 28th International Conference on Computer and Information Technology (ICCIT)</p></details> |
 | **[DrVoice: Parallel Speech-Text Voice Conversation Model via Dual-Resolution Speech Representations](https://arxiv.org/abs/2506.09349v4)** |  | 2025-12-23 | Work in progress |
 | **[Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis](https://arxiv.org/abs/2512.18699v1)** |  | 2025-12-21 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Continual Audio Deepfake Detection via Universal Adversarial Perturbation](https://arxiv.org/abs/2511.19974v1)** |  | 2025-11-25 |  |
 | **[SyncVoice: Towards Video Dubbing with Vision-Augmented Pretrained TTS Model](https://arxiv.org/abs/2512.05126v1)** |  | 2025-11-23 |  |
 | **[InstructAudio: Unified speech and music generation with natural language instruction](https://arxiv.org/abs/2511.18487v1)** |  | 2025-11-23 |  |
-| **[Codec2Vec: Self-Supervised Speech Representation Learning Using Neural Speech Codecs](https://arxiv.org/abs/2511.16639v1)** |  | 2025-11-20 | <details><summary>To be...</summary><p>To be presented at ASRU 2025</p></details> |
-| **[SceneGuard: Training-Time Voice Protection with Scene-Consistent Audible Background Noise](https://arxiv.org/abs/2511.16114v1)** |  | 2025-11-20 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
