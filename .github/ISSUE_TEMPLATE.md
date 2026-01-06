@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - January 06, 2026
+title: Latest Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,12 +7,13 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[OV-InstructTTS: Towards Open-Vocabulary Instruct Text-to-Speech](https://arxiv.org/abs/2601.01459v1)** |  | 2026-01-04 |  |
+| **[DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec](https://arxiv.org/abs/2512.13251v3)** |  | 2026-01-04 | <details><summary>Updat...</summary><p>Updated with 6,000 hours of additional training data and improved performance. Expanded appendix with ablation studies, training objectives, and hyperparameter settings for better reproducibility. Audio and code links included</p></details> |
 | **[AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration](https://arxiv.org/abs/2512.23300v1)** |  | 2025-12-29 | ACL 2025 demo |
 | **[ManchuTTS: Towards High-Quality Manchu Speech Synthesis via Flow Matching and Hierarchical Text Representation](https://arxiv.org/abs/2512.22491v1)** |  | 2025-12-27 |  |
 | **[Zero-Shot to Zero-Lies: Detecting Bengali Deepfake Audio through Transfer Learning](https://arxiv.org/abs/2512.21702v1)** |  | 2025-12-25 | <details><summary>Accep...</summary><p>Accepted for publication in 2025 28th International Conference on Computer and Information Technology (ICCIT)</p></details> |
 | **[DrVoice: Parallel Speech-Text Voice Conversation Model via Dual-Resolution Speech Representations](https://arxiv.org/abs/2506.09349v4)** |  | 2025-12-23 | Work in progress |
 | **[Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis](https://arxiv.org/abs/2512.18699v1)** |  | 2025-12-21 |  |
-| **[DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec](https://arxiv.org/abs/2512.13251v2)** |  | 2025-12-18 |  |
 | **[GLM-TTS Technical Report](https://arxiv.org/abs/2512.14291v1)** |  | 2025-12-16 |  |
 | **[CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences](https://arxiv.org/abs/2512.10918v1)** |  | 2025-12-11 | 11 pages |
 | **[Is Self-Supervised Learning Enough to Fill in the Gap? A Study on Speech Inpainting](https://arxiv.org/abs/2405.20101v2)** |  | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted for publication to Computer Speech and Language journal (to appear)</p></details> |
@@ -21,11 +22,12 @@ labels: documentation
 | **[GLA-Grad++: An Improved Griffin-Lim Guided Diffusion Model for Speech Synthesis](https://arxiv.org/abs/2511.22293v1)** |  | 2025-11-27 |  |
 | **[Continual Audio Deepfake Detection via Universal Adversarial Perturbation](https://arxiv.org/abs/2511.19974v1)** |  | 2025-11-25 |  |
 | **[SyncVoice: Towards Video Dubbing with Vision-Augmented Pretrained TTS Model](https://arxiv.org/abs/2512.05126v1)** |  | 2025-11-23 |  |
-| **[InstructAudio: Unified speech and music generation with natural language instruction](https://arxiv.org/abs/2511.18487v1)** |  | 2025-11-23 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[TT-FSI: Scalable Faithful Shapley Interactions via Tensor-Train](https://arxiv.org/abs/2601.01903v1)** |  | 2026-01-05 |  |
+| **[Improving Code-Switching Speech Recognition with TTS Data Augmentation](https://arxiv.org/abs/2601.00935v1)** |  | 2026-01-02 | <details><summary>This ...</summary><p>This paper was accepted by APSIPA 2025</p></details> |
 | **[dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models](https://arxiv.org/abs/2512.19433v1)** |  | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://github.com/Alpha-VLLM/Lumina-DiMOO</p></details> |
 | **[Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis](https://arxiv.org/abs/2512.18699v1)** |  | 2025-12-21 |  |
 | **[Robust TTS Training via Self-Purifying Flow Matching for the WildSpoof 2026 TTS Track](https://arxiv.org/abs/2512.17293v1)** |  | 2025-12-19 | <details><summary>2 pag...</summary><p>2 pages, preprint, This work has been submitted to the IEEE for possible publication. Submitted to ICASSP 2026 SPGC (WildSpoof Challenge, TTS track)</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale](https://arxiv.org/abs/2511.21270v1)** |  | 2025-11-26 | 4 pages, 2 figures |
 | **[SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech](https://arxiv.org/abs/2511.07821v2)** |  | 2025-11-24 |  |
 | **[SyncVoice: Towards Video Dubbing with Vision-Augmented Pretrained TTS Model](https://arxiv.org/abs/2512.05126v1)** |  | 2025-11-23 |  |
-| **[UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models](https://arxiv.org/abs/2510.04593v2)** |  | 2025-11-20 |  |
-| **[TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data](https://arxiv.org/abs/2506.15614v3)** |  | 2025-11-11 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Audio, Speech and Language Processing</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Bridging the gap: A comparative exploration of Speech-LLM and end-to-end architecture for multilingual conversational ASR](https://arxiv.org/abs/2601.01461v1)** |  | 2026-01-04 | 5 pages, 1 figure |
 | **[Adapting Speech Language Model to Singing Voice Synthesis](https://arxiv.org/abs/2512.14657v1)** |  | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 workshop AI for Music</p></details> |
 | **[ViBES: A Conversational Agent with Behaviorally-Intelligent 3D Virtual Body](https://arxiv.org/abs/2512.14234v1)** |  | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://ai.stanford.edu/~juze/ViBES/</p></details> |
 | **[SAC: Neural Speech Codec with Semantic-Acoustic Dual-Stream Quantization](https://arxiv.org/abs/2510.16841v2)** |  | 2025-12-14 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[VoiceAgentBench: Are Voice Assistants ready for agentic tasks?](https://arxiv.org/abs/2510.07978v2)** |  | 2025-11-05 |  |
 | **[FastLongSpeech: Enhancing Large Speech-Language Models for Efficient Long-Speech Processing](https://arxiv.org/abs/2507.14815v2)** |  | 2025-10-31 | <details><summary>NeurI...</summary><p>NeurIPS 2025. The code is at https://github.com/ictnlp/FastLongSpeech. This model is at https://huggingface.co/ICTNLP/FastLongSpeech. The dataset is at https://huggingface.co/datasets/ICTNLP/LongSpeech-Eval</p></details> |
 | **[OpenS2S: Advancing Fully Open-Source End-to-End Empathetic Large Speech Language Model](https://arxiv.org/abs/2507.05177v3)** |  | 2025-10-27 | <details><summary>Techn...</summary><p>Technical Report, Update on OpenS2S_v1.5</p></details> |
-| **[Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation](https://arxiv.org/abs/2511.05516v1)** |  | 2025-10-26 | 32 pages, 8 figures |
