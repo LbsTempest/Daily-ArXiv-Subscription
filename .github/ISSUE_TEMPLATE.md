@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - January 08, 2026
+title: Latest Papers - January 09, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Stuttering-Aware Automatic Speech Recognition for Indonesian Language](https://arxiv.org/abs/2601.03727v1)** |  | 2026-01-07 | Preprint |
+| **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v1)** |  | 2026-01-07 |  |
+| **[Tigrinya Number Verbalization: Rules, Algorithm, and Implementation](https://arxiv.org/abs/2601.03403v1)** |  | 2026-01-06 |  |
 | **[Vulnerabilities of Audio-Based Biometric Authentication Systems Against Deepfake Speech Synthesis](https://arxiv.org/abs/2601.02914v1)** |  | 2026-01-06 |  |
 | **[VocalBridge: Latent Diffusion-Bridge Purification for Defeating Perturbation-Based Voiceprint Defenses](https://arxiv.org/abs/2601.02444v1)** |  | 2026-01-05 |  |
 | **[OV-InstructTTS: Towards Open-Vocabulary Instruct Text-to-Speech](https://arxiv.org/abs/2601.01459v1)** |  | 2026-01-04 |  |
@@ -19,13 +22,12 @@ labels: documentation
 | **[GLM-TTS Technical Report](https://arxiv.org/abs/2512.14291v1)** |  | 2025-12-16 |  |
 | **[CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences](https://arxiv.org/abs/2512.10918v1)** |  | 2025-12-11 | 11 pages |
 | **[Is Self-Supervised Learning Enough to Fill in the Gap? A Study on Speech Inpainting](https://arxiv.org/abs/2405.20101v2)** |  | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted for publication to Computer Speech and Language journal (to appear)</p></details> |
-| **[M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis](https://arxiv.org/abs/2512.04720v1)** |  | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
-| **[SpeechJudge: Towards Human-Level Judgment for Speech Naturalness](https://arxiv.org/abs/2511.07931v2)** |  | 2025-11-30 | <details><summary>Datas...</summary><p>Dataset, Model, and Code: https://github.com/AmphionTeam/SpeechJudge</p></details> |
-| **[GLA-Grad++: An Improved Griffin-Lim Guided Diffusion Model for Speech Synthesis](https://arxiv.org/abs/2511.22293v1)** |  | 2025-11-27 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[DiFlow-TTS: Compact and Low-Latency Zero-Shot Text-to-Speech with Factorized Discrete Flow Matching](https://arxiv.org/abs/2509.09631v3)** |  | 2026-01-07 |  |
+| **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v1)** |  | 2026-01-07 |  |
 | **[TT-FSI: Scalable Faithful Shapley Interactions via Tensor-Train](https://arxiv.org/abs/2601.01903v1)** |  | 2026-01-05 |  |
 | **[Improving Code-Switching Speech Recognition with TTS Data Augmentation](https://arxiv.org/abs/2601.00935v1)** |  | 2026-01-02 | <details><summary>This ...</summary><p>This paper was accepted by APSIPA 2025</p></details> |
 | **[dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models](https://arxiv.org/abs/2512.19433v1)** |  | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://github.com/Alpha-VLLM/Lumina-DiMOO</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS](https://arxiv.org/abs/2512.04552v1)** |  | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026. Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 | **[FR-TTS: Test-Time Scaling for NTP-based Image Generation with Effective Filling-based Reward Signal](https://arxiv.org/abs/2512.00438v1)** |  | 2025-11-29 |  |
 | **[Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale](https://arxiv.org/abs/2511.21270v1)** |  | 2025-11-26 | 4 pages, 2 figures |
-| **[SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech](https://arxiv.org/abs/2511.07821v2)** |  | 2025-11-24 |  |
-| **[SyncVoice: Towards Video Dubbing with Vision-Augmented Pretrained TTS Model](https://arxiv.org/abs/2512.05126v1)** |  | 2025-11-23 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
