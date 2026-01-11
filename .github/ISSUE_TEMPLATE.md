@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - January 09, 2026
+title: Latest Papers - January 12, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[FlexiVoice: Enabling Flexible Style Control in Zero-Shot TTS with Natural Language Instructions](https://arxiv.org/abs/2601.04656v1)** |  | 2026-01-08 |  |
 | **[DiFlow-TTS: Compact and Low-Latency Zero-Shot Text-to-Speech with Factorized Discrete Flow Matching](https://arxiv.org/abs/2509.09631v3)** |  | 2026-01-07 |  |
 | **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v1)** |  | 2026-01-07 |  |
 | **[TT-FSI: Scalable Faithful Shapley Interactions via Tensor-Train](https://arxiv.org/abs/2601.01903v1)** |  | 2026-01-05 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis](https://arxiv.org/abs/2512.04720v1)** |  | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS](https://arxiv.org/abs/2512.04552v1)** |  | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026. Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 | **[FR-TTS: Test-Time Scaling for NTP-based Image Generation with Effective Filling-based Reward Signal](https://arxiv.org/abs/2512.00438v1)** |  | 2025-11-29 |  |
-| **[Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale](https://arxiv.org/abs/2511.21270v1)** |  | 2025-11-26 | 4 pages, 2 figures |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[LAMB: LLM-based Audio Captioning with Modality Gap Bridging via Cauchy-Schwarz Divergence](https://arxiv.org/abs/2601.04658v1)** |  | 2026-01-08 | 5 pages, 2 figures; |
 | **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v1)** |  | 2026-01-06 |  |
 | **[BRACE: A Benchmark for Robust Audio Caption Quality Evaluation](https://arxiv.org/abs/2512.10403v1)** |  | 2025-12-11 |  |
 | **[Semantic-Aware Confidence Calibration for Automated Audio Captioning](https://arxiv.org/abs/2512.10170v1)** |  | 2025-12-11 | 5 pages, 2 figures |
@@ -59,11 +60,11 @@ labels: documentation
 | **[AURA Score: A Metric For Holistic Audio Question Answering Evaluation](https://arxiv.org/abs/2510.04934v1)** |  | 2025-10-06 |  |
 | **[Taming Text-to-Sounding Video Generation via Advanced Modality Condition and Interaction](https://arxiv.org/abs/2510.03117v1)** |  | 2025-10-03 |  |
 | **[When Audio Generators Become Good Listeners: Generative Features for Understanding Tasks](https://arxiv.org/abs/2509.24635v1)** |  | 2025-09-29 |  |
-| **[CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech](https://arxiv.org/abs/2506.02863v2)** |  | 2025-09-26 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SpeechMedAssist: Efficiently and Effectively Adapting Speech Language Models for Medical Consultation](https://arxiv.org/abs/2601.04638v1)** |  | 2026-01-08 |  |
 | **[Bridging the gap: A comparative exploration of Speech-LLM and end-to-end architecture for multilingual conversational ASR](https://arxiv.org/abs/2601.01461v1)** |  | 2026-01-04 | 5 pages, 1 figure |
 | **[Adapting Speech Language Model to Singing Voice Synthesis](https://arxiv.org/abs/2512.14657v1)** |  | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 workshop AI for Music</p></details> |
 | **[ViBES: A Conversational Agent with Behaviorally-Intelligent 3D Virtual Body](https://arxiv.org/abs/2512.14234v1)** |  | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://ai.stanford.edu/~juze/ViBES/</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[Hearing More with Less: Multi-Modal Retrieval-and-Selection Augmented Conversational LLM-Based ASR](https://arxiv.org/abs/2508.01166v2)** |  | 2025-11-12 | AAAI 2026 |
 | **[VoiceAgentBench: Are Voice Assistants ready for agentic tasks?](https://arxiv.org/abs/2510.07978v2)** |  | 2025-11-05 |  |
 | **[FastLongSpeech: Enhancing Large Speech-Language Models for Efficient Long-Speech Processing](https://arxiv.org/abs/2507.14815v2)** |  | 2025-10-31 | <details><summary>NeurI...</summary><p>NeurIPS 2025. The code is at https://github.com/ictnlp/FastLongSpeech. This model is at https://huggingface.co/ICTNLP/FastLongSpeech. The dataset is at https://huggingface.co/datasets/ICTNLP/LongSpeech-Eval</p></details> |
-| **[OpenS2S: Advancing Fully Open-Source End-to-End Empathetic Large Speech Language Model](https://arxiv.org/abs/2507.05177v3)** |  | 2025-10-27 | <details><summary>Techn...</summary><p>Technical Report, Update on OpenS2S_v1.5</p></details> |
