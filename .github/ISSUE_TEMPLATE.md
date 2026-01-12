@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - January 12, 2026
+title: Latest Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SPAM: Style Prompt Adherence Metric for Prompt-based TTS](https://arxiv.org/abs/2601.05554v1)** |  | 2026-01-09 |  |
 | **[FlexiVoice: Enabling Flexible Style Control in Zero-Shot TTS with Natural Language Instructions](https://arxiv.org/abs/2601.04656v1)** |  | 2026-01-08 |  |
 | **[DiFlow-TTS: Compact and Low-Latency Zero-Shot Text-to-Speech with Factorized Discrete Flow Matching](https://arxiv.org/abs/2509.09631v3)** |  | 2026-01-07 |  |
 | **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v1)** |  | 2026-01-07 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Beyond Unified Models: A Service-Oriented Approach to Low Latency, Context Aware Phonemization for Real Time TTS](https://arxiv.org/abs/2512.08006v1)** |  | 2025-12-08 |  |
 | **[M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis](https://arxiv.org/abs/2512.04720v1)** |  | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS](https://arxiv.org/abs/2512.04552v1)** |  | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026. Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[FR-TTS: Test-Time Scaling for NTP-based Image Generation with Effective Filling-based Reward Signal](https://arxiv.org/abs/2512.00438v1)** |  | 2025-11-29 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
