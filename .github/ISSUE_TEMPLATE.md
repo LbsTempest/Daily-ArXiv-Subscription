@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - January 14, 2026
+title: Latest Papers - January 15, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Decoding Order Matters in Autoregressive Speech Synthesis](https://arxiv.org/abs/2601.08450v1)** |  | 2026-01-13 |  |
 | **[Word-Level Emotional Expression Control in Zero-Shot Text-to-Speech Synthesis](https://arxiv.org/abs/2509.24629v2)** |  | 2026-01-11 |  |
 | **[Lightweight Resolution-Aware Audio Deepfake Detection via Cross-Scale Attention and Consistency Learning](https://arxiv.org/abs/2601.06560v1)** |  | 2026-01-10 |  |
 | **[Stuttering-Aware Automatic Speech Recognition for Indonesian Language](https://arxiv.org/abs/2601.03727v1)** |  | 2026-01-07 | Preprint |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Zero-Shot to Zero-Lies: Detecting Bengali Deepfake Audio through Transfer Learning](https://arxiv.org/abs/2512.21702v1)** |  | 2025-12-25 | <details><summary>Accep...</summary><p>Accepted for publication in 2025 28th International Conference on Computer and Information Technology (ICCIT)</p></details> |
 | **[DrVoice: Parallel Speech-Text Voice Conversation Model via Dual-Resolution Speech Representations](https://arxiv.org/abs/2506.09349v4)** |  | 2025-12-23 | Work in progress |
 | **[Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis](https://arxiv.org/abs/2512.18699v1)** |  | 2025-12-21 |  |
-| **[GLM-TTS Technical Report](https://arxiv.org/abs/2512.14291v1)** |  | 2025-12-16 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
