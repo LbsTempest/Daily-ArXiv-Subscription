@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - January 15, 2026
+title: Latest Papers - January 16, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,10 +7,10 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Stuttering-Aware Automatic Speech Recognition for Indonesian Language](https://arxiv.org/abs/2601.03727v2)** |  | 2026-01-14 | Preprint |
 | **[Decoding Order Matters in Autoregressive Speech Synthesis](https://arxiv.org/abs/2601.08450v1)** |  | 2026-01-13 |  |
 | **[Word-Level Emotional Expression Control in Zero-Shot Text-to-Speech Synthesis](https://arxiv.org/abs/2509.24629v2)** |  | 2026-01-11 |  |
 | **[Lightweight Resolution-Aware Audio Deepfake Detection via Cross-Scale Attention and Consistency Learning](https://arxiv.org/abs/2601.06560v1)** |  | 2026-01-10 |  |
-| **[Stuttering-Aware Automatic Speech Recognition for Indonesian Language](https://arxiv.org/abs/2601.03727v1)** |  | 2026-01-07 | Preprint |
 | **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v1)** |  | 2026-01-07 |  |
 | **[Tigrinya Number Verbalization: Rules, Algorithm, and Implementation](https://arxiv.org/abs/2601.03403v1)** |  | 2026-01-06 |  |
 | **[Vulnerabilities of Audio-Based Biometric Authentication Systems Against Deepfake Speech Synthesis](https://arxiv.org/abs/2601.02914v1)** |  | 2026-01-06 |  |
@@ -45,6 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SLAM-LLM: A Modular, Open-Source Multimodal Large Language Model Framework and Best Practice for Speech, Language, Audio and Music Processing](https://arxiv.org/abs/2601.09385v1)** |  | 2026-01-14 | <details><summary>Publi...</summary><p>Published in IEEE Journal of Selected Topics in Signal Processing (JSTSP)</p></details> |
 | **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v2)** |  | 2026-01-11 |  |
 | **[LAMB: LLM-based Audio Captioning with Modality Gap Bridging via Cauchy-Schwarz Divergence](https://arxiv.org/abs/2601.04658v1)** |  | 2026-01-08 | 5 pages, 2 figures; |
 | **[BRACE: A Benchmark for Robust Audio Caption Quality Evaluation](https://arxiv.org/abs/2512.10403v1)** |  | 2025-12-11 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Diffusion-Link: Diffusion Probabilistic Model for Bridging the Audio-Text Modality Gap](https://arxiv.org/abs/2510.11330v1)** |  | 2025-10-13 | <details><summary>5 pag...</summary><p>5 pages. Submitted to IEEE ICASSP 2026</p></details> |
 | **[AURA Score: A Metric For Holistic Audio Question Answering Evaluation](https://arxiv.org/abs/2510.04934v1)** |  | 2025-10-06 |  |
 | **[Taming Text-to-Sounding Video Generation via Advanced Modality Condition and Interaction](https://arxiv.org/abs/2510.03117v1)** |  | 2025-10-03 |  |
-| **[When Audio Generators Become Good Listeners: Generative Features for Understanding Tasks](https://arxiv.org/abs/2509.24635v1)** |  | 2025-09-29 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
