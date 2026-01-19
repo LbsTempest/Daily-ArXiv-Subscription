@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - January 19, 2026
+title: Latest Papers - January 20, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -64,6 +64,8 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[What Makes a Good Speech Tokenizer for LLM-Centric Speech Generation? A Systematic Study](https://arxiv.org/abs/2506.12537v3)** |  | 2026-01-16 |  |
+| **[Hearing More with Less: Multi-Modal Retrieval-and-Selection Augmented Conversational LLM-Based ASR](https://arxiv.org/abs/2508.01166v3)** |  | 2026-01-16 | AAAI 2026 |
 | **[Bridging the gap: A comparative exploration of Speech-LLM and end-to-end architecture for multilingual conversational ASR](https://arxiv.org/abs/2601.01461v2)** |  | 2026-01-15 | 5 pages, 1 figure |
 | **[Categorize Early, Integrate Late: Divergent Processing Strategies in Automatic Speech Recognition](https://arxiv.org/abs/2601.06972v1)** |  | 2026-01-11 | 3 figures, 9 tables |
 | **[FastSLM: Hierarchical Frame Q-Former for Effective Speech Modality Adaptation](https://arxiv.org/abs/2601.06199v1)** |  | 2026-01-08 |  |
@@ -77,5 +79,3 @@ labels: documentation
 | **[DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models](https://arxiv.org/abs/2508.08961v3)** |  | 2025-11-16 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding](https://arxiv.org/abs/2509.04685v3)** |  | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Project page: https://zhengrachel.github.io/VARSTok</p></details> |
 | **[MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models](https://arxiv.org/abs/2511.10262v1)** |  | 2025-11-13 | Work in progress |
-| **[Backdoor Attacks Against Speech Language Models](https://arxiv.org/abs/2510.01157v2)** |  | 2025-11-13 |  |
-| **[Hearing More with Less: Multi-Modal Retrieval-and-Selection Augmented Conversational LLM-Based ASR](https://arxiv.org/abs/2508.01166v2)** |  | 2025-11-12 | AAAI 2026 |
