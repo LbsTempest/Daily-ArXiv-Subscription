@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - January 22, 2026
+title: Latest Papers - January 23, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Prosody-Guided Harmonic Attention for Phase-Coherent Neural Vocoding in the Complex Spectrum](https://arxiv.org/abs/2601.14472v1)** |  | 2026-01-20 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table. Accepted for presentation at ICASSP 2026</p></details> |
+| **[Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis](https://arxiv.org/abs/2601.14417v1)** |  | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted to ICASSP2026</p></details> |
 | **[Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis](https://arxiv.org/abs/2601.13802v1)** |  | 2026-01-20 |  |
 | **[Objective Evaluation of Prosody and Intelligibility in Speech Synthesis via Conditional Prediction of Discrete Tokens](https://arxiv.org/abs/2509.20485v2)** |  | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted in IEEE Open Journal of Signal Processing, 2026</p></details> |
 | **[Lombard Speech Synthesis for Any Voice with Controllable Style Embeddings](https://arxiv.org/abs/2601.12966v1)** |  | 2026-01-19 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v1)** |  | 2026-01-07 |  |
 | **[Tigrinya Number Verbalization: Rules, Algorithm, and Implementation](https://arxiv.org/abs/2601.03403v1)** |  | 2026-01-06 |  |
 | **[Vulnerabilities of Audio-Based Biometric Authentication Systems Against Deepfake Speech Synthesis](https://arxiv.org/abs/2601.02914v1)** |  | 2026-01-06 |  |
-| **[VocalBridge: Latent Diffusion-Bridge Purification for Defeating Perturbation-Based Voiceprint Defenses](https://arxiv.org/abs/2601.02444v1)** |  | 2026-01-05 |  |
-| **[OV-InstructTTS: Towards Open-Vocabulary Instruct Text-to-Speech](https://arxiv.org/abs/2601.01459v1)** |  | 2026-01-04 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
