@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - January 23, 2026
+title: Latest Papers - January 26, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Timbre-Aware LLM-based Direct Speech-to-Speech Translation Extendable to Multiple Language Pairs](https://arxiv.org/abs/2601.16023v1)** |  | 2026-01-22 | 13 pages |
+| **[DeepASMR: LLM-Based Zero-Shot ASMR Speech Generation for Anyone of Any Voice](https://arxiv.org/abs/2601.15596v1)** |  | 2026-01-22 |  |
 | **[Prosody-Guided Harmonic Attention for Phase-Coherent Neural Vocoding in the Complex Spectrum](https://arxiv.org/abs/2601.14472v1)** |  | 2026-01-20 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table. Accepted for presentation at ICASSP 2026</p></details> |
 | **[Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis](https://arxiv.org/abs/2601.14417v1)** |  | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted to ICASSP2026</p></details> |
 | **[Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis](https://arxiv.org/abs/2601.13802v1)** |  | 2026-01-20 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Word-Level Emotional Expression Control in Zero-Shot Text-to-Speech Synthesis](https://arxiv.org/abs/2509.24629v2)** |  | 2026-01-11 |  |
 | **[Lightweight Resolution-Aware Audio Deepfake Detection via Cross-Scale Attention and Consistency Learning](https://arxiv.org/abs/2601.06560v1)** |  | 2026-01-10 |  |
 | **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v1)** |  | 2026-01-07 |  |
-| **[Tigrinya Number Verbalization: Rules, Algorithm, and Implementation](https://arxiv.org/abs/2601.03403v1)** |  | 2026-01-06 |  |
-| **[Vulnerabilities of Audio-Based Biometric Authentication Systems Against Deepfake Speech Synthesis](https://arxiv.org/abs/2601.02914v1)** |  | 2026-01-06 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Qwen3-TTS Technical Report](https://arxiv.org/abs/2601.15621v1)** |  | 2026-01-22 | <details><summary>https...</summary><p>https://github.com/QwenLM/Qwen3-TTS</p></details> |
 | **[DAIEN-TTS: Disentangled Audio Infilling for Environment-Aware Text-to-Speech Synthesis](https://arxiv.org/abs/2509.14684v2)** |  | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[PMOA-TTS: Introducing the PubMed Open Access Textual Times Series Corpus](https://arxiv.org/abs/2505.20323v2)** |  | 2026-01-15 |  |
 | **[SPAM: Style Prompt Adherence Metric for Prompt-based TTS](https://arxiv.org/abs/2601.05554v1)** |  | 2026-01-09 |  |
@@ -40,17 +41,16 @@ labels: documentation
 | **[GLM-TTS Technical Report](https://arxiv.org/abs/2512.14291v1)** |  | 2025-12-16 |  |
 | **[F5-TTS-RO: Extending F5-TTS to Romanian TTS via Lightweight Input Adaptation](https://arxiv.org/abs/2512.12297v1)** |  | 2025-12-13 | <details><summary>Accep...</summary><p>Accepted at The 20th International Conference on Linguistic Resources and Tools for Natural Language Processing</p></details> |
 | **[DMP-TTS: Disentangled multi-modal Prompting for Controllable Text-to-Speech with Chained Guidance](https://arxiv.org/abs/2512.09504v1)** |  | 2025-12-10 |  |
-| **[Beyond Unified Models: A Service-Oriented Approach to Low Latency, Context Aware Phonemization for Real Time TTS](https://arxiv.org/abs/2512.08006v1)** |  | 2025-12-08 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[AudioMotionBench: Evaluating Auditory Motion Perception in Audio LLMs](https://arxiv.org/abs/2511.13273v2)** |  | 2026-01-22 |  |
 | **[SLAM-LLM: A Modular, Open-Source Multimodal Large Language Model Framework and Best Practice for Speech, Language, Audio and Music Processing](https://arxiv.org/abs/2601.09385v1)** |  | 2026-01-14 | <details><summary>Publi...</summary><p>Published in IEEE Journal of Selected Topics in Signal Processing (JSTSP)</p></details> |
 | **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v2)** |  | 2026-01-11 |  |
 | **[LAMB: LLM-based Audio Captioning with Modality Gap Bridging via Cauchy-Schwarz Divergence](https://arxiv.org/abs/2601.04658v1)** |  | 2026-01-08 | 5 pages, 2 figures; |
 | **[BRACE: A Benchmark for Robust Audio Caption Quality Evaluation](https://arxiv.org/abs/2512.10403v1)** |  | 2025-12-11 |  |
 | **[Semantic-Aware Confidence Calibration for Automated Audio Captioning](https://arxiv.org/abs/2512.10170v1)** |  | 2025-12-11 | 5 pages, 2 figures |
-| **[Spatial Blind Spot: Auditory Motion Perception Deficits in Audio LLMs](https://arxiv.org/abs/2511.13273v1)** |  | 2025-11-17 |  |
 | **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](https://arxiv.org/abs/2508.03983v2)** |  | 2025-11-13 |  |
 | **[DIFFA: Large Language Diffusion Models Can Listen and Understand](https://arxiv.org/abs/2507.18452v3)** |  | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[SeaLLMs-Audio: Large Audio-Language Models for Southeast Asia](https://arxiv.org/abs/2511.01670v1)** |  | 2025-11-03 | 10 pages |
