@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - January 26, 2026
+title: Latest Papers - January 27, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Speaker Anonymisation for Speech-based Suicide Risk Detection](https://arxiv.org/abs/2509.22148v2)** |  | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
+| **[Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](https://arxiv.org/abs/2509.14579v3)** |  | 2026-01-23 | 5 pages, 2 figures |
 | **[Timbre-Aware LLM-based Direct Speech-to-Speech Translation Extendable to Multiple Language Pairs](https://arxiv.org/abs/2601.16023v1)** |  | 2026-01-22 | 13 pages |
 | **[DeepASMR: LLM-Based Zero-Shot ASMR Speech Generation for Anyone of Any Voice](https://arxiv.org/abs/2601.15596v1)** |  | 2026-01-22 |  |
 | **[Prosody-Guided Harmonic Attention for Phase-Coherent Neural Vocoding in the Complex Spectrum](https://arxiv.org/abs/2601.14472v1)** |  | 2026-01-20 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table. Accepted for presentation at ICASSP 2026</p></details> |
@@ -15,17 +17,16 @@ labels: documentation
 | **[Objective Evaluation of Prosody and Intelligibility in Speech Synthesis via Conditional Prediction of Discrete Tokens](https://arxiv.org/abs/2509.20485v2)** |  | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted in IEEE Open Journal of Signal Processing, 2026</p></details> |
 | **[Lombard Speech Synthesis for Any Voice with Controllable Style Embeddings](https://arxiv.org/abs/2601.12966v1)** |  | 2026-01-19 |  |
 | **[DAIEN-TTS: Disentangled Audio Infilling for Environment-Aware Text-to-Speech Synthesis](https://arxiv.org/abs/2509.14684v2)** |  | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
+| **[ES4R: Speech Encoding Based on Prepositive Affective Modeling for Empathetic Response Generation](https://arxiv.org/abs/2601.16225v1)** |  | 2026-01-16 |  |
 | **[STEAMROLLER: A Multi-Agent System for Inclusive Automatic Speech Recognition for People who Stutter](https://arxiv.org/abs/2601.10223v1)** |  | 2026-01-15 |  |
 | **[Audio Generation Through Score-Based Generative Modeling: Design Principles and Implementation](https://arxiv.org/abs/2506.08457v2)** |  | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted by Foundations and Trends in Signal Processing</p></details> |
 | **[Stuttering-Aware Automatic Speech Recognition for Indonesian Language](https://arxiv.org/abs/2601.03727v2)** |  | 2026-01-14 | Preprint |
 | **[Decoding Order Matters in Autoregressive Speech Synthesis](https://arxiv.org/abs/2601.08450v1)** |  | 2026-01-13 |  |
-| **[Word-Level Emotional Expression Control in Zero-Shot Text-to-Speech Synthesis](https://arxiv.org/abs/2509.24629v2)** |  | 2026-01-11 |  |
-| **[Lightweight Resolution-Aware Audio Deepfake Detection via Cross-Scale Attention and Consistency Learning](https://arxiv.org/abs/2601.06560v1)** |  | 2026-01-10 |  |
-| **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v1)** |  | 2026-01-07 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](https://arxiv.org/abs/2509.14579v3)** |  | 2026-01-23 | 5 pages, 2 figures |
 | **[Qwen3-TTS Technical Report](https://arxiv.org/abs/2601.15621v1)** |  | 2026-01-22 | <details><summary>https...</summary><p>https://github.com/QwenLM/Qwen3-TTS</p></details> |
 | **[DAIEN-TTS: Disentangled Audio Infilling for Environment-Aware Text-to-Speech Synthesis](https://arxiv.org/abs/2509.14684v2)** |  | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[PMOA-TTS: Introducing the PubMed Open Access Textual Times Series Corpus](https://arxiv.org/abs/2505.20323v2)** |  | 2026-01-15 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Robust TTS Training via Self-Purifying Flow Matching for the WildSpoof 2026 TTS Track](https://arxiv.org/abs/2512.17293v1)** |  | 2025-12-19 | <details><summary>2 pag...</summary><p>2 pages, preprint, This work has been submitted to the IEEE for possible publication. Submitted to ICASSP 2026 SPGC (WildSpoof Challenge, TTS track)</p></details> |
 | **[GLM-TTS Technical Report](https://arxiv.org/abs/2512.14291v1)** |  | 2025-12-16 |  |
 | **[F5-TTS-RO: Extending F5-TTS to Romanian TTS via Lightweight Input Adaptation](https://arxiv.org/abs/2512.12297v1)** |  | 2025-12-13 | <details><summary>Accep...</summary><p>Accepted at The 20th International Conference on Linguistic Resources and Tools for Natural Language Processing</p></details> |
-| **[DMP-TTS: Disentangled multi-modal Prompting for Controllable Text-to-Speech with Chained Guidance](https://arxiv.org/abs/2512.09504v1)** |  | 2025-12-10 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
