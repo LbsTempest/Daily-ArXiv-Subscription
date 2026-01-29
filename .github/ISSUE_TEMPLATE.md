@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - January 29, 2026
+title: Latest Papers - January 30, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech](https://arxiv.org/abs/2601.20481v1)** |  | 2026-01-28 | ICASSP'2026 |
+| **[Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis](https://arxiv.org/abs/2601.14417v2)** |  | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to ICASSP2026</p></details> |
 | **[Neural Multi-Speaker Voice Cloning for Nepali in Low-Resource Settings](https://arxiv.org/abs/2601.18694v1)** |  | 2026-01-26 | <details><summary>16 pa...</summary><p>16 pages with appendix included</p></details> |
 | **[Sidon: Fast and Robust Open-Source Multilingual Speech Restoration for Large-scale Dataset Cleansing](https://arxiv.org/abs/2509.17052v3)** |  | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figures, Accepted to ICASSP 2026</p></details> |
 | **[UrgentMOS: Unified Multi-Metric and Preference Learning for Robust Speech Quality Assessment](https://arxiv.org/abs/2601.18438v1)** |  | 2026-01-26 |  |
@@ -16,12 +18,10 @@ labels: documentation
 | **[Timbre-Aware LLM-based Direct Speech-to-Speech Translation Extendable to Multiple Language Pairs](https://arxiv.org/abs/2601.16023v1)** |  | 2026-01-22 | 13 pages |
 | **[DeepASMR: LLM-Based Zero-Shot ASMR Speech Generation for Anyone of Any Voice](https://arxiv.org/abs/2601.15596v1)** |  | 2026-01-22 |  |
 | **[Prosody-Guided Harmonic Attention for Phase-Coherent Neural Vocoding in the Complex Spectrum](https://arxiv.org/abs/2601.14472v1)** |  | 2026-01-20 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table. Accepted for presentation at ICASSP 2026</p></details> |
-| **[Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis](https://arxiv.org/abs/2601.14417v1)** |  | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted to ICASSP2026</p></details> |
 | **[Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis](https://arxiv.org/abs/2601.13802v1)** |  | 2026-01-20 |  |
 | **[Objective Evaluation of Prosody and Intelligibility in Speech Synthesis via Conditional Prediction of Discrete Tokens](https://arxiv.org/abs/2509.20485v2)** |  | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted in IEEE Open Journal of Signal Processing, 2026</p></details> |
 | **[Lombard Speech Synthesis for Any Voice with Controllable Style Embeddings](https://arxiv.org/abs/2601.12966v1)** |  | 2026-01-19 |  |
 | **[DAIEN-TTS: Disentangled Audio Infilling for Environment-Aware Text-to-Speech Synthesis](https://arxiv.org/abs/2509.14684v2)** |  | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
-| **[ES4R: Speech Encoding Based on Prepositive Affective Modeling for Empathetic Response Generation](https://arxiv.org/abs/2601.16225v1)** |  | 2026-01-16 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -67,6 +67,7 @@ labels: documentation
 | **[Phonological Tokenizer: Prosody-Aware Phonetic Token via Multi-Objective Fine-Tuning with Differentiable K-Means](https://arxiv.org/abs/2601.19781v1)** |  | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
 | **[SLM-SS: Speech Language Model for Generative Speech Separation](https://arxiv.org/abs/2601.19533v1)** |  | 2026-01-27 |  |
 | **[Why Do Speech Language Models Fail to Generate Semantically Coherent Outputs? A Modality Evolving Perspective](https://arxiv.org/abs/2412.17048v2)** |  | 2026-01-27 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 4 tables. Accepted to IEEE ICASSP 2026</p></details> |
+| **[VoxPrivacy: A Benchmark for Evaluating Interactional Privacy of Speech Language Models](https://arxiv.org/abs/2601.19956v1)** |  | 2026-01-27 |  |
 | **[TurnGuide: Enhancing Meaningful Full Duplex Spoken Interactions via Dynamic Turn-Level Text-Speech Interleaving](https://arxiv.org/abs/2508.07375v2)** |  | 2026-01-20 | Work in progress |
 | **[What Makes a Good Speech Tokenizer for LLM-Centric Speech Generation? A Systematic Study](https://arxiv.org/abs/2506.12537v3)** |  | 2026-01-16 |  |
 | **[Hearing More with Less: Multi-Modal Retrieval-and-Selection Augmented Conversational LLM-Based ASR](https://arxiv.org/abs/2508.01166v3)** |  | 2026-01-16 | AAAI 2026 |
@@ -78,4 +79,3 @@ labels: documentation
 | **[ViBES: A Conversational Agent with Behaviorally-Intelligent 3D Virtual Body](https://arxiv.org/abs/2512.14234v1)** |  | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://ai.stanford.edu/~juze/ViBES/</p></details> |
 | **[SAC: Neural Speech Codec with Semantic-Acoustic Dual-Stream Quantization](https://arxiv.org/abs/2510.16841v2)** |  | 2025-12-14 |  |
 | **[Cross-Lingual Interleaving for Speech Language Models](https://arxiv.org/abs/2512.01865v1)** |  | 2025-12-01 |  |
-| **[PURE Codec: Progressive Unfolding of Residual Entropy for Speech Codec Learning](https://arxiv.org/abs/2511.22687v1)** |  | 2025-11-27 | Accepted by ASRU2025 |
