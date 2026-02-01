@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - January 30, 2026
+title: Latest Papers - February 02, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[A conversational gesture synthesis system based on emotions and semantics](https://arxiv.org/abs/2507.03147v3)** |  | 2026-01-29 |  |
 | **[Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech](https://arxiv.org/abs/2601.20481v1)** |  | 2026-01-28 | ICASSP'2026 |
 | **[Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis](https://arxiv.org/abs/2601.14417v2)** |  | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to ICASSP2026</p></details> |
 | **[Neural Multi-Speaker Voice Cloning for Nepali in Low-Resource Settings](https://arxiv.org/abs/2601.18694v1)** |  | 2026-01-26 | <details><summary>16 pa...</summary><p>16 pages with appendix included</p></details> |
@@ -21,11 +22,12 @@ labels: documentation
 | **[Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis](https://arxiv.org/abs/2601.13802v1)** |  | 2026-01-20 |  |
 | **[Objective Evaluation of Prosody and Intelligibility in Speech Synthesis via Conditional Prediction of Discrete Tokens](https://arxiv.org/abs/2509.20485v2)** |  | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted in IEEE Open Journal of Signal Processing, 2026</p></details> |
 | **[Lombard Speech Synthesis for Any Voice with Controllable Style Embeddings](https://arxiv.org/abs/2601.12966v1)** |  | 2026-01-19 |  |
-| **[DAIEN-TTS: Disentangled Audio Infilling for Environment-Aware Text-to-Speech Synthesis](https://arxiv.org/abs/2509.14684v2)** |  | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[No Verifiable Reward for Prosody: Toward Preference-Guided Prosody Learning in TTS](https://arxiv.org/abs/2509.18531v2)** |  | 2026-01-29 | ICASSP 2026 |
+| **[SPADE: Structured Pruning and Adaptive Distillation for Efficient LLM-TTS](https://arxiv.org/abs/2509.20802v3)** |  | 2026-01-29 | ICASSP 2026 |
 | **[RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS](https://arxiv.org/abs/2512.04552v2)** |  | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026. Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 | **[EMORL-TTS: Reinforcement Learning for Fine-Grained Emotion Control in LLM-based TTS](https://arxiv.org/abs/2510.05758v2)** |  | 2026-01-24 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[SonoEdit: Null-Space Constrained Knowledge Editing for Pronunciation Correction in LLM-Based TTS](https://arxiv.org/abs/2601.17086v1)** |  | 2026-01-23 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v1)** |  | 2026-01-07 |  |
 | **[TT-FSI: Scalable Faithful Shapley Interactions via Tensor-Train](https://arxiv.org/abs/2601.01903v1)** |  | 2026-01-05 |  |
 | **[Improving Code-Switching Speech Recognition with TTS Data Augmentation](https://arxiv.org/abs/2601.00935v1)** |  | 2026-01-02 | <details><summary>This ...</summary><p>This paper was accepted by APSIPA 2025</p></details> |
-| **[dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models](https://arxiv.org/abs/2512.19433v1)** |  | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://github.com/Alpha-VLLM/Lumina-DiMOO</p></details> |
-| **[Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis](https://arxiv.org/abs/2512.18699v1)** |  | 2025-12-21 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
