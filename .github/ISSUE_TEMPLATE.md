@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - February 02, 2026
+title: Latest Papers - February 03, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis](https://arxiv.org/abs/2601.22873v1)** |  | 2026-01-30 | <details><summary>Activ...</summary><p>Activation Steering; Emotion-Aware TTS; Speech Synthesis; Accepted by ICASSP 2026</p></details> |
 | **[A conversational gesture synthesis system based on emotions and semantics](https://arxiv.org/abs/2507.03147v3)** |  | 2026-01-29 |  |
 | **[Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech](https://arxiv.org/abs/2601.20481v1)** |  | 2026-01-28 | ICASSP'2026 |
 | **[Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis](https://arxiv.org/abs/2601.14417v2)** |  | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to ICASSP2026</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Prosody-Guided Harmonic Attention for Phase-Coherent Neural Vocoding in the Complex Spectrum](https://arxiv.org/abs/2601.14472v1)** |  | 2026-01-20 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table. Accepted for presentation at ICASSP 2026</p></details> |
 | **[Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis](https://arxiv.org/abs/2601.13802v1)** |  | 2026-01-20 |  |
 | **[Objective Evaluation of Prosody and Intelligibility in Speech Synthesis via Conditional Prediction of Discrete Tokens](https://arxiv.org/abs/2509.20485v2)** |  | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted in IEEE Open Journal of Signal Processing, 2026</p></details> |
-| **[Lombard Speech Synthesis for Any Voice with Controllable Style Embeddings](https://arxiv.org/abs/2601.12966v1)** |  | 2026-01-19 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability](https://arxiv.org/abs/2601.22661v1)** |  | 2026-01-30 |  |
 | **[No Verifiable Reward for Prosody: Toward Preference-Guided Prosody Learning in TTS](https://arxiv.org/abs/2509.18531v2)** |  | 2026-01-29 | ICASSP 2026 |
 | **[SPADE: Structured Pruning and Adaptive Distillation for Efficient LLM-TTS](https://arxiv.org/abs/2509.20802v3)** |  | 2026-01-29 | ICASSP 2026 |
 | **[RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS](https://arxiv.org/abs/2512.04552v2)** |  | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026. Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[DiFlow-TTS: Compact and Low-Latency Zero-Shot Text-to-Speech with Factorized Discrete Flow Matching](https://arxiv.org/abs/2509.09631v3)** |  | 2026-01-07 |  |
 | **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v1)** |  | 2026-01-07 |  |
 | **[TT-FSI: Scalable Faithful Shapley Interactions via Tensor-Train](https://arxiv.org/abs/2601.01903v1)** |  | 2026-01-05 |  |
-| **[Improving Code-Switching Speech Recognition with TTS Data Augmentation](https://arxiv.org/abs/2601.00935v1)** |  | 2026-01-02 | <details><summary>This ...</summary><p>This paper was accepted by APSIPA 2025</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[DiffuSpeech: Silent Thought, Spoken Answer via Unified Speech-Text Diffusion](https://arxiv.org/abs/2601.22889v1)** |  | 2026-01-30 |  |
 | **[Phonological Tokenizer: Prosody-Aware Phonetic Token via Multi-Objective Fine-Tuning with Differentiable K-Means](https://arxiv.org/abs/2601.19781v1)** |  | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
 | **[SLM-SS: Speech Language Model for Generative Speech Separation](https://arxiv.org/abs/2601.19533v1)** |  | 2026-01-27 |  |
 | **[Why Do Speech Language Models Fail to Generate Semantically Coherent Outputs? A Modality Evolving Perspective](https://arxiv.org/abs/2412.17048v2)** |  | 2026-01-27 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 4 tables. Accepted to IEEE ICASSP 2026</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[Adapting Speech Language Model to Singing Voice Synthesis](https://arxiv.org/abs/2512.14657v1)** |  | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 workshop AI for Music</p></details> |
 | **[ViBES: A Conversational Agent with Behaviorally-Intelligent 3D Virtual Body](https://arxiv.org/abs/2512.14234v1)** |  | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://ai.stanford.edu/~juze/ViBES/</p></details> |
 | **[SAC: Neural Speech Codec with Semantic-Acoustic Dual-Stream Quantization](https://arxiv.org/abs/2510.16841v2)** |  | 2025-12-14 |  |
-| **[Cross-Lingual Interleaving for Speech Language Models](https://arxiv.org/abs/2512.01865v1)** |  | 2025-12-01 |  |
