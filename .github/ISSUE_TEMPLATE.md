@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - February 04, 2026
+title: Latest Papers - February 05, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,8 +7,10 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Modeling Sarcastic Speech: Semantic and Prosodic Cues in a Speech Synthesis Framework](https://arxiv.org/abs/2510.07096v2)** |  | 2026-02-03 |  |
 | **[LipSody: Lip-to-Speech Synthesis with Enhanced Prosody Consistency](https://arxiv.org/abs/2602.01908v1)** |  | 2026-02-02 | <details><summary>This ...</summary><p>This paper has been accepted to ICASSP 2026</p></details> |
 | **[EmoAra: Emotion-Preserving English Speech Transcription and Cross-Lingual Translation with Arabic Text-to-Speech](https://arxiv.org/abs/2602.01170v1)** |  | 2026-02-01 | 10 pages, 3 figures |
+| **[VividVoice: A Unified Framework for Scene-Aware Visually-Driven Speech Synthesis](https://arxiv.org/abs/2602.02591v1)** |  | 2026-02-01 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis](https://arxiv.org/abs/2601.22873v1)** |  | 2026-01-30 | <details><summary>Activ...</summary><p>Activation Steering; Emotion-Aware TTS; Speech Synthesis; Accepted by ICASSP 2026</p></details> |
 | **[A conversational gesture synthesis system based on emotions and semantics](https://arxiv.org/abs/2507.03147v3)** |  | 2026-01-29 |  |
 | **[Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech](https://arxiv.org/abs/2601.20481v1)** |  | 2026-01-28 | ICASSP'2026 |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Speaker Anonymisation for Speech-based Suicide Risk Detection](https://arxiv.org/abs/2509.22148v2)** |  | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](https://arxiv.org/abs/2509.14579v3)** |  | 2026-01-23 | 5 pages, 2 figures |
 | **[Timbre-Aware LLM-based Direct Speech-to-Speech Translation Extendable to Multiple Language Pairs](https://arxiv.org/abs/2601.16023v1)** |  | 2026-01-22 | 13 pages |
-| **[DeepASMR: LLM-Based Zero-Shot ASMR Speech Generation for Anyone of Any Voice](https://arxiv.org/abs/2601.15596v1)** |  | 2026-01-22 |  |
-| **[Prosody-Guided Harmonic Attention for Phase-Coherent Neural Vocoding in the Complex Spectrum](https://arxiv.org/abs/2601.14472v1)** |  | 2026-01-20 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table. Accepted for presentation at ICASSP 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering](https://arxiv.org/abs/2602.03420v1)** |  | 2026-02-03 |  |
 | **[Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability](https://arxiv.org/abs/2601.22661v1)** |  | 2026-01-30 |  |
 | **[No Verifiable Reward for Prosody: Toward Preference-Guided Prosody Learning in TTS](https://arxiv.org/abs/2509.18531v2)** |  | 2026-01-29 | ICASSP 2026 |
 | **[SPADE: Structured Pruning and Adaptive Distillation for Efficient LLM-TTS](https://arxiv.org/abs/2509.20802v3)** |  | 2026-01-29 | ICASSP 2026 |
@@ -40,7 +41,6 @@ labels: documentation
 | **[FlexiVoice: Enabling Flexible Style Control in Zero-Shot TTS with Natural Language Instructions](https://arxiv.org/abs/2601.04656v1)** |  | 2026-01-08 |  |
 | **[DiFlow-TTS: Compact and Low-Latency Zero-Shot Text-to-Speech with Factorized Discrete Flow Matching](https://arxiv.org/abs/2509.09631v3)** |  | 2026-01-07 |  |
 | **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v1)** |  | 2026-01-07 |  |
-| **[TT-FSI: Scalable Faithful Shapley Interactions via Tensor-Train](https://arxiv.org/abs/2601.01903v1)** |  | 2026-01-05 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
