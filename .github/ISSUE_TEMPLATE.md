@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - February 05, 2026
+title: Latest Papers - February 06, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[HoliAntiSpoof: Audio LLM for Holistic Speech Anti-Spoofing](https://arxiv.org/abs/2602.04535v1)** |  | 2026-02-04 |  |
 | **[Modeling Sarcastic Speech: Semantic and Prosodic Cues in a Speech Synthesis Framework](https://arxiv.org/abs/2510.07096v2)** |  | 2026-02-03 |  |
 | **[LipSody: Lip-to-Speech Synthesis with Enhanced Prosody Consistency](https://arxiv.org/abs/2602.01908v1)** |  | 2026-02-02 | <details><summary>This ...</summary><p>This paper has been accepted to ICASSP 2026</p></details> |
 | **[EmoAra: Emotion-Preserving English Speech Transcription and Cross-Lingual Translation with Arabic Text-to-Speech](https://arxiv.org/abs/2602.01170v1)** |  | 2026-02-01 | 10 pages, 3 figures |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Quran-MD: A Fine-Grained Multilingual Multimodal Dataset of the Quran](https://arxiv.org/abs/2601.17880v1)** |  | 2026-01-25 | <details><summary>6 pag...</summary><p>6 pages, 2 tables and 2 figures</p></details> |
 | **[Speaker Anonymisation for Speech-based Suicide Risk Detection](https://arxiv.org/abs/2509.22148v2)** |  | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](https://arxiv.org/abs/2509.14579v3)** |  | 2026-01-23 | 5 pages, 2 figures |
-| **[Timbre-Aware LLM-based Direct Speech-to-Speech Translation Extendable to Multiple Language Pairs](https://arxiv.org/abs/2601.16023v1)** |  | 2026-01-22 | 13 pages |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion](https://arxiv.org/abs/2602.04160v1)** |  | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 | **[CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering](https://arxiv.org/abs/2602.03420v1)** |  | 2026-02-03 |  |
 | **[Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability](https://arxiv.org/abs/2601.22661v1)** |  | 2026-01-30 |  |
 | **[No Verifiable Reward for Prosody: Toward Preference-Guided Prosody Learning in TTS](https://arxiv.org/abs/2509.18531v2)** |  | 2026-01-29 | ICASSP 2026 |
@@ -40,11 +41,11 @@ labels: documentation
 | **[SPAM: Style Prompt Adherence Metric for Prompt-based TTS](https://arxiv.org/abs/2601.05554v1)** |  | 2026-01-09 |  |
 | **[FlexiVoice: Enabling Flexible Style Control in Zero-Shot TTS with Natural Language Instructions](https://arxiv.org/abs/2601.04656v1)** |  | 2026-01-08 |  |
 | **[DiFlow-TTS: Compact and Low-Latency Zero-Shot Text-to-Speech with Factorized Discrete Flow Matching](https://arxiv.org/abs/2509.09631v3)** |  | 2026-01-07 |  |
-| **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v1)** |  | 2026-01-07 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Multiple Choice Learning of Low-Rank Adapters for Language Modeling](https://arxiv.org/abs/2507.10419v2)** |  | 2026-02-03 |  |
 | **[The TMU System for the XACLE Challenge: Training Large Audio Language Models with CLAP Pseudo-Labels](https://arxiv.org/abs/2602.00604v1)** |  | 2026-01-31 | <details><summary>3 pag...</summary><p>3 pages; 2 figures; 2 tables; Accepted at ICASSP 2026 Workshop (SP Grand Challenges, GC-12: XACLE)</p></details> |
 | **[From Contrast to Commonality: Audio Commonality Captioning for Enhanced Audio-Text Cross-modal Understanding in Multimodal LLMs](https://arxiv.org/abs/2508.01659v3)** |  | 2026-01-25 |  |
 | **[AudioMotionBench: Evaluating Auditory Motion Perception in Audio LLMs](https://arxiv.org/abs/2511.13273v2)** |  | 2026-01-22 |  |
@@ -59,11 +60,11 @@ labels: documentation
 | **[Do Joint Language-Audio Embeddings Encode Perceptual Timbre Semantics?](https://arxiv.org/abs/2510.14249v1)** |  | 2025-10-16 |  |
 | **[Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception](https://arxiv.org/abs/2510.12720v1)** |  | 2025-10-14 | <details><summary>https...</summary><p>https://github.com/ddlBoJack/Omni-Captioner</p></details> |
 | **[Adaptive vector steering: A training-free, layer-wise intervention for hallucination mitigation in large audio and multimodal models](https://arxiv.org/abs/2510.12851v1)** |  | 2025-10-14 | <details><summary>Note:...</summary><p>Note: This preprint is a version of the paper submitted to ICASSP 2026. The author list here includes contributors who provided additional supervision and guidance. The official ICASSP submission may differ slightly in author composition</p></details> |
-| **[Diffusion-Link: Diffusion Probabilistic Model for Bridging the Audio-Text Modality Gap](https://arxiv.org/abs/2510.11330v1)** |  | 2025-10-13 | <details><summary>5 pag...</summary><p>5 pages. Submitted to IEEE ICASSP 2026</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Frontend Token Enhancement for Token-Based Speech Recognition](https://arxiv.org/abs/2602.04217v1)** |  | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 | **[Bridging the gap: A comparative exploration of Speech-LLM and end-to-end architecture for multilingual conversational ASR](https://arxiv.org/abs/2601.01461v3)** |  | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
 | **[FastSLM: Hierarchical Frame Q-Former for Effective Speech Modality Adaptation](https://arxiv.org/abs/2601.06199v2)** |  | 2026-02-02 |  |
 | **[VoxServe: Streaming-Centric Serving System for Speech Language Models](https://arxiv.org/abs/2602.00269v1)** |  | 2026-01-30 | <details><summary>The c...</summary><p>The code is available at https://github.com/vox-serve/vox-serve</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[Categorize Early, Integrate Late: Divergent Processing Strategies in Automatic Speech Recognition](https://arxiv.org/abs/2601.06972v1)** |  | 2026-01-11 | 3 figures, 9 tables |
 | **[SpeechMedAssist: Efficiently and Effectively Adapting Speech Language Models for Medical Consultation](https://arxiv.org/abs/2601.04638v1)** |  | 2026-01-08 |  |
 | **[Adapting Speech Language Model to Singing Voice Synthesis](https://arxiv.org/abs/2512.14657v1)** |  | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 workshop AI for Music</p></details> |
-| **[ViBES: A Conversational Agent with Behaviorally-Intelligent 3D Virtual Body](https://arxiv.org/abs/2512.14234v1)** |  | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://ai.stanford.edu/~juze/ViBES/</p></details> |
