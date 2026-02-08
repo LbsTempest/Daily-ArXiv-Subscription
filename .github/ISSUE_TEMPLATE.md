@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - February 06, 2026
+title: Latest Papers - February 09, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[ARCHI-TTS: A flow-matching-based Text-to-Speech Model with Self-supervised Semantic Aligner and Accelerated Inference](https://arxiv.org/abs/2602.05207v1)** |  | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion](https://arxiv.org/abs/2602.04160v1)** |  | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 | **[CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering](https://arxiv.org/abs/2602.03420v1)** |  | 2026-02-03 |  |
 | **[Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability](https://arxiv.org/abs/2601.22661v1)** |  | 2026-01-30 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[PMOA-TTS: Introducing the PubMed Open Access Textual Times Series Corpus](https://arxiv.org/abs/2505.20323v2)** |  | 2026-01-15 |  |
 | **[SPAM: Style Prompt Adherence Metric for Prompt-based TTS](https://arxiv.org/abs/2601.05554v1)** |  | 2026-01-09 |  |
 | **[FlexiVoice: Enabling Flexible Style Control in Zero-Shot TTS with Natural Language Instructions](https://arxiv.org/abs/2601.04656v1)** |  | 2026-01-08 |  |
-| **[DiFlow-TTS: Compact and Low-Latency Zero-Shot Text-to-Speech with Factorized Discrete Flow Matching](https://arxiv.org/abs/2509.09631v3)** |  | 2026-01-07 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Speech-XL: Towards Long-Form Speech Understanding in Large Speech Language Models](https://arxiv.org/abs/2602.05373v1)** |  | 2026-02-05 |  |
 | **[Frontend Token Enhancement for Token-Based Speech Recognition](https://arxiv.org/abs/2602.04217v1)** |  | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 | **[Bridging the gap: A comparative exploration of Speech-LLM and end-to-end architecture for multilingual conversational ASR](https://arxiv.org/abs/2601.01461v3)** |  | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
 | **[FastSLM: Hierarchical Frame Q-Former for Effective Speech Modality Adaptation](https://arxiv.org/abs/2601.06199v2)** |  | 2026-02-02 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[Hearing More with Less: Multi-Modal Retrieval-and-Selection Augmented Conversational LLM-Based ASR](https://arxiv.org/abs/2508.01166v3)** |  | 2026-01-16 | AAAI 2026 |
 | **[Categorize Early, Integrate Late: Divergent Processing Strategies in Automatic Speech Recognition](https://arxiv.org/abs/2601.06972v1)** |  | 2026-01-11 | 3 figures, 9 tables |
 | **[SpeechMedAssist: Efficiently and Effectively Adapting Speech Language Models for Medical Consultation](https://arxiv.org/abs/2601.04638v1)** |  | 2026-01-08 |  |
-| **[Adapting Speech Language Model to Singing Voice Synthesis](https://arxiv.org/abs/2512.14657v1)** |  | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 workshop AI for Music</p></details> |
