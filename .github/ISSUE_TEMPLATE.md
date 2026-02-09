@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - February 09, 2026
+title: Latest Papers - February 10, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Scaling Speech Tokenizers with Diffusion Autoencoders](https://arxiv.org/abs/2602.06602v1)** |  | 2026-02-06 | ICLR 2026 |
 | **[Speech-XL: Towards Long-Form Speech Understanding in Large Speech Language Models](https://arxiv.org/abs/2602.05373v1)** |  | 2026-02-05 |  |
 | **[Frontend Token Enhancement for Token-Based Speech Recognition](https://arxiv.org/abs/2602.04217v1)** |  | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 | **[Bridging the gap: A comparative exploration of Speech-LLM and end-to-end architecture for multilingual conversational ASR](https://arxiv.org/abs/2601.01461v3)** |  | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[What Makes a Good Speech Tokenizer for LLM-Centric Speech Generation? A Systematic Study](https://arxiv.org/abs/2506.12537v3)** |  | 2026-01-16 |  |
 | **[Hearing More with Less: Multi-Modal Retrieval-and-Selection Augmented Conversational LLM-Based ASR](https://arxiv.org/abs/2508.01166v3)** |  | 2026-01-16 | AAAI 2026 |
 | **[Categorize Early, Integrate Late: Divergent Processing Strategies in Automatic Speech Recognition](https://arxiv.org/abs/2601.06972v1)** |  | 2026-01-11 | 3 figures, 9 tables |
-| **[SpeechMedAssist: Efficiently and Effectively Adapting Speech Language Models for Medical Consultation](https://arxiv.org/abs/2601.04638v1)** |  | 2026-01-08 |  |
