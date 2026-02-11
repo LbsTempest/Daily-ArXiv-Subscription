@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - February 11, 2026
+title: Latest Papers - February 12, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,11 +7,13 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[TVTSyn: Content-Synchronous Time-Varying Timbre for Streaming Voice Conversion and Anonymization](https://arxiv.org/abs/2602.09389v1)** |  | 2026-02-10 |  |
 | **[Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](https://arxiv.org/abs/2509.14579v4)** |  | 2026-02-09 | 5 pages, 2 figures |
 | **[Prototype-Based Disentanglement for Controllable Dysarthric Speech Synthesis](https://arxiv.org/abs/2602.08696v1)** |  | 2026-02-09 |  |
 | **[SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis](https://arxiv.org/abs/2602.07803v1)** |  | 2026-02-08 | Technical Report |
 | **[HoliAntiSpoof: Audio LLM for Holistic Speech Anti-Spoofing](https://arxiv.org/abs/2602.04535v1)** |  | 2026-02-04 |  |
 | **[Modeling Sarcastic Speech: Semantic and Prosodic Cues in a Speech Synthesis Framework](https://arxiv.org/abs/2510.07096v2)** |  | 2026-02-03 |  |
+| **[DSFlow: Dual Supervision and Step-Aware Architecture for One-Step Flow Matching Speech Synthesis](https://arxiv.org/abs/2602.09041v1)** |  | 2026-02-03 |  |
 | **[LipSody: Lip-to-Speech Synthesis with Enhanced Prosody Consistency](https://arxiv.org/abs/2602.01908v1)** |  | 2026-02-02 | <details><summary>This ...</summary><p>This paper has been accepted to ICASSP 2026</p></details> |
 | **[EmoAra: Emotion-Preserving English Speech Transcription and Cross-Lingual Translation with Arabic Text-to-Speech](https://arxiv.org/abs/2602.01170v1)** |  | 2026-02-01 | 10 pages, 3 figures |
 | **[VividVoice: A Unified Framework for Scene-Aware Visually-Driven Speech Synthesis](https://arxiv.org/abs/2602.02591v1)** |  | 2026-02-01 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech](https://arxiv.org/abs/2601.20481v1)** |  | 2026-01-28 | ICASSP'2026 |
 | **[Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis](https://arxiv.org/abs/2601.14417v2)** |  | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to ICASSP2026</p></details> |
 | **[Neural Multi-Speaker Voice Cloning for Nepali in Low-Resource Settings](https://arxiv.org/abs/2601.18694v1)** |  | 2026-01-26 | <details><summary>16 pa...</summary><p>16 pages with appendix included</p></details> |
-| **[Sidon: Fast and Robust Open-Source Multilingual Speech Restoration for Large-scale Dataset Cleansing](https://arxiv.org/abs/2509.17052v3)** |  | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figures, Accepted to ICASSP 2026</p></details> |
-| **[UrgentMOS: Unified Multi-Metric and Preference Learning for Robust Speech Quality Assessment](https://arxiv.org/abs/2601.18438v1)** |  | 2026-01-26 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
