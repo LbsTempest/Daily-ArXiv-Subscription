@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - February 12, 2026
+title: Latest Papers - February 13, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds](https://arxiv.org/abs/2509.04345v2)** |  | 2026-02-11 |  |
+| **[Emotion-Coherent Speech Data Augmentation and Self-Supervised Contrastive Style Training for Enhancing Kids's Story Speech Synthesis](https://arxiv.org/abs/2602.10164v1)** |  | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted at IEEE Spoken Language Technology Workshop 2024</p></details> |
 | **[TVTSyn: Content-Synchronous Time-Varying Timbre for Streaming Voice Conversion and Anonymization](https://arxiv.org/abs/2602.09389v1)** |  | 2026-02-10 |  |
 | **[Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](https://arxiv.org/abs/2509.14579v4)** |  | 2026-02-09 | 5 pages, 2 figures |
 | **[Prototype-Based Disentanglement for Controllable Dysarthric Speech Synthesis](https://arxiv.org/abs/2602.08696v1)** |  | 2026-02-09 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis](https://arxiv.org/abs/2601.22873v1)** |  | 2026-01-30 | <details><summary>Activ...</summary><p>Activation Steering; Emotion-Aware TTS; Speech Synthesis; Accepted by ICASSP 2026</p></details> |
 | **[A conversational gesture synthesis system based on emotions and semantics](https://arxiv.org/abs/2507.03147v3)** |  | 2026-01-29 |  |
 | **[Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech](https://arxiv.org/abs/2601.20481v1)** |  | 2026-01-28 | ICASSP'2026 |
-| **[Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis](https://arxiv.org/abs/2601.14417v2)** |  | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to ICASSP2026</p></details> |
-| **[Neural Multi-Speaker Voice Cloning for Nepali in Low-Resource Settings](https://arxiv.org/abs/2601.18694v1)** |  | 2026-01-26 | <details><summary>16 pa...</summary><p>16 pages with appendix included</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Calliope: A TTS-based Narrated E-book Creator Ensuring Exact Synchronization, Privacy, and Layout Fidelity](https://arxiv.org/abs/2602.10735v1)** |  | 2026-02-11 |  |
 | **[Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](https://arxiv.org/abs/2509.14579v4)** |  | 2026-02-09 | 5 pages, 2 figures |
 | **[Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS](https://arxiv.org/abs/2508.14313v3)** |  | 2026-02-07 |  |
 | **[ARCHI-TTS: A flow-matching-based Text-to-Speech Model with Self-supervised Semantic Aligner and Accelerated Inference](https://arxiv.org/abs/2602.05207v1)** |  | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Qwen3-TTS Technical Report](https://arxiv.org/abs/2601.15621v1)** |  | 2026-01-22 | <details><summary>https...</summary><p>https://github.com/QwenLM/Qwen3-TTS</p></details> |
 | **[DAIEN-TTS: Disentangled Audio Infilling for Environment-Aware Text-to-Speech Synthesis](https://arxiv.org/abs/2509.14684v2)** |  | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[PMOA-TTS: Introducing the PubMed Open Access Textual Times Series Corpus](https://arxiv.org/abs/2505.20323v2)** |  | 2026-01-15 |  |
-| **[SPAM: Style Prompt Adherence Metric for Prompt-based TTS](https://arxiv.org/abs/2601.05554v1)** |  | 2026-01-09 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Towards Efficient Speech-Text Jointly Decoding within One Speech Language Model](https://arxiv.org/abs/2506.04518v3)** |  | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted by ASRU 2025</p></details> |
 | **[MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models](https://arxiv.org/abs/2511.10262v2)** |  | 2026-02-08 | Work in progress |
 | **[Scaling Speech Tokenizers with Diffusion Autoencoders](https://arxiv.org/abs/2602.06602v1)** |  | 2026-02-06 | ICLR 2026 |
 | **[Speech-XL: Towards Long-Form Speech Understanding in Large Speech Language Models](https://arxiv.org/abs/2602.05373v1)** |  | 2026-02-05 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[VoxPrivacy: A Benchmark for Evaluating Interactional Privacy of Speech Language Models](https://arxiv.org/abs/2601.19956v1)** |  | 2026-01-27 |  |
 | **[TurnGuide: Enhancing Meaningful Full Duplex Spoken Interactions via Dynamic Turn-Level Text-Speech Interleaving](https://arxiv.org/abs/2508.07375v2)** |  | 2026-01-20 | Work in progress |
 | **[What Makes a Good Speech Tokenizer for LLM-Centric Speech Generation? A Systematic Study](https://arxiv.org/abs/2506.12537v3)** |  | 2026-01-16 |  |
-| **[Hearing More with Less: Multi-Modal Retrieval-and-Selection Augmented Conversational LLM-Based ASR](https://arxiv.org/abs/2508.01166v3)** |  | 2026-01-16 | AAAI 2026 |
