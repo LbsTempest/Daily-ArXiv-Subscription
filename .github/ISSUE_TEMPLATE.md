@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - February 13, 2026
+title: Latest Papers - February 16, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis](https://arxiv.org/abs/2602.11477v1)** |  | 2026-02-12 |  |
 | **[AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds](https://arxiv.org/abs/2509.04345v2)** |  | 2026-02-11 |  |
 | **[Emotion-Coherent Speech Data Augmentation and Self-Supervised Contrastive Style Training for Enhancing Kids's Story Speech Synthesis](https://arxiv.org/abs/2602.10164v1)** |  | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted at IEEE Spoken Language Technology Workshop 2024</p></details> |
 | **[TVTSyn: Content-Synchronous Time-Varying Timbre for Streaming Voice Conversion and Anonymization](https://arxiv.org/abs/2602.09389v1)** |  | 2026-02-10 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[VividVoice: A Unified Framework for Scene-Aware Visually-Driven Speech Synthesis](https://arxiv.org/abs/2602.02591v1)** |  | 2026-02-01 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis](https://arxiv.org/abs/2601.22873v1)** |  | 2026-01-30 | <details><summary>Activ...</summary><p>Activation Steering; Emotion-Aware TTS; Speech Synthesis; Accepted by ICASSP 2026</p></details> |
 | **[A conversational gesture synthesis system based on emotions and semantics](https://arxiv.org/abs/2507.03147v3)** |  | 2026-01-29 |  |
-| **[Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech](https://arxiv.org/abs/2601.20481v1)** |  | 2026-01-28 | ICASSP'2026 |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis](https://arxiv.org/abs/2602.11477v1)** |  | 2026-02-12 |  |
 | **[Towards Efficient Speech-Text Jointly Decoding within One Speech Language Model](https://arxiv.org/abs/2506.04518v3)** |  | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted by ASRU 2025</p></details> |
 | **[MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models](https://arxiv.org/abs/2511.10262v2)** |  | 2026-02-08 | Work in progress |
 | **[Scaling Speech Tokenizers with Diffusion Autoencoders](https://arxiv.org/abs/2602.06602v1)** |  | 2026-02-06 | ICLR 2026 |
@@ -78,4 +79,3 @@ labels: documentation
 | **[Why Do Speech Language Models Fail to Generate Semantically Coherent Outputs? A Modality Evolving Perspective](https://arxiv.org/abs/2412.17048v2)** |  | 2026-01-27 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 4 tables. Accepted to IEEE ICASSP 2026</p></details> |
 | **[VoxPrivacy: A Benchmark for Evaluating Interactional Privacy of Speech Language Models](https://arxiv.org/abs/2601.19956v1)** |  | 2026-01-27 |  |
 | **[TurnGuide: Enhancing Meaningful Full Duplex Spoken Interactions via Dynamic Turn-Level Text-Speech Interleaving](https://arxiv.org/abs/2508.07375v2)** |  | 2026-01-20 | Work in progress |
-| **[What Makes a Good Speech Tokenizer for LLM-Centric Speech Generation? A Systematic Study](https://arxiv.org/abs/2506.12537v3)** |  | 2026-01-16 |  |
