@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - February 18, 2026
+title: Latest Papers - February 19, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[LLM-to-Speech: A Synthetic Data Pipeline for Training Dialectal Text-to-Speech Models](https://arxiv.org/abs/2602.15675v1)** |  | 2026-02-17 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, EACL26</p></details> |
 | **[HiFi-Glot: High-Fidelity Neural Formant Synthesis with Differentiable Resonant Filters](https://arxiv.org/abs/2409.14823v2)** |  | 2026-02-16 |  |
 | **[SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis](https://arxiv.org/abs/2602.11477v1)** |  | 2026-02-12 |  |
 | **[AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds](https://arxiv.org/abs/2509.04345v2)** |  | 2026-02-11 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[LipSody: Lip-to-Speech Synthesis with Enhanced Prosody Consistency](https://arxiv.org/abs/2602.01908v1)** |  | 2026-02-02 | <details><summary>This ...</summary><p>This paper has been accepted to ICASSP 2026</p></details> |
 | **[EmoAra: Emotion-Preserving English Speech Transcription and Cross-Lingual Translation with Arabic Text-to-Speech](https://arxiv.org/abs/2602.01170v1)** |  | 2026-02-01 | 10 pages, 3 figures |
 | **[VividVoice: A Unified Framework for Scene-Aware Visually-Driven Speech Synthesis](https://arxiv.org/abs/2602.02591v1)** |  | 2026-02-01 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
-| **[EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis](https://arxiv.org/abs/2601.22873v1)** |  | 2026-01-30 | <details><summary>Activ...</summary><p>Activation Steering; Emotion-Aware TTS; Speech Synthesis; Accepted by ICASSP 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[TAC: Timestamped Audio Captioning](https://arxiv.org/abs/2602.15766v1)** |  | 2026-02-17 |  |
 | **[Eureka-Audio: Triggering Audio Intelligence in Compact Language Models](https://arxiv.org/abs/2602.13954v1)** |  | 2026-02-15 | 23 pages, 4 figures |
 | **[Audiocards: Structured Metadata Improves Audio Language Models For Sound Design](https://arxiv.org/abs/2602.13835v1)** |  | 2026-02-14 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 | **[Multiple Choice Learning of Low-Rank Adapters for Language Modeling](https://arxiv.org/abs/2507.10419v2)** |  | 2026-02-03 |  |
@@ -59,11 +60,11 @@ labels: documentation
 | **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](https://arxiv.org/abs/2508.03983v2)** |  | 2025-11-13 |  |
 | **[DIFFA: Large Language Diffusion Models Can Listen and Understand](https://arxiv.org/abs/2507.18452v3)** |  | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[SeaLLMs-Audio: Large Audio-Language Models for Southeast Asia](https://arxiv.org/abs/2511.01670v1)** |  | 2025-11-03 | 10 pages |
-| **[Do Joint Language-Audio Embeddings Encode Perceptual Timbre Semantics?](https://arxiv.org/abs/2510.14249v1)** |  | 2025-10-16 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[ZeroSyl: Simple Zero-Resource Syllable Tokenization for Spoken Language Modeling](https://arxiv.org/abs/2602.15537v1)** |  | 2026-02-17 | 3 figures, 2 tables |
 | **[GSRM: Generative Speech Reward Model for Speech RLHF](https://arxiv.org/abs/2602.13891v1)** |  | 2026-02-14 |  |
 | **[VoiceAgentBench: Are Voice Assistants ready for agentic tasks?](https://arxiv.org/abs/2510.07978v3)** |  | 2026-02-13 |  |
 | **[SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis](https://arxiv.org/abs/2602.11477v1)** |  | 2026-02-12 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[DiffuSpeech: Silent Thought, Spoken Answer via Unified Speech-Text Diffusion](https://arxiv.org/abs/2601.22889v1)** |  | 2026-01-30 |  |
 | **[Phonological Tokenizer: Prosody-Aware Phonetic Token via Multi-Objective Fine-Tuning with Differentiable K-Means](https://arxiv.org/abs/2601.19781v1)** |  | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
 | **[SLM-SS: Speech Language Model for Generative Speech Separation](https://arxiv.org/abs/2601.19533v1)** |  | 2026-01-27 |  |
-| **[Why Do Speech Language Models Fail to Generate Semantically Coherent Outputs? A Modality Evolving Perspective](https://arxiv.org/abs/2412.17048v2)** |  | 2026-01-27 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 4 tables. Accepted to IEEE ICASSP 2026</p></details> |
