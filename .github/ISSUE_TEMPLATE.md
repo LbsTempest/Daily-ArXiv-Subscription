@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - February 19, 2026
+title: Latest Papers - February 20, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[How to Label Resynthesized Audio: The Dual Role of Neural Audio Codecs in Audio Deepfake Detection](https://arxiv.org/abs/2602.16343v1)** |  | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
 | **[LLM-to-Speech: A Synthetic Data Pipeline for Training Dialectal Text-to-Speech Models](https://arxiv.org/abs/2602.15675v1)** |  | 2026-02-17 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, EACL26</p></details> |
 | **[HiFi-Glot: High-Fidelity Neural Formant Synthesis with Differentiable Resonant Filters](https://arxiv.org/abs/2409.14823v2)** |  | 2026-02-16 |  |
 | **[SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis](https://arxiv.org/abs/2602.11477v1)** |  | 2026-02-12 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[DSFlow: Dual Supervision and Step-Aware Architecture for One-Step Flow Matching Speech Synthesis](https://arxiv.org/abs/2602.09041v1)** |  | 2026-02-03 |  |
 | **[LipSody: Lip-to-Speech Synthesis with Enhanced Prosody Consistency](https://arxiv.org/abs/2602.01908v1)** |  | 2026-02-02 | <details><summary>This ...</summary><p>This paper has been accepted to ICASSP 2026</p></details> |
 | **[EmoAra: Emotion-Preserving English Speech Transcription and Cross-Lingual Translation with Arabic Text-to-Speech](https://arxiv.org/abs/2602.01170v1)** |  | 2026-02-01 | 10 pages, 3 figures |
-| **[VividVoice: A Unified Framework for Scene-Aware Visually-Driven Speech Synthesis](https://arxiv.org/abs/2602.02591v1)** |  | 2026-02-01 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Voice Impression Control in Zero-Shot TTS](https://arxiv.org/abs/2506.05688v3)** |  | 2026-02-18 | <details><summary>5 pag...</summary><p>5 pages,5 figures, Accepted to INTERSPEECH 2025</p></details> |
 | **[Probing Human Articulatory Constraints in End-to-End TTS with Reverse and Mismatched Speech-Text Directions](https://arxiv.org/abs/2602.14664v1)** |  | 2026-02-16 | <details><summary>A sho...</summary><p>A shorter version of this paper appeared in ACPR 2025</p></details> |
 | **[RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS](https://arxiv.org/abs/2512.04552v3)** |  | 2026-02-15 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026. Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 | **[Eliminating stability hallucinations in llm-based tts models via attention guidance](https://arxiv.org/abs/2509.19852v2)** |  | 2026-02-13 | <details><summary>The a...</summary><p>The authors are withdrawing this preprint as it was submitted prematurely without the final approval of all collaborating institutions. We apologize for any inconvenience</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[SPADE: Structured Pruning and Adaptive Distillation for Efficient LLM-TTS](https://arxiv.org/abs/2509.20802v3)** |  | 2026-01-29 | ICASSP 2026 |
 | **[EMORL-TTS: Reinforcement Learning for Fine-Grained Emotion Control in LLM-based TTS](https://arxiv.org/abs/2510.05758v2)** |  | 2026-01-24 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[SonoEdit: Null-Space Constrained Knowledge Editing for Pronunciation Correction in LLM-Based TTS](https://arxiv.org/abs/2601.17086v1)** |  | 2026-01-23 |  |
-| **[Qwen3-TTS Technical Report](https://arxiv.org/abs/2601.15621v1)** |  | 2026-01-22 | <details><summary>https...</summary><p>https://github.com/QwenLM/Qwen3-TTS</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
