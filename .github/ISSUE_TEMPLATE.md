@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - February 23, 2026
+title: Latest Papers - February 24, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Cross-Lingual Interleaving for Speech Language Models](https://arxiv.org/abs/2512.01865v2)** |  | 2026-02-20 |  |
 | **[ZeroSyl: Simple Zero-Resource Syllable Tokenization for Spoken Language Modeling](https://arxiv.org/abs/2602.15537v1)** |  | 2026-02-17 | 3 figures, 2 tables |
 | **[GSRM: Generative Speech Reward Model for Speech RLHF](https://arxiv.org/abs/2602.13891v1)** |  | 2026-02-14 |  |
 | **[VoiceAgentBench: Are Voice Assistants ready for agentic tasks?](https://arxiv.org/abs/2510.07978v3)** |  | 2026-02-13 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[VoxServe: Streaming-Centric Serving System for Speech Language Models](https://arxiv.org/abs/2602.00269v1)** |  | 2026-01-30 | <details><summary>The c...</summary><p>The code is available at https://github.com/vox-serve/vox-serve</p></details> |
 | **[DiffuSpeech: Silent Thought, Spoken Answer via Unified Speech-Text Diffusion](https://arxiv.org/abs/2601.22889v1)** |  | 2026-01-30 |  |
 | **[Phonological Tokenizer: Prosody-Aware Phonetic Token via Multi-Objective Fine-Tuning with Differentiable K-Means](https://arxiv.org/abs/2601.19781v1)** |  | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
-| **[SLM-SS: Speech Language Model for Generative Speech Separation](https://arxiv.org/abs/2601.19533v1)** |  | 2026-01-27 |  |
