@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - February 26, 2026
+title: Latest Papers - February 27, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Aligning Audio Captions with Human Preferences](https://arxiv.org/abs/2509.14659v2)** |  | 2026-02-25 | <details><summary>Submi...</summary><p>Submitted for review to Interspeech 2026</p></details> |
 | **[TAC: Timestamped Audio Captioning](https://arxiv.org/abs/2602.15766v1)** |  | 2026-02-17 |  |
 | **[Eureka-Audio: Triggering Audio Intelligence in Compact Language Models](https://arxiv.org/abs/2602.13954v1)** |  | 2026-02-15 | 23 pages, 4 figures |
 | **[Audiocards: Structured Metadata Improves Audio Language Models For Sound Design](https://arxiv.org/abs/2602.13835v1)** |  | 2026-02-14 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
@@ -59,11 +60,11 @@ labels: documentation
 | **[Semantic-Aware Confidence Calibration for Automated Audio Captioning](https://arxiv.org/abs/2512.10170v1)** |  | 2025-12-11 | 5 pages, 2 figures |
 | **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](https://arxiv.org/abs/2508.03983v2)** |  | 2025-11-13 |  |
 | **[DIFFA: Large Language Diffusion Models Can Listen and Understand](https://arxiv.org/abs/2507.18452v3)** |  | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[SeaLLMs-Audio: Large Audio-Language Models for Southeast Asia](https://arxiv.org/abs/2511.01670v1)** |  | 2025-11-03 | 10 pages |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates](https://arxiv.org/abs/2510.00981v3)** |  | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 | **[Cross-Lingual Interleaving for Speech Language Models](https://arxiv.org/abs/2512.01865v2)** |  | 2026-02-20 |  |
 | **[ZeroSyl: Simple Zero-Resource Syllable Tokenization for Spoken Language Modeling](https://arxiv.org/abs/2602.15537v1)** |  | 2026-02-17 | 3 figures, 2 tables |
 | **[GSRM: Generative Speech Reward Model for Speech RLHF](https://arxiv.org/abs/2602.13891v1)** |  | 2026-02-14 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[FastSLM: Hierarchical Frame Q-Former for Effective Speech Modality Adaptation](https://arxiv.org/abs/2601.06199v2)** |  | 2026-02-02 |  |
 | **[VoxServe: Streaming-Centric Serving System for Speech Language Models](https://arxiv.org/abs/2602.00269v1)** |  | 2026-01-30 | <details><summary>The c...</summary><p>The code is available at https://github.com/vox-serve/vox-serve</p></details> |
 | **[DiffuSpeech: Silent Thought, Spoken Answer via Unified Speech-Text Diffusion](https://arxiv.org/abs/2601.22889v1)** |  | 2026-01-30 |  |
-| **[Phonological Tokenizer: Prosody-Aware Phonetic Token via Multi-Objective Fine-Tuning with Differentiable K-Means](https://arxiv.org/abs/2601.19781v1)** |  | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
