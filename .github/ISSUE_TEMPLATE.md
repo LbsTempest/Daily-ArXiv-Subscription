@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - March 05, 2026
+title: Latest Papers - March 06, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis](https://arxiv.org/abs/2603.04219v1)** |  | 2026-03-04 | <details><summary>6 pag...</summary><p>6 pages, submitted to INTERSPEECH 2026</p></details> |
 | **[Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems](https://arxiv.org/abs/2602.23266v1)** |  | 2026-02-26 |  |
 | **[Closing the Gap Between Text and Speech Understanding in LLMs](https://arxiv.org/abs/2510.13632v2)** |  | 2026-02-23 |  |
 | **[Can You Tell It's AI? Human Perception of Synthetic Voices in Vishing Scenarios](https://arxiv.org/abs/2602.20061v1)** |  | 2026-02-23 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[Emotion-Coherent Speech Data Augmentation and Self-Supervised Contrastive Style Training for Enhancing Kids's Story Speech Synthesis](https://arxiv.org/abs/2602.10164v1)** |  | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted at IEEE Spoken Language Technology Workshop 2024</p></details> |
 | **[TVTSyn: Content-Synchronous Time-Varying Timbre for Streaming Voice Conversion and Anonymization](https://arxiv.org/abs/2602.09389v1)** |  | 2026-02-10 |  |
 | **[Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](https://arxiv.org/abs/2509.14579v4)** |  | 2026-02-09 | 5 pages, 2 figures |
-| **[SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis](https://arxiv.org/abs/2602.07803v1)** |  | 2026-02-08 | Technical Report |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis](https://arxiv.org/abs/2603.04219v1)** |  | 2026-03-04 | <details><summary>6 pag...</summary><p>6 pages, submitted to INTERSPEECH 2026</p></details> |
+| **[VietNormalizer: An Open-Source, Dependency-Free Python Library for Vietnamese Text Normalization in TTS and NLP Applications](https://arxiv.org/abs/2603.04145v1)** |  | 2026-03-04 | 10 pages, 1 table |
 | **[More Data, Fewer Diacritics: Scaling Arabic TTS](https://arxiv.org/abs/2603.01622v1)** |  | 2026-03-02 |  |
 | **[TT-SEAL: TTD-Aware Selective Encryption for Adversarially-Robust and Low-Latency Edge AI](https://arxiv.org/abs/2602.22238v1)** |  | 2026-02-24 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 3 tables. This paper has been accepted at Design Automation Conference (DAC) 2026</p></details> |
 | **[CTC-TTS: LLM-based dual-streaming text-to-speech with CTC alignment](https://arxiv.org/abs/2602.19574v1)** |  | 2026-02-23 | <details><summary>Submi...</summary><p>Submitted to INTERSPEECH 2026</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[ARCHI-TTS: A flow-matching-based Text-to-Speech Model with Self-supervised Semantic Aligner and Accelerated Inference](https://arxiv.org/abs/2602.05207v1)** |  | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion](https://arxiv.org/abs/2602.04160v1)** |  | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 | **[CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering](https://arxiv.org/abs/2602.03420v1)** |  | 2026-02-03 |  |
-| **[Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability](https://arxiv.org/abs/2601.22661v1)** |  | 2026-01-30 |  |
-| **[No Verifiable Reward for Prosody: Toward Preference-Guided Prosody Learning in TTS](https://arxiv.org/abs/2509.18531v2)** |  | 2026-01-29 | ICASSP 2026 |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
