@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - March 09, 2026
+title: Latest Papers - March 10, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Is it Me? Toward Self-Extension to AI Avatars in Virtual Reality](https://arxiv.org/abs/2603.06030v1)** |  | 2026-03-06 | <details><summary>Cond....</summary><p>Cond. accepted to ACM CHI '26 Extended Abstracts (Poster)</p></details> |
+| **[How Well Do Current Speech Deepfake Detection Methods Generalize to the Real World?](https://arxiv.org/abs/2603.05852v1)** |  | 2026-03-06 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Hierarchical Decoding for Discrete Speech Synthesis with Multi-Resolution Spoof Detection](https://arxiv.org/abs/2603.05373v1)** |  | 2026-03-05 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 3 tables, 2 algorithms</p></details> |
 | **[ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis](https://arxiv.org/abs/2603.04219v1)** |  | 2026-03-04 | <details><summary>6 pag...</summary><p>6 pages, submitted to INTERSPEECH 2026</p></details> |
 | **[Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems](https://arxiv.org/abs/2602.23266v1)** |  | 2026-02-26 |  |
@@ -20,12 +22,13 @@ labels: documentation
 | **[Speech to Speech Synthesis for Voice Impersonation](https://arxiv.org/abs/2602.16721v1)** |  | 2026-02-13 | <details><summary>Origi...</summary><p>Original work completed in April 2020. This version includes minor formatting updates</p></details> |
 | **[SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis](https://arxiv.org/abs/2602.11477v1)** |  | 2026-02-12 |  |
 | **[AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds](https://arxiv.org/abs/2509.04345v2)** |  | 2026-02-11 |  |
-| **[Emotion-Coherent Speech Data Augmentation and Self-Supervised Contrastive Style Training for Enhancing Kids's Story Speech Synthesis](https://arxiv.org/abs/2602.10164v1)** |  | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted at IEEE Spoken Language Technology Workshop 2024</p></details> |
-| **[TVTSyn: Content-Synchronous Time-Varying Timbre for Streaming Voice Conversion and Anonymization](https://arxiv.org/abs/2602.09389v1)** |  | 2026-02-10 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Prosodic Boundary-Aware Streaming Generation for LLM-Based TTS with Streaming Text Input](https://arxiv.org/abs/2603.06444v1)** |  | 2026-03-06 |  |
+| **[TT-SNN: Tensor Train Decomposition for Efficient Spiking Neural Network Training](https://arxiv.org/abs/2401.08001v2)** |  | 2026-03-06 | DATE 2024 |
+| **[Efficient Emotion and Speaker Adaptation in LLM-Based TTS via Characteristic-Specific Partial Fine-Tuning](https://arxiv.org/abs/2501.14273v2)** |  | 2026-03-06 | 10 pages |
 | **[ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis](https://arxiv.org/abs/2603.04219v1)** |  | 2026-03-04 | <details><summary>6 pag...</summary><p>6 pages, submitted to INTERSPEECH 2026</p></details> |
 | **[VietNormalizer: An Open-Source, Dependency-Free Python Library for Vietnamese Text Normalization in TTS and NLP Applications](https://arxiv.org/abs/2603.04145v1)** |  | 2026-03-04 | 10 pages, 1 table |
 | **[More Data, Fewer Diacritics: Scaling Arabic TTS](https://arxiv.org/abs/2603.01622v1)** |  | 2026-03-02 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Calliope: A TTS-based Narrated E-book Creator Ensuring Exact Synchronization, Privacy, and Layout Fidelity](https://arxiv.org/abs/2602.10735v1)** |  | 2026-02-11 |  |
 | **[Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](https://arxiv.org/abs/2509.14579v4)** |  | 2026-02-09 | 5 pages, 2 figures |
 | **[Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS](https://arxiv.org/abs/2508.14313v3)** |  | 2026-02-07 |  |
-| **[ARCHI-TTS: A flow-matching-based Text-to-Speech Model with Self-supervised Semantic Aligner and Accelerated Inference](https://arxiv.org/abs/2602.05207v1)** |  | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
-| **[PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion](https://arxiv.org/abs/2602.04160v1)** |  | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
-| **[CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering](https://arxiv.org/abs/2602.03420v1)** |  | 2026-02-03 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
