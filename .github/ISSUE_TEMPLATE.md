@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - March 10, 2026
+title: Latest Papers - March 11, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Bolbosh: Script-Aware Flow Matching for Kashmiri Text-to-Speech](https://arxiv.org/abs/2603.07513v1)** |  | 2026-03-08 | <details><summary>https...</summary><p>https://gaash-lab.github.io/Bolbosh/</p></details> |
 | **[Is it Me? Toward Self-Extension to AI Avatars in Virtual Reality](https://arxiv.org/abs/2603.06030v1)** |  | 2026-03-06 | <details><summary>Cond....</summary><p>Cond. accepted to ACM CHI '26 Extended Abstracts (Poster)</p></details> |
 | **[How Well Do Current Speech Deepfake Detection Methods Generalize to the Real World?](https://arxiv.org/abs/2603.05852v1)** |  | 2026-03-06 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Hierarchical Decoding for Discrete Speech Synthesis with Multi-Resolution Spoof Detection](https://arxiv.org/abs/2603.05373v1)** |  | 2026-03-05 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 3 tables, 2 algorithms</p></details> |
@@ -15,17 +16,19 @@ labels: documentation
 | **[Closing the Gap Between Text and Speech Understanding in LLMs](https://arxiv.org/abs/2510.13632v2)** |  | 2026-02-23 |  |
 | **[Can You Tell It's AI? Human Perception of Synthetic Voices in Vishing Scenarios](https://arxiv.org/abs/2602.20061v1)** |  | 2026-02-23 |  |
 | **[Real-Time Sign Language Gestures to Speech Transcription using Deep Learning](https://arxiv.org/abs/2508.12713v2)** |  | 2026-02-23 | <details><summary>Cours...</summary><p>Course related research project</p></details> |
+| **[Advances in GRPO for Generation Models: A Survey](https://arxiv.org/abs/2603.06623v1)** |  | 2026-02-21 |  |
 | **[Prototype-Based Disentanglement for Controllable Dysarthric Speech Synthesis](https://arxiv.org/abs/2602.08696v2)** |  | 2026-02-19 |  |
 | **[How to Label Resynthesized Audio: The Dual Role of Neural Audio Codecs in Audio Deepfake Detection](https://arxiv.org/abs/2602.16343v1)** |  | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
 | **[LLM-to-Speech: A Synthetic Data Pipeline for Training Dialectal Text-to-Speech Models](https://arxiv.org/abs/2602.15675v1)** |  | 2026-02-17 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, EACL26</p></details> |
 | **[HiFi-Glot: High-Fidelity Neural Formant Synthesis with Differentiable Resonant Filters](https://arxiv.org/abs/2409.14823v2)** |  | 2026-02-16 |  |
 | **[Speech to Speech Synthesis for Voice Impersonation](https://arxiv.org/abs/2602.16721v1)** |  | 2026-02-13 | <details><summary>Origi...</summary><p>Original work completed in April 2020. This version includes minor formatting updates</p></details> |
-| **[SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis](https://arxiv.org/abs/2602.11477v1)** |  | 2026-02-12 |  |
-| **[AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds](https://arxiv.org/abs/2509.04345v2)** |  | 2026-02-11 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Ramsa: A Large Sociolinguistically Rich Emirati Arabic Speech Corpus for ASR and TTS](https://arxiv.org/abs/2603.08125v1)** |  | 2026-03-09 |  |
+| **[TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables](https://arxiv.org/abs/2603.07606v1)** |  | 2026-03-08 |  |
+| **[Accent Vector: Controllable Accent Manipulation for Multilingual TTS Without Accented Data](https://arxiv.org/abs/2603.07534v1)** |  | 2026-03-08 | <details><summary>Submi...</summary><p>Submitted to Interspeech2026</p></details> |
 | **[Prosodic Boundary-Aware Streaming Generation for LLM-Based TTS with Streaming Text Input](https://arxiv.org/abs/2603.06444v1)** |  | 2026-03-06 |  |
 | **[TT-SNN: Tensor Train Decomposition for Efficient Spiking Neural Network Training](https://arxiv.org/abs/2401.08001v2)** |  | 2026-03-06 | DATE 2024 |
 | **[Efficient Emotion and Speaker Adaptation in LLM-Based TTS via Characteristic-Specific Partial Fine-Tuning](https://arxiv.org/abs/2501.14273v2)** |  | 2026-03-06 | 10 pages |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Probing Human Articulatory Constraints in End-to-End TTS with Reverse and Mismatched Speech-Text Directions](https://arxiv.org/abs/2602.14664v1)** |  | 2026-02-16 | <details><summary>A sho...</summary><p>A shorter version of this paper appeared in ACPR 2025</p></details> |
 | **[RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS](https://arxiv.org/abs/2512.04552v3)** |  | 2026-02-15 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026. Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 | **[Eliminating stability hallucinations in llm-based tts models via attention guidance](https://arxiv.org/abs/2509.19852v2)** |  | 2026-02-13 | <details><summary>The a...</summary><p>The authors are withdrawing this preprint as it was submitted prematurely without the final approval of all collaborating institutions. We apologize for any inconvenience</p></details> |
-| **[Calliope: A TTS-based Narrated E-book Creator Ensuring Exact Synchronization, Privacy, and Layout Fidelity](https://arxiv.org/abs/2602.10735v1)** |  | 2026-02-11 |  |
-| **[Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](https://arxiv.org/abs/2509.14579v4)** |  | 2026-02-09 | 5 pages, 2 figures |
-| **[Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS](https://arxiv.org/abs/2508.14313v3)** |  | 2026-02-07 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[StyleBench: Evaluating Speech Language Models on Conversational Speaking Style Control](https://arxiv.org/abs/2603.07599v1)** |  | 2026-03-08 |  |
 | **[WavSLM: Single-Stream Speech Language Modeling via WavLM Distillation](https://arxiv.org/abs/2603.05299v1)** |  | 2026-03-05 | 6 pages, 1 figure |
 | **[Llama-Mimi: Exploring the Limits of Flattened Speech Language Modeling](https://arxiv.org/abs/2509.14882v2)** |  | 2026-03-05 | 6 pages, 1 figures |
 | **[EchoMind: An Interrelated Multi-level Benchmark for Evaluating Empathetic Speech Language Models](https://arxiv.org/abs/2510.22758v2)** |  | 2026-03-05 | <details><summary>Speec...</summary><p>Speech Language Models, Spoken Language Understanding, Vocal Cue Perception, Empathetic Dialogue, Benchmark Evaluation; Accepted by ICLR 2026</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models](https://arxiv.org/abs/2511.10262v2)** |  | 2026-02-08 | Work in progress |
 | **[Scaling Speech Tokenizers with Diffusion Autoencoders](https://arxiv.org/abs/2602.06602v1)** |  | 2026-02-06 | ICLR 2026 |
 | **[Speech-XL: Towards Long-Form Speech Understanding in Large Speech Language Models](https://arxiv.org/abs/2602.05373v1)** |  | 2026-02-05 |  |
-| **[Frontend Token Enhancement for Token-Based Speech Recognition](https://arxiv.org/abs/2602.04217v1)** |  | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
