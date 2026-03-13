@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - March 12, 2026
+title: Latest Papers - March 13, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Probabilistic Verification of Voice Anti-Spoofing Models](https://arxiv.org/abs/2603.10713v1)** |  | 2026-03-11 |  |
+| **[What Makes Code Generation Ethically Sourced?](https://arxiv.org/abs/2507.19743v2)** |  | 2026-03-11 |  |
 | **[Bolbosh: Script-Aware Flow Matching for Kashmiri Text-to-Speech](https://arxiv.org/abs/2603.07513v1)** |  | 2026-03-08 | <details><summary>https...</summary><p>https://gaash-lab.github.io/Bolbosh/</p></details> |
 | **[Is it Me? Toward Self-Extension to AI Avatars in Virtual Reality](https://arxiv.org/abs/2603.06030v1)** |  | 2026-03-06 | <details><summary>Cond....</summary><p>Cond. accepted to ACM CHI '26 Extended Abstracts (Poster)</p></details> |
 | **[How Well Do Current Speech Deepfake Detection Methods Generalize to the Real World?](https://arxiv.org/abs/2603.05852v1)** |  | 2026-03-06 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Prototype-Based Disentanglement for Controllable Dysarthric Speech Synthesis](https://arxiv.org/abs/2602.08696v2)** |  | 2026-02-19 |  |
 | **[How to Label Resynthesized Audio: The Dual Role of Neural Audio Codecs in Audio Deepfake Detection](https://arxiv.org/abs/2602.16343v1)** |  | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
 | **[LLM-to-Speech: A Synthetic Data Pipeline for Training Dialectal Text-to-Speech Models](https://arxiv.org/abs/2602.15675v1)** |  | 2026-02-17 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, EACL26</p></details> |
-| **[HiFi-Glot: High-Fidelity Neural Formant Synthesis with Differentiable Resonant Filters](https://arxiv.org/abs/2409.14823v2)** |  | 2026-02-16 |  |
-| **[Speech to Speech Synthesis for Voice Impersonation](https://arxiv.org/abs/2602.16721v1)** |  | 2026-02-13 | <details><summary>Origi...</summary><p>Original work completed in April 2020. This version includes minor formatting updates</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[When Fine-Tuning Fails and when it Generalises: Role of Data Diversity and Mixed Training in LLM-based TTS](https://arxiv.org/abs/2603.10904v1)** |  | 2026-03-11 | <details><summary>We fi...</summary><p>We finetune the Qwen 0.5B backbone in an LLM TTS with LoRA to raise MOS speaker similarity and SNR. It works best with diverse training audio with uniform data it can amplify noise so tune decoding and use GGUF quantization for low latency stable quality</p></details> |
 | **[DuplexCascade: Full-Duplex Speech-to-Speech Dialogue with VAD-Free Cascaded ASR-LLM-TTS Pipeline and Micro-Turn Optimization](https://arxiv.org/abs/2603.09180v1)** |  | 2026-03-10 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Ramsa: A Large Sociolinguistically Rich Emirati Arabic Speech Corpus for ASR and TTS](https://arxiv.org/abs/2603.08125v1)** |  | 2026-03-09 |  |
 | **[TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables](https://arxiv.org/abs/2603.07606v1)** |  | 2026-03-08 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[CTC-TTS: LLM-based dual-streaming text-to-speech with CTC alignment](https://arxiv.org/abs/2602.19574v1)** |  | 2026-02-23 | <details><summary>Submi...</summary><p>Submitted to INTERSPEECH 2026</p></details> |
 | **[Voice Impression Control in Zero-Shot TTS](https://arxiv.org/abs/2506.05688v3)** |  | 2026-02-18 | <details><summary>5 pag...</summary><p>5 pages,5 figures, Accepted to INTERSPEECH 2025</p></details> |
 | **[Probing Human Articulatory Constraints in End-to-End TTS with Reverse and Mismatched Speech-Text Directions](https://arxiv.org/abs/2602.14664v1)** |  | 2026-02-16 | <details><summary>A sho...</summary><p>A shorter version of this paper appeared in ACPR 2025</p></details> |
-| **[RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS](https://arxiv.org/abs/2512.04552v3)** |  | 2026-02-15 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026. Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
