@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - March 13, 2026
+title: Latest Papers - March 16, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
-| **[Probabilistic Verification of Voice Anti-Spoofing Models](https://arxiv.org/abs/2603.10713v1)** |  | 2026-03-11 |  |
+| **[Probabilistic Verification of Voice Anti-Spoofing Models](https://arxiv.org/abs/2603.10713v2)** |  | 2026-03-12 | <details><summary>The p...</summary><p>The paper was submitted for review to Interspeech 2026</p></details> |
+| **[Causal Prosody Mediation for Text-to-Speech:Counterfactual Training of Duration, Pitch, and Energy in FastSpeech2](https://arxiv.org/abs/2603.11683v1)** |  | 2026-03-12 |  |
+| **[RAF: Relativistic Adversarial Feedback For Universal Speech Synthesis](https://arxiv.org/abs/2603.11678v1)** |  | 2026-03-12 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[What Makes Code Generation Ethically Sourced?](https://arxiv.org/abs/2507.19743v2)** |  | 2026-03-11 |  |
 | **[Bolbosh: Script-Aware Flow Matching for Kashmiri Text-to-Speech](https://arxiv.org/abs/2603.07513v1)** |  | 2026-03-08 | <details><summary>https...</summary><p>https://gaash-lab.github.io/Bolbosh/</p></details> |
 | **[Is it Me? Toward Self-Extension to AI Avatars in Virtual Reality](https://arxiv.org/abs/2603.06030v1)** |  | 2026-03-06 | <details><summary>Cond....</summary><p>Cond. accepted to ACM CHI '26 Extended Abstracts (Poster)</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Real-Time Sign Language Gestures to Speech Transcription using Deep Learning](https://arxiv.org/abs/2508.12713v2)** |  | 2026-02-23 | <details><summary>Cours...</summary><p>Course related research project</p></details> |
 | **[Advances in GRPO for Generation Models: A Survey](https://arxiv.org/abs/2603.06623v1)** |  | 2026-02-21 |  |
 | **[Prototype-Based Disentanglement for Controllable Dysarthric Speech Synthesis](https://arxiv.org/abs/2602.08696v2)** |  | 2026-02-19 |  |
-| **[How to Label Resynthesized Audio: The Dual Role of Neural Audio Codecs in Audio Deepfake Detection](https://arxiv.org/abs/2602.16343v1)** |  | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
-| **[LLM-to-Speech: A Synthetic Data Pipeline for Training Dialectal Text-to-Speech Models](https://arxiv.org/abs/2602.15675v1)** |  | 2026-02-17 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, EACL26</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
