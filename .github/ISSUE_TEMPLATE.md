@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - March 16, 2026
+title: Latest Papers - March 17, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Speech-Worthy Alignment for Japanese SpeechLLMs via Direct Preference Optimization](https://arxiv.org/abs/2603.12565v1)** |  | 2026-03-13 |  |
 | **[Probabilistic Verification of Voice Anti-Spoofing Models](https://arxiv.org/abs/2603.10713v2)** |  | 2026-03-12 | <details><summary>The p...</summary><p>The paper was submitted for review to Interspeech 2026</p></details> |
 | **[Causal Prosody Mediation for Text-to-Speech:Counterfactual Training of Duration, Pitch, and Energy in FastSpeech2](https://arxiv.org/abs/2603.11683v1)** |  | 2026-03-12 |  |
 | **[RAF: Relativistic Adversarial Feedback For Universal Speech Synthesis](https://arxiv.org/abs/2603.11678v1)** |  | 2026-03-12 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Can You Tell It's AI? Human Perception of Synthetic Voices in Vishing Scenarios](https://arxiv.org/abs/2602.20061v1)** |  | 2026-02-23 |  |
 | **[Real-Time Sign Language Gestures to Speech Transcription using Deep Learning](https://arxiv.org/abs/2508.12713v2)** |  | 2026-02-23 | <details><summary>Cours...</summary><p>Course related research project</p></details> |
 | **[Advances in GRPO for Generation Models: A Survey](https://arxiv.org/abs/2603.06623v1)** |  | 2026-02-21 |  |
-| **[Prototype-Based Disentanglement for Controllable Dysarthric Speech Synthesis](https://arxiv.org/abs/2602.08696v2)** |  | 2026-02-19 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Triple X: A LLM-Based Multilingual Speech Recognition System for the INTERSPEECH2025 MLC-SLM Challenge](https://arxiv.org/abs/2507.17288v2)** |  | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted By Interspeech 2025 MLC-SLM workshop</p></details> |
 | **[StyleBench: Evaluating Speech Language Models on Conversational Speaking Style Control](https://arxiv.org/abs/2603.07599v1)** |  | 2026-03-08 |  |
 | **[WavSLM: Single-Stream Speech Language Modeling via WavLM Distillation](https://arxiv.org/abs/2603.05299v1)** |  | 2026-03-05 | 6 pages, 1 figure |
 | **[Llama-Mimi: Exploring the Limits of Flattened Speech Language Modeling](https://arxiv.org/abs/2509.14882v2)** |  | 2026-03-05 | 6 pages, 1 figures |
@@ -78,4 +79,3 @@ labels: documentation
 | **[Towards Efficient Speech-Text Jointly Decoding within One Speech Language Model](https://arxiv.org/abs/2506.04518v3)** |  | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted by ASRU 2025</p></details> |
 | **[MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models](https://arxiv.org/abs/2511.10262v2)** |  | 2026-02-08 | Work in progress |
 | **[Scaling Speech Tokenizers with Diffusion Autoencoders](https://arxiv.org/abs/2602.06602v1)** |  | 2026-02-06 | ICLR 2026 |
-| **[Speech-XL: Towards Long-Form Speech Understanding in Large Speech Language Models](https://arxiv.org/abs/2602.05373v1)** |  | 2026-02-05 |  |
