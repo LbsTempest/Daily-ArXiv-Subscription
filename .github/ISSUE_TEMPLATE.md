@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - March 17, 2026
+title: Latest Papers - March 18, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis](https://arxiv.org/abs/2602.07803v2)** |  | 2026-03-16 | Technical Report |
+| **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](https://arxiv.org/abs/2509.19001v2)** |  | 2026-03-15 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables; Accepted to ICASSP2026(Oral)</p></details> |
+| **[Affectron: Emotional Speech Synthesis with Affective and Contextually Aligned Nonverbal Vocalizations](https://arxiv.org/abs/2603.14432v1)** |  | 2026-03-15 |  |
+| **[CodecMOS-Accent: A MOS Benchmark of Resynthesized and TTS Speech from Neural Codecs Across English Accents](https://arxiv.org/abs/2603.14328v1)** |  | 2026-03-15 | Preprint |
 | **[Speech-Worthy Alignment for Japanese SpeechLLMs via Direct Preference Optimization](https://arxiv.org/abs/2603.12565v1)** |  | 2026-03-13 |  |
 | **[Probabilistic Verification of Voice Anti-Spoofing Models](https://arxiv.org/abs/2603.10713v2)** |  | 2026-03-12 | <details><summary>The p...</summary><p>The paper was submitted for review to Interspeech 2026</p></details> |
 | **[Causal Prosody Mediation for Text-to-Speech:Counterfactual Training of Duration, Pitch, and Energy in FastSpeech2](https://arxiv.org/abs/2603.11683v1)** |  | 2026-03-12 |  |
@@ -18,14 +22,13 @@ labels: documentation
 | **[Hierarchical Decoding for Discrete Speech Synthesis with Multi-Resolution Spoof Detection](https://arxiv.org/abs/2603.05373v1)** |  | 2026-03-05 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 3 tables, 2 algorithms</p></details> |
 | **[ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis](https://arxiv.org/abs/2603.04219v1)** |  | 2026-03-04 | <details><summary>6 pag...</summary><p>6 pages, submitted to INTERSPEECH 2026</p></details> |
 | **[Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems](https://arxiv.org/abs/2602.23266v1)** |  | 2026-02-26 |  |
-| **[Closing the Gap Between Text and Speech Understanding in LLMs](https://arxiv.org/abs/2510.13632v2)** |  | 2026-02-23 |  |
-| **[Can You Tell It's AI? Human Perception of Synthetic Voices in Vishing Scenarios](https://arxiv.org/abs/2602.20061v1)** |  | 2026-02-23 |  |
-| **[Real-Time Sign Language Gestures to Speech Transcription using Deep Learning](https://arxiv.org/abs/2508.12713v2)** |  | 2026-02-23 | <details><summary>Cours...</summary><p>Course related research project</p></details> |
-| **[Advances in GRPO for Generation Models: A Survey](https://arxiv.org/abs/2603.06623v1)** |  | 2026-02-21 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](https://arxiv.org/abs/2509.19001v2)** |  | 2026-03-15 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables; Accepted to ICASSP2026(Oral)</p></details> |
+| **[CodecMOS-Accent: A MOS Benchmark of Resynthesized and TTS Speech from Neural Codecs Across English Accents](https://arxiv.org/abs/2603.14328v1)** |  | 2026-03-15 | Preprint |
+| **[VoXtream2: Full-stream TTS with dynamic speaking rate control](https://arxiv.org/abs/2603.13518v1)** |  | 2026-03-13 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, Submitted to Interspeech 2026</p></details> |
 | **[When Fine-Tuning Fails and when it Generalises: Role of Data Diversity and Mixed Training in LLM-based TTS](https://arxiv.org/abs/2603.10904v1)** |  | 2026-03-11 | <details><summary>We fi...</summary><p>We finetune the Qwen 0.5B backbone in an LLM TTS with LoRA to raise MOS speaker similarity and SNR. It works best with diverse training audio with uniform data it can amplify noise so tune decoding and use GGUF quantization for low latency stable quality</p></details> |
 | **[DuplexCascade: Full-Duplex Speech-to-Speech Dialogue with VAD-Free Cascaded ASR-LLM-TTS Pipeline and Micro-Turn Optimization](https://arxiv.org/abs/2603.09180v1)** |  | 2026-03-10 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Ramsa: A Large Sociolinguistically Rich Emirati Arabic Speech Corpus for ASR and TTS](https://arxiv.org/abs/2603.08125v1)** |  | 2026-03-09 |  |
@@ -38,13 +41,12 @@ labels: documentation
 | **[VietNormalizer: An Open-Source, Dependency-Free Python Library for Vietnamese Text Normalization in TTS and NLP Applications](https://arxiv.org/abs/2603.04145v1)** |  | 2026-03-04 | 10 pages, 1 table |
 | **[More Data, Fewer Diacritics: Scaling Arabic TTS](https://arxiv.org/abs/2603.01622v1)** |  | 2026-03-02 |  |
 | **[TT-SEAL: TTD-Aware Selective Encryption for Adversarially-Robust and Low-Latency Edge AI](https://arxiv.org/abs/2602.22238v1)** |  | 2026-02-24 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 3 tables. This paper has been accepted at Design Automation Conference (DAC) 2026</p></details> |
-| **[CTC-TTS: LLM-based dual-streaming text-to-speech with CTC alignment](https://arxiv.org/abs/2602.19574v1)** |  | 2026-02-23 | <details><summary>Submi...</summary><p>Submitted to INTERSPEECH 2026</p></details> |
-| **[Voice Impression Control in Zero-Shot TTS](https://arxiv.org/abs/2506.05688v3)** |  | 2026-02-18 | <details><summary>5 pag...</summary><p>5 pages,5 figures, Accepted to INTERSPEECH 2025</p></details> |
-| **[Probing Human Articulatory Constraints in End-to-End TTS with Reverse and Mismatched Speech-Text Directions](https://arxiv.org/abs/2602.14664v1)** |  | 2026-02-16 | <details><summary>A sho...</summary><p>A shorter version of this paper appeared in ACPR 2025</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception](https://arxiv.org/abs/2510.12720v2)** |  | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by ICLR2026. Open Source at https://github.com/ddlBoJack/Omni-Captioner</p></details> |
+| **[LAMB: LLM-based Audio Captioning with Modality Gap Bridging via Cauchy-Schwarz Divergence](https://arxiv.org/abs/2601.04658v2)** |  | 2026-03-16 | <details><summary>5 pag...</summary><p>5 pages, 2 figures; Accepted to ICASSP 2026</p></details> |
 | **[Investigating Group Relative Policy Optimization for Diffusion Transformer based Text-to-Audio Generation](https://arxiv.org/abs/2603.01565v1)** |  | 2026-03-02 |  |
 | **[AudioCapBench: Quick Evaluation on Audio Captioning across Sound, Music, and Speech](https://arxiv.org/abs/2602.23649v1)** |  | 2026-02-27 |  |
 | **[Unbiased Sliced Wasserstein Kernels for High-Quality Audio Captioning](https://arxiv.org/abs/2502.05435v2)** |  | 2026-02-26 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[AudioMotionBench: Evaluating Auditory Motion Perception in Audio LLMs](https://arxiv.org/abs/2511.13273v2)** |  | 2026-01-22 |  |
 | **[SLAM-LLM: A Modular, Open-Source Multimodal Large Language Model Framework and Best Practice for Speech, Language, Audio and Music Processing](https://arxiv.org/abs/2601.09385v1)** |  | 2026-01-14 | <details><summary>Publi...</summary><p>Published in IEEE Journal of Selected Topics in Signal Processing (JSTSP)</p></details> |
 | **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v2)** |  | 2026-01-11 |  |
-| **[LAMB: LLM-based Audio Captioning with Modality Gap Bridging via Cauchy-Schwarz Divergence](https://arxiv.org/abs/2601.04658v1)** |  | 2026-01-08 | 5 pages, 2 figures; |
-| **[BRACE: A Benchmark for Robust Audio Caption Quality Evaluation](https://arxiv.org/abs/2512.10403v1)** |  | 2025-12-11 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
