@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - March 18, 2026
+title: Latest Papers - March 19, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[On the Emotion Understanding of Synthesized Speech](https://arxiv.org/abs/2603.16483v1)** |  | 2026-03-17 |  |
 | **[SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis](https://arxiv.org/abs/2602.07803v2)** |  | 2026-03-16 | Technical Report |
 | **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](https://arxiv.org/abs/2509.19001v2)** |  | 2026-03-15 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables; Accepted to ICASSP2026(Oral)</p></details> |
 | **[Affectron: Emotional Speech Synthesis with Affective and Contextually Aligned Nonverbal Vocalizations](https://arxiv.org/abs/2603.14432v1)** |  | 2026-03-15 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[How Well Do Current Speech Deepfake Detection Methods Generalize to the Real World?](https://arxiv.org/abs/2603.05852v1)** |  | 2026-03-06 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Hierarchical Decoding for Discrete Speech Synthesis with Multi-Resolution Spoof Detection](https://arxiv.org/abs/2603.05373v1)** |  | 2026-03-05 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 3 tables, 2 algorithms</p></details> |
 | **[ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis](https://arxiv.org/abs/2603.04219v1)** |  | 2026-03-04 | <details><summary>6 pag...</summary><p>6 pages, submitted to INTERSPEECH 2026</p></details> |
-| **[Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems](https://arxiv.org/abs/2602.23266v1)** |  | 2026-02-26 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[CAST-TTS: A Simple Cross-Attention Framework for Unified Timbre Control in TTS](https://arxiv.org/abs/2603.16280v1)** |  | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](https://arxiv.org/abs/2509.19001v2)** |  | 2026-03-15 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables; Accepted to ICASSP2026(Oral)</p></details> |
 | **[CodecMOS-Accent: A MOS Benchmark of Resynthesized and TTS Speech from Neural Codecs Across English Accents](https://arxiv.org/abs/2603.14328v1)** |  | 2026-03-15 | Preprint |
 | **[VoXtream2: Full-stream TTS with dynamic speaking rate control](https://arxiv.org/abs/2603.13518v1)** |  | 2026-03-13 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, Submitted to Interspeech 2026</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis](https://arxiv.org/abs/2603.04219v1)** |  | 2026-03-04 | <details><summary>6 pag...</summary><p>6 pages, submitted to INTERSPEECH 2026</p></details> |
 | **[VietNormalizer: An Open-Source, Dependency-Free Python Library for Vietnamese Text Normalization in TTS and NLP Applications](https://arxiv.org/abs/2603.04145v1)** |  | 2026-03-04 | 10 pages, 1 table |
 | **[More Data, Fewer Diacritics: Scaling Arabic TTS](https://arxiv.org/abs/2603.01622v1)** |  | 2026-03-02 |  |
-| **[TT-SEAL: TTD-Aware Selective Encryption for Adversarially-Robust and Low-Latency Edge AI](https://arxiv.org/abs/2602.22238v1)** |  | 2026-02-24 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 3 tables. This paper has been accepted at Design Automation Conference (DAC) 2026</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[On the Emotion Understanding of Synthesized Speech](https://arxiv.org/abs/2603.16483v1)** |  | 2026-03-17 |  |
 | **[Triple X: A LLM-Based Multilingual Speech Recognition System for the INTERSPEECH2025 MLC-SLM Challenge](https://arxiv.org/abs/2507.17288v2)** |  | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted By Interspeech 2025 MLC-SLM workshop</p></details> |
 | **[StyleBench: Evaluating Speech Language Models on Conversational Speaking Style Control](https://arxiv.org/abs/2603.07599v1)** |  | 2026-03-08 |  |
 | **[WavSLM: Single-Stream Speech Language Modeling via WavLM Distillation](https://arxiv.org/abs/2603.05299v1)** |  | 2026-03-05 | 6 pages, 1 figure |
@@ -78,4 +79,3 @@ labels: documentation
 | **[SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis](https://arxiv.org/abs/2602.11477v1)** |  | 2026-02-12 |  |
 | **[Towards Efficient Speech-Text Jointly Decoding within One Speech Language Model](https://arxiv.org/abs/2506.04518v3)** |  | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted by ASRU 2025</p></details> |
 | **[MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models](https://arxiv.org/abs/2511.10262v2)** |  | 2026-02-08 | Work in progress |
-| **[Scaling Speech Tokenizers with Diffusion Autoencoders](https://arxiv.org/abs/2602.06602v1)** |  | 2026-02-06 | ICLR 2026 |
