@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - March 20, 2026
+title: Latest Papers - March 23, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[MOSS-TTS Technical Report](https://arxiv.org/abs/2603.18090v1)** |  | 2026-03-18 | <details><summary>Proje...</summary><p>Project page: https://github.com/OpenMOSS/MOSS-TTS</p></details> |
 | **[CAST-TTS: A Simple Cross-Attention Framework for Unified Timbre Control in TTS](https://arxiv.org/abs/2603.16280v1)** |  | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](https://arxiv.org/abs/2509.19001v2)** |  | 2026-03-15 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables; Accepted to ICASSP2026(Oral)</p></details> |
 | **[CodecMOS-Accent: A MOS Benchmark of Resynthesized and TTS Speech from Neural Codecs Across English Accents](https://arxiv.org/abs/2603.14328v1)** |  | 2026-03-15 | Preprint |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Efficient Emotion and Speaker Adaptation in LLM-Based TTS via Characteristic-Specific Partial Fine-Tuning](https://arxiv.org/abs/2501.14273v2)** |  | 2026-03-06 | 10 pages |
 | **[ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis](https://arxiv.org/abs/2603.04219v1)** |  | 2026-03-04 | <details><summary>6 pag...</summary><p>6 pages, submitted to INTERSPEECH 2026</p></details> |
 | **[VietNormalizer: An Open-Source, Dependency-Free Python Library for Vietnamese Text Normalization in TTS and NLP Applications](https://arxiv.org/abs/2603.04145v1)** |  | 2026-03-04 | 10 pages, 1 table |
-| **[More Data, Fewer Diacritics: Scaling Arabic TTS](https://arxiv.org/abs/2603.01622v1)** |  | 2026-03-02 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic Evaluation](https://arxiv.org/abs/2603.19195v1)** |  | 2026-03-19 | <details><summary>Proje...</summary><p>Project website: https://kehanlu.github.io/AKB</p></details> |
 | **[Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception](https://arxiv.org/abs/2510.12720v2)** |  | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by ICLR2026. Open Source at https://github.com/ddlBoJack/Omni-Captioner</p></details> |
 | **[LAMB: LLM-based Audio Captioning with Modality Gap Bridging via Cauchy-Schwarz Divergence](https://arxiv.org/abs/2601.04658v2)** |  | 2026-03-16 | <details><summary>5 pag...</summary><p>5 pages, 2 figures; Accepted to ICASSP 2026</p></details> |
 | **[Investigating Group Relative Policy Optimization for Diffusion Transformer based Text-to-Audio Generation](https://arxiv.org/abs/2603.01565v1)** |  | 2026-03-02 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[From Contrast to Commonality: Audio Commonality Captioning for Enhanced Audio-Text Cross-modal Understanding in Multimodal LLMs](https://arxiv.org/abs/2508.01659v3)** |  | 2026-01-25 |  |
 | **[AudioMotionBench: Evaluating Auditory Motion Perception in Audio LLMs](https://arxiv.org/abs/2511.13273v2)** |  | 2026-01-22 |  |
 | **[SLAM-LLM: A Modular, Open-Source Multimodal Large Language Model Framework and Best Practice for Speech, Language, Audio and Music Processing](https://arxiv.org/abs/2601.09385v1)** |  | 2026-01-14 | <details><summary>Publi...</summary><p>Published in IEEE Journal of Selected Topics in Signal Processing (JSTSP)</p></details> |
-| **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v2)** |  | 2026-01-11 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
