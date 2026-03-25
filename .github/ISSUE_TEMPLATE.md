@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - March 25, 2026
+title: Latest Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Selective Classifier-free Guidance for Zero-shot Text-to-speech](https://arxiv.org/abs/2509.19668v2)** |  | 2026-03-24 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, 1 table. Revision 1: removed ICASSP copyright notice</p></details> |
 | **[Audio Avatar Fingerprinting: An Approach for Authorized Use of Voice Cloning in the Era of Synthetic Audio](https://arxiv.org/abs/2603.20165v1)** |  | 2026-03-20 |  |
 | **[Gesture2Speech: How Far Can Hand Movements Shape Expressive Speech?](https://arxiv.org/abs/2603.19831v1)** |  | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at The 2nd International Workshop on Bodily Expressed Emotion Understanding (BEEU) at AAAI 2026 [non-archival]</p></details> |
 | **[Borderless Long Speech Synthesis](https://arxiv.org/abs/2603.19798v1)** |  | 2026-03-20 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[RAF: Relativistic Adversarial Feedback For Universal Speech Synthesis](https://arxiv.org/abs/2603.11678v1)** |  | 2026-03-12 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[What Makes Code Generation Ethically Sourced?](https://arxiv.org/abs/2507.19743v2)** |  | 2026-03-11 |  |
 | **[Synthetic Data Domain Adaptation for ASR via LLM-based Text and Phonetic Respelling Augmentation](https://arxiv.org/abs/2603.16920v1)** |  | 2026-03-11 | <details><summary>accep...</summary><p>accepted by ICASSP 2026</p></details> |
-| **[Bolbosh: Script-Aware Flow Matching for Kashmiri Text-to-Speech](https://arxiv.org/abs/2603.07513v1)** |  | 2026-03-08 | <details><summary>https...</summary><p>https://gaash-lab.github.io/Bolbosh/</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
