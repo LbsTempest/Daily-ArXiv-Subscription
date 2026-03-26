@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - March 26, 2026
+title: Latest Papers - March 27, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Iterate to Differentiate: Enhancing Discriminability and Reliability in Zero-Shot TTS Evaluation](https://arxiv.org/abs/2603.24430v1)** |  | 2026-03-25 | <details><summary>submi...</summary><p>submitted to Interspeech 2026, under review</p></details> |
 | **[Assessing the Ability of Neural TTS Systems to Model Consonant-Induced F0 Perturbation](https://arxiv.org/abs/2603.21078v1)** |  | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted for publication in Computer Speech & Language</p></details> |
 | **[MOSS-TTS Technical Report](https://arxiv.org/abs/2603.18090v2)** |  | 2026-03-20 | <details><summary>Proje...</summary><p>Project page: https://github.com/OpenMOSS/MOSS-TTS</p></details> |
 | **[CAST-TTS: A Simple Cross-Attention Framework for Unified Timbre Control in TTS](https://arxiv.org/abs/2603.16280v1)** |  | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Prosodic Boundary-Aware Streaming Generation for LLM-Based TTS with Streaming Text Input](https://arxiv.org/abs/2603.06444v1)** |  | 2026-03-06 |  |
 | **[TT-SNN: Tensor Train Decomposition for Efficient Spiking Neural Network Training](https://arxiv.org/abs/2401.08001v2)** |  | 2026-03-06 | DATE 2024 |
 | **[Efficient Emotion and Speaker Adaptation in LLM-Based TTS via Characteristic-Specific Partial Fine-Tuning](https://arxiv.org/abs/2501.14273v2)** |  | 2026-03-06 | 10 pages |
-| **[ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis](https://arxiv.org/abs/2603.04219v1)** |  | 2026-03-04 | <details><summary>6 pag...</summary><p>6 pages, submitted to INTERSPEECH 2026</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[ACAVCaps: Enabling large-scale training for fine-grained and diverse audio understanding](https://arxiv.org/abs/2603.24038v1)** |  | 2026-03-25 | <details><summary>accep...</summary><p>accepted by ICASSP 2026</p></details> |
 | **[CAF-Score: Calibrating CLAP with LALMs for Reference-free Audio Captioning Evaluation](https://arxiv.org/abs/2603.19615v1)** |  | 2026-03-20 | <details><summary>A con...</summary><p>A condensed version of this work has been submitted to Interspeech 2026. Section 10 is an extended analysis added in this version</p></details> |
 | **[How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic Evaluation](https://arxiv.org/abs/2603.19195v1)** |  | 2026-03-19 | <details><summary>Proje...</summary><p>Project website: https://kehanlu.github.io/AKB</p></details> |
 | **[Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception](https://arxiv.org/abs/2510.12720v2)** |  | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by ICLR2026. Open Source at https://github.com/ddlBoJack/Omni-Captioner</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Multiple Choice Learning of Low-Rank Adapters for Language Modeling](https://arxiv.org/abs/2507.10419v2)** |  | 2026-02-03 |  |
 | **[The TMU System for the XACLE Challenge: Training Large Audio Language Models with CLAP Pseudo-Labels](https://arxiv.org/abs/2602.00604v1)** |  | 2026-01-31 | <details><summary>3 pag...</summary><p>3 pages; 2 figures; 2 tables; Accepted at ICASSP 2026 Workshop (SP Grand Challenges, GC-12: XACLE)</p></details> |
 | **[From Contrast to Commonality: Audio Commonality Captioning for Enhanced Audio-Text Cross-modal Understanding in Multimodal LLMs](https://arxiv.org/abs/2508.01659v3)** |  | 2026-01-25 |  |
-| **[AudioMotionBench: Evaluating Auditory Motion Perception in Audio LLMs](https://arxiv.org/abs/2511.13273v2)** |  | 2026-01-22 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
