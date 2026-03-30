@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - March 27, 2026
+title: Latest Papers - March 31, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling](https://arxiv.org/abs/2603.26364v1)** |  | 2026-03-27 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 2 tables</p></details> |
+| **[Can You Tell It's AI? Human Perception of Synthetic Voices in Vishing Scenarios](https://arxiv.org/abs/2602.20061v2)** |  | 2026-03-26 | <details><summary>Withd...</summary><p>Withdrawn at the request of the authors pending further revision</p></details> |
 | **[Selective Classifier-free Guidance for Zero-shot Text-to-speech](https://arxiv.org/abs/2509.19668v2)** |  | 2026-03-24 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, 1 table. Revision 1: removed ICASSP copyright notice</p></details> |
 | **[Audio Avatar Fingerprinting: An Approach for Authorized Use of Voice Cloning in the Era of Synthetic Audio](https://arxiv.org/abs/2603.20165v1)** |  | 2026-03-20 |  |
 | **[Gesture2Speech: How Far Can Hand Movements Shape Expressive Speech?](https://arxiv.org/abs/2603.19831v1)** |  | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at The 2nd International Workshop on Bodily Expressed Emotion Understanding (BEEU) at AAAI 2026 [non-archival]</p></details> |
@@ -20,12 +22,12 @@ labels: documentation
 | **[Probabilistic Verification of Voice Anti-Spoofing Models](https://arxiv.org/abs/2603.10713v2)** |  | 2026-03-12 | <details><summary>The p...</summary><p>The paper was submitted for review to Interspeech 2026</p></details> |
 | **[Causal Prosody Mediation for Text-to-Speech:Counterfactual Training of Duration, Pitch, and Energy in FastSpeech2](https://arxiv.org/abs/2603.11683v1)** |  | 2026-03-12 |  |
 | **[RAF: Relativistic Adversarial Feedback For Universal Speech Synthesis](https://arxiv.org/abs/2603.11678v1)** |  | 2026-03-12 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
-| **[What Makes Code Generation Ethically Sourced?](https://arxiv.org/abs/2507.19743v2)** |  | 2026-03-11 |  |
-| **[Synthetic Data Domain Adaptation for ASR via LLM-based Text and Phonetic Respelling Augmentation](https://arxiv.org/abs/2603.16920v1)** |  | 2026-03-11 | <details><summary>accep...</summary><p>accepted by ICASSP 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling](https://arxiv.org/abs/2603.26364v1)** |  | 2026-03-27 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 2 tables</p></details> |
+| **[Voxtral TTS](https://arxiv.org/abs/2603.25551v1)** |  | 2026-03-26 |  |
 | **[Iterate to Differentiate: Enhancing Discriminability and Reliability in Zero-Shot TTS Evaluation](https://arxiv.org/abs/2603.24430v1)** |  | 2026-03-25 | <details><summary>submi...</summary><p>submitted to Interspeech 2026, under review</p></details> |
 | **[Assessing the Ability of Neural TTS Systems to Model Consonant-Induced F0 Perturbation](https://arxiv.org/abs/2603.21078v1)** |  | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted for publication in Computer Speech & Language</p></details> |
 | **[MOSS-TTS Technical Report](https://arxiv.org/abs/2603.18090v2)** |  | 2026-03-20 | <details><summary>Proje...</summary><p>Project page: https://github.com/OpenMOSS/MOSS-TTS</p></details> |
@@ -39,12 +41,11 @@ labels: documentation
 | **[TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables](https://arxiv.org/abs/2603.07606v1)** |  | 2026-03-08 |  |
 | **[Accent Vector: Controllable Accent Manipulation for Multilingual TTS Without Accented Data](https://arxiv.org/abs/2603.07534v1)** |  | 2026-03-08 | <details><summary>Submi...</summary><p>Submitted to Interspeech2026</p></details> |
 | **[Prosodic Boundary-Aware Streaming Generation for LLM-Based TTS with Streaming Text Input](https://arxiv.org/abs/2603.06444v1)** |  | 2026-03-06 |  |
-| **[TT-SNN: Tensor Train Decomposition for Efficient Spiking Neural Network Training](https://arxiv.org/abs/2401.08001v2)** |  | 2026-03-06 | DATE 2024 |
-| **[Efficient Emotion and Speaker Adaptation in LLM-Based TTS via Characteristic-Specific Partial Fine-Tuning](https://arxiv.org/abs/2501.14273v2)** |  | 2026-03-06 | 10 pages |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](https://arxiv.org/abs/2508.03983v3)** |  | 2026-03-26 | <details><summary>Added...</summary><p>Added ACAVCaps reference (ICASSP 2026)</p></details> |
 | **[ACAVCaps: Enabling large-scale training for fine-grained and diverse audio understanding](https://arxiv.org/abs/2603.24038v1)** |  | 2026-03-25 | <details><summary>accep...</summary><p>accepted by ICASSP 2026</p></details> |
 | **[CAF-Score: Calibrating CLAP with LALMs for Reference-free Audio Captioning Evaluation](https://arxiv.org/abs/2603.19615v1)** |  | 2026-03-20 | <details><summary>A con...</summary><p>A condensed version of this work has been submitted to Interspeech 2026. Section 10 is an extended analysis added in this version</p></details> |
 | **[How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic Evaluation](https://arxiv.org/abs/2603.19195v1)** |  | 2026-03-19 | <details><summary>Proje...</summary><p>Project website: https://kehanlu.github.io/AKB</p></details> |
@@ -59,12 +60,12 @@ labels: documentation
 | **[Audiocards: Structured Metadata Improves Audio Language Models For Sound Design](https://arxiv.org/abs/2602.13835v1)** |  | 2026-02-14 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 | **[Multiple Choice Learning of Low-Rank Adapters for Language Modeling](https://arxiv.org/abs/2507.10419v2)** |  | 2026-02-03 |  |
 | **[The TMU System for the XACLE Challenge: Training Large Audio Language Models with CLAP Pseudo-Labels](https://arxiv.org/abs/2602.00604v1)** |  | 2026-01-31 | <details><summary>3 pag...</summary><p>3 pages; 2 figures; 2 tables; Accepted at ICASSP 2026 Workshop (SP Grand Challenges, GC-12: XACLE)</p></details> |
-| **[From Contrast to Commonality: Audio Commonality Captioning for Enhanced Audio-Text Cross-modal Understanding in Multimodal LLMs](https://arxiv.org/abs/2508.01659v3)** |  | 2026-01-25 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
 | **[LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families](https://arxiv.org/abs/2603.20042v1)** |  | 2026-03-20 |  |
+| **[Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models](https://arxiv.org/abs/2603.25750v1)** |  | 2026-03-20 | <details><summary>34 pa...</summary><p>34 pages, 7 figures, 11 tables</p></details> |
 | **[On the Emotion Understanding of Synthesized Speech](https://arxiv.org/abs/2603.16483v1)** |  | 2026-03-17 |  |
 | **[Triple X: A LLM-Based Multilingual Speech Recognition System for the INTERSPEECH2025 MLC-SLM Challenge](https://arxiv.org/abs/2507.17288v2)** |  | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted By Interspeech 2025 MLC-SLM workshop</p></details> |
 | **[StyleBench: Evaluating Speech Language Models on Conversational Speaking Style Control](https://arxiv.org/abs/2603.07599v1)** |  | 2026-03-08 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[ZeroSyl: Simple Zero-Resource Syllable Tokenization for Spoken Language Modeling](https://arxiv.org/abs/2602.15537v1)** |  | 2026-02-17 | 3 figures, 2 tables |
 | **[GSRM: Generative Speech Reward Model for Speech RLHF](https://arxiv.org/abs/2602.13891v1)** |  | 2026-02-14 |  |
 | **[VoiceAgentBench: Are Voice Assistants ready for agentic tasks?](https://arxiv.org/abs/2510.07978v3)** |  | 2026-02-13 |  |
-| **[SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis](https://arxiv.org/abs/2602.11477v1)** |  | 2026-02-12 |  |
