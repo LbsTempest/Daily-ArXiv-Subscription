@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - March 31, 2026
+title: Latest Papers - April 01, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[VoxAnchor: Grounding Speech Authenticity in Throat Vibration via mmWave Radar](https://arxiv.org/abs/2603.27562v1)** |  | 2026-03-29 |  |
 | **[LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling](https://arxiv.org/abs/2603.26364v1)** |  | 2026-03-27 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 2 tables</p></details> |
 | **[Can You Tell It's AI? Human Perception of Synthetic Voices in Vishing Scenarios](https://arxiv.org/abs/2602.20061v2)** |  | 2026-03-26 | <details><summary>Withd...</summary><p>Withdrawn at the request of the authors pending further revision</p></details> |
 | **[Selective Classifier-free Guidance for Zero-shot Text-to-speech](https://arxiv.org/abs/2509.19668v2)** |  | 2026-03-24 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, 1 table. Revision 1: removed ICASSP copyright notice</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Speech-Worthy Alignment for Japanese SpeechLLMs via Direct Preference Optimization](https://arxiv.org/abs/2603.12565v1)** |  | 2026-03-13 |  |
 | **[Probabilistic Verification of Voice Anti-Spoofing Models](https://arxiv.org/abs/2603.10713v2)** |  | 2026-03-12 | <details><summary>The p...</summary><p>The paper was submitted for review to Interspeech 2026</p></details> |
 | **[Causal Prosody Mediation for Text-to-Speech:Counterfactual Training of Duration, Pitch, and Energy in FastSpeech2](https://arxiv.org/abs/2603.11683v1)** |  | 2026-03-12 |  |
-| **[RAF: Relativistic Adversarial Feedback For Universal Speech Synthesis](https://arxiv.org/abs/2603.11678v1)** |  | 2026-03-12 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,8 +64,8 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models](https://arxiv.org/abs/2603.25750v2)** |  | 2026-03-30 | <details><summary>34 pa...</summary><p>34 pages, 7 figures, 11 tables</p></details> |
 | **[LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families](https://arxiv.org/abs/2603.20042v1)** |  | 2026-03-20 |  |
-| **[Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models](https://arxiv.org/abs/2603.25750v1)** |  | 2026-03-20 | <details><summary>34 pa...</summary><p>34 pages, 7 figures, 11 tables</p></details> |
 | **[On the Emotion Understanding of Synthesized Speech](https://arxiv.org/abs/2603.16483v1)** |  | 2026-03-17 |  |
 | **[Triple X: A LLM-Based Multilingual Speech Recognition System for the INTERSPEECH2025 MLC-SLM Challenge](https://arxiv.org/abs/2507.17288v2)** |  | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted By Interspeech 2025 MLC-SLM workshop</p></details> |
 | **[StyleBench: Evaluating Speech Language Models on Conversational Speaking Style Control](https://arxiv.org/abs/2603.07599v1)** |  | 2026-03-08 |  |
