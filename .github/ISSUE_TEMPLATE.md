@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - April 03, 2026
+title: Latest Papers - April 06, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion](https://arxiv.org/abs/2602.04160v2)** |  | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
+| **[Combining Masked Language Modeling and Cross-Modal Contrastive Learning for Prosody-Aware TTS](https://arxiv.org/abs/2604.01247v1)** |  | 2026-03-31 | <details><summary>This ...</summary><p>This paper has been submitted to Interspeech 2026 for review</p></details> |
 | **[LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling](https://arxiv.org/abs/2603.26364v1)** |  | 2026-03-27 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 2 tables</p></details> |
 | **[Voxtral TTS](https://arxiv.org/abs/2603.25551v1)** |  | 2026-03-26 |  |
 | **[Iterate to Differentiate: Enhancing Discriminability and Reliability in Zero-Shot TTS Evaluation](https://arxiv.org/abs/2603.24430v1)** |  | 2026-03-25 | <details><summary>submi...</summary><p>submitted to Interspeech 2026, under review</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[DuplexCascade: Full-Duplex Speech-to-Speech Dialogue with VAD-Free Cascaded ASR-LLM-TTS Pipeline and Micro-Turn Optimization](https://arxiv.org/abs/2603.09180v1)** |  | 2026-03-10 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Ramsa: A Large Sociolinguistically Rich Emirati Arabic Speech Corpus for ASR and TTS](https://arxiv.org/abs/2603.08125v1)** |  | 2026-03-09 |  |
 | **[TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables](https://arxiv.org/abs/2603.07606v1)** |  | 2026-03-08 |  |
-| **[Accent Vector: Controllable Accent Manipulation for Multilingual TTS Without Accented Data](https://arxiv.org/abs/2603.07534v1)** |  | 2026-03-08 | <details><summary>Submi...</summary><p>Submitted to Interspeech2026</p></details> |
-| **[Prosodic Boundary-Aware Streaming Generation for LLM-Based TTS with Streaming Text Input](https://arxiv.org/abs/2603.06444v1)** |  | 2026-03-06 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
