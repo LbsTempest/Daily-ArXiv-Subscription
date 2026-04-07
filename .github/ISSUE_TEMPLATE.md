@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - April 07, 2026
+title: Latest Papers - April 08, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,12 +26,13 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Voxtral TTS](https://arxiv.org/abs/2603.25551v2)** |  | 2026-04-06 |  |
 | **[Expressive Prompting: Improving Emotion Intensity and Speaker Consistency in Zero-Shot TTS](https://arxiv.org/abs/2409.18512v2)** |  | 2026-04-03 |  |
 | **[PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion](https://arxiv.org/abs/2602.04160v2)** |  | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 | **[Combining Masked Language Modeling and Cross-Modal Contrastive Learning for Prosody-Aware TTS](https://arxiv.org/abs/2604.01247v1)** |  | 2026-03-31 | <details><summary>This ...</summary><p>This paper has been submitted to Interspeech 2026 for review</p></details> |
 | **[LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling](https://arxiv.org/abs/2603.26364v1)** |  | 2026-03-27 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 2 tables</p></details> |
-| **[Voxtral TTS](https://arxiv.org/abs/2603.25551v1)** |  | 2026-03-26 |  |
 | **[Iterate to Differentiate: Enhancing Discriminability and Reliability in Zero-Shot TTS Evaluation](https://arxiv.org/abs/2603.24430v1)** |  | 2026-03-25 | <details><summary>submi...</summary><p>submitted to Interspeech 2026, under review</p></details> |
+| **[Rewriting TTS Inference Economics: Lightning V2 on Tenstorrent Achieves 4x Lower Cost Than NVIDIA L40S](https://arxiv.org/abs/2604.03279v1)** |  | 2026-03-24 |  |
 | **[Assessing the Ability of Neural TTS Systems to Model Consonant-Induced F0 Perturbation](https://arxiv.org/abs/2603.21078v1)** |  | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted for publication in Computer Speech & Language</p></details> |
 | **[MOSS-TTS Technical Report](https://arxiv.org/abs/2603.18090v2)** |  | 2026-03-20 | <details><summary>Proje...</summary><p>Project page: https://github.com/OpenMOSS/MOSS-TTS</p></details> |
 | **[CAST-TTS: A Simple Cross-Attention Framework for Unified Timbre Control in TTS](https://arxiv.org/abs/2603.16280v1)** |  | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[VoXtream2: Full-stream TTS with dynamic speaking rate control](https://arxiv.org/abs/2603.13518v1)** |  | 2026-03-13 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, Submitted to Interspeech 2026</p></details> |
 | **[When Fine-Tuning Fails and when it Generalises: Role of Data Diversity and Mixed Training in LLM-based TTS](https://arxiv.org/abs/2603.10904v1)** |  | 2026-03-11 | <details><summary>We fi...</summary><p>We finetune the Qwen 0.5B backbone in an LLM TTS with LoRA to raise MOS speaker similarity and SNR. It works best with diverse training audio with uniform data it can amplify noise so tune decoding and use GGUF quantization for low latency stable quality</p></details> |
 | **[DuplexCascade: Full-Duplex Speech-to-Speech Dialogue with VAD-Free Cascaded ASR-LLM-TTS Pipeline and Micro-Turn Optimization](https://arxiv.org/abs/2603.09180v1)** |  | 2026-03-10 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
-| **[Ramsa: A Large Sociolinguistically Rich Emirati Arabic Speech Corpus for ASR and TTS](https://arxiv.org/abs/2603.08125v1)** |  | 2026-03-09 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
