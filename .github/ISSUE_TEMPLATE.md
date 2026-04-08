@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - April 08, 2026
+title: Latest Papers - April 09, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[AI-Driven Modular Services for Accessible Multilingual Education in Immersive Extended Reality Settings: Integrating Speech Processing, Translation, and Sign Language Rendering](https://arxiv.org/abs/2604.05591v1)** |  | 2026-04-07 | 21 |
+| **[RLAIF-SPA: Structured AI Feedback for Semantic-Prosodic Alignment in Speech Synthesis](https://arxiv.org/abs/2510.14628v2)** |  | 2026-04-07 |  |
 | **[Expressive Prompting: Improving Emotion Intensity and Speaker Consistency in Zero-Shot TTS](https://arxiv.org/abs/2409.18512v2)** |  | 2026-04-03 |  |
 | **[Borderless Long Speech Synthesis](https://arxiv.org/abs/2603.19798v2)** |  | 2026-04-03 |  |
 | **[Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis](https://arxiv.org/abs/2601.13802v2)** |  | 2026-03-31 |  |
@@ -20,19 +22,17 @@ labels: documentation
 | **[On the Emotion Understanding of Synthesized Speech](https://arxiv.org/abs/2603.16483v1)** |  | 2026-03-17 |  |
 | **[SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis](https://arxiv.org/abs/2602.07803v2)** |  | 2026-03-16 | Technical Report |
 | **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](https://arxiv.org/abs/2509.19001v2)** |  | 2026-03-15 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables; Accepted to ICASSP2026(Oral)</p></details> |
-| **[Affectron: Emotional Speech Synthesis with Affective and Contextually Aligned Nonverbal Vocalizations](https://arxiv.org/abs/2603.14432v1)** |  | 2026-03-15 |  |
-| **[CodecMOS-Accent: A MOS Benchmark of Resynthesized and TTS Speech from Neural Codecs Across English Accents](https://arxiv.org/abs/2603.14328v1)** |  | 2026-03-15 | Preprint |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Rewriting TTS Inference Economics: Lightning V2 on Tenstorrent Achieves 4x Lower Cost Than NVIDIA L40S](https://arxiv.org/abs/2604.03279v2)** |  | 2026-04-07 |  |
 | **[Voxtral TTS](https://arxiv.org/abs/2603.25551v2)** |  | 2026-04-06 |  |
 | **[Expressive Prompting: Improving Emotion Intensity and Speaker Consistency in Zero-Shot TTS](https://arxiv.org/abs/2409.18512v2)** |  | 2026-04-03 |  |
 | **[PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion](https://arxiv.org/abs/2602.04160v2)** |  | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 | **[Combining Masked Language Modeling and Cross-Modal Contrastive Learning for Prosody-Aware TTS](https://arxiv.org/abs/2604.01247v1)** |  | 2026-03-31 | <details><summary>This ...</summary><p>This paper has been submitted to Interspeech 2026 for review</p></details> |
 | **[LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling](https://arxiv.org/abs/2603.26364v1)** |  | 2026-03-27 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 2 tables</p></details> |
 | **[Iterate to Differentiate: Enhancing Discriminability and Reliability in Zero-Shot TTS Evaluation](https://arxiv.org/abs/2603.24430v1)** |  | 2026-03-25 | <details><summary>submi...</summary><p>submitted to Interspeech 2026, under review</p></details> |
-| **[Rewriting TTS Inference Economics: Lightning V2 on Tenstorrent Achieves 4x Lower Cost Than NVIDIA L40S](https://arxiv.org/abs/2604.03279v1)** |  | 2026-03-24 |  |
 | **[Assessing the Ability of Neural TTS Systems to Model Consonant-Induced F0 Perturbation](https://arxiv.org/abs/2603.21078v1)** |  | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted for publication in Computer Speech & Language</p></details> |
 | **[MOSS-TTS Technical Report](https://arxiv.org/abs/2603.18090v2)** |  | 2026-03-20 | <details><summary>Proje...</summary><p>Project page: https://github.com/OpenMOSS/MOSS-TTS</p></details> |
 | **[CAST-TTS: A Simple Cross-Attention Framework for Unified Timbre Control in TTS](https://arxiv.org/abs/2603.16280v1)** |  | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Where Do Backdoors Live? A Component-Level Analysis of Backdoor Propagation in Speech Language Models](https://arxiv.org/abs/2510.01157v3)** |  | 2026-04-07 |  |
 | **[Adapting Text LLMs to Speech via Multimodal Depth Up-Scaling](https://arxiv.org/abs/2604.00489v1)** |  | 2026-04-01 |  |
 | **[Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models](https://arxiv.org/abs/2603.25750v2)** |  | 2026-03-30 | <details><summary>34 pa...</summary><p>34 pages, 7 figures, 11 tables</p></details> |
 | **[LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families](https://arxiv.org/abs/2603.20042v1)** |  | 2026-03-20 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates](https://arxiv.org/abs/2510.00981v3)** |  | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 | **[Cross-Lingual Interleaving for Speech Language Models](https://arxiv.org/abs/2512.01865v2)** |  | 2026-02-20 |  |
 | **[ZeroSyl: Simple Zero-Resource Syllable Tokenization for Spoken Language Modeling](https://arxiv.org/abs/2602.15537v1)** |  | 2026-02-17 | 3 figures, 2 tables |
-| **[GSRM: Generative Speech Reward Model for Speech RLHF](https://arxiv.org/abs/2602.13891v1)** |  | 2026-02-14 |  |
