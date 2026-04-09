@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - April 09, 2026
+title: Latest Papers - April 10, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models](https://arxiv.org/abs/2512.19433v2)** |  | 2026-04-08 | <details><summary>Proje...</summary><p>Project page: https://github.com/Alpha-VLLM/Lumina-DiMOO</p></details> |
+| **[Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models](https://arxiv.org/abs/2510.13293v2)** |  | 2026-04-08 | <details><summary>Re-su...</summary><p>Re-submitted to Interspeech 2026 (with updates) -- Updates to be released upon approval</p></details> |
 | **[Rewriting TTS Inference Economics: Lightning V2 on Tenstorrent Achieves 4x Lower Cost Than NVIDIA L40S](https://arxiv.org/abs/2604.03279v2)** |  | 2026-04-07 |  |
 | **[Voxtral TTS](https://arxiv.org/abs/2603.25551v2)** |  | 2026-04-06 |  |
 | **[Expressive Prompting: Improving Emotion Intensity and Speaker Consistency in Zero-Shot TTS](https://arxiv.org/abs/2409.18512v2)** |  | 2026-04-03 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](https://arxiv.org/abs/2509.19001v2)** |  | 2026-03-15 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables; Accepted to ICASSP2026(Oral)</p></details> |
 | **[CodecMOS-Accent: A MOS Benchmark of Resynthesized and TTS Speech from Neural Codecs Across English Accents](https://arxiv.org/abs/2603.14328v1)** |  | 2026-03-15 | Preprint |
 | **[VoXtream2: Full-stream TTS with dynamic speaking rate control](https://arxiv.org/abs/2603.13518v1)** |  | 2026-03-13 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, Submitted to Interspeech 2026</p></details> |
-| **[When Fine-Tuning Fails and when it Generalises: Role of Data Diversity and Mixed Training in LLM-based TTS](https://arxiv.org/abs/2603.10904v1)** |  | 2026-03-11 | <details><summary>We fi...</summary><p>We finetune the Qwen 0.5B backbone in an LLM TTS with LoRA to raise MOS speaker similarity and SNR. It works best with diverse training audio with uniform data it can amplify noise so tune decoding and use GGUF quantization for low latency stable quality</p></details> |
-| **[DuplexCascade: Full-Duplex Speech-to-Speech Dialogue with VAD-Free Cascaded ASR-LLM-TTS Pipeline and Micro-Turn Optimization](https://arxiv.org/abs/2603.09180v1)** |  | 2026-03-10 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Do We Need Distinct Representations for Every Speech Token? Unveiling and Exploiting Redundancy in Large Speech Language Models](https://arxiv.org/abs/2604.06871v1)** |  | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (Findings)</p></details> |
+| **[In-Context Learning in Speech Language Models: Analyzing the Role of Acoustic Features, Linguistic Structure, and Induction Heads](https://arxiv.org/abs/2604.06356v1)** |  | 2026-04-07 | <details><summary>Submi...</summary><p>Submitted to COLM 2026</p></details> |
 | **[Where Do Backdoors Live? A Component-Level Analysis of Backdoor Propagation in Speech Language Models](https://arxiv.org/abs/2510.01157v3)** |  | 2026-04-07 |  |
 | **[Adapting Text LLMs to Speech via Multimodal Depth Up-Scaling](https://arxiv.org/abs/2604.00489v1)** |  | 2026-04-01 |  |
 | **[Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models](https://arxiv.org/abs/2603.25750v2)** |  | 2026-03-30 | <details><summary>34 pa...</summary><p>34 pages, 7 figures, 11 tables</p></details> |
@@ -77,5 +79,3 @@ labels: documentation
 | **[Anatomy of the Modality Gap: Dissecting the Internal States of End-to-End Speech LLMs](https://arxiv.org/abs/2603.01502v1)** |  | 2026-03-02 |  |
 | **[Rubric-Guided Fine-tuning of SpeechLLMs for Multi-Aspect, Multi-Rater L2 Reading-Speech Assessment](https://arxiv.org/abs/2603.16889v1)** |  | 2026-02-28 | <details><summary>Accep...</summary><p>Accepted to LREC 2026. This publication is part of the project Responsible AI for Voice Diagnostics (RAIVD) with file number NGF.1607.22.013 of the research programme NGF AiNed Fellowship Grants, which is financed by the Dutch Research Council (NWO)</p></details> |
 | **[FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates](https://arxiv.org/abs/2510.00981v3)** |  | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[Cross-Lingual Interleaving for Speech Language Models](https://arxiv.org/abs/2512.01865v2)** |  | 2026-02-20 |  |
-| **[ZeroSyl: Simple Zero-Resource Syllable Tokenization for Spoken Language Modeling](https://arxiv.org/abs/2602.15537v1)** |  | 2026-02-17 | 3 figures, 2 tables |
