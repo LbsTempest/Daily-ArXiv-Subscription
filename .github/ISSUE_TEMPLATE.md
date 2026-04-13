@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - April 13, 2026
+title: Latest Papers - April 14, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing](https://arxiv.org/abs/2604.09111v1)** |  | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
 | **[dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models](https://arxiv.org/abs/2512.19433v2)** |  | 2026-04-08 | <details><summary>Proje...</summary><p>Project page: https://github.com/Alpha-VLLM/Lumina-DiMOO</p></details> |
 | **[Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models](https://arxiv.org/abs/2510.13293v2)** |  | 2026-04-08 | <details><summary>Re-su...</summary><p>Re-submitted to Interspeech 2026 (with updates) -- Updates to be released upon approval</p></details> |
 | **[Rewriting TTS Inference Economics: Lightning V2 on Tenstorrent Achieves 4x Lower Cost Than NVIDIA L40S](https://arxiv.org/abs/2604.03279v2)** |  | 2026-04-07 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[CAST-TTS: A Simple Cross-Attention Framework for Unified Timbre Control in TTS](https://arxiv.org/abs/2603.16280v1)** |  | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS](https://arxiv.org/abs/2509.19001v2)** |  | 2026-03-15 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables; Accepted to ICASSP2026(Oral)</p></details> |
 | **[CodecMOS-Accent: A MOS Benchmark of Resynthesized and TTS Speech from Neural Codecs Across English Accents](https://arxiv.org/abs/2603.14328v1)** |  | 2026-03-15 | Preprint |
-| **[VoXtream2: Full-stream TTS with dynamic speaking rate control](https://arxiv.org/abs/2603.13518v1)** |  | 2026-03-13 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, Submitted to Interspeech 2026</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Noise-Aware In-Context Learning for Hallucination Mitigation in ALLMs](https://arxiv.org/abs/2604.09021v1)** |  | 2026-04-10 |  |
 | **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](https://arxiv.org/abs/2508.03983v3)** |  | 2026-03-26 | <details><summary>Added...</summary><p>Added ACAVCaps reference (ICASSP 2026)</p></details> |
 | **[ACAVCaps: Enabling large-scale training for fine-grained and diverse audio understanding](https://arxiv.org/abs/2603.24038v1)** |  | 2026-03-25 | <details><summary>accep...</summary><p>accepted by ICASSP 2026</p></details> |
 | **[CAF-Score: Calibrating CLAP with LALMs for Reference-free Audio Captioning Evaluation](https://arxiv.org/abs/2603.19615v1)** |  | 2026-03-20 | <details><summary>A con...</summary><p>A condensed version of this work has been submitted to Interspeech 2026. Section 10 is an extended analysis added in this version</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Eureka-Audio: Triggering Audio Intelligence in Compact Language Models](https://arxiv.org/abs/2602.13954v1)** |  | 2026-02-15 | 23 pages, 4 figures |
 | **[Audiocards: Structured Metadata Improves Audio Language Models For Sound Design](https://arxiv.org/abs/2602.13835v1)** |  | 2026-02-14 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 | **[Multiple Choice Learning of Low-Rank Adapters for Language Modeling](https://arxiv.org/abs/2507.10419v2)** |  | 2026-02-03 |  |
-| **[The TMU System for the XACLE Challenge: Training Large Audio Language Models with CLAP Pseudo-Labels](https://arxiv.org/abs/2602.00604v1)** |  | 2026-01-31 | <details><summary>3 pag...</summary><p>3 pages; 2 figures; 2 tables; Accepted at ICASSP 2026 Workshop (SP Grand Challenges, GC-12: XACLE)</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
