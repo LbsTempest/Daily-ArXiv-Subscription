@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - April 15, 2026
+title: Latest Papers - April 16, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,7 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
-| **[PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing](https://arxiv.org/abs/2604.09111v2)** |  | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
+| **[PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing](https://arxiv.org/abs/2604.09111v3)** |  | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
 | **[dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models](https://arxiv.org/abs/2512.19433v2)** |  | 2026-04-08 | <details><summary>Proje...</summary><p>Project page: https://github.com/Alpha-VLLM/Lumina-DiMOO</p></details> |
 | **[Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models](https://arxiv.org/abs/2510.13293v2)** |  | 2026-04-08 | <details><summary>Re-su...</summary><p>Re-submitted to Interspeech 2026 (with updates) -- Updates to be released upon approval</p></details> |
 | **[Rewriting TTS Inference Economics: Lightning V2 on Tenstorrent Achieves 4x Lower Cost Than NVIDIA L40S](https://arxiv.org/abs/2604.03279v2)** |  | 2026-04-07 |  |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://arxiv.org/abs/2604.12928v1)** |  | 2026-04-14 |  |
 | **[Bridging What the Model Thinks and How It Speaks: Self-Aware Speech Language Models for Expressive Speech Generation](https://arxiv.org/abs/2604.11424v1)** |  | 2026-04-13 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 6 tables. Project page: https://wangkevin02.github.io/SASLM/</p></details> |
 | **[Efficient Training for Cross-lingual Speech Language Models](https://arxiv.org/abs/2604.11096v1)** |  | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[ASPIRin: Action Space Projection for Interactivity-Optimized Reinforcement Learning in Full-Duplex Speech Language Models](https://arxiv.org/abs/2604.10065v1)** |  | 2026-04-11 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[StyleBench: Evaluating Speech Language Models on Conversational Speaking Style Control](https://arxiv.org/abs/2603.07599v1)** |  | 2026-03-08 |  |
 | **[WavSLM: Single-Stream Speech Language Modeling via WavLM Distillation](https://arxiv.org/abs/2603.05299v1)** |  | 2026-03-05 | 6 pages, 1 figure |
 | **[Llama-Mimi: Exploring the Limits of Flattened Speech Language Modeling](https://arxiv.org/abs/2509.14882v2)** |  | 2026-03-05 | 6 pages, 1 figures |
-| **[EchoMind: An Interrelated Multi-level Benchmark for Evaluating Empathetic Speech Language Models](https://arxiv.org/abs/2510.22758v2)** |  | 2026-03-05 | <details><summary>Speec...</summary><p>Speech Language Models, Spoken Language Understanding, Vocal Cue Perception, Empathetic Dialogue, Benchmark Evaluation; Accepted by ICLR 2026</p></details> |
