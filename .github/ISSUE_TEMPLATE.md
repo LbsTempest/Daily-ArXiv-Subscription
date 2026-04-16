@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - April 16, 2026
+title: Latest Papers - April 17, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Towards Fine-grained Temporal Perception: Post-Training Large Audio-Language Models with Audio-Side Time Prompt](https://arxiv.org/abs/2604.13715v1)** |  | 2026-04-15 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Noise-Aware In-Context Learning for Hallucination Mitigation in ALLMs](https://arxiv.org/abs/2604.09021v1)** |  | 2026-04-10 |  |
 | **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](https://arxiv.org/abs/2508.03983v3)** |  | 2026-03-26 | <details><summary>Added...</summary><p>Added ACAVCaps reference (ICASSP 2026)</p></details> |
 | **[ACAVCaps: Enabling large-scale training for fine-grained and diverse audio understanding](https://arxiv.org/abs/2603.24038v1)** |  | 2026-03-25 | <details><summary>accep...</summary><p>accepted by ICASSP 2026</p></details> |
@@ -59,11 +60,11 @@ labels: documentation
 | **[TAC: Timestamped Audio Captioning](https://arxiv.org/abs/2602.15766v1)** |  | 2026-02-17 |  |
 | **[Eureka-Audio: Triggering Audio Intelligence in Compact Language Models](https://arxiv.org/abs/2602.13954v1)** |  | 2026-02-15 | 23 pages, 4 figures |
 | **[Audiocards: Structured Metadata Improves Audio Language Models For Sound Design](https://arxiv.org/abs/2602.13835v1)** |  | 2026-02-14 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
-| **[Multiple Choice Learning of Low-Rank Adapters for Language Modeling](https://arxiv.org/abs/2507.10419v2)** |  | 2026-02-03 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[ViBES: A Conversational Agent with Behaviorally-Intelligent 3D Virtual Body](https://arxiv.org/abs/2512.14234v2)** |  | 2026-04-14 | <details><summary>Proje...</summary><p>Project page: https://ai.stanford.edu/~juze/ViBES/. Accepted by CVPR 2026</p></details> |
 | **[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://arxiv.org/abs/2604.12928v1)** |  | 2026-04-14 |  |
 | **[Bridging What the Model Thinks and How It Speaks: Self-Aware Speech Language Models for Expressive Speech Generation](https://arxiv.org/abs/2604.11424v1)** |  | 2026-04-13 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 6 tables. Project page: https://wangkevin02.github.io/SASLM/</p></details> |
 | **[Efficient Training for Cross-lingual Speech Language Models](https://arxiv.org/abs/2604.11096v1)** |  | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[Triple X: A LLM-Based Multilingual Speech Recognition System for the INTERSPEECH2025 MLC-SLM Challenge](https://arxiv.org/abs/2507.17288v2)** |  | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted By Interspeech 2025 MLC-SLM workshop</p></details> |
 | **[StyleBench: Evaluating Speech Language Models on Conversational Speaking Style Control](https://arxiv.org/abs/2603.07599v1)** |  | 2026-03-08 |  |
 | **[WavSLM: Single-Stream Speech Language Modeling via WavLM Distillation](https://arxiv.org/abs/2603.05299v1)** |  | 2026-03-05 | 6 pages, 1 figure |
-| **[Llama-Mimi: Exploring the Limits of Flattened Speech Language Modeling](https://arxiv.org/abs/2509.14882v2)** |  | 2026-03-05 | 6 pages, 1 figures |
