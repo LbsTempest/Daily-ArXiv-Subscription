@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - April 20, 2026
+title: Latest Papers - April 21, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations](https://arxiv.org/abs/2604.16211v1)** |  | 2026-04-17 |  |
+| **[Advancing Intelligent Sequence Modeling: Evolution, Trade-offs, and Applications of State- Space Architectures from S4 to Mamba](https://arxiv.org/abs/2503.18970v3)** |  | 2026-04-17 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 3 tables</p></details> |
+| **[Qwen3.5-Omni Technical Report](https://arxiv.org/abs/2604.15804v1)** |  | 2026-04-17 |  |
 | **[Knowing What to Stress: A Discourse-Conditioned Text-to-Speech Benchmark](https://arxiv.org/abs/2604.10580v1)** |  | 2026-04-12 | Preprint |
 | **[Hierarchical Decoding for Discrete Speech Synthesis with Multi-Resolution Spoof Detection](https://arxiv.org/abs/2603.05373v2)** |  | 2026-04-11 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 3 tables, 2 algorithms</p></details> |
 | **[CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance](https://arxiv.org/abs/2509.19883v2)** |  | 2026-04-11 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Audio, Speech and Language Processing (TASLP). 13 pages, 5 figures, 5 tables</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[VoxAnchor: Grounding Speech Authenticity in Throat Vibration via mmWave Radar](https://arxiv.org/abs/2603.27562v1)** |  | 2026-03-29 |  |
 | **[LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling](https://arxiv.org/abs/2603.26364v1)** |  | 2026-03-27 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 2 tables</p></details> |
 | **[Can You Tell It's AI? Human Perception of Synthetic Voices in Vishing Scenarios](https://arxiv.org/abs/2602.20061v2)** |  | 2026-03-26 | <details><summary>Withd...</summary><p>Withdrawn at the request of the authors pending further revision</p></details> |
-| **[Selective Classifier-free Guidance for Zero-shot Text-to-speech](https://arxiv.org/abs/2509.19668v2)** |  | 2026-03-24 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, 1 table. Revision 1: removed ICASSP copyright notice</p></details> |
-| **[Audio Avatar Fingerprinting: An Approach for Authorized Use of Voice Cloning in the Era of Synthetic Audio](https://arxiv.org/abs/2603.20165v1)** |  | 2026-03-20 |  |
-| **[Gesture2Speech: How Far Can Hand Movements Shape Expressive Speech?](https://arxiv.org/abs/2603.19831v1)** |  | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at The 2nd International Workshop on Bodily Expressed Emotion Understanding (BEEU) at AAAI 2026 [non-archival]</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,9 +64,10 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://arxiv.org/abs/2604.12928v2)** |  | 2026-04-17 |  |
+| **[MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models](https://arxiv.org/abs/2511.10262v3)** |  | 2026-04-17 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[VoxSafeBench: Not Just What Is Said, but Who, How, and Where](https://arxiv.org/abs/2604.14548v1)** |  | 2026-04-16 |  |
 | **[ViBES: A Conversational Agent with Behaviorally-Intelligent 3D Virtual Body](https://arxiv.org/abs/2512.14234v2)** |  | 2026-04-14 | <details><summary>Proje...</summary><p>Project page: https://ai.stanford.edu/~juze/ViBES/. Accepted by CVPR 2026</p></details> |
-| **[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://arxiv.org/abs/2604.12928v1)** |  | 2026-04-14 |  |
 | **[Bridging What the Model Thinks and How It Speaks: Self-Aware Speech Language Models for Expressive Speech Generation](https://arxiv.org/abs/2604.11424v1)** |  | 2026-04-13 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 6 tables. Project page: https://wangkevin02.github.io/SASLM/</p></details> |
 | **[Efficient Training for Cross-lingual Speech Language Models](https://arxiv.org/abs/2604.11096v1)** |  | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[ASPIRin: Action Space Projection for Interactivity-Optimized Reinforcement Learning in Full-Duplex Speech Language Models](https://arxiv.org/abs/2604.10065v1)** |  | 2026-04-11 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families](https://arxiv.org/abs/2603.20042v1)** |  | 2026-03-20 |  |
 | **[On the Emotion Understanding of Synthesized Speech](https://arxiv.org/abs/2603.16483v1)** |  | 2026-03-17 |  |
 | **[Triple X: A LLM-Based Multilingual Speech Recognition System for the INTERSPEECH2025 MLC-SLM Challenge](https://arxiv.org/abs/2507.17288v2)** |  | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted By Interspeech 2025 MLC-SLM workshop</p></details> |
-| **[StyleBench: Evaluating Speech Language Models on Conversational Speaking Style Control](https://arxiv.org/abs/2603.07599v1)** |  | 2026-03-08 |  |
