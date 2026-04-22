@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - April 22, 2026
+title: Latest Papers - April 23, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,12 +7,14 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations](https://arxiv.org/abs/2604.16211v2)** |  | 2026-04-21 |  |
+| **[ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis](https://arxiv.org/abs/2604.19055v1)** |  | 2026-04-21 | <details><summary>10 pa...</summary><p>10 pages, 6 figures. Accepted to ACM ICMR 2026</p></details> |
+| **[Qwen3.5-Omni Technical Report](https://arxiv.org/abs/2604.15804v2)** |  | 2026-04-21 |  |
+| **[Affectron: Emotional Speech Synthesis with Affective and Contextually Aligned Nonverbal Vocalizations](https://arxiv.org/abs/2603.14432v2)** |  | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[Mechanisms of Multimodal Synchronization: Insights from Decoder-Based Video-Text-to-Speech Synthesis](https://arxiv.org/abs/2411.17690v3)** |  | 2026-04-20 | <details><summary>30 pa...</summary><p>30 pages, Decoder-only model, Speech Synthesis</p></details> |
 | **[Design and Evaluation of a Culturally Adapted Multimodal Virtual Agent for PTSD Screening](https://arxiv.org/abs/2604.17871v1)** |  | 2026-04-20 |  |
 | **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v2)** |  | 2026-04-19 | ACL 2026 |
-| **[NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations](https://arxiv.org/abs/2604.16211v1)** |  | 2026-04-17 |  |
 | **[Advancing Intelligent Sequence Modeling: Evolution, Trade-offs, and Applications of State- Space Architectures from S4 to Mamba](https://arxiv.org/abs/2503.18970v3)** |  | 2026-04-17 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 3 tables</p></details> |
-| **[Qwen3.5-Omni Technical Report](https://arxiv.org/abs/2604.15804v1)** |  | 2026-04-17 |  |
 | **[Knowing What to Stress: A Discourse-Conditioned Text-to-Speech Benchmark](https://arxiv.org/abs/2604.10580v1)** |  | 2026-04-12 | Preprint |
 | **[Hierarchical Decoding for Discrete Speech Synthesis with Multi-Resolution Spoof Detection](https://arxiv.org/abs/2603.05373v2)** |  | 2026-04-11 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 3 tables, 2 algorithms</p></details> |
 | **[CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance](https://arxiv.org/abs/2509.19883v2)** |  | 2026-04-11 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Audio, Speech and Language Processing (TASLP). 13 pages, 5 figures, 5 tables</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[RLAIF-SPA: Structured AI Feedback for Semantic-Prosodic Alignment in Speech Synthesis](https://arxiv.org/abs/2510.14628v2)** |  | 2026-04-07 |  |
 | **[Expressive Prompting: Improving Emotion Intensity and Speaker Consistency in Zero-Shot TTS](https://arxiv.org/abs/2409.18512v2)** |  | 2026-04-03 |  |
 | **[Borderless Long Speech Synthesis](https://arxiv.org/abs/2603.19798v2)** |  | 2026-04-03 |  |
-| **[Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis](https://arxiv.org/abs/2601.13802v2)** |  | 2026-03-31 |  |
-| **[From Natural Alignment to Conditional Controllability in Multimodal Dialogue](https://arxiv.org/abs/2603.29162v1)** |  | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
