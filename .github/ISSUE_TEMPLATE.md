@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - April 27, 2026
+title: Latest Papers - April 28, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[FMSD-TTS: Few-shot Multi-Speaker Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation](https://arxiv.org/abs/2505.14351v4)** |  | 2026-04-24 | <details><summary>This ...</summary><p>This paper has been substantially restructured using a revised writing style. In addition, considering that maintaining two preprints simultaneously may not fully align with academic publishing ethics, we have withdrawn the previous version. Please refer to the updated manuscript at: arXiv:509.18060</p></details> |
 | **[ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis](https://arxiv.org/abs/2604.19055v2)** |  | 2026-04-23 | <details><summary>10 pa...</summary><p>10 pages, 6 figures. Accepted to ACM ICMR 2026</p></details> |
 | **[MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control](https://arxiv.org/abs/2604.21164v1)** |  | 2026-04-23 |  |
 | **[NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations](https://arxiv.org/abs/2604.16211v2)** |  | 2026-04-21 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance](https://arxiv.org/abs/2509.19883v2)** |  | 2026-04-11 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Audio, Speech and Language Processing (TASLP). 13 pages, 5 figures, 5 tables</p></details> |
 | **[AI-Driven Modular Services for Accessible Multilingual Education in Immersive Extended Reality Settings: Integrating Speech Processing, Translation, and Sign Language Rendering](https://arxiv.org/abs/2604.05591v1)** |  | 2026-04-07 | 21 |
 | **[RLAIF-SPA: Structured AI Feedback for Semantic-Prosodic Alignment in Speech Synthesis](https://arxiv.org/abs/2510.14628v2)** |  | 2026-04-07 |  |
-| **[Expressive Prompting: Improving Emotion Intensity and Speaker Consistency in Zero-Shot TTS](https://arxiv.org/abs/2409.18512v2)** |  | 2026-04-03 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[TTS-PRISM: A Perceptual Reasoning and Interpretable Speech Model for Fine-Grained Diagnosis](https://arxiv.org/abs/2604.22225v1)** |  | 2026-04-24 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
+| **[FMSD-TTS: Few-shot Multi-Speaker Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation](https://arxiv.org/abs/2505.14351v4)** |  | 2026-04-24 | <details><summary>This ...</summary><p>This paper has been substantially restructured using a revised writing style. In addition, considering that maintaining two preprints simultaneously may not fully align with academic publishing ethics, we have withdrawn the previous version. Please refer to the updated manuscript at: arXiv:509.18060</p></details> |
 | **[Preferences of a Voice-First Nation: Large-Scale Pairwise Evaluation and Preference Analysis for TTS in Indian Languages](https://arxiv.org/abs/2604.21481v1)** |  | 2026-04-23 |  |
 | **[MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control](https://arxiv.org/abs/2604.21164v1)** |  | 2026-04-23 |  |
 | **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v2)** |  | 2026-04-19 | ACL 2026 |
@@ -39,8 +41,6 @@ labels: documentation
 | **[PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion](https://arxiv.org/abs/2602.04160v2)** |  | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 | **[Combining Masked Language Modeling and Cross-Modal Contrastive Learning for Prosody-Aware TTS](https://arxiv.org/abs/2604.01247v1)** |  | 2026-03-31 | <details><summary>This ...</summary><p>This paper has been submitted to Interspeech 2026 for review</p></details> |
 | **[LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling](https://arxiv.org/abs/2603.26364v1)** |  | 2026-03-27 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 2 tables</p></details> |
-| **[Iterate to Differentiate: Enhancing Discriminability and Reliability in Zero-Shot TTS Evaluation](https://arxiv.org/abs/2603.24430v1)** |  | 2026-03-25 | <details><summary>submi...</summary><p>submitted to Interspeech 2026, under review</p></details> |
-| **[Assessing the Ability of Neural TTS Systems to Model Consonant-Induced F0 Perturbation](https://arxiv.org/abs/2603.21078v1)** |  | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted for publication in Computer Speech & Language</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
