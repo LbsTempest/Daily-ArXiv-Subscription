@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - April 30, 2026
+title: Latest Papers - May 01, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[EmoTransCap: Dataset and Pipeline for Emotion Transition-Aware Speech Captioning in Discourses](https://arxiv.org/abs/2604.26417v1)** |  | 2026-04-29 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, including appendix</p></details> |
 | **[Audio2Tool: Speak, Call, Act -- A Dataset for Benchmarking Speech Tool Use](https://arxiv.org/abs/2604.22821v2)** |  | 2026-04-28 |  |
 | **[MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control](https://arxiv.org/abs/2604.21164v2)** |  | 2026-04-27 | <details><summary>Relea...</summary><p>Release MAGIC-TTS code, pretrained models, and demo: https://github.com/yongaifadian1/MAGIC-TTS, https://huggingface.co/maimai11/MAGIC-TTS, https://yongaifadian1.github.io/MAGIC-TTS/</p></details> |
 | **[OLaPh: Optimal Language Phonemizer](https://arxiv.org/abs/2509.20086v2)** |  | 2026-04-25 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 4 tables</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Advancing Intelligent Sequence Modeling: Evolution, Trade-offs, and Applications of State- Space Architectures from S4 to Mamba](https://arxiv.org/abs/2503.18970v3)** |  | 2026-04-17 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 3 tables</p></details> |
 | **[Elderly-Contextual Data Augmentation via Speech Synthesis for Elderly ASR](https://arxiv.org/abs/2604.24770v1)** |  | 2026-04-15 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, under review at IEEE Signal Processing Letters</p></details> |
 | **[Knowing What to Stress: A Discourse-Conditioned Text-to-Speech Benchmark](https://arxiv.org/abs/2604.10580v1)** |  | 2026-04-12 | Preprint |
-| **[Hierarchical Decoding for Discrete Speech Synthesis with Multi-Resolution Spoof Detection](https://arxiv.org/abs/2603.05373v2)** |  | 2026-04-11 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 3 tables, 2 algorithms</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v3)** |  | 2026-04-29 |  |
 | **[Towards Fine-grained Temporal Perception: Post-Training Large Audio-Language Models with Audio-Side Time Prompt](https://arxiv.org/abs/2604.13715v1)** |  | 2026-04-15 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Noise-Aware In-Context Learning for Hallucination Mitigation in ALLMs](https://arxiv.org/abs/2604.09021v1)** |  | 2026-04-10 |  |
 | **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](https://arxiv.org/abs/2508.03983v3)** |  | 2026-03-26 | <details><summary>Added...</summary><p>Added ACAVCaps reference (ICASSP 2026)</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Aligning Audio Captions with Human Preferences](https://arxiv.org/abs/2509.14659v2)** |  | 2026-02-25 | <details><summary>Submi...</summary><p>Submitted for review to Interspeech 2026</p></details> |
 | **[TAC: Timestamped Audio Captioning](https://arxiv.org/abs/2602.15766v1)** |  | 2026-02-17 |  |
 | **[Eureka-Audio: Triggering Audio Intelligence in Compact Language Models](https://arxiv.org/abs/2602.13954v1)** |  | 2026-02-15 | 23 pages, 4 figures |
-| **[Audiocards: Structured Metadata Improves Audio Language Models For Sound Design](https://arxiv.org/abs/2602.13835v1)** |  | 2026-02-14 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
