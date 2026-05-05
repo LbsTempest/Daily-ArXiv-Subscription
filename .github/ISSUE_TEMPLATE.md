@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - May 05, 2026
+title: Latest Papers - May 06, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Tibetan-TTS:Low-Resource Tibetan Speech Synthesis with Large Model Adaptation](https://arxiv.org/abs/2605.02496v1)** |  | 2026-05-04 |  |
+| **[Toward Fine-Grained Speech Inpainting Forensics:A Dataset, Method, and Metric for Multi-Region Tampering Localization](https://arxiv.org/abs/2605.02223v1)** |  | 2026-05-04 |  |
 | **[EmoTransCap: Dataset and Pipeline for Emotion Transition-Aware Speech Captioning in Discourses](https://arxiv.org/abs/2604.26417v1)** |  | 2026-04-29 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, including appendix</p></details> |
 | **[Audio2Tool: Speak, Call, Act -- A Dataset for Benchmarking Speech Tool Use](https://arxiv.org/abs/2604.22821v2)** |  | 2026-04-28 |  |
 | **[MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control](https://arxiv.org/abs/2604.21164v2)** |  | 2026-04-27 | <details><summary>Relea...</summary><p>Release MAGIC-TTS code, pretrained models, and demo: https://github.com/yongaifadian1/MAGIC-TTS, https://huggingface.co/maimai11/MAGIC-TTS, https://yongaifadian1.github.io/MAGIC-TTS/</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Design and Evaluation of a Culturally Adapted Multimodal Virtual Agent for PTSD Screening](https://arxiv.org/abs/2604.17871v1)** |  | 2026-04-20 |  |
 | **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v2)** |  | 2026-04-19 | ACL 2026 |
 | **[Advancing Intelligent Sequence Modeling: Evolution, Trade-offs, and Applications of State- Space Architectures from S4 to Mamba](https://arxiv.org/abs/2503.18970v3)** |  | 2026-04-17 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 3 tables</p></details> |
-| **[Elderly-Contextual Data Augmentation via Speech Synthesis for Elderly ASR](https://arxiv.org/abs/2604.24770v1)** |  | 2026-04-15 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, under review at IEEE Signal Processing Letters</p></details> |
-| **[Knowing What to Stress: A Discourse-Conditioned Text-to-Speech Benchmark](https://arxiv.org/abs/2604.10580v1)** |  | 2026-04-12 | Preprint |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing](https://arxiv.org/abs/2604.09111v4)** |  | 2026-05-02 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
 | **[Praxy Voice: Voice-Prompt Recovery + BUPS for Commercial-Class Indic TTS from a Frozen Non-Indic Base at Zero Commercial-Training-Data Cost](https://arxiv.org/abs/2604.25441v1)** |  | 2026-04-28 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 6 tables. Companion paper to PSP benchmark. Code: https://github.com/praxelhq/praxy ; Model: https://huggingface.co/Praxel/praxy-voice-r6 ; Demo: https://huggingface.co/spaces/Praxel/praxy-voice-demo</p></details> |
 | **[MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control](https://arxiv.org/abs/2604.21164v2)** |  | 2026-04-27 | <details><summary>Relea...</summary><p>Release MAGIC-TTS code, pretrained models, and demo: https://github.com/yongaifadian1/MAGIC-TTS, https://huggingface.co/maimai11/MAGIC-TTS, https://yongaifadian1.github.io/MAGIC-TTS/</p></details> |
 | **[TTS-PRISM: A Perceptual Reasoning and Interpretable Speech Model for Fine-Grained Diagnosis](https://arxiv.org/abs/2604.22225v1)** |  | 2026-04-24 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
@@ -33,7 +34,6 @@ labels: documentation
 | **[Preferences of a Voice-First Nation: Large-Scale Pairwise Evaluation and Preference Analysis for TTS in Indian Languages](https://arxiv.org/abs/2604.21481v1)** |  | 2026-04-23 |  |
 | **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v2)** |  | 2026-04-19 | ACL 2026 |
 | **[TMD-TTS: A Unified Tibetan Multi-Dialect Text-to-Speech Framework for Ü-Tsang, Amdo and Kham Speech Dataset Generation](https://arxiv.org/abs/2509.18060v2)** |  | 2026-04-18 |  |
-| **[PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing](https://arxiv.org/abs/2604.09111v3)** |  | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
 | **[dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models](https://arxiv.org/abs/2512.19433v2)** |  | 2026-04-08 | <details><summary>Proje...</summary><p>Project page: https://github.com/Alpha-VLLM/Lumina-DiMOO</p></details> |
 | **[Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models](https://arxiv.org/abs/2510.13293v2)** |  | 2026-04-08 | <details><summary>Re-su...</summary><p>Re-submitted to Interspeech 2026 (with updates) -- Updates to be released upon approval</p></details> |
 | **[Rewriting TTS Inference Economics: Lightning V2 on Tenstorrent Achieves 4x Lower Cost Than NVIDIA L40S](https://arxiv.org/abs/2604.03279v2)** |  | 2026-04-07 |  |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Toward Fair Speech Technologies: A Comprehensive Survey of Bias and Fairness in Speech AI](https://arxiv.org/abs/2605.01597v1)** |  | 2026-05-02 | <details><summary>32 pa...</summary><p>32 pages, work in progress</p></details> |
 | **[Audio2Tool: Speak, Call, Act -- A Dataset for Benchmarking Speech Tool Use](https://arxiv.org/abs/2604.22821v2)** |  | 2026-04-28 |  |
 | **[VoxSafeBench: Not Just What Is Said, but Who, How, and Where](https://arxiv.org/abs/2604.14548v2)** |  | 2026-04-20 |  |
 | **[SpeechMedAssist: Efficiently and Effectively Adapting Speech Language Models for Medical Consultation](https://arxiv.org/abs/2601.04638v2)** |  | 2026-04-18 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[Where Do Backdoors Live? A Component-Level Analysis of Backdoor Propagation in Speech Language Models](https://arxiv.org/abs/2510.01157v3)** |  | 2026-04-07 |  |
 | **[Adapting Text LLMs to Speech via Multimodal Depth Up-Scaling](https://arxiv.org/abs/2604.00489v1)** |  | 2026-04-01 |  |
 | **[Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models](https://arxiv.org/abs/2603.25750v2)** |  | 2026-03-30 | <details><summary>34 pa...</summary><p>34 pages, 7 figures, 11 tables</p></details> |
-| **[LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families](https://arxiv.org/abs/2603.20042v1)** |  | 2026-03-20 |  |
