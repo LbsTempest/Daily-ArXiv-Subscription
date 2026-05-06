@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - May 06, 2026
+title: Latest Papers - May 07, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[The TTS-STT Flywheel: Synthetic Entity-Dense Audio Closes the Indic ASR Gap Where Commercial and Open-Source Systems Fail](https://arxiv.org/abs/2605.03073v1)** |  | 2026-05-04 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Companion to arXiv:2604.25441 (Praxy Voice TTS), arXiv:2604.25476 (PSP), arXiv:2605.00777 (LASE)</p></details> |
 | **[PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing](https://arxiv.org/abs/2604.09111v4)** |  | 2026-05-02 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
 | **[Praxy Voice: Voice-Prompt Recovery + BUPS for Commercial-Class Indic TTS from a Frozen Non-Indic Base at Zero Commercial-Training-Data Cost](https://arxiv.org/abs/2604.25441v1)** |  | 2026-04-28 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 6 tables. Companion paper to PSP benchmark. Code: https://github.com/praxelhq/praxy ; Model: https://huggingface.co/Praxel/praxy-voice-r6 ; Demo: https://huggingface.co/spaces/Praxel/praxy-voice-demo</p></details> |
 | **[MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control](https://arxiv.org/abs/2604.21164v2)** |  | 2026-04-27 | <details><summary>Relea...</summary><p>Release MAGIC-TTS code, pretrained models, and demo: https://github.com/yongaifadian1/MAGIC-TTS, https://huggingface.co/maimai11/MAGIC-TTS, https://yongaifadian1.github.io/MAGIC-TTS/</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Voxtral TTS](https://arxiv.org/abs/2603.25551v2)** |  | 2026-04-06 |  |
 | **[Expressive Prompting: Improving Emotion Intensity and Speaker Consistency in Zero-Shot TTS](https://arxiv.org/abs/2409.18512v2)** |  | 2026-04-03 |  |
 | **[PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion](https://arxiv.org/abs/2602.04160v2)** |  | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
-| **[Combining Masked Language Modeling and Cross-Modal Contrastive Learning for Prosody-Aware TTS](https://arxiv.org/abs/2604.01247v1)** |  | 2026-03-31 | <details><summary>This ...</summary><p>This paper has been submitted to Interspeech 2026 for review</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
