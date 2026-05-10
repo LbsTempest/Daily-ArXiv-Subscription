@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - May 08, 2026
+title: Latest Papers - May 11, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning](https://arxiv.org/abs/2605.05611v1)** |  | 2026-05-07 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 9 tables</p></details> |
 | **[Tibetan-TTS:Low-Resource Tibetan Speech Synthesis with Large Model Adaptation](https://arxiv.org/abs/2605.02496v1)** |  | 2026-05-04 |  |
 | **[Toward Fine-Grained Speech Inpainting Forensics:A Dataset, Method, and Metric for Multi-Region Tampering Localization](https://arxiv.org/abs/2605.02223v1)** |  | 2026-05-04 |  |
 | **[EmoTransCap: Dataset and Pipeline for Emotion Transition-Aware Speech Captioning in Discourses](https://arxiv.org/abs/2604.26417v1)** |  | 2026-04-29 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, including appendix</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Mechanisms of Multimodal Synchronization: Insights from Decoder-Based Video-Text-to-Speech Synthesis](https://arxiv.org/abs/2411.17690v3)** |  | 2026-04-20 | <details><summary>30 pa...</summary><p>30 pages, Decoder-only model, Speech Synthesis</p></details> |
 | **[Design and Evaluation of a Culturally Adapted Multimodal Virtual Agent for PTSD Screening](https://arxiv.org/abs/2604.17871v1)** |  | 2026-04-20 |  |
 | **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v2)** |  | 2026-04-19 | ACL 2026 |
-| **[Advancing Intelligent Sequence Modeling: Evolution, Trade-offs, and Applications of State- Space Architectures from S4 to Mamba](https://arxiv.org/abs/2503.18970v3)** |  | 2026-04-17 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 3 tables</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[BitCal-TTS: Bit-Calibrated Test-Time Scaling for Quantized Reasoning Models](https://arxiv.org/abs/2605.05561v1)** |  | 2026-05-07 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 4 tables. Code and reproducibility materials at https://github.com/Saibabu7770/bitcal-tts</p></details> |
 | **[The TTS-STT Flywheel: Synthetic Entity-Dense Audio Closes the Indic ASR Gap Where Commercial and Open-Source Systems Fail](https://arxiv.org/abs/2605.03073v1)** |  | 2026-05-04 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Companion to arXiv:2604.25441 (Praxy Voice TTS), arXiv:2604.25476 (PSP), arXiv:2605.00777 (LASE)</p></details> |
 | **[PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing](https://arxiv.org/abs/2604.09111v4)** |  | 2026-05-02 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
 | **[Praxy Voice: Voice-Prompt Recovery + BUPS for Commercial-Class Indic TTS from a Frozen Non-Indic Base at Zero Commercial-Training-Data Cost](https://arxiv.org/abs/2604.25441v1)** |  | 2026-04-28 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 6 tables. Companion paper to PSP benchmark. Code: https://github.com/praxelhq/praxy ; Model: https://huggingface.co/Praxel/praxy-voice-r6 ; Demo: https://huggingface.co/spaces/Praxel/praxy-voice-demo</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Rewriting TTS Inference Economics: Lightning V2 on Tenstorrent Achieves 4x Lower Cost Than NVIDIA L40S](https://arxiv.org/abs/2604.03279v2)** |  | 2026-04-07 |  |
 | **[Voxtral TTS](https://arxiv.org/abs/2603.25551v2)** |  | 2026-04-06 |  |
 | **[Expressive Prompting: Improving Emotion Intensity and Speaker Consistency in Zero-Shot TTS](https://arxiv.org/abs/2409.18512v2)** |  | 2026-04-03 |  |
-| **[PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion](https://arxiv.org/abs/2602.04160v2)** |  | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
