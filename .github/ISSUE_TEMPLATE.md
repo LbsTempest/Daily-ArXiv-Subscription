@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - May 12, 2026
+title: Latest Papers - May 13, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,8 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[From Natural Alignment to Conditional Controllability in Multimodal Dialogue](https://arxiv.org/abs/2603.29162v2)** |  | 2026-05-09 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning](https://arxiv.org/abs/2605.05611v2)** |  | 2026-05-09 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 9 tables</p></details> |
 | **[OLaPh: Optimal Language Phonemizer](https://arxiv.org/abs/2509.20086v3)** |  | 2026-05-08 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 4 tables</p></details> |
-| **[X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning](https://arxiv.org/abs/2605.05611v1)** |  | 2026-05-07 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 9 tables</p></details> |
 | **[Tibetan-TTS:Low-Resource Tibetan Speech Synthesis with Large Model Adaptation](https://arxiv.org/abs/2605.02496v1)** |  | 2026-05-04 |  |
 | **[Toward Fine-Grained Speech Inpainting Forensics:A Dataset, Method, and Metric for Multi-Region Tampering Localization](https://arxiv.org/abs/2605.02223v1)** |  | 2026-05-04 |  |
 | **[EmoTransCap: Dataset and Pipeline for Emotion Transition-Aware Speech Captioning in Discourses](https://arxiv.org/abs/2604.26417v1)** |  | 2026-04-29 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, including appendix</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Affectron: Emotional Speech Synthesis with Affective and Contextually Aligned Nonverbal Vocalizations](https://arxiv.org/abs/2603.14432v2)** |  | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[Mechanisms of Multimodal Synchronization: Insights from Decoder-Based Video-Text-to-Speech Synthesis](https://arxiv.org/abs/2411.17690v3)** |  | 2026-04-20 | <details><summary>30 pa...</summary><p>30 pages, Decoder-only model, Speech Synthesis</p></details> |
 | **[Design and Evaluation of a Culturally Adapted Multimodal Virtual Agent for PTSD Screening](https://arxiv.org/abs/2604.17871v1)** |  | 2026-04-20 |  |
-| **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v2)** |  | 2026-04-19 | ACL 2026 |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
