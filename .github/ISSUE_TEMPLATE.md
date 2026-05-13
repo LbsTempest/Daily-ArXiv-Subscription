@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - May 13, 2026
+title: Latest Papers - May 14, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[AuDirector: A Self-Reflective Closed-Loop Framework for Immersive Audio Storytelling](https://arxiv.org/abs/2605.11866v1)** |  | 2026-05-12 |  |
 | **[From Natural Alignment to Conditional Controllability in Multimodal Dialogue](https://arxiv.org/abs/2603.29162v2)** |  | 2026-05-09 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning](https://arxiv.org/abs/2605.05611v2)** |  | 2026-05-09 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 9 tables</p></details> |
 | **[OLaPh: Optimal Language Phonemizer](https://arxiv.org/abs/2509.20086v3)** |  | 2026-05-08 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 4 tables</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Qwen3.5-Omni Technical Report](https://arxiv.org/abs/2604.15804v2)** |  | 2026-04-21 |  |
 | **[Affectron: Emotional Speech Synthesis with Affective and Contextually Aligned Nonverbal Vocalizations](https://arxiv.org/abs/2603.14432v2)** |  | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[Mechanisms of Multimodal Synchronization: Insights from Decoder-Based Video-Text-to-Speech Synthesis](https://arxiv.org/abs/2411.17690v3)** |  | 2026-04-20 | <details><summary>30 pa...</summary><p>30 pages, Decoder-only model, Speech Synthesis</p></details> |
-| **[Design and Evaluation of a Culturally Adapted Multimodal Virtual Agent for PTSD Screening](https://arxiv.org/abs/2604.17871v1)** |  | 2026-04-20 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,11 +64,12 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://arxiv.org/abs/2604.12928v3)** |  | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[AffectCodec: Emotion-Preserving Neural Speech Codec for Expressive Speech Modeling](https://arxiv.org/abs/2605.11098v1)** |  | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted to ACL Findings 2026</p></details> |
 | **[Toward Fair Speech Technologies: A Comprehensive Survey of Bias and Fairness in Speech AI](https://arxiv.org/abs/2605.01597v1)** |  | 2026-05-02 | <details><summary>32 pa...</summary><p>32 pages, work in progress</p></details> |
 | **[Audio2Tool: Speak, Call, Act -- A Dataset for Benchmarking Speech Tool Use](https://arxiv.org/abs/2604.22821v2)** |  | 2026-04-28 |  |
 | **[VoxSafeBench: Not Just What Is Said, but Who, How, and Where](https://arxiv.org/abs/2604.14548v2)** |  | 2026-04-20 |  |
 | **[SpeechMedAssist: Efficiently and Effectively Adapting Speech Language Models for Medical Consultation](https://arxiv.org/abs/2601.04638v2)** |  | 2026-04-18 |  |
-| **[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://arxiv.org/abs/2604.12928v2)** |  | 2026-04-17 |  |
 | **[MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models](https://arxiv.org/abs/2511.10262v3)** |  | 2026-04-17 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[ViBES: A Conversational Agent with Behaviorally-Intelligent 3D Virtual Body](https://arxiv.org/abs/2512.14234v2)** |  | 2026-04-14 | <details><summary>Proje...</summary><p>Project page: https://ai.stanford.edu/~juze/ViBES/. Accepted by CVPR 2026</p></details> |
 | **[Bridging What the Model Thinks and How It Speaks: Self-Aware Speech Language Models for Expressive Speech Generation](https://arxiv.org/abs/2604.11424v1)** |  | 2026-04-13 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 6 tables. Project page: https://wangkevin02.github.io/SASLM/</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[In-Context Learning in Speech Language Models: Analyzing the Role of Acoustic Features, Linguistic Structure, and Induction Heads](https://arxiv.org/abs/2604.06356v1)** |  | 2026-04-07 | <details><summary>Submi...</summary><p>Submitted to COLM 2026</p></details> |
 | **[Where Do Backdoors Live? A Component-Level Analysis of Backdoor Propagation in Speech Language Models](https://arxiv.org/abs/2510.01157v3)** |  | 2026-04-07 |  |
 | **[Adapting Text LLMs to Speech via Multimodal Depth Up-Scaling](https://arxiv.org/abs/2604.00489v1)** |  | 2026-04-01 |  |
-| **[Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models](https://arxiv.org/abs/2603.25750v2)** |  | 2026-03-30 | <details><summary>34 pa...</summary><p>34 pages, 7 figures, 11 tables</p></details> |
