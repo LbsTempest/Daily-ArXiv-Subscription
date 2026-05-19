@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - May 19, 2026
+title: Latest Papers - May 20, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Bridging the Gap: Converting Read Text to Conversational Dialogue](https://arxiv.org/abs/2605.18001v1)** |  | 2026-05-18 | <details><summary>11 pa...</summary><p>11 pages, 4 figures. Published in ICICC 2025, Springer Lecture Notes in Networks and Systems</p></details> |
+| **[TED-TTS: Training-Free Intra-Utterance Emotion and Duration Control for Text-to-Speech Synthesis](https://arxiv.org/abs/2601.03170v2)** |  | 2026-05-17 | <details><summary>24 pa...</summary><p>24 pages, 9 figures, 7 tables, 3 lists</p></details> |
 | **[AuDirector: A Self-Reflective Closed-Loop Framework for Immersive Audio Storytelling](https://arxiv.org/abs/2605.11866v1)** |  | 2026-05-12 |  |
 | **[From Natural Alignment to Conditional Controllability in Multimodal Dialogue](https://arxiv.org/abs/2603.29162v2)** |  | 2026-05-09 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning](https://arxiv.org/abs/2605.05611v2)** |  | 2026-05-09 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 9 tables</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis](https://arxiv.org/abs/2604.19055v2)** |  | 2026-04-23 | <details><summary>10 pa...</summary><p>10 pages, 6 figures. Accepted to ACM ICMR 2026</p></details> |
 | **[NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations](https://arxiv.org/abs/2604.16211v2)** |  | 2026-04-21 |  |
 | **[Qwen3.5-Omni Technical Report](https://arxiv.org/abs/2604.15804v2)** |  | 2026-04-21 |  |
-| **[Affectron: Emotional Speech Synthesis with Affective and Contextually Aligned Nonverbal Vocalizations](https://arxiv.org/abs/2603.14432v2)** |  | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
-| **[Mechanisms of Multimodal Synchronization: Insights from Decoder-Based Video-Text-to-Speech Synthesis](https://arxiv.org/abs/2411.17690v3)** |  | 2026-04-20 | <details><summary>30 pa...</summary><p>30 pages, Decoder-only model, Speech Synthesis</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[TED-TTS: Training-Free Intra-Utterance Emotion and Duration Control for Text-to-Speech Synthesis](https://arxiv.org/abs/2601.03170v2)** |  | 2026-05-17 | <details><summary>24 pa...</summary><p>24 pages, 9 figures, 7 tables, 3 lists</p></details> |
 | **[BitCal-TTS: Bit-Calibrated Test-Time Scaling for Quantized Reasoning Models](https://arxiv.org/abs/2605.05561v1)** |  | 2026-05-07 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 4 tables. Code and reproducibility materials at https://github.com/Saibabu7770/bitcal-tts</p></details> |
 | **[The TTS-STT Flywheel: Synthetic Entity-Dense Audio Closes the Indic ASR Gap Where Commercial and Open-Source Systems Fail](https://arxiv.org/abs/2605.03073v1)** |  | 2026-05-04 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Companion to arXiv:2604.25441 (Praxy Voice TTS), arXiv:2604.25476 (PSP), arXiv:2605.00777 (LASE)</p></details> |
 | **[PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing](https://arxiv.org/abs/2604.09111v4)** |  | 2026-05-02 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models](https://arxiv.org/abs/2510.13293v2)** |  | 2026-04-08 | <details><summary>Re-su...</summary><p>Re-submitted to Interspeech 2026 (with updates) -- Updates to be released upon approval</p></details> |
 | **[Rewriting TTS Inference Economics: Lightning V2 on Tenstorrent Achieves 4x Lower Cost Than NVIDIA L40S](https://arxiv.org/abs/2604.03279v2)** |  | 2026-04-07 |  |
 | **[Voxtral TTS](https://arxiv.org/abs/2603.25551v2)** |  | 2026-04-06 |  |
-| **[Expressive Prompting: Improving Emotion Intensity and Speaker Consistency in Zero-Shot TTS](https://arxiv.org/abs/2409.18512v2)** |  | 2026-04-03 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
