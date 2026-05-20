@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - May 20, 2026
+title: Latest Papers - May 21, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Cross-modal Consistency Guidance for Robust Emotion Control in Auto-Regressive TTS Models](https://arxiv.org/abs/2510.13293v3)** |  | 2026-05-19 | <details><summary>Updat...</summary><p>Updated and resubmitted to Interspeech 2026</p></details> |
 | **[TED-TTS: Training-Free Intra-Utterance Emotion and Duration Control for Text-to-Speech Synthesis](https://arxiv.org/abs/2601.03170v2)** |  | 2026-05-17 | <details><summary>24 pa...</summary><p>24 pages, 9 figures, 7 tables, 3 lists</p></details> |
 | **[BitCal-TTS: Bit-Calibrated Test-Time Scaling for Quantized Reasoning Models](https://arxiv.org/abs/2605.05561v1)** |  | 2026-05-07 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 4 tables. Code and reproducibility materials at https://github.com/Saibabu7770/bitcal-tts</p></details> |
 | **[The TTS-STT Flywheel: Synthetic Entity-Dense Audio Closes the Indic ASR Gap Where Commercial and Open-Source Systems Fail](https://arxiv.org/abs/2605.03073v1)** |  | 2026-05-04 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Companion to arXiv:2604.25441 (Praxy Voice TTS), arXiv:2604.25476 (PSP), arXiv:2605.00777 (LASE)</p></details> |
@@ -38,7 +39,6 @@ labels: documentation
 | **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v2)** |  | 2026-04-19 | ACL 2026 |
 | **[TMD-TTS: A Unified Tibetan Multi-Dialect Text-to-Speech Framework for Ü-Tsang, Amdo and Kham Speech Dataset Generation](https://arxiv.org/abs/2509.18060v2)** |  | 2026-04-18 |  |
 | **[dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models](https://arxiv.org/abs/2512.19433v2)** |  | 2026-04-08 | <details><summary>Proje...</summary><p>Project page: https://github.com/Alpha-VLLM/Lumina-DiMOO</p></details> |
-| **[Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models](https://arxiv.org/abs/2510.13293v2)** |  | 2026-04-08 | <details><summary>Re-su...</summary><p>Re-submitted to Interspeech 2026 (with updates) -- Updates to be released upon approval</p></details> |
 | **[Rewriting TTS Inference Economics: Lightning V2 on Tenstorrent Achieves 4x Lower Cost Than NVIDIA L40S](https://arxiv.org/abs/2604.03279v2)** |  | 2026-04-07 |  |
 | **[Voxtral TTS](https://arxiv.org/abs/2603.25551v2)** |  | 2026-04-06 |  |
 
