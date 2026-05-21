@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - May 21, 2026
+title: Latest Papers - May 22, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,9 +7,10 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Evaluating Speech Articulation Synthesis with Articulatory Phoneme Recognition](https://arxiv.org/abs/2605.20920v1)** |  | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted for publication at the European Signal Processing Conference (EUSIPCO), 2026</p></details> |
+| **[AuDirector: A Self-Reflective Closed-Loop Framework for Immersive Audio Storytelling](https://arxiv.org/abs/2605.11866v2)** |  | 2026-05-20 |  |
 | **[Bridging the Gap: Converting Read Text to Conversational Dialogue](https://arxiv.org/abs/2605.18001v1)** |  | 2026-05-18 | <details><summary>11 pa...</summary><p>11 pages, 4 figures. Published in ICICC 2025, Springer Lecture Notes in Networks and Systems</p></details> |
 | **[TED-TTS: Training-Free Intra-Utterance Emotion and Duration Control for Text-to-Speech Synthesis](https://arxiv.org/abs/2601.03170v2)** |  | 2026-05-17 | <details><summary>24 pa...</summary><p>24 pages, 9 figures, 7 tables, 3 lists</p></details> |
-| **[AuDirector: A Self-Reflective Closed-Loop Framework for Immersive Audio Storytelling](https://arxiv.org/abs/2605.11866v1)** |  | 2026-05-12 |  |
 | **[From Natural Alignment to Conditional Controllability in Multimodal Dialogue](https://arxiv.org/abs/2603.29162v2)** |  | 2026-05-09 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning](https://arxiv.org/abs/2605.05611v2)** |  | 2026-05-09 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 9 tables</p></details> |
 | **[OLaPh: Optimal Language Phonemizer](https://arxiv.org/abs/2509.20086v3)** |  | 2026-05-08 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 4 tables</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[FMSD-TTS: Few-shot Multi-Speaker Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation](https://arxiv.org/abs/2505.14351v4)** |  | 2026-04-24 | <details><summary>This ...</summary><p>This paper has been substantially restructured using a revised writing style. In addition, considering that maintaining two preprints simultaneously may not fully align with academic publishing ethics, we have withdrawn the previous version. Please refer to the updated manuscript at: arXiv:509.18060</p></details> |
 | **[ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis](https://arxiv.org/abs/2604.19055v2)** |  | 2026-04-23 | <details><summary>10 pa...</summary><p>10 pages, 6 figures. Accepted to ACM ICMR 2026</p></details> |
 | **[NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations](https://arxiv.org/abs/2604.16211v2)** |  | 2026-04-21 |  |
-| **[Qwen3.5-Omni Technical Report](https://arxiv.org/abs/2604.15804v2)** |  | 2026-04-21 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
