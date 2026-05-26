@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - May 25, 2026
+title: Latest Papers - May 26, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[AffectCodec: Emotion-Preserving Neural Speech Codec with Block-Diagonal Residual FSQ](https://arxiv.org/abs/2605.23373v1)** |  | 2026-05-22 |  |
 | **[Do Factual Recall Mechanisms Carry over from Text to Speech in Multimodal Language Models?](https://arxiv.org/abs/2605.22170v1)** |  | 2026-05-21 | <details><summary>In *S...</summary><p>In *SEM 2026, the 15th Joint Conference on Lexical and Computational Semantics</p></details> |
 | **[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://arxiv.org/abs/2604.12928v3)** |  | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[AffectCodec: Emotion-Preserving Neural Speech Codec for Expressive Speech Modeling](https://arxiv.org/abs/2605.11098v1)** |  | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted to ACL Findings 2026</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[ASPIRin: Action Space Projection for Interactivity-Optimized Reinforcement Learning in Full-Duplex Speech Language Models](https://arxiv.org/abs/2604.10065v1)** |  | 2026-04-11 |  |
 | **[Do We Need Distinct Representations for Every Speech Token? Unveiling and Exploiting Redundancy in Large Speech Language Models](https://arxiv.org/abs/2604.06871v1)** |  | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (Findings)</p></details> |
 | **[In-Context Learning in Speech Language Models: Analyzing the Role of Acoustic Features, Linguistic Structure, and Induction Heads](https://arxiv.org/abs/2604.06356v1)** |  | 2026-04-07 | <details><summary>Submi...</summary><p>Submitted to COLM 2026</p></details> |
-| **[Where Do Backdoors Live? A Component-Level Analysis of Backdoor Propagation in Speech Language Models](https://arxiv.org/abs/2510.01157v3)** |  | 2026-04-07 |  |
