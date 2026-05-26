@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - May 26, 2026
+title: Latest Papers - May 27, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[KAME: Tandem Architecture for Enhancing Knowledge in Real-Time Speech-to-Speech Conversational AI](https://arxiv.org/abs/2510.02327v2)** |  | 2026-05-25 | <details><summary>Publi...</summary><p>Published at IEEE ICASSP 2026</p></details> |
+| **[RVCBench: Benchmarking the Robustness of Voice Cloning Across Modern Audio Generation Models](https://arxiv.org/abs/2602.00443v2)** |  | 2026-05-24 | 65 pages, 10 figures |
 | **[Evaluating Speech Articulation Synthesis with Articulatory Phoneme Recognition](https://arxiv.org/abs/2605.20920v1)** |  | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted for publication at the European Signal Processing Conference (EUSIPCO), 2026</p></details> |
 | **[AuDirector: A Self-Reflective Closed-Loop Framework for Immersive Audio Storytelling](https://arxiv.org/abs/2605.11866v2)** |  | 2026-05-20 |  |
 | **[Bridging the Gap: Converting Read Text to Conversational Dialogue](https://arxiv.org/abs/2605.18001v1)** |  | 2026-05-18 | <details><summary>11 pa...</summary><p>11 pages, 4 figures. Published in ICICC 2025, Springer Lecture Notes in Networks and Systems</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Audio2Tool: Speak, Call, Act -- A Dataset for Benchmarking Speech Tool Use](https://arxiv.org/abs/2604.22821v2)** |  | 2026-04-28 |  |
 | **[MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control](https://arxiv.org/abs/2604.21164v2)** |  | 2026-04-27 | <details><summary>Relea...</summary><p>Release MAGIC-TTS code, pretrained models, and demo: https://github.com/yongaifadian1/MAGIC-TTS, https://huggingface.co/maimai11/MAGIC-TTS, https://yongaifadian1.github.io/MAGIC-TTS/</p></details> |
 | **[FMSD-TTS: Few-shot Multi-Speaker Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation](https://arxiv.org/abs/2505.14351v4)** |  | 2026-04-24 | <details><summary>This ...</summary><p>This paper has been substantially restructured using a revised writing style. In addition, considering that maintaining two preprints simultaneously may not fully align with academic publishing ethics, we have withdrawn the previous version. Please refer to the updated manuscript at: arXiv:509.18060</p></details> |
-| **[ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis](https://arxiv.org/abs/2604.19055v2)** |  | 2026-04-23 | <details><summary>10 pa...</summary><p>10 pages, 6 figures. Accepted to ACM ICMR 2026</p></details> |
-| **[NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations](https://arxiv.org/abs/2604.16211v2)** |  | 2026-04-21 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[CosyEdit2: Speech-Editing-Oriented Reinforcement Learning Unlocks Better Zero-Shot TTS](https://arxiv.org/abs/2605.25930v1)** |  | 2026-05-25 |  |
 | **[Cross-modal Consistency Guidance for Robust Emotion Control in Auto-Regressive TTS Models](https://arxiv.org/abs/2510.13293v3)** |  | 2026-05-19 | <details><summary>Updat...</summary><p>Updated and resubmitted to Interspeech 2026</p></details> |
 | **[TED-TTS: Training-Free Intra-Utterance Emotion and Duration Control for Text-to-Speech Synthesis](https://arxiv.org/abs/2601.03170v2)** |  | 2026-05-17 | <details><summary>24 pa...</summary><p>24 pages, 9 figures, 7 tables, 3 lists</p></details> |
 | **[BitCal-TTS: Bit-Calibrated Test-Time Scaling for Quantized Reasoning Models](https://arxiv.org/abs/2605.05561v1)** |  | 2026-05-07 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 4 tables. Code and reproducibility materials at https://github.com/Saibabu7770/bitcal-tts</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[TMD-TTS: A Unified Tibetan Multi-Dialect Text-to-Speech Framework for Ü-Tsang, Amdo and Kham Speech Dataset Generation](https://arxiv.org/abs/2509.18060v2)** |  | 2026-04-18 |  |
 | **[dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models](https://arxiv.org/abs/2512.19433v2)** |  | 2026-04-08 | <details><summary>Proje...</summary><p>Project page: https://github.com/Alpha-VLLM/Lumina-DiMOO</p></details> |
 | **[Rewriting TTS Inference Economics: Lightning V2 on Tenstorrent Achieves 4x Lower Cost Than NVIDIA L40S](https://arxiv.org/abs/2604.03279v2)** |  | 2026-04-07 |  |
-| **[Voxtral TTS](https://arxiv.org/abs/2603.25551v2)** |  | 2026-04-06 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Locality Matters for Training-Free Audio Token Compression in Audio-Language Models](https://arxiv.org/abs/2605.25179v1)** |  | 2026-05-24 | <details><summary>Prepr...</summary><p>Preprint. 8 pages main text, 10 pages total</p></details> |
 | **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v3)** |  | 2026-04-29 |  |
 | **[Towards Fine-grained Temporal Perception: Post-Training Large Audio-Language Models with Audio-Side Time Prompt](https://arxiv.org/abs/2604.13715v1)** |  | 2026-04-15 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Noise-Aware In-Context Learning for Hallucination Mitigation in ALLMs](https://arxiv.org/abs/2604.09021v1)** |  | 2026-04-10 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Unbiased Sliced Wasserstein Kernels for High-Quality Audio Captioning](https://arxiv.org/abs/2502.05435v2)** |  | 2026-02-26 |  |
 | **[Aligning Audio Captions with Human Preferences](https://arxiv.org/abs/2509.14659v2)** |  | 2026-02-25 | <details><summary>Submi...</summary><p>Submitted for review to Interspeech 2026</p></details> |
 | **[TAC: Timestamped Audio Captioning](https://arxiv.org/abs/2602.15766v1)** |  | 2026-02-17 |  |
-| **[Eureka-Audio: Triggering Audio Intelligence in Compact Language Models](https://arxiv.org/abs/2602.13954v1)** |  | 2026-02-15 | 23 pages, 4 figures |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
@@ -77,5 +77,5 @@ labels: documentation
 | **[Bridging What the Model Thinks and How It Speaks: Self-Aware Speech Language Models for Expressive Speech Generation](https://arxiv.org/abs/2604.11424v1)** |  | 2026-04-13 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 6 tables. Project page: https://wangkevin02.github.io/SASLM/</p></details> |
 | **[Efficient Training for Cross-lingual Speech Language Models](https://arxiv.org/abs/2604.11096v1)** |  | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[ASPIRin: Action Space Projection for Interactivity-Optimized Reinforcement Learning in Full-Duplex Speech Language Models](https://arxiv.org/abs/2604.10065v1)** |  | 2026-04-11 |  |
+| **[Raon-Speech Technical Report](https://arxiv.org/abs/2605.23912v1)** |  | 2026-04-08 |  |
 | **[Do We Need Distinct Representations for Every Speech Token? Unveiling and Exploiting Redundancy in Large Speech Language Models](https://arxiv.org/abs/2604.06871v1)** |  | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (Findings)</p></details> |
-| **[In-Context Learning in Speech Language Models: Analyzing the Role of Acoustic Features, Linguistic Structure, and Induction Heads](https://arxiv.org/abs/2604.06356v1)** |  | 2026-04-07 | <details><summary>Submi...</summary><p>Submitted to COLM 2026</p></details> |
