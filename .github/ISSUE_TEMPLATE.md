@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - May 27, 2026
+title: Latest Papers - May 28, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[PilotTTS: A Disciplined Modular Recipe for Competitive Speech Synthesis](https://arxiv.org/abs/2605.27258v1)** |  | 2026-05-26 |  |
+| **[ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](https://arxiv.org/abs/2510.10774v3)** |  | 2026-05-26 |  |
 | **[KAME: Tandem Architecture for Enhancing Knowledge in Real-Time Speech-to-Speech Conversational AI](https://arxiv.org/abs/2510.02327v2)** |  | 2026-05-25 | <details><summary>Publi...</summary><p>Published at IEEE ICASSP 2026</p></details> |
 | **[RVCBench: Benchmarking the Robustness of Voice Cloning Across Modern Audio Generation Models](https://arxiv.org/abs/2602.00443v2)** |  | 2026-05-24 | 65 pages, 10 figures |
 | **[Evaluating Speech Articulation Synthesis with Articulatory Phoneme Recognition](https://arxiv.org/abs/2605.20920v1)** |  | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted for publication at the European Signal Processing Conference (EUSIPCO), 2026</p></details> |
@@ -20,13 +22,11 @@ labels: documentation
 | **[Toward Fine-Grained Speech Inpainting Forensics:A Dataset, Method, and Metric for Multi-Region Tampering Localization](https://arxiv.org/abs/2605.02223v1)** |  | 2026-05-04 |  |
 | **[EmoTransCap: Dataset and Pipeline for Emotion Transition-Aware Speech Captioning in Discourses](https://arxiv.org/abs/2604.26417v1)** |  | 2026-04-29 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, including appendix</p></details> |
 | **[Audio2Tool: Speak, Call, Act -- A Dataset for Benchmarking Speech Tool Use](https://arxiv.org/abs/2604.22821v2)** |  | 2026-04-28 |  |
-| **[MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control](https://arxiv.org/abs/2604.21164v2)** |  | 2026-04-27 | <details><summary>Relea...</summary><p>Release MAGIC-TTS code, pretrained models, and demo: https://github.com/yongaifadian1/MAGIC-TTS, https://huggingface.co/maimai11/MAGIC-TTS, https://yongaifadian1.github.io/MAGIC-TTS/</p></details> |
-| **[FMSD-TTS: Few-shot Multi-Speaker Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation](https://arxiv.org/abs/2505.14351v4)** |  | 2026-04-24 | <details><summary>This ...</summary><p>This paper has been substantially restructured using a revised writing style. In addition, considering that maintaining two preprints simultaneously may not fully align with academic publishing ethics, we have withdrawn the previous version. Please refer to the updated manuscript at: arXiv:509.18060</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
-| **[CosyEdit2: Speech-Editing-Oriented Reinforcement Learning Unlocks Better Zero-Shot TTS](https://arxiv.org/abs/2605.25930v1)** |  | 2026-05-25 |  |
+| **[CosyEdit2: Speech-Editing-Oriented Reinforcement Learning Unlocks Better Zero-Shot TTS](https://arxiv.org/abs/2605.25930v2)** |  | 2026-05-26 |  |
 | **[Cross-modal Consistency Guidance for Robust Emotion Control in Auto-Regressive TTS Models](https://arxiv.org/abs/2510.13293v3)** |  | 2026-05-19 | <details><summary>Updat...</summary><p>Updated and resubmitted to Interspeech 2026</p></details> |
 | **[TED-TTS: Training-Free Intra-Utterance Emotion and Duration Control for Text-to-Speech Synthesis](https://arxiv.org/abs/2601.03170v2)** |  | 2026-05-17 | <details><summary>24 pa...</summary><p>24 pages, 9 figures, 7 tables, 3 lists</p></details> |
 | **[BitCal-TTS: Bit-Calibrated Test-Time Scaling for Quantized Reasoning Models](https://arxiv.org/abs/2605.05561v1)** |  | 2026-05-07 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 4 tables. Code and reproducibility materials at https://github.com/Saibabu7770/bitcal-tts</p></details> |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](https://arxiv.org/abs/2510.10774v3)** |  | 2026-05-26 |  |
 | **[AffectCodec: Emotion-Preserving Neural Speech Codec with Block-Diagonal Residual FSQ](https://arxiv.org/abs/2605.23373v1)** |  | 2026-05-22 |  |
 | **[Do Factual Recall Mechanisms Carry over from Text to Speech in Multimodal Language Models?](https://arxiv.org/abs/2605.22170v1)** |  | 2026-05-21 | <details><summary>In *S...</summary><p>In *SEM 2026, the 15th Joint Conference on Lexical and Computational Semantics</p></details> |
 | **[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://arxiv.org/abs/2604.12928v3)** |  | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[Efficient Training for Cross-lingual Speech Language Models](https://arxiv.org/abs/2604.11096v1)** |  | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[ASPIRin: Action Space Projection for Interactivity-Optimized Reinforcement Learning in Full-Duplex Speech Language Models](https://arxiv.org/abs/2604.10065v1)** |  | 2026-04-11 |  |
 | **[Raon-Speech Technical Report](https://arxiv.org/abs/2605.23912v1)** |  | 2026-04-08 |  |
-| **[Do We Need Distinct Representations for Every Speech Token? Unveiling and Exploiting Redundancy in Large Speech Language Models](https://arxiv.org/abs/2604.06871v1)** |  | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (Findings)</p></details> |
