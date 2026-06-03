@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - June 02, 2026
+title: Latest Papers - June 03, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,8 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[HoliTok:A Coutinuous Holistic Tokenization with Robust Dual Capabilities of Speech Generation and Understanding](https://arxiv.org/abs/2605.29948v2)** |  | 2026-06-01 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 8 tables</p></details> |
+| **[Local Diagnostics of Continuous Normalizing Flow for Out-of-Distribution Detection](https://arxiv.org/abs/2606.00684v1)** |  | 2026-05-30 | 16 pages, 5 figures |
 | **[TokTalk: Expressive Real-time Facial Animation from Audio-LLM Tokens](https://arxiv.org/abs/2605.31294v1)** |  | 2026-05-29 |  |
-| **[HoliTok:A Coutinuous Holistic Tokenization with Robust Dual Capabilities of Speech Generation and Understanding](https://arxiv.org/abs/2605.29948v1)** |  | 2026-05-28 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 8 tables</p></details> |
 | **[PilotTTS: A Disciplined Modular Recipe for Competitive Speech Synthesis](https://arxiv.org/abs/2605.27258v2)** |  | 2026-05-27 |  |
 | **[Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox](https://arxiv.org/abs/2605.27772v1)** |  | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICML 2026. Project page: https://voxparadox.github.io/</p></details> |
 | **[ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](https://arxiv.org/abs/2510.10774v3)** |  | 2026-05-26 |  |
@@ -21,12 +22,11 @@ labels: documentation
 | **[From Natural Alignment to Conditional Controllability in Multimodal Dialogue](https://arxiv.org/abs/2603.29162v2)** |  | 2026-05-09 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning](https://arxiv.org/abs/2605.05611v2)** |  | 2026-05-09 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 9 tables</p></details> |
 | **[OLaPh: Optimal Language Phonemizer](https://arxiv.org/abs/2509.20086v3)** |  | 2026-05-08 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 4 tables</p></details> |
-| **[Tibetan-TTS:Low-Resource Tibetan Speech Synthesis with Large Model Adaptation](https://arxiv.org/abs/2605.02496v1)** |  | 2026-05-04 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
-| **[Chatterbox-Flash: Prior-Calibrated Block Diffusion for Streaming Zero-Shot TTS](https://arxiv.org/abs/2605.30748v1)** |  | 2026-05-29 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 9 tables</p></details> |
+| **[Chatterbox-Flash: Prior-Calibrated Block Diffusion for Streaming Zero-Shot TTS](https://arxiv.org/abs/2605.30748v2)** |  | 2026-06-01 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 9 tables</p></details> |
 | **[Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability](https://arxiv.org/abs/2601.22661v2)** |  | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[CosyEdit2: Speech-Editing-Oriented Reinforcement Learning Unlocks Better Zero-Shot TTS](https://arxiv.org/abs/2605.25930v2)** |  | 2026-05-26 |  |
 | **[Cross-modal Consistency Guidance for Robust Emotion Control in Auto-Regressive TTS Models](https://arxiv.org/abs/2510.13293v3)** |  | 2026-05-19 | <details><summary>Updat...</summary><p>Updated and resubmitted to Interspeech 2026</p></details> |
@@ -45,6 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[MOSS-Audio Technical Report](https://arxiv.org/abs/2606.01802v1)** |  | 2026-06-01 |  |
 | **[COMET: Concept Space Dissection of the Modality Gap in Audio-Text Multimodal Contrastive Embeddings](https://arxiv.org/abs/2605.29628v1)** |  | 2026-05-28 |  |
 | **[Locality Matters for Training-Free Audio Token Compression in Audio-Language Models](https://arxiv.org/abs/2605.25179v1)** |  | 2026-05-24 | <details><summary>Prepr...</summary><p>Preprint. 8 pages main text, 10 pages total</p></details> |
 | **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v3)** |  | 2026-04-29 |  |
@@ -59,11 +60,11 @@ labels: documentation
 | **[Investigating Group Relative Policy Optimization for Diffusion Transformer based Text-to-Audio Generation](https://arxiv.org/abs/2603.01565v1)** |  | 2026-03-02 |  |
 | **[AudioCapBench: Quick Evaluation on Audio Captioning across Sound, Music, and Speech](https://arxiv.org/abs/2602.23649v1)** |  | 2026-02-27 |  |
 | **[Unbiased Sliced Wasserstein Kernels for High-Quality Audio Captioning](https://arxiv.org/abs/2502.05435v2)** |  | 2026-02-26 |  |
-| **[Aligning Audio Captions with Human Preferences](https://arxiv.org/abs/2509.14659v2)** |  | 2026-02-25 | <details><summary>Submi...</summary><p>Submitted for review to Interspeech 2026</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Bridging What the Model Thinks and How It Speaks: Expressive Speech Generation via Self-Aware Intent-Realization Alignment](https://arxiv.org/abs/2604.11424v2)** |  | 2026-06-01 | <details><summary>Submi...</summary><p>Submitted to EMNLP 2026. Project page: https://wangkevin02.github.io/SASLM/</p></details> |
 | **[MELD: Mel-Spectrogram-Based Speech Language Modeling with Discrete Latent Variables](https://arxiv.org/abs/2605.29859v1)** |  | 2026-05-28 |  |
 | **[KVoiceBench, KOpenAudioBench, and KMMAU: Agent-Driven Korean Speech Benchmarks for Evaluating SpeechLMs](https://arxiv.org/abs/2605.27984v1)** |  | 2026-05-27 | 16 pages, 4 figures |
 | **[ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](https://arxiv.org/abs/2510.10774v3)** |  | 2026-05-26 |  |
@@ -77,5 +78,4 @@ labels: documentation
 | **[SpeechMedAssist: Efficiently and Effectively Adapting Speech Language Models for Medical Consultation](https://arxiv.org/abs/2601.04638v2)** |  | 2026-04-18 |  |
 | **[MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models](https://arxiv.org/abs/2511.10262v3)** |  | 2026-04-17 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[ViBES: A Conversational Agent with Behaviorally-Intelligent 3D Virtual Body](https://arxiv.org/abs/2512.14234v2)** |  | 2026-04-14 | <details><summary>Proje...</summary><p>Project page: https://ai.stanford.edu/~juze/ViBES/. Accepted by CVPR 2026</p></details> |
-| **[Bridging What the Model Thinks and How It Speaks: Self-Aware Speech Language Models for Expressive Speech Generation](https://arxiv.org/abs/2604.11424v1)** |  | 2026-04-13 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 6 tables. Project page: https://wangkevin02.github.io/SASLM/</p></details> |
 | **[Efficient Training for Cross-lingual Speech Language Models](https://arxiv.org/abs/2604.11096v1)** |  | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
