@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - June 03, 2026
+title: Latest Papers - June 04, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[WavTTS: Towards High-Quality Zero-Shot TTS via Direct Raw Waveform Modeling](https://arxiv.org/abs/2606.03455v1)** |  | 2026-06-02 |  |
 | **[Chatterbox-Flash: Prior-Calibrated Block Diffusion for Streaming Zero-Shot TTS](https://arxiv.org/abs/2605.30748v2)** |  | 2026-06-01 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 9 tables</p></details> |
 | **[Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability](https://arxiv.org/abs/2601.22661v2)** |  | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[CosyEdit2: Speech-Editing-Oriented Reinforcement Learning Unlocks Better Zero-Shot TTS](https://arxiv.org/abs/2605.25930v2)** |  | 2026-05-26 |  |
@@ -40,12 +41,12 @@ labels: documentation
 | **[FMSD-TTS: Few-shot Multi-Speaker Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation](https://arxiv.org/abs/2505.14351v4)** |  | 2026-04-24 | <details><summary>This ...</summary><p>This paper has been substantially restructured using a revised writing style. In addition, considering that maintaining two preprints simultaneously may not fully align with academic publishing ethics, we have withdrawn the previous version. Please refer to the updated manuscript at: arXiv:509.18060</p></details> |
 | **[Preferences of a Voice-First Nation: Large-Scale Pairwise Evaluation and Preference Analysis for TTS in Indian Languages](https://arxiv.org/abs/2604.21481v1)** |  | 2026-04-23 |  |
 | **[ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2601.03632v2)** |  | 2026-04-19 | ACL 2026 |
-| **[TMD-TTS: A Unified Tibetan Multi-Dialect Text-to-Speech Framework for Ü-Tsang, Amdo and Kham Speech Dataset Generation](https://arxiv.org/abs/2509.18060v2)** |  | 2026-04-18 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
-| **[MOSS-Audio Technical Report](https://arxiv.org/abs/2606.01802v1)** |  | 2026-06-01 |  |
+| **[MOSS-Audio Technical Report](https://arxiv.org/abs/2606.01802v2)** |  | 2026-06-02 |  |
+| **[AnyAudio-Judge: A Dynamic Rubric-Based Benchmark and Evaluator for Audio Instruction Following](https://arxiv.org/abs/2606.03116v1)** |  | 2026-06-02 |  |
 | **[COMET: Concept Space Dissection of the Modality Gap in Audio-Text Multimodal Contrastive Embeddings](https://arxiv.org/abs/2605.29628v1)** |  | 2026-05-28 |  |
 | **[Locality Matters for Training-Free Audio Token Compression in Audio-Language Models](https://arxiv.org/abs/2605.25179v1)** |  | 2026-05-24 | <details><summary>Prepr...</summary><p>Preprint. 8 pages main text, 10 pages total</p></details> |
 | **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v3)** |  | 2026-04-29 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[LAMB: LLM-based Audio Captioning with Modality Gap Bridging via Cauchy-Schwarz Divergence](https://arxiv.org/abs/2601.04658v2)** |  | 2026-03-16 | <details><summary>5 pag...</summary><p>5 pages, 2 figures; Accepted to ICASSP 2026</p></details> |
 | **[Investigating Group Relative Policy Optimization for Diffusion Transformer based Text-to-Audio Generation](https://arxiv.org/abs/2603.01565v1)** |  | 2026-03-02 |  |
 | **[AudioCapBench: Quick Evaluation on Audio Captioning across Sound, Music, and Speech](https://arxiv.org/abs/2602.23649v1)** |  | 2026-02-27 |  |
-| **[Unbiased Sliced Wasserstein Kernels for High-Quality Audio Captioning](https://arxiv.org/abs/2502.05435v2)** |  | 2026-02-26 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
