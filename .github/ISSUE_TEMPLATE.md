@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - June 08, 2026
+title: Latest Papers - June 09, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Leveraging Soft Distributions of SSL-Derived Discrete Speech Tokens for Downstream Inference](https://arxiv.org/abs/2606.06806v1)** |  | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted to Interspeech2026</p></details> |
 | **[HoliTok:A Coutinuous Holistic Tokenization with Robust Dual Capabilities of Speech Generation and Understanding](https://arxiv.org/abs/2605.29948v2)** |  | 2026-06-01 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 8 tables</p></details> |
 | **[Local Diagnostics of Continuous Normalizing Flow for Out-of-Distribution Detection](https://arxiv.org/abs/2606.00684v1)** |  | 2026-05-30 | 16 pages, 5 figures |
 | **[TokTalk: Expressive Real-time Facial Animation from Audio-LLM Tokens](https://arxiv.org/abs/2605.31294v1)** |  | 2026-05-29 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[TED-TTS: Training-Free Intra-Utterance Emotion and Duration Control for Text-to-Speech Synthesis](https://arxiv.org/abs/2601.03170v2)** |  | 2026-05-17 | <details><summary>24 pa...</summary><p>24 pages, 9 figures, 7 tables, 3 lists</p></details> |
 | **[From Natural Alignment to Conditional Controllability in Multimodal Dialogue](https://arxiv.org/abs/2603.29162v2)** |  | 2026-05-09 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning](https://arxiv.org/abs/2605.05611v2)** |  | 2026-05-09 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 9 tables</p></details> |
-| **[OLaPh: Optimal Language Phonemizer](https://arxiv.org/abs/2509.20086v3)** |  | 2026-05-08 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 4 tables</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -45,7 +45,8 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
-| **[MOSS-Audio Technical Report](https://arxiv.org/abs/2606.01802v2)** |  | 2026-06-02 |  |
+| **[Making the Most of Limited Data: Score-Aware Training for Text-to-Music Generation](https://arxiv.org/abs/2606.07387v1)** |  | 2026-06-05 |  |
+| **[MOSS-Audio Technical Report](https://arxiv.org/abs/2606.01802v3)** |  | 2026-06-05 |  |
 | **[AnyAudio-Judge: A Dynamic Rubric-Based Benchmark and Evaluator for Audio Instruction Following](https://arxiv.org/abs/2606.03116v1)** |  | 2026-06-02 |  |
 | **[COMET: Concept Space Dissection of the Modality Gap in Audio-Text Multimodal Contrastive Embeddings](https://arxiv.org/abs/2605.29628v1)** |  | 2026-05-28 |  |
 | **[Locality Matters for Training-Free Audio Token Compression in Audio-Language Models](https://arxiv.org/abs/2605.25179v1)** |  | 2026-05-24 | <details><summary>Prepr...</summary><p>Preprint. 8 pages main text, 10 pages total</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception](https://arxiv.org/abs/2510.12720v2)** |  | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by ICLR2026. Open Source at https://github.com/ddlBoJack/Omni-Captioner</p></details> |
 | **[LAMB: LLM-based Audio Captioning with Modality Gap Bridging via Cauchy-Schwarz Divergence](https://arxiv.org/abs/2601.04658v2)** |  | 2026-03-16 | <details><summary>5 pag...</summary><p>5 pages, 2 figures; Accepted to ICASSP 2026</p></details> |
 | **[Investigating Group Relative Policy Optimization for Diffusion Transformer based Text-to-Audio Generation](https://arxiv.org/abs/2603.01565v1)** |  | 2026-03-02 |  |
-| **[AudioCapBench: Quick Evaluation on Audio Captioning across Sound, Music, and Speech](https://arxiv.org/abs/2602.23649v1)** |  | 2026-02-27 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
