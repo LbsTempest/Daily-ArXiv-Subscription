@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - June 10, 2026
+title: Latest Papers - June 11, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,9 +26,9 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[FlashTTS: Fast Streaming TTS with MTP Acceleration and X-pred Mean Flow Distillation](https://arxiv.org/abs/2606.09141v2)** |  | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 | **[OpenBibleTTS: Large-Scale Speech Resources and TTS Models for Low-Resource Languages](https://arxiv.org/abs/2606.09553v1)** |  | 2026-06-08 |  |
 | **[End-to-End Training for Discrete Token LLM based TTS System](https://arxiv.org/abs/2606.09234v1)** |  | 2026-06-08 |  |
-| **[FlashTTS: Fast Streaming TTS with MTP Acceleration and X-pred Mean Flow Distillation](https://arxiv.org/abs/2606.09141v1)** |  | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 | **[UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models](https://arxiv.org/abs/2510.04593v3)** |  | 2026-06-08 | <details><summary>accep...</summary><p>accepted at interspeech2026</p></details> |
 | **[TT-DAC-PS: Twin-Target Deterministic Actor-Critic with Policy Smoothing for Optimal Trade Execution](https://arxiv.org/abs/2606.08379v1)** |  | 2026-06-07 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, 3 tables</p></details> |
 | **[WavTTS: Towards High-Quality Zero-Shot TTS via Direct Raw Waveform Modeling](https://arxiv.org/abs/2606.03455v1)** |  | 2026-06-02 |  |
@@ -48,6 +48,7 @@ labels: documentation
 | **[Making the Most of Limited Data: Score-Aware Training for Text-to-Music Generation](https://arxiv.org/abs/2606.07387v1)** |  | 2026-06-05 |  |
 | **[MOSS-Audio Technical Report](https://arxiv.org/abs/2606.01802v3)** |  | 2026-06-05 |  |
 | **[AnyAudio-Judge: A Dynamic Rubric-Based Benchmark and Evaluator for Audio Instruction Following](https://arxiv.org/abs/2606.03116v1)** |  | 2026-06-02 |  |
+| **[Safecloud: A Distributed, Encrypted Storage Cloud for Streaming](https://arxiv.org/abs/2606.09870v1)** |  | 2026-06-02 | <details><summary>7 pag...</summary><p>7 pages, 2 tables. Reference implementation open-source. Companion to Intercloud (arXiv:2605.22830) and a forthcoming Safecloud 2.0 compute paper</p></details> |
 | **[COMET: Concept Space Dissection of the Modality Gap in Audio-Text Multimodal Contrastive Embeddings](https://arxiv.org/abs/2605.29628v1)** |  | 2026-05-28 |  |
 | **[Locality Matters for Training-Free Audio Token Compression in Audio-Language Models](https://arxiv.org/abs/2605.25179v1)** |  | 2026-05-24 | <details><summary>Prepr...</summary><p>Preprint. 8 pages main text, 10 pages total</p></details> |
 | **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v3)** |  | 2026-04-29 |  |
@@ -59,11 +60,14 @@ labels: documentation
 | **[How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic Evaluation](https://arxiv.org/abs/2603.19195v1)** |  | 2026-03-19 | <details><summary>Proje...</summary><p>Project website: https://kehanlu.github.io/AKB</p></details> |
 | **[Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception](https://arxiv.org/abs/2510.12720v2)** |  | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by ICLR2026. Open Source at https://github.com/ddlBoJack/Omni-Captioner</p></details> |
 | **[LAMB: LLM-based Audio Captioning with Modality Gap Bridging via Cauchy-Schwarz Divergence](https://arxiv.org/abs/2601.04658v2)** |  | 2026-03-16 | <details><summary>5 pag...</summary><p>5 pages, 2 figures; Accepted to ICASSP 2026</p></details> |
-| **[Investigating Group Relative Policy Optimization for Diffusion Transformer based Text-to-Audio Generation](https://arxiv.org/abs/2603.01565v1)** |  | 2026-03-02 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[AuRA: Internalizing Audio Understanding into LLMs as LoRA](https://arxiv.org/abs/2606.11033v1)** |  | 2026-06-09 |  |
+| **[ParaBridge: Bridging Paralinguistic Perception and Dialogue Behavior in Speech Language Models](https://arxiv.org/abs/2606.10581v1)** |  | 2026-06-09 |  |
+| **[LLM can Read Spectrogram: Encoder-free Speech-Language Modeling](https://arxiv.org/abs/2606.10231v1)** |  | 2026-06-08 |  |
+| **[Interpreting and Steering a Text-to-Speech Language Model with Sparse Autoencoders](https://arxiv.org/abs/2606.10029v1)** |  | 2026-06-08 |  |
 | **[TLDR: Compressing Audio Tokens for Efficient Autoregressive Text-to-Speech](https://arxiv.org/abs/2606.09019v1)** |  | 2026-06-08 |  |
 | **[Titans-as-a-Layer: Test-Time Memory for Conversational Speech Emotion Recognition](https://arxiv.org/abs/2606.08573v1)** |  | 2026-06-07 | <details><summary>ICML ...</summary><p>ICML 2026 Workshop on Machine Learning for Audio</p></details> |
 | **[Bridging What the Model Thinks and How It Speaks: Expressive Speech Generation via Self-Aware Intent-Realization Alignment](https://arxiv.org/abs/2604.11424v2)** |  | 2026-06-01 | <details><summary>Submi...</summary><p>Submitted to EMNLP 2026. Project page: https://wangkevin02.github.io/SASLM/</p></details> |
@@ -75,7 +79,3 @@ labels: documentation
 | **[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://arxiv.org/abs/2604.12928v3)** |  | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[AffectCodec: Emotion-Preserving Neural Speech Codec for Expressive Speech Modeling](https://arxiv.org/abs/2605.11098v1)** |  | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted to ACL Findings 2026</p></details> |
 | **[Toward Fair Speech Technologies: A Comprehensive Survey of Bias and Fairness in Speech AI](https://arxiv.org/abs/2605.01597v1)** |  | 2026-05-02 | <details><summary>32 pa...</summary><p>32 pages, work in progress</p></details> |
-| **[Audio2Tool: Speak, Call, Act -- A Dataset for Benchmarking Speech Tool Use](https://arxiv.org/abs/2604.22821v2)** |  | 2026-04-28 |  |
-| **[VoxSafeBench: Not Just What Is Said, but Who, How, and Where](https://arxiv.org/abs/2604.14548v2)** |  | 2026-04-20 |  |
-| **[SpeechMedAssist: Efficiently and Effectively Adapting Speech Language Models for Medical Consultation](https://arxiv.org/abs/2601.04638v2)** |  | 2026-04-18 |  |
-| **[MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models](https://arxiv.org/abs/2511.10262v3)** |  | 2026-04-17 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
