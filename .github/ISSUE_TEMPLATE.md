@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - June 12, 2026
+title: Latest Papers - June 15, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[PRISM: Prosody-Integrated Multi-Agent Reasoning Framework for Empathetic Spoken Dialogue](https://arxiv.org/abs/2606.12902v1)** |  | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 | **[RAF: Relativistic Adversarial Feedback For Universal Speech Synthesis](https://arxiv.org/abs/2603.11678v2)** |  | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026 Long paper track. Code: https://github.com/infected4098/Relativistic-Adversarial-Feedback</p></details> |
 | **[Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading](https://arxiv.org/abs/2606.09667v1)** |  | 2026-06-08 | <details><summary>12 pa...</summary><p>12 pages, 7 figures and 6 tables. Submitted to Transactions on Audio, Speech and Language Processing</p></details> |
 | **[OpenBibleTTS: Large-Scale Speech Resources and TTS Models for Low-Resource Languages](https://arxiv.org/abs/2606.09553v1)** |  | 2026-06-08 |  |
@@ -21,13 +22,12 @@ labels: documentation
 | **[KAME: Tandem Architecture for Enhancing Knowledge in Real-Time Speech-to-Speech Conversational AI](https://arxiv.org/abs/2510.02327v2)** |  | 2026-05-25 | <details><summary>Publi...</summary><p>Published at IEEE ICASSP 2026</p></details> |
 | **[RVCBench: Benchmarking the Robustness of Voice Cloning Across Modern Audio Generation Models](https://arxiv.org/abs/2602.00443v2)** |  | 2026-05-24 | 65 pages, 10 figures |
 | **[Evaluating Speech Articulation Synthesis with Articulatory Phoneme Recognition](https://arxiv.org/abs/2605.20920v1)** |  | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted for publication at the European Signal Processing Conference (EUSIPCO), 2026</p></details> |
-| **[AuDirector: A Self-Reflective Closed-Loop Framework for Immersive Audio Storytelling](https://arxiv.org/abs/2605.11866v2)** |  | 2026-05-20 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[UR-BERT: Scaling Text Encoders for Massively Multilingual TTS Through Universal Romanization and Speech Token Prediction](https://arxiv.org/abs/2606.11681v2)** |  | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026, Github: https://github.com/sanghyang00/ur-bert</p></details> |
 | **[Cross-modal Consistency Guidance for Robust Emotion Control in Auto-Regressive TTS Models](https://arxiv.org/abs/2510.13293v4)** |  | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026, short paper</p></details> |
-| **[UR-BERT: Scaling Text Encoders for Massively Multilingual TTS Through Universal Romanization and Speech Token Prediction](https://arxiv.org/abs/2606.11681v1)** |  | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 | **[FlashTTS: Fast Streaming TTS with MTP Acceleration and X-pred Mean Flow Distillation](https://arxiv.org/abs/2606.09141v2)** |  | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 | **[OpenBibleTTS: Large-Scale Speech Resources and TTS Models for Low-Resource Languages](https://arxiv.org/abs/2606.09553v1)** |  | 2026-06-08 |  |
 | **[End-to-End Training for Discrete Token LLM based TTS System](https://arxiv.org/abs/2606.09234v1)** |  | 2026-06-08 |  |
@@ -64,10 +64,11 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[LLM can Read Spectrogram: Encoder-free Speech-Language Modeling](https://arxiv.org/abs/2606.10231v2)** |  | 2026-06-11 |  |
+| **[M*: A Modular, Extensible, Serving System for Multimodal Models](https://arxiv.org/abs/2606.12688v1)** |  | 2026-06-10 |  |
 | **[Where Do Backdoors Live? A Component-Level Analysis of Backdoor Propagation in Speech Language Models](https://arxiv.org/abs/2510.01157v4)** |  | 2026-06-09 | <details><summary>Inter...</summary><p>Interspeech 2026 (long paper)</p></details> |
 | **[AuRA: Internalizing Audio Understanding into LLMs as LoRA](https://arxiv.org/abs/2606.11033v1)** |  | 2026-06-09 |  |
 | **[ParaBridge: Bridging Paralinguistic Perception and Dialogue Behavior in Speech Language Models](https://arxiv.org/abs/2606.10581v1)** |  | 2026-06-09 |  |
-| **[LLM can Read Spectrogram: Encoder-free Speech-Language Modeling](https://arxiv.org/abs/2606.10231v1)** |  | 2026-06-08 |  |
 | **[Interpreting and Steering a Text-to-Speech Language Model with Sparse Autoencoders](https://arxiv.org/abs/2606.10029v1)** |  | 2026-06-08 |  |
 | **[TLDR: Compressing Audio Tokens for Efficient Autoregressive Text-to-Speech](https://arxiv.org/abs/2606.09019v1)** |  | 2026-06-08 |  |
 | **[Titans-as-a-Layer: Test-Time Memory for Conversational Speech Emotion Recognition](https://arxiv.org/abs/2606.08573v1)** |  | 2026-06-07 | <details><summary>ICML ...</summary><p>ICML 2026 Workshop on Machine Learning for Audio</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[AffectCodec: Emotion-Preserving Neural Speech Codec with Block-Diagonal Residual FSQ](https://arxiv.org/abs/2605.23373v1)** |  | 2026-05-22 |  |
 | **[Do Factual Recall Mechanisms Carry over from Text to Speech in Multimodal Language Models?](https://arxiv.org/abs/2605.22170v1)** |  | 2026-05-21 | <details><summary>In *S...</summary><p>In *SEM 2026, the 15th Joint Conference on Lexical and Computational Semantics</p></details> |
 | **[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://arxiv.org/abs/2604.12928v3)** |  | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[AffectCodec: Emotion-Preserving Neural Speech Codec for Expressive Speech Modeling](https://arxiv.org/abs/2605.11098v1)** |  | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted to ACL Findings 2026</p></details> |
