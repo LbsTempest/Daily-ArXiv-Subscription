@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - June 15, 2026
+title: Latest Papers - June 16, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[OLaPh: Optimal Language Phonemizer](https://arxiv.org/abs/2509.20086v4)** |  | 2026-06-12 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 4 tables</p></details> |
 | **[PRISM: Prosody-Integrated Multi-Agent Reasoning Framework for Empathetic Spoken Dialogue](https://arxiv.org/abs/2606.12902v1)** |  | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 | **[RAF: Relativistic Adversarial Feedback For Universal Speech Synthesis](https://arxiv.org/abs/2603.11678v2)** |  | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026 Long paper track. Code: https://github.com/infected4098/Relativistic-Adversarial-Feedback</p></details> |
 | **[Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading](https://arxiv.org/abs/2606.09667v1)** |  | 2026-06-08 | <details><summary>12 pa...</summary><p>12 pages, 7 figures and 6 tables. Submitted to Transactions on Audio, Speech and Language Processing</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](https://arxiv.org/abs/2510.10774v3)** |  | 2026-05-26 |  |
 | **[KAME: Tandem Architecture for Enhancing Knowledge in Real-Time Speech-to-Speech Conversational AI](https://arxiv.org/abs/2510.02327v2)** |  | 2026-05-25 | <details><summary>Publi...</summary><p>Published at IEEE ICASSP 2026</p></details> |
 | **[RVCBench: Benchmarking the Robustness of Voice Cloning Across Modern Audio Generation Models](https://arxiv.org/abs/2602.00443v2)** |  | 2026-05-24 | 65 pages, 10 figures |
-| **[Evaluating Speech Articulation Synthesis with Articulatory Phoneme Recognition](https://arxiv.org/abs/2605.20920v1)** |  | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted for publication at the European Signal Processing Conference (EUSIPCO), 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[AudioDER: A Deduplication-Enhanced Reasoning Dataset for Post-Training Large Audio-Language Models](https://arxiv.org/abs/2606.14591v1)** |  | 2026-06-12 |  |
 | **[Making the Most of Limited Data: Score-Aware Training for Text-to-Music Generation](https://arxiv.org/abs/2606.07387v1)** |  | 2026-06-05 |  |
 | **[MOSS-Audio Technical Report](https://arxiv.org/abs/2606.01802v3)** |  | 2026-06-05 |  |
 | **[AnyAudio-Judge: A Dynamic Rubric-Based Benchmark and Evaluator for Audio Instruction Following](https://arxiv.org/abs/2606.03116v1)** |  | 2026-06-02 |  |
@@ -59,11 +60,11 @@ labels: documentation
 | **[CAF-Score: Calibrating CLAP with LALMs for Reference-free Audio Captioning Evaluation](https://arxiv.org/abs/2603.19615v1)** |  | 2026-03-20 | <details><summary>A con...</summary><p>A condensed version of this work has been submitted to Interspeech 2026. Section 10 is an extended analysis added in this version</p></details> |
 | **[How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic Evaluation](https://arxiv.org/abs/2603.19195v1)** |  | 2026-03-19 | <details><summary>Proje...</summary><p>Project website: https://kehanlu.github.io/AKB</p></details> |
 | **[Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception](https://arxiv.org/abs/2510.12720v2)** |  | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by ICLR2026. Open Source at https://github.com/ddlBoJack/Omni-Captioner</p></details> |
-| **[LAMB: LLM-based Audio Captioning with Modality Gap Bridging via Cauchy-Schwarz Divergence](https://arxiv.org/abs/2601.04658v2)** |  | 2026-03-16 | <details><summary>5 pag...</summary><p>5 pages, 2 figures; Accepted to ICASSP 2026</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[BayLing-Duplex: Native Full-Duplex Speech Dialogue with a Single Autoregressive LLM](https://arxiv.org/abs/2606.14528v1)** |  | 2026-06-12 | <details><summary>Code:...</summary><p>Code: https://github.com/BayLing-Models/BayLing-Duplex</p></details> |
 | **[LLM can Read Spectrogram: Encoder-free Speech-Language Modeling](https://arxiv.org/abs/2606.10231v2)** |  | 2026-06-11 |  |
 | **[M*: A Modular, Extensible, Serving System for Multimodal Models](https://arxiv.org/abs/2606.12688v1)** |  | 2026-06-10 |  |
 | **[Where Do Backdoors Live? A Component-Level Analysis of Backdoor Propagation in Speech Language Models](https://arxiv.org/abs/2510.01157v4)** |  | 2026-06-09 | <details><summary>Inter...</summary><p>Interspeech 2026 (long paper)</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](https://arxiv.org/abs/2510.10774v3)** |  | 2026-05-26 |  |
 | **[AffectCodec: Emotion-Preserving Neural Speech Codec with Block-Diagonal Residual FSQ](https://arxiv.org/abs/2605.23373v1)** |  | 2026-05-22 |  |
 | **[Do Factual Recall Mechanisms Carry over from Text to Speech in Multimodal Language Models?](https://arxiv.org/abs/2605.22170v1)** |  | 2026-05-21 | <details><summary>In *S...</summary><p>In *SEM 2026, the 15th Joint Conference on Lexical and Computational Semantics</p></details> |
-| **[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://arxiv.org/abs/2604.12928v3)** |  | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
