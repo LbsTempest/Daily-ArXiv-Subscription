@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - June 19, 2026
+title: Latest Papers - June 22, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,7 +7,10 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
-| **[FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech](https://arxiv.org/abs/2606.19209v1)** |  | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2026</p></details> |
+| **[FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech](https://arxiv.org/abs/2606.19209v2)** |  | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2026</p></details> |
+| **[Repurposing a Speech Classifier for Guided Diffusion-Based Speech Generation](https://arxiv.org/abs/2606.20457v1)** |  | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of Interspeech 2026</p></details> |
+| **[ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis](https://arxiv.org/abs/2603.04219v2)** |  | 2026-06-18 | <details><summary>6 pag...</summary><p>6 pages, accepted to INTERSPEECH 2026</p></details> |
+| **[Exploring Pre-training Benefits on Phoneme Addition through Fine-tuning in Speech Synthesis](https://arxiv.org/abs/2606.19792v1)** |  | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by INTERSPEECH 2026</p></details> |
 | **[Augmenting Dysarthric Speech Severity Assessment with MOS Supervision](https://arxiv.org/abs/2606.18645v1)** |  | 2026-06-17 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2511.02270</p></details> |
 | **[Mind Companion: An Embodied Conversational Agent for Process-Based Psychotherapy](https://arxiv.org/abs/2606.17789v1)** |  | 2026-06-16 |  |
 | **[Probing Low Frame Rate Degradation in Neural Audio Codecs](https://arxiv.org/abs/2606.16969v1)** |  | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2026</p></details> |
@@ -19,17 +22,16 @@ labels: documentation
 | **[RAF: Relativistic Adversarial Feedback For Universal Speech Synthesis](https://arxiv.org/abs/2603.11678v2)** |  | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026 Long paper track. Code: https://github.com/infected4098/Relativistic-Adversarial-Feedback</p></details> |
 | **[Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading](https://arxiv.org/abs/2606.09667v1)** |  | 2026-06-08 | <details><summary>12 pa...</summary><p>12 pages, 7 figures and 6 tables. Submitted to Transactions on Audio, Speech and Language Processing</p></details> |
 | **[OpenBibleTTS: Large-Scale Speech Resources and TTS Models for Low-Resource Languages](https://arxiv.org/abs/2606.09553v1)** |  | 2026-06-08 |  |
-| **[CodecFake+: Codec-Based Resynthesized Data as a Proxy for Detecting CodecFake Speech](https://arxiv.org/abs/2501.08238v3)** |  | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted by TASLP 2026</p></details> |
-| **[Pixel-TTS: Image based Text Rendering for Robust Text-to-Speech](https://arxiv.org/abs/2606.14750v1)** |  | 2026-06-05 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 4 tables</p></details> |
-| **[Leveraging Soft Distributions of SSL-Derived Discrete Speech Tokens for Downstream Inference](https://arxiv.org/abs/2606.06806v1)** |  | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted to Interspeech2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS](https://arxiv.org/abs/2606.20518v1)** |  | 2026-06-18 |  |
+| **[FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech](https://arxiv.org/abs/2606.19209v2)** |  | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2026</p></details> |
+| **[ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis](https://arxiv.org/abs/2603.04219v2)** |  | 2026-06-18 | <details><summary>6 pag...</summary><p>6 pages, accepted to INTERSPEECH 2026</p></details> |
+| **[Joycent: Diffusion-based Accent TTS without Accented Phone Prediction](https://arxiv.org/abs/2606.16417v2)** |  | 2026-06-18 |  |
 | **[DiFlow-TTS: Compact and Low-Latency Zero-Shot Text-to-Speech with Discrete Flow Matching](https://arxiv.org/abs/2509.09631v5)** |  | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2026 (Long Paper Track)</p></details> |
-| **[FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech](https://arxiv.org/abs/2606.19209v1)** |  | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2026</p></details> |
 | **[CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering](https://arxiv.org/abs/2602.03420v2)** |  | 2026-06-16 |  |
-| **[Joycent: Diffusion-based Accent TTS without Accented Phone Prediction](https://arxiv.org/abs/2606.16417v1)** |  | 2026-06-15 |  |
 | **[Dynamic Prosody Prediction in LLM-based TTS for Improving Speaker Similarity](https://arxiv.org/abs/2606.15267v1)** |  | 2026-06-13 | <details><summary>Accep...</summary><p>Accepted to INTERSPEECH 2026. 5 pages, 2 figures. Audio samples: https://muzw.github.io/dynapros/</p></details> |
 | **[DuraMark: Duration-Embedded Watermarking in LLM-based TTS](https://arxiv.org/abs/2606.15264v1)** |  | 2026-06-13 | <details><summary>Accep...</summary><p>Accepted to INTERSPEECH 2026. 5 pages, 1 figure. Audio samples: https://muzw.github.io/duramark_demo/</p></details> |
 | **[UR-BERT: Scaling Text Encoders for Massively Multilingual TTS Through Universal Romanization and Speech Token Prediction](https://arxiv.org/abs/2606.11681v2)** |  | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026, Github: https://github.com/sanghyang00/ur-bert</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[End-to-End Training for Discrete Token LLM based TTS System](https://arxiv.org/abs/2606.09234v1)** |  | 2026-06-08 |  |
 | **[UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models](https://arxiv.org/abs/2510.04593v3)** |  | 2026-06-08 | <details><summary>accep...</summary><p>accepted at interspeech2026</p></details> |
 | **[TT-DAC-PS: Twin-Target Deterministic Actor-Critic with Policy Smoothing for Optimal Trade Execution](https://arxiv.org/abs/2606.08379v1)** |  | 2026-06-07 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, 3 tables</p></details> |
-| **[Pixel-TTS: Image based Text Rendering for Robust Text-to-Speech](https://arxiv.org/abs/2606.14750v1)** |  | 2026-06-05 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 4 tables</p></details> |
-| **[WavTTS: Towards High-Quality Zero-Shot TTS via Direct Raw Waveform Modeling](https://arxiv.org/abs/2606.03455v1)** |  | 2026-06-02 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
