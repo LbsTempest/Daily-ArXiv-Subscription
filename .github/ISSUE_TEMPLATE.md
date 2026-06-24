@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - June 24, 2026
+title: Latest Papers - June 25, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[CN-NewsTTS Bench: a target-level automatic benchmark for raw-input Chinese news TTS pronunciation](https://arxiv.org/abs/2606.24714v1)** |  | 2026-06-23 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 8 tables. ICASSP-style preprint</p></details> |
+| **[Preferences of a Voice-First Nation: Large-Scale Pairwise Evaluation and Preference Analysis for TTS in Indian Languages](https://arxiv.org/abs/2604.21481v2)** |  | 2026-06-23 |  |
 | **[Synthesizing the Lombard Effect: Multi-Level Control of Speech Clarity and Vocal Effort in TTS](https://arxiv.org/abs/2606.23176v1)** |  | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 | **[Bagpiper-TTS: Natural Language Guided Universal Speech Synthesis](https://arxiv.org/abs/2606.22811v1)** |  | 2026-06-22 |  |
 | **[ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech](https://arxiv.org/abs/2606.21933v1)** |  | 2026-06-20 | <details><summary>11 pa...</summary><p>11 pages, ISCSLP 2026 challenge proposal</p></details> |
@@ -39,12 +41,11 @@ labels: documentation
 | **[Dynamic Prosody Prediction in LLM-based TTS for Improving Speaker Similarity](https://arxiv.org/abs/2606.15267v1)** |  | 2026-06-13 | <details><summary>Accep...</summary><p>Accepted to INTERSPEECH 2026. 5 pages, 2 figures. Audio samples: https://muzw.github.io/dynapros/</p></details> |
 | **[DuraMark: Duration-Embedded Watermarking in LLM-based TTS](https://arxiv.org/abs/2606.15264v1)** |  | 2026-06-13 | <details><summary>Accep...</summary><p>Accepted to INTERSPEECH 2026. 5 pages, 1 figure. Audio samples: https://muzw.github.io/duramark_demo/</p></details> |
 | **[UR-BERT: Scaling Text Encoders for Massively Multilingual TTS Through Universal Romanization and Speech Token Prediction](https://arxiv.org/abs/2606.11681v2)** |  | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026, Github: https://github.com/sanghyang00/ur-bert</p></details> |
-| **[Cross-modal Consistency Guidance for Robust Emotion Control in Auto-Regressive TTS Models](https://arxiv.org/abs/2510.13293v4)** |  | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026, short paper</p></details> |
-| **[FlashTTS: Fast Streaming TTS with MTP Acceleration and X-pred Mean Flow Distillation](https://arxiv.org/abs/2606.09141v2)** |  | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Aligning Audio Captions with Human Preferences](https://arxiv.org/abs/2509.14659v3)** |  | 2026-06-23 | <details><summary>This ...</summary><p>This paper has been accepted to INTERSPEECH 2026</p></details> |
 | **[AudioDER: A Deduplication-Enhanced Reasoning Dataset for Post-Training Large Audio-Language Models](https://arxiv.org/abs/2606.14591v1)** |  | 2026-06-12 |  |
 | **[Making the Most of Limited Data: Score-Aware Training for Text-to-Music Generation](https://arxiv.org/abs/2606.07387v1)** |  | 2026-06-05 |  |
 | **[MOSS-Audio Technical Report](https://arxiv.org/abs/2606.01802v3)** |  | 2026-06-05 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[ACAVCaps: Enabling large-scale training for fine-grained and diverse audio understanding](https://arxiv.org/abs/2603.24038v1)** |  | 2026-03-25 | <details><summary>accep...</summary><p>accepted by ICASSP 2026</p></details> |
 | **[CAF-Score: Calibrating CLAP with LALMs for Reference-free Audio Captioning Evaluation](https://arxiv.org/abs/2603.19615v1)** |  | 2026-03-20 | <details><summary>A con...</summary><p>A condensed version of this work has been submitted to Interspeech 2026. Section 10 is an extended analysis added in this version</p></details> |
 | **[How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic Evaluation](https://arxiv.org/abs/2603.19195v1)** |  | 2026-03-19 | <details><summary>Proje...</summary><p>Project website: https://kehanlu.github.io/AKB</p></details> |
-| **[Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception](https://arxiv.org/abs/2510.12720v2)** |  | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by ICLR2026. Open Source at https://github.com/ddlBoJack/Omni-Captioner</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
