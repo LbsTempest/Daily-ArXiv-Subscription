@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - June 25, 2026
+title: Latest Papers - June 26, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Dziri Voicebot: An End-to-End Low-Resource Speech-to-Speech Conversational System for Algerian Dialect](https://arxiv.org/abs/2606.26003v1)** |  | 2026-06-24 |  |
+| **[Sarashina2.2-TTS: Tackling Kanji Polyphony in Japanese Speech Generation via Data Scaling and Targeted Data Synthesis](https://arxiv.org/abs/2606.25369v1)** |  | 2026-06-24 |  |
 | **[On the Effect of Segmentation Width and Cluster Size on Speech Resynthesis and Continuation in Generative Spoken Language Models](https://arxiv.org/abs/2606.23285v1)** |  | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to Interspeech2026</p></details> |
 | **[Synthesizing the Lombard Effect: Multi-Level Control of Speech Clarity and Vocal Effort in TTS](https://arxiv.org/abs/2606.23176v1)** |  | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 | **[Bagpiper-TTS: Natural Language Guided Universal Speech Synthesis](https://arxiv.org/abs/2606.22811v1)** |  | 2026-06-22 |  |
@@ -20,12 +22,15 @@ labels: documentation
 | **[Augmenting Dysarthric Speech Severity Assessment with MOS Supervision](https://arxiv.org/abs/2606.18645v1)** |  | 2026-06-17 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2511.02270</p></details> |
 | **[Mind Companion: An Embodied Conversational Agent for Process-Based Psychotherapy](https://arxiv.org/abs/2606.17789v1)** |  | 2026-06-16 |  |
 | **[Probing Low Frame Rate Degradation in Neural Audio Codecs](https://arxiv.org/abs/2606.16969v1)** |  | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2026</p></details> |
-| **[MSpoofTTS: Multi-Resolution Spoof-Guided Inference for Discrete Speech Synthesis](https://arxiv.org/abs/2603.05373v3)** |  | 2026-06-14 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 3 tables, 2 algorithms. Accepted to Interspeech 2026</p></details> |
-| **[Modeling Sarcastic Speech: Semantic and Prosodic Cues in a Speech Synthesis Framework](https://arxiv.org/abs/2510.07096v3)** |  | 2026-06-13 | <details><summary>Accep...</summary><p>Accepted to CogSci 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS](https://arxiv.org/abs/2606.25672v1)** |  | 2026-06-24 |  |
+| **[Joycent: Diffusion-based Accent TTS without Accented Phone Prediction](https://arxiv.org/abs/2606.16417v3)** |  | 2026-06-24 |  |
+| **[Adaptive Oscillatory Inductive Bias for Modeling Sharp Prosodic Dynamics in Diffusion-Based TTS](https://arxiv.org/abs/2606.25424v1)** |  | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted in INTERSPEECH 2026</p></details> |
+| **[CrossAccent-TTS: Cross-Lingual Accent-Intensity Controllable Text-to-Speech via Disentangled Speaker and Accent Representations](https://arxiv.org/abs/2606.25403v1)** |  | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted at INTERSPEECH 2026</p></details> |
+| **[Sarashina2.2-TTS: Tackling Kanji Polyphony in Japanese Speech Generation via Data Scaling and Targeted Data Synthesis](https://arxiv.org/abs/2606.25369v1)** |  | 2026-06-24 |  |
 | **[CN-NewsTTS Bench: a target-level automatic benchmark for raw-input Chinese news TTS pronunciation](https://arxiv.org/abs/2606.24714v1)** |  | 2026-06-23 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 8 tables. ICASSP-style preprint</p></details> |
 | **[Preferences of a Voice-First Nation: Large-Scale Pairwise Evaluation and Preference Analysis for TTS in Indian Languages](https://arxiv.org/abs/2604.21481v2)** |  | 2026-06-23 |  |
 | **[Synthesizing the Lombard Effect: Multi-Level Control of Speech Clarity and Vocal Effort in TTS](https://arxiv.org/abs/2606.23176v1)** |  | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
@@ -35,12 +40,7 @@ labels: documentation
 | **[Backdoor Attacks on Speech Emotion Recognition via TTS-Generated Poisoning](https://arxiv.org/abs/2606.21052v1)** |  | 2026-06-19 | <details><summary>Accep...</summary><p>Accepted by IEEE Cyber AI 2026. This is the author preprint version</p></details> |
 | **[FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS](https://arxiv.org/abs/2606.20518v1)** |  | 2026-06-18 |  |
 | **[FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech](https://arxiv.org/abs/2606.19209v2)** |  | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2026</p></details> |
-| **[Joycent: Diffusion-based Accent TTS without Accented Phone Prediction](https://arxiv.org/abs/2606.16417v2)** |  | 2026-06-18 |  |
 | **[DiFlow-TTS: Compact and Low-Latency Zero-Shot Text-to-Speech with Discrete Flow Matching](https://arxiv.org/abs/2509.09631v5)** |  | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2026 (Long Paper Track)</p></details> |
-| **[CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering](https://arxiv.org/abs/2602.03420v2)** |  | 2026-06-16 |  |
-| **[Dynamic Prosody Prediction in LLM-based TTS for Improving Speaker Similarity](https://arxiv.org/abs/2606.15267v1)** |  | 2026-06-13 | <details><summary>Accep...</summary><p>Accepted to INTERSPEECH 2026. 5 pages, 2 figures. Audio samples: https://muzw.github.io/dynapros/</p></details> |
-| **[DuraMark: Duration-Embedded Watermarking in LLM-based TTS](https://arxiv.org/abs/2606.15264v1)** |  | 2026-06-13 | <details><summary>Accep...</summary><p>Accepted to INTERSPEECH 2026. 5 pages, 1 figure. Audio samples: https://muzw.github.io/duramark_demo/</p></details> |
-| **[UR-BERT: Scaling Text Encoders for Massively Multilingual TTS Through Universal Romanization and Speech Token Prediction](https://arxiv.org/abs/2606.11681v2)** |  | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026, Github: https://github.com/sanghyang00/ur-bert</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SpeechEQ: Benchmarking Emotional Intelligence Quotient in Socially Aware Voice Conversational Models](https://arxiv.org/abs/2606.25990v1)** |  | 2026-06-24 |  |
+| **[Evaluating Japanese Dialect Robustness Across Speech and Text-based Large Language Models](https://arxiv.org/abs/2606.25436v1)** |  | 2026-06-24 | Accepted to ASRU2025 |
 | **[Interleaved Speech Language Models Latently Work In Text](https://arxiv.org/abs/2606.22473v1)** |  | 2026-06-21 | <details><summary>Prepr...</summary><p>Preprint. 23 pages, 20 figures, 5 tables</p></details> |
 | **[TurnGuide: Enhancing Meaningful Full Duplex Spoken Interactions via Dynamic Turn-Level Text-Speech Interleaving](https://arxiv.org/abs/2508.07375v3)** |  | 2026-06-17 | <details><summary>Inter...</summary><p>Interspeech 2026 Long Paper Track</p></details> |
 | **[ZeroSyl: Simple Zero-Resource Syllable Tokenization for Spoken Language Modeling](https://arxiv.org/abs/2602.15537v2)** |  | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
@@ -77,5 +79,3 @@ labels: documentation
 | **[AuRA: Internalizing Audio Understanding into LLMs as LoRA](https://arxiv.org/abs/2606.11033v1)** |  | 2026-06-09 |  |
 | **[ParaBridge: Bridging Paralinguistic Perception and Dialogue Behavior in Speech Language Models](https://arxiv.org/abs/2606.10581v1)** |  | 2026-06-09 |  |
 | **[Interpreting and Steering a Text-to-Speech Language Model with Sparse Autoencoders](https://arxiv.org/abs/2606.10029v1)** |  | 2026-06-08 |  |
-| **[TLDR: Compressing Audio Tokens for Efficient Autoregressive Text-to-Speech](https://arxiv.org/abs/2606.09019v1)** |  | 2026-06-08 |  |
-| **[Titans-as-a-Layer: Test-Time Memory for Conversational Speech Emotion Recognition](https://arxiv.org/abs/2606.08573v1)** |  | 2026-06-07 | <details><summary>ICML ...</summary><p>ICML 2026 Workshop on Machine Learning for Audio</p></details> |
