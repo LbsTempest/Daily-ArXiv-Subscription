@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - June 26, 2026
+title: Latest Papers - June 29, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[VoiceTTA: Enhancing Zero-Shot Text-to-Speech via Reinforcement Learning-Based Test-Time Adaptation](https://arxiv.org/abs/2606.26534v1)** |  | 2026-06-25 | <details><summary>5 pag...</summary><p>5 pages, accepted to Interspeech 2026</p></details> |
 | **[Dziri Voicebot: An End-to-End Low-Resource Speech-to-Speech Conversational System for Algerian Dialect](https://arxiv.org/abs/2606.26003v1)** |  | 2026-06-24 |  |
 | **[Sarashina2.2-TTS: Tackling Kanji Polyphony in Japanese Speech Generation via Data Scaling and Targeted Data Synthesis](https://arxiv.org/abs/2606.25369v1)** |  | 2026-06-24 |  |
 | **[On the Effect of Segmentation Width and Cluster Size on Speech Resynthesis and Continuation in Generative Spoken Language Models](https://arxiv.org/abs/2606.23285v1)** |  | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to Interspeech2026</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Exploring Pre-training Benefits on Phoneme Addition through Fine-tuning in Speech Synthesis](https://arxiv.org/abs/2606.19792v1)** |  | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by INTERSPEECH 2026</p></details> |
 | **[Augmenting Dysarthric Speech Severity Assessment with MOS Supervision](https://arxiv.org/abs/2606.18645v1)** |  | 2026-06-17 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2511.02270</p></details> |
 | **[Mind Companion: An Embodied Conversational Agent for Process-Based Psychotherapy](https://arxiv.org/abs/2606.17789v1)** |  | 2026-06-16 |  |
-| **[Probing Low Frame Rate Degradation in Neural Audio Codecs](https://arxiv.org/abs/2606.16969v1)** |  | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation](https://arxiv.org/abs/2606.27268v1)** |  | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 44 pages, 11 figures. Project page: https://27yw.github.io/E-TTS-Web/</p></details> |
 | **[Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS](https://arxiv.org/abs/2606.25672v1)** |  | 2026-06-24 |  |
 | **[Joycent: Diffusion-based Accent TTS without Accented Phone Prediction](https://arxiv.org/abs/2606.16417v3)** |  | 2026-06-24 |  |
 | **[Adaptive Oscillatory Inductive Bias for Modeling Sharp Prosodic Dynamics in Diffusion-Based TTS](https://arxiv.org/abs/2606.25424v1)** |  | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted in INTERSPEECH 2026</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Backdoor Attacks on Speech Emotion Recognition via TTS-Generated Poisoning](https://arxiv.org/abs/2606.21052v1)** |  | 2026-06-19 | <details><summary>Accep...</summary><p>Accepted by IEEE Cyber AI 2026. This is the author preprint version</p></details> |
 | **[FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS](https://arxiv.org/abs/2606.20518v1)** |  | 2026-06-18 |  |
 | **[FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech](https://arxiv.org/abs/2606.19209v2)** |  | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2026</p></details> |
-| **[DiFlow-TTS: Compact and Low-Latency Zero-Shot Text-to-Speech with Discrete Flow Matching](https://arxiv.org/abs/2509.09631v5)** |  | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2026 (Long Paper Track)</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
