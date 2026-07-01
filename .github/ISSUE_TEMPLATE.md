@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - July 01, 2026
+title: Latest Papers - July 02, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Is Natural Always Appropriate? Investigating Naturalness and Appropriateness Across Different Domains for TTS Evaluation](https://arxiv.org/abs/2606.31729v1)** |  | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at Interspeech 26'</p></details> |
+| **[Online TT-ALS for Streaming Tensor Decomposition with Incremental Orthogonalization](https://arxiv.org/abs/2606.31061v1)** |  | 2026-06-30 | <details><summary>19 pa...</summary><p>19 pages, 7 figures. The Julia source code is available at https://github.com/hirokin0919/Online-TT-ALS</p></details> |
 | **[Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS](https://arxiv.org/abs/2606.25672v2)** |  | 2026-06-27 |  |
 | **[E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation](https://arxiv.org/abs/2606.27268v1)** |  | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 44 pages, 11 figures. Project page: https://27yw.github.io/E-TTS-Web/</p></details> |
 | **[Joycent: Diffusion-based Accent TTS without Accented Phone Prediction](https://arxiv.org/abs/2606.16417v3)** |  | 2026-06-24 |  |
@@ -39,12 +41,11 @@ labels: documentation
 | **[ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech](https://arxiv.org/abs/2606.21933v1)** |  | 2026-06-20 | <details><summary>11 pa...</summary><p>11 pages, ISCSLP 2026 challenge proposal</p></details> |
 | **[ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis](https://arxiv.org/abs/2603.04219v3)** |  | 2026-06-19 | <details><summary>6 pag...</summary><p>6 pages, accepted to INTERSPEECH 2026</p></details> |
 | **[Backdoor Attacks on Speech Emotion Recognition via TTS-Generated Poisoning](https://arxiv.org/abs/2606.21052v1)** |  | 2026-06-19 | <details><summary>Accep...</summary><p>Accepted by IEEE Cyber AI 2026. This is the author preprint version</p></details> |
-| **[FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS](https://arxiv.org/abs/2606.20518v1)** |  | 2026-06-18 |  |
-| **[FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech](https://arxiv.org/abs/2606.19209v2)** |  | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2026</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[ALM2Vec: Learning Audio Embeddings for Universal Audio Retrieval with Large Audio-Language Models](https://arxiv.org/abs/2606.30682v1)** |  | 2026-06-27 | 7 pages, 3 figures |
 | **[Taming Text-to-Sounding Video Generation via Advanced Modality Condition and Interaction](https://arxiv.org/abs/2510.03117v2)** |  | 2026-06-26 | <details><summary>The 1...</summary><p>The 19th European Conference on Computer Vision -- ECCV 2026</p></details> |
 | **[Aligning Audio Captions with Human Preferences](https://arxiv.org/abs/2509.14659v3)** |  | 2026-06-23 | <details><summary>This ...</summary><p>This paper has been accepted to INTERSPEECH 2026</p></details> |
 | **[AudioDER: A Deduplication-Enhanced Reasoning Dataset for Post-Training Large Audio-Language Models](https://arxiv.org/abs/2606.14591v1)** |  | 2026-06-12 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Noise-Aware In-Context Learning for Hallucination Mitigation in ALLMs](https://arxiv.org/abs/2604.09021v1)** |  | 2026-04-10 |  |
 | **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](https://arxiv.org/abs/2508.03983v3)** |  | 2026-03-26 | <details><summary>Added...</summary><p>Added ACAVCaps reference (ICASSP 2026)</p></details> |
 | **[ACAVCaps: Enabling large-scale training for fine-grained and diverse audio understanding](https://arxiv.org/abs/2603.24038v1)** |  | 2026-03-25 | <details><summary>accep...</summary><p>accepted by ICASSP 2026</p></details> |
-| **[CAF-Score: Calibrating CLAP with LALMs for Reference-free Audio Captioning Evaluation](https://arxiv.org/abs/2603.19615v1)** |  | 2026-03-20 | <details><summary>A con...</summary><p>A condensed version of this work has been submitted to Interspeech 2026. Section 10 is an extended analysis added in this version</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
