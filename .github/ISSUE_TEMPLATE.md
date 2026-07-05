@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - July 03, 2026
+title: Latest Papers - July 06, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[VisionAId: An Offline-First Multimodal Android Assistant for People with Visual Impairment, Featuring Personalized Object Retrieval](https://arxiv.org/abs/2607.02371v1)** |  | 2026-07-02 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Project repository available at: github.com</p></details> |
 | **[A Geometric Perspective on Composable Emotion Steering in Text-to-Speech Models](https://arxiv.org/abs/2607.00946v1)** |  | 2026-07-01 |  |
 | **[Local Diagnostics of Continuous Normalizing Flow for Out-of-Distribution Detection](https://arxiv.org/abs/2606.00684v2)** |  | 2026-07-01 | 16 pages, 5 figures |
 | **[Enhancing Flow Matching with A Unified Guidance Framework for Efficient and Robust Speech Synthesis](https://arxiv.org/abs/2607.00363v1)** |  | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to INTERSPEECH 2026</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[DisSpeech: Low-Resource Controllable Mandarin Stuttered Speech Synthesis for ASR Augmentation](https://arxiv.org/abs/2606.21457v1)** |  | 2026-06-19 | 14 pages,4 figures |
 | **[ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis](https://arxiv.org/abs/2603.04219v3)** |  | 2026-06-19 | <details><summary>6 pag...</summary><p>6 pages, accepted to INTERSPEECH 2026</p></details> |
 | **[Imitation Learning for Elder-Facing Speech Synthesis](https://arxiv.org/abs/2606.21053v1)** |  | 2026-06-19 | <details><summary>accep...</summary><p>accepted by Interspeech 2026</p></details> |
-| **[FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech](https://arxiv.org/abs/2606.19209v2)** |  | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Towards a Phonology-Informed Evaluation of Multilingual TTS](https://arxiv.org/abs/2607.01965v1)** |  | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2026</p></details> |
 | **[Is Natural Always Appropriate? Investigating Naturalness and Appropriateness Across Different Domains for TTS Evaluation](https://arxiv.org/abs/2606.31729v1)** |  | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at Interspeech 26'</p></details> |
 | **[Online TT-ALS for Streaming Tensor Decomposition with Incremental Orthogonalization](https://arxiv.org/abs/2606.31061v1)** |  | 2026-06-30 | <details><summary>19 pa...</summary><p>19 pages, 7 figures. The Julia source code is available at https://github.com/hirokin0919/Online-TT-ALS</p></details> |
 | **[Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS](https://arxiv.org/abs/2606.25672v2)** |  | 2026-06-27 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Bagpiper-TTS: Natural Language Guided Universal Speech Synthesis](https://arxiv.org/abs/2606.22811v1)** |  | 2026-06-22 |  |
 | **[ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech](https://arxiv.org/abs/2606.21933v1)** |  | 2026-06-20 | <details><summary>11 pa...</summary><p>11 pages, ISCSLP 2026 challenge proposal</p></details> |
 | **[ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis](https://arxiv.org/abs/2603.04219v3)** |  | 2026-06-19 | <details><summary>6 pag...</summary><p>6 pages, accepted to INTERSPEECH 2026</p></details> |
-| **[Backdoor Attacks on Speech Emotion Recognition via TTS-Generated Poisoning](https://arxiv.org/abs/2606.21052v1)** |  | 2026-06-19 | <details><summary>Accep...</summary><p>Accepted by IEEE Cyber AI 2026. This is the author preprint version</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Unlocking Speech-Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning](https://arxiv.org/abs/2607.02214v1)** |  | 2026-07-02 |  |
+| **[An Efficient vLLM-Based Inference Pipeline for Unified Audio Understanding and Generation](https://arxiv.org/abs/2607.02119v1)** |  | 2026-07-02 |  |
+| **[LLM can Read Spectrogram: Encoder-free Speech-Language Modeling](https://arxiv.org/abs/2606.10231v3)** |  | 2026-07-02 |  |
 | **[A Geometric Perspective on Composable Emotion Steering in Text-to-Speech Models](https://arxiv.org/abs/2607.00946v1)** |  | 2026-07-01 |  |
 | **[Categorize Early, Integrate Late: Divergent Processing Strategies in Automatic Speech Recognition](https://arxiv.org/abs/2601.06972v2)** |  | 2026-06-27 | 3 figures, 9 tables |
 | **[HybridCodec: Modeling Discrete and Continuous Representations for Efficient Speech Language Models](https://arxiv.org/abs/2606.27627v1)** |  | 2026-06-26 | Accepted |
@@ -76,6 +79,3 @@ labels: documentation
 | **[LM-SPT: LM-Aligned Semantic Distillation for Speech Tokenization](https://arxiv.org/abs/2506.16738v2)** |  | 2026-06-14 |  |
 | **[AP-GRPO: Anchor-Gated Phonetic Alignment with Policy Optimization for Pathological Speech Reconstruction](https://arxiv.org/abs/2606.15540v1)** |  | 2026-06-14 |  |
 | **[M*: A Modular, Extensible, Serving System for Multimodal Models](https://arxiv.org/abs/2606.12688v2)** |  | 2026-06-13 | <details><summary>The c...</summary><p>The codebase is available at https://github.com/mstar-project/mstar</p></details> |
-| **[BayLing-Duplex: Native Full-Duplex Speech Dialogue with a Single Autoregressive LLM](https://arxiv.org/abs/2606.14528v1)** |  | 2026-06-12 | <details><summary>Code:...</summary><p>Code: https://github.com/BayLing-Models/BayLing-Duplex</p></details> |
-| **[LLM can Read Spectrogram: Encoder-free Speech-Language Modeling](https://arxiv.org/abs/2606.10231v2)** |  | 2026-06-11 |  |
-| **[Where Do Backdoors Live? A Component-Level Analysis of Backdoor Propagation in Speech Language Models](https://arxiv.org/abs/2510.01157v4)** |  | 2026-06-09 | <details><summary>Inter...</summary><p>Interspeech 2026 (long paper)</p></details> |
