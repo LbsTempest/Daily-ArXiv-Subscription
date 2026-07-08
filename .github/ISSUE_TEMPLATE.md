@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - July 08, 2026
+title: Latest Papers - July 09, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Fréchet Distance Loss on Speech Representations for Text-to-Speech Synthesis](https://arxiv.org/abs/2607.06027v1)** |  | 2026-07-07 |  |
 | **[Towards Digital Preservation of Efik: TTS for a Low-Resource African Language](https://arxiv.org/abs/2607.04515v1)** |  | 2026-07-05 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted to Interspeech 2026</p></details> |
 | **[NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](https://arxiv.org/abs/2607.03985v1)** |  | 2026-07-04 |  |
 | **[VisionAId: An Offline-First Multimodal Android Assistant for People with Visual Impairment, Featuring Personalized Object Retrieval](https://arxiv.org/abs/2607.02371v1)** |  | 2026-07-02 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Project repository available at: github.com</p></details> |
@@ -21,11 +22,12 @@ labels: documentation
 | **[Synthesizing the Lombard Effect: Multi-Level Control of Speech Clarity and Vocal Effort in TTS](https://arxiv.org/abs/2606.23176v1)** |  | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 | **[Bagpiper-TTS: Natural Language Guided Universal Speech Synthesis](https://arxiv.org/abs/2606.22811v1)** |  | 2026-06-22 |  |
 | **[Streaming T5-based Text-to-Speech Synthesis with Limited Lookahead](https://arxiv.org/abs/2606.21882v1)** |  | 2026-06-20 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 4 tables, Interspeech 2026</p></details> |
-| **[DisSpeech: Low-Resource Controllable Mandarin Stuttered Speech Synthesis for ASR Augmentation](https://arxiv.org/abs/2606.21457v1)** |  | 2026-06-19 | 14 pages,4 figures |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS](https://arxiv.org/abs/2607.06461v1)** |  | 2026-07-07 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 6 tables; Preprint</p></details> |
+| **[BlueMagpie-TTS: A Token-Efficient Tokenizer, Language Model, and TTS for Taiwanese-Accent Code-Switching Speech](https://arxiv.org/abs/2607.06054v1)** |  | 2026-07-07 |  |
 | **[TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables](https://arxiv.org/abs/2603.07606v2)** |  | 2026-07-06 | <details><summary>to ap...</summary><p>to appear in the proceedings of ICML 2026</p></details> |
 | **[Towards Digital Preservation of Efik: TTS for a Low-Resource African Language](https://arxiv.org/abs/2607.04515v1)** |  | 2026-07-05 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted to Interspeech 2026</p></details> |
 | **[DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech](https://arxiv.org/abs/2607.04140v1)** |  | 2026-07-05 | <details><summary>ICML ...</summary><p>ICML 2026 SPIGM Workshop</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Adaptive Oscillatory Inductive Bias for Modeling Sharp Prosodic Dynamics in Diffusion-Based TTS](https://arxiv.org/abs/2606.25424v1)** |  | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted in INTERSPEECH 2026</p></details> |
 | **[CrossAccent-TTS: Cross-Lingual Accent-Intensity Controllable Text-to-Speech via Disentangled Speaker and Accent Representations](https://arxiv.org/abs/2606.25403v1)** |  | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted at INTERSPEECH 2026</p></details> |
 | **[Sarashina2.2-TTS: Tackling Kanji Polyphony in Japanese Speech Generation via Data Scaling and Targeted Data Synthesis](https://arxiv.org/abs/2606.25369v1)** |  | 2026-06-24 |  |
-| **[CN-NewsTTS Bench: a target-level automatic benchmark for raw-input Chinese news TTS pronunciation](https://arxiv.org/abs/2606.24714v1)** |  | 2026-06-23 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 8 tables. ICASSP-style preprint</p></details> |
-| **[Preferences of a Voice-First Nation: Large-Scale Pairwise Evaluation and Preference Analysis for TTS in Indian Languages](https://arxiv.org/abs/2604.21481v2)** |  | 2026-06-23 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
