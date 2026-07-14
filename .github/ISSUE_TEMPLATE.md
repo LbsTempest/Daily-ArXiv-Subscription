@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - July 14, 2026
+title: Latest Papers - July 15, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
-| **[Fréchet Distance Loss on Speech Representations for Text-to-Speech Synthesis](https://arxiv.org/abs/2607.06027v1)** |  | 2026-07-07 |  |
+| **[VoxENES 2026: Benchmarking Generalization of Speech Spoofing Detectors Against LLM-Era TTS and Voice Conversion](https://arxiv.org/abs/2607.11706v1)** |  | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted in InterSpeech 2026</p></details> |
+| **[Fréchet Distance Loss on Speech Representations for Text-to-Speech Synthesis](https://arxiv.org/abs/2607.06027v2)** |  | 2026-07-11 |  |
 | **[Towards Digital Preservation of Efik: TTS for a Low-Resource African Language](https://arxiv.org/abs/2607.04515v1)** |  | 2026-07-05 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted to Interspeech 2026</p></details> |
 | **[NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](https://arxiv.org/abs/2607.03985v1)** |  | 2026-07-04 |  |
 | **[VisionAId: An Offline-First Multimodal Android Assistant for People with Visual Impairment, Featuring Personalized Object Retrieval](https://arxiv.org/abs/2607.02371v1)** |  | 2026-07-02 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Project repository available at: github.com</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[On the Effect of Segmentation Width and Cluster Size on Speech Resynthesis and Continuation in Generative Spoken Language Models](https://arxiv.org/abs/2606.23285v1)** |  | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to Interspeech2026</p></details> |
 | **[Synthesizing the Lombard Effect: Multi-Level Control of Speech Clarity and Vocal Effort in TTS](https://arxiv.org/abs/2606.23176v1)** |  | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 | **[Bagpiper-TTS: Natural Language Guided Universal Speech Synthesis](https://arxiv.org/abs/2606.22811v1)** |  | 2026-06-22 |  |
-| **[Streaming T5-based Text-to-Speech Synthesis with Limited Lookahead](https://arxiv.org/abs/2606.21882v1)** |  | 2026-06-20 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 4 tables, Interspeech 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[VoxENES 2026: Benchmarking Generalization of Speech Spoofing Detectors Against LLM-Era TTS and Voice Conversion](https://arxiv.org/abs/2607.11706v1)** |  | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted in InterSpeech 2026</p></details> |
 | **[Best-of-$N$ TTS Evaluation is Confounded by ASR Family Alignment](https://arxiv.org/abs/2607.08256v1)** |  | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 Workshop on Machine Learning for Audio</p></details> |
 | **[WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS](https://arxiv.org/abs/2607.06461v1)** |  | 2026-07-07 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 6 tables; Preprint</p></details> |
 | **[BlueMagpie-TTS: A Token-Efficient Tokenizer, Language Model, and TTS for Taiwanese-Accent Code-Switching Speech](https://arxiv.org/abs/2607.06054v1)** |  | 2026-07-07 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation](https://arxiv.org/abs/2606.27268v1)** |  | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 44 pages, 11 figures. Project page: https://27yw.github.io/E-TTS-Web/</p></details> |
 | **[Joycent: Diffusion-based Accent TTS without Accented Phone Prediction](https://arxiv.org/abs/2606.16417v3)** |  | 2026-06-24 |  |
 | **[Adaptive Oscillatory Inductive Bias for Modeling Sharp Prosodic Dynamics in Diffusion-Based TTS](https://arxiv.org/abs/2606.25424v1)** |  | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted in INTERSPEECH 2026</p></details> |
-| **[CrossAccent-TTS: Cross-Lingual Accent-Intensity Controllable Text-to-Speech via Disentangled Speaker and Accent Representations](https://arxiv.org/abs/2606.25403v1)** |  | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted at INTERSPEECH 2026</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Hearing Like Humans? Sound Symbolism and Perceptual Alignment in Speech Language Models](https://arxiv.org/abs/2607.10162v1)** |  | 2026-07-11 | <details><summary>Submi...</summary><p>Submitted to SLT 2026</p></details> |
 | **[SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models](https://arxiv.org/abs/2607.05365v1)** |  | 2026-07-06 | <details><summary>Corre...</summary><p>Corresponding Website: https://thomasthebaud.github.io/SPEAR-benchmark-website/#welcome</p></details> |
 | **[Speaker-Disentangled Chunk-Wise Regression for Syllabic Tokenization](https://arxiv.org/abs/2607.04064v1)** |  | 2026-07-05 | <details><summary>Accep...</summary><p>Accepted by IEEE Open Journal of Signal Processing (OJSP), 10 pages, 4 figures</p></details> |
 | **[Unlocking Speech-Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning](https://arxiv.org/abs/2607.02214v1)** |  | 2026-07-02 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[TurnGuide: Enhancing Meaningful Full Duplex Spoken Interactions via Dynamic Turn-Level Text-Speech Interleaving](https://arxiv.org/abs/2508.07375v3)** |  | 2026-06-17 | <details><summary>Inter...</summary><p>Interspeech 2026 Long Paper Track</p></details> |
 | **[ZeroSyl: Simple Zero-Resource Syllable Tokenization for Spoken Language Modeling](https://arxiv.org/abs/2602.15537v2)** |  | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 | **[WavSLM: Single-Stream Speech Language Modeling via WavLM Distillation](https://arxiv.org/abs/2603.05299v2)** |  | 2026-06-14 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
-| **[LM-SPT: LM-Aligned Semantic Distillation for Speech Tokenization](https://arxiv.org/abs/2506.16738v2)** |  | 2026-06-14 |  |
