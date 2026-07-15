@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - July 15, 2026
+title: Latest Papers - July 16, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential](https://arxiv.org/abs/2607.12235v1)** |  | 2026-07-14 |  |
 | **[VoxENES 2026: Benchmarking Generalization of Speech Spoofing Detectors Against LLM-Era TTS and Voice Conversion](https://arxiv.org/abs/2607.11706v1)** |  | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted in InterSpeech 2026</p></details> |
 | **[Best-of-$N$ TTS Evaluation is Confounded by ASR Family Alignment](https://arxiv.org/abs/2607.08256v1)** |  | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 Workshop on Machine Learning for Audio</p></details> |
 | **[WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS](https://arxiv.org/abs/2607.06461v1)** |  | 2026-07-07 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 6 tables; Preprint</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS](https://arxiv.org/abs/2606.25672v2)** |  | 2026-06-27 |  |
 | **[E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation](https://arxiv.org/abs/2606.27268v1)** |  | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 44 pages, 11 figures. Project page: https://27yw.github.io/E-TTS-Web/</p></details> |
 | **[Joycent: Diffusion-based Accent TTS without Accented Phone Prediction](https://arxiv.org/abs/2606.16417v3)** |  | 2026-06-24 |  |
-| **[Adaptive Oscillatory Inductive Bias for Modeling Sharp Prosodic Dynamics in Diffusion-Based TTS](https://arxiv.org/abs/2606.25424v1)** |  | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted in INTERSPEECH 2026</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
