@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - July 17, 2026
+title: Latest Papers - July 20, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[AuEmoChat: Authentic Emotion Understanding and Rendering for Conversational Speech Synthesis](https://arxiv.org/abs/2607.15755v1)** |  | 2026-07-17 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026</p></details> |
 | **[Fréchet Distance Loss on Speech Representations for Text-to-Speech Synthesis](https://arxiv.org/abs/2607.06027v3)** |  | 2026-07-15 |  |
 | **[VoxENES 2026: Benchmarking Generalization of Speech Spoofing Detectors Against LLM-Era TTS and Voice Conversion](https://arxiv.org/abs/2607.11706v1)** |  | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted in InterSpeech 2026</p></details> |
 | **[Towards Digital Preservation of Efik: TTS for a Low-Resource African Language](https://arxiv.org/abs/2607.04515v1)** |  | 2026-07-05 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted to Interspeech 2026</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Sarashina2.2-TTS: Tackling Kanji Polyphony in Japanese Speech Generation via Data Scaling and Targeted Data Synthesis](https://arxiv.org/abs/2606.25369v1)** |  | 2026-06-24 |  |
 | **[On the Effect of Segmentation Width and Cluster Size on Speech Resynthesis and Continuation in Generative Spoken Language Models](https://arxiv.org/abs/2606.23285v1)** |  | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to Interspeech2026</p></details> |
 | **[Synthesizing the Lombard Effect: Multi-Level Control of Speech Clarity and Vocal Effort in TTS](https://arxiv.org/abs/2606.23176v1)** |  | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
-| **[Bagpiper-TTS: Natural Language Guided Universal Speech Synthesis](https://arxiv.org/abs/2606.22811v1)** |  | 2026-06-22 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
