@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - July 23, 2026
+title: Latest Papers - July 24, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[FreyaTTS: A Compact Tokenizer-Free Flow-Matching Transformer for Turkish-First Speech Synthesis](https://arxiv.org/abs/2607.09530v2)** |  | 2026-07-22 |  |
+| **[ETPDesigner: Multi-Agent Orchestration for Interactive Multimodal Electronic Theater Program](https://arxiv.org/abs/2607.19947v1)** |  | 2026-07-22 |  |
+| **[StellarTTS: Sparse Temporal Embedding for Low-Latency and Robust Speech Synthesis](https://arxiv.org/abs/2607.19859v1)** |  | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted by ASRU 2025</p></details> |
 | **[Harness TTS: Towards Context-Aware Expressive Speech Synthesis with Harness Layer](https://arxiv.org/abs/2607.17900v2)** |  | 2026-07-21 |  |
 | **[CS-ETS: Chaos-Inspired Samba-Based EMG-To-Speech Synthesis with Nonlinear Chaotic Losses](https://arxiv.org/abs/2607.18629v1)** |  | 2026-07-21 |  |
 | **[ChipChat: Low-Latency Cascaded Conversational Agent in MLX](https://arxiv.org/abs/2509.00078v2)** |  | 2026-07-19 | <details><summary>best ...</summary><p>best demo paper award ASRU 2025</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[VisionAId: An Offline-First Multimodal Android Assistant for People with Visual Impairment, Featuring Personalized Object Retrieval](https://arxiv.org/abs/2607.02371v1)** |  | 2026-07-02 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Project repository available at: github.com</p></details> |
 | **[A Geometric Perspective on Composable Emotion Steering in Text-to-Speech Models](https://arxiv.org/abs/2607.00946v1)** |  | 2026-07-01 |  |
 | **[Local Diagnostics of Continuous Normalizing Flow for Out-of-Distribution Detection](https://arxiv.org/abs/2606.00684v2)** |  | 2026-07-01 | 16 pages, 5 figures |
-| **[Enhancing Flow Matching with A Unified Guidance Framework for Efficient and Robust Speech Synthesis](https://arxiv.org/abs/2607.00363v1)** |  | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to INTERSPEECH 2026</p></details> |
-| **[DialogPII: A multilingual dataset of synthetic dialog transcripts to detect personal information](https://arxiv.org/abs/2606.30312v1)** |  | 2026-06-29 | <details><summary>curre...</summary><p>currently under review</p></details> |
-| **[Dziri Voicebot: An End-to-End Low-Resource Speech-to-Speech Conversational System for Algerian Dialect](https://arxiv.org/abs/2606.26003v2)** |  | 2026-06-28 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SimulS2ST-Omni: Data-Efficient Streaming Speech-to-Speech Translation via Explicit Trajectory Supervision](https://arxiv.org/abs/2607.19810v1)** |  | 2026-07-22 | <details><summary>29 pa...</summary><p>29 pages, 19 figures, 16 tables</p></details> |
 | **[Do Speech Tokens Leak Voiceprints? Speaker Inversion Attacks Against End-to-End Speech Language Models](https://arxiv.org/abs/2607.16870v1)** |  | 2026-07-18 |  |
 | **[Hearing Like Humans? Sound Symbolism and Perceptual Alignment in Speech Language Models](https://arxiv.org/abs/2607.10162v1)** |  | 2026-07-11 | <details><summary>Submi...</summary><p>Submitted to SLT 2026</p></details> |
 | **[SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models](https://arxiv.org/abs/2607.05365v1)** |  | 2026-07-06 | <details><summary>Corre...</summary><p>Corresponding Website: https://thomasthebaud.github.io/SPEAR-benchmark-website/#welcome</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[Evaluating Japanese Dialect Robustness Across Speech and Text-based Large Language Models](https://arxiv.org/abs/2606.25436v1)** |  | 2026-06-24 | Accepted to ASRU2025 |
 | **[Interleaved Speech Language Models Latently Work In Text](https://arxiv.org/abs/2606.22473v1)** |  | 2026-06-21 | <details><summary>Prepr...</summary><p>Preprint. 23 pages, 20 figures, 5 tables</p></details> |
 | **[TurnGuide: Enhancing Meaningful Full Duplex Spoken Interactions via Dynamic Turn-Level Text-Speech Interleaving](https://arxiv.org/abs/2508.07375v3)** |  | 2026-06-17 | <details><summary>Inter...</summary><p>Interspeech 2026 Long Paper Track</p></details> |
-| **[ZeroSyl: Simple Zero-Resource Syllable Tokenization for Spoken Language Modeling](https://arxiv.org/abs/2602.15537v2)** |  | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
