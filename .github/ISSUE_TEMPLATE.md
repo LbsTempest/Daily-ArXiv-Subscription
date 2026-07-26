@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - July 24, 2026
+title: Latest Papers - July 27, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores](https://arxiv.org/abs/2607.21127v1)** |  | 2026-07-23 | In peer review |
+| **[Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs](https://arxiv.org/abs/2607.21042v1)** |  | 2026-07-23 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, 3 tables</p></details> |
 | **[FreyaTTS: A Compact Tokenizer-Free Flow-Matching Transformer for Turkish-First Speech Synthesis](https://arxiv.org/abs/2607.09530v2)** |  | 2026-07-22 |  |
 | **[ETPDesigner: Multi-Agent Orchestration for Interactive Multimodal Electronic Theater Program](https://arxiv.org/abs/2607.19947v1)** |  | 2026-07-22 |  |
 | **[StellarTTS: Sparse Temporal Embedding for Low-Latency and Robust Speech Synthesis](https://arxiv.org/abs/2607.19859v1)** |  | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted by ASRU 2025</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Towards Digital Preservation of Efik: TTS for a Low-Resource African Language](https://arxiv.org/abs/2607.04515v1)** |  | 2026-07-05 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted to Interspeech 2026</p></details> |
 | **[NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](https://arxiv.org/abs/2607.03985v1)** |  | 2026-07-04 |  |
 | **[VisionAId: An Offline-First Multimodal Android Assistant for People with Visual Impairment, Featuring Personalized Object Retrieval](https://arxiv.org/abs/2607.02371v1)** |  | 2026-07-02 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Project repository available at: github.com</p></details> |
-| **[A Geometric Perspective on Composable Emotion Steering in Text-to-Speech Models](https://arxiv.org/abs/2607.00946v1)** |  | 2026-07-01 |  |
-| **[Local Diagnostics of Continuous Normalizing Flow for Out-of-Distribution Detection](https://arxiv.org/abs/2606.00684v2)** |  | 2026-07-01 | 16 pages, 5 figures |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[An Evaluation Framework for Structured Audio Captions Validated by Controlled Perturbations](https://arxiv.org/abs/2607.21424v1)** |  | 2026-07-23 | <details><summary>submi...</summary><p>submitted to DCASE 2026</p></details> |
 | **[CARD: Cross-component Audio Representation Distillation for Encoder-Free Audio Captioning](https://arxiv.org/abs/2607.04619v1)** |  | 2026-07-06 |  |
 | **[ALM2Vec: Learning Audio Embeddings for Universal Audio Retrieval with Large Audio-Language Models](https://arxiv.org/abs/2606.30682v1)** |  | 2026-06-27 | 7 pages, 3 figures |
 | **[Taming Text-to-Sounding Video Generation via Advanced Modality Condition and Interaction](https://arxiv.org/abs/2510.03117v2)** |  | 2026-06-26 | <details><summary>The 1...</summary><p>The 19th European Conference on Computer Vision -- ECCV 2026</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v3)** |  | 2026-04-29 |  |
 | **[Towards Fine-grained Temporal Perception: Post-Training Large Audio-Language Models with Audio-Side Time Prompt](https://arxiv.org/abs/2604.13715v1)** |  | 2026-04-15 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Noise-Aware In-Context Learning for Hallucination Mitigation in ALLMs](https://arxiv.org/abs/2604.09021v1)** |  | 2026-04-10 |  |
-| **[MiDashengLM: Efficient Audio Understanding with General Audio Captions](https://arxiv.org/abs/2508.03983v3)** |  | 2026-03-26 | <details><summary>Added...</summary><p>Added ACAVCaps reference (ICASSP 2026)</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
