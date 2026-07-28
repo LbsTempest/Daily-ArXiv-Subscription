@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - July 28, 2026
+title: Latest Papers - July 29, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Let Me Look at You: Advanced Facial Expression Modeling for Conversational Speech Synthesis](https://arxiv.org/abs/2607.24430v1)** |  | 2026-07-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 5 tables. Accepted by ACM MM 2026</p></details> |
 | **[Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores](https://arxiv.org/abs/2607.21127v1)** |  | 2026-07-23 | In peer review |
 | **[Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs](https://arxiv.org/abs/2607.21042v1)** |  | 2026-07-23 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, 3 tables</p></details> |
 | **[FreyaTTS: A Compact Tokenizer-Free Flow-Matching Transformer for Turkish-First Speech Synthesis](https://arxiv.org/abs/2607.09530v2)** |  | 2026-07-22 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[VoxENES 2026: Benchmarking Generalization of Speech Spoofing Detectors Against LLM-Era TTS and Voice Conversion](https://arxiv.org/abs/2607.11706v1)** |  | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted in InterSpeech 2026</p></details> |
 | **[Towards Digital Preservation of Efik: TTS for a Low-Resource African Language](https://arxiv.org/abs/2607.04515v1)** |  | 2026-07-05 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted to Interspeech 2026</p></details> |
 | **[NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](https://arxiv.org/abs/2607.03985v1)** |  | 2026-07-04 |  |
-| **[VisionAId: An Offline-First Multimodal Android Assistant for People with Visual Impairment, Featuring Personalized Object Retrieval](https://arxiv.org/abs/2607.02371v1)** |  | 2026-07-02 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Project repository available at: github.com</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
