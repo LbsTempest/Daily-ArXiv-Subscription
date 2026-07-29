@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - July 29, 2026
+title: Latest Papers - July 30, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SpeechLLM Meets Federated Learning for End-to-End ASR: English and Italian Case Studies](https://arxiv.org/abs/2607.25716v1)** |  | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted at the 2nd International Conference on Federated Learning and Intelligent Computing Systems (FLICS2026)</p></details> |
 | **[SimulS2ST-Omni: Data-Efficient Streaming Speech-to-Speech Translation via Explicit Trajectory Supervision](https://arxiv.org/abs/2607.19810v1)** |  | 2026-07-22 | <details><summary>29 pa...</summary><p>29 pages, 19 figures, 16 tables</p></details> |
 | **[Do Speech Tokens Leak Voiceprints? Speaker Inversion Attacks Against End-to-End Speech Language Models](https://arxiv.org/abs/2607.16870v1)** |  | 2026-07-18 |  |
 | **[Hearing Like Humans? Sound Symbolism and Perceptual Alignment in Speech Language Models](https://arxiv.org/abs/2607.10162v1)** |  | 2026-07-11 | <details><summary>Submi...</summary><p>Submitted to SLT 2026</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[SpeechEQ: Benchmarking Emotional Intelligence Quotient in Socially Aware Voice Conversational Models](https://arxiv.org/abs/2606.25990v1)** |  | 2026-06-24 |  |
 | **[Evaluating Japanese Dialect Robustness Across Speech and Text-based Large Language Models](https://arxiv.org/abs/2606.25436v1)** |  | 2026-06-24 | Accepted to ASRU2025 |
 | **[Interleaved Speech Language Models Latently Work In Text](https://arxiv.org/abs/2606.22473v1)** |  | 2026-06-21 | <details><summary>Prepr...</summary><p>Preprint. 23 pages, 20 figures, 5 tables</p></details> |
-| **[TurnGuide: Enhancing Meaningful Full Duplex Spoken Interactions via Dynamic Turn-Level Text-Speech Interleaving](https://arxiv.org/abs/2508.07375v3)** |  | 2026-06-17 | <details><summary>Inter...</summary><p>Interspeech 2026 Long Paper Track</p></details> |
