@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - July 30, 2026
+title: Latest Papers - July 31, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model](https://arxiv.org/abs/2607.26742v1)** |  | 2026-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables, submitted to IberSPEECH 2026</p></details> |
 | **[Let Me Look at You: Advanced Facial Expression Modeling for Conversational Speech Synthesis](https://arxiv.org/abs/2607.24430v1)** |  | 2026-07-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 5 tables. Accepted by ACM MM 2026</p></details> |
 | **[Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores](https://arxiv.org/abs/2607.21127v1)** |  | 2026-07-23 | In peer review |
 | **[Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs](https://arxiv.org/abs/2607.21042v1)** |  | 2026-07-23 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, 3 tables</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Fréchet Distance Loss on Speech Representations for Text-to-Speech Synthesis](https://arxiv.org/abs/2607.06027v3)** |  | 2026-07-15 |  |
 | **[VoxENES 2026: Benchmarking Generalization of Speech Spoofing Detectors Against LLM-Era TTS and Voice Conversion](https://arxiv.org/abs/2607.11706v1)** |  | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted in InterSpeech 2026</p></details> |
 | **[Towards Digital Preservation of Efik: TTS for a Low-Resource African Language](https://arxiv.org/abs/2607.04515v1)** |  | 2026-07-05 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted to Interspeech 2026</p></details> |
-| **[NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](https://arxiv.org/abs/2607.03985v1)** |  | 2026-07-04 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model](https://arxiv.org/abs/2607.26742v1)** |  | 2026-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables, submitted to IberSPEECH 2026</p></details> |
 | **[Harness TTS: Towards Context-Aware Expressive Speech Synthesis with Harness Layer](https://arxiv.org/abs/2607.17900v2)** |  | 2026-07-21 |  |
 | **[Re-Sonance: A Dysarthric Asynchronous Real-Time Speech Conversion System Based on a Three-Stage Cascaded ASR-LLM-TTS Architecture](https://arxiv.org/abs/2607.17615v1)** |  | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted by NCMMSC 2025</p></details> |
 | **[A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential](https://arxiv.org/abs/2607.12235v1)** |  | 2026-07-14 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Towards a Phonology-Informed Evaluation of Multilingual TTS](https://arxiv.org/abs/2607.01965v1)** |  | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2026</p></details> |
 | **[Is Natural Always Appropriate? Investigating Naturalness and Appropriateness Across Different Domains for TTS Evaluation](https://arxiv.org/abs/2606.31729v1)** |  | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at Interspeech 26'</p></details> |
 | **[Online TT-ALS for Streaming Tensor Decomposition with Incremental Orthogonalization](https://arxiv.org/abs/2606.31061v1)** |  | 2026-06-30 | <details><summary>19 pa...</summary><p>19 pages, 7 figures. The Julia source code is available at https://github.com/hirokin0919/Online-TT-ALS</p></details> |
-| **[Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS](https://arxiv.org/abs/2606.25672v2)** |  | 2026-06-27 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning](https://arxiv.org/abs/2607.27109v1)** |  | 2026-07-29 |  |
 | **[An Evaluation Framework for Structured Audio Captions Validated by Controlled Perturbations](https://arxiv.org/abs/2607.21424v1)** |  | 2026-07-23 | <details><summary>submi...</summary><p>submitted to DCASE 2026</p></details> |
 | **[CARD: Cross-component Audio Representation Distillation for Encoder-Free Audio Captioning](https://arxiv.org/abs/2607.04619v1)** |  | 2026-07-06 |  |
 | **[ALM2Vec: Learning Audio Embeddings for Universal Audio Retrieval with Large Audio-Language Models](https://arxiv.org/abs/2606.30682v1)** |  | 2026-06-27 | 7 pages, 3 figures |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Locality Matters for Training-Free Audio Token Compression in Audio-Language Models](https://arxiv.org/abs/2605.25179v1)** |  | 2026-05-24 | <details><summary>Prepr...</summary><p>Preprint. 8 pages main text, 10 pages total</p></details> |
 | **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v3)** |  | 2026-04-29 |  |
 | **[Towards Fine-grained Temporal Perception: Post-Training Large Audio-Language Models with Audio-Side Time Prompt](https://arxiv.org/abs/2604.13715v1)** |  | 2026-04-15 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
-| **[Noise-Aware In-Context Learning for Hallucination Mitigation in ALLMs](https://arxiv.org/abs/2604.09021v1)** |  | 2026-04-10 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
