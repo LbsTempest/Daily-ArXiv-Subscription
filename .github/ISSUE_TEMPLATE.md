@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - July 31, 2026
+title: Latest Papers - August 03, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351v1)** |  | 2026-07-30 | <details><summary>16 pa...</summary><p>16 pages, 1 figure, 7 tables. Technical report. Project page: https://tefficlabs.com/teffic-audio</p></details> |
 | **[Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model](https://arxiv.org/abs/2607.26742v1)** |  | 2026-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables, submitted to IberSPEECH 2026</p></details> |
 | **[Let Me Look at You: Advanced Facial Expression Modeling for Conversational Speech Synthesis](https://arxiv.org/abs/2607.24430v1)** |  | 2026-07-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 5 tables. Accepted by ACM MM 2026</p></details> |
 | **[Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores](https://arxiv.org/abs/2607.21127v1)** |  | 2026-07-23 | In peer review |
@@ -21,7 +22,6 @@ labels: documentation
 | **[AuEmoChat: Authentic Emotion Understanding and Rendering for Conversational Speech Synthesis](https://arxiv.org/abs/2607.15755v1)** |  | 2026-07-17 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026</p></details> |
 | **[Fréchet Distance Loss on Speech Representations for Text-to-Speech Synthesis](https://arxiv.org/abs/2607.06027v3)** |  | 2026-07-15 |  |
 | **[VoxENES 2026: Benchmarking Generalization of Speech Spoofing Detectors Against LLM-Era TTS and Voice Conversion](https://arxiv.org/abs/2607.11706v1)** |  | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted in InterSpeech 2026</p></details> |
-| **[Towards Digital Preservation of Efik: TTS for a Low-Resource African Language](https://arxiv.org/abs/2607.04515v1)** |  | 2026-07-05 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted to Interspeech 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -45,7 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
-| **[MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning](https://arxiv.org/abs/2607.27109v1)** |  | 2026-07-29 |  |
+| **[MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning](https://arxiv.org/abs/2607.27109v2)** |  | 2026-07-30 |  |
 | **[An Evaluation Framework for Structured Audio Captions Validated by Controlled Perturbations](https://arxiv.org/abs/2607.21424v1)** |  | 2026-07-23 | <details><summary>submi...</summary><p>submitted to DCASE 2026</p></details> |
 | **[CARD: Cross-component Audio Representation Distillation for Encoder-Free Audio Captioning](https://arxiv.org/abs/2607.04619v1)** |  | 2026-07-06 |  |
 | **[ALM2Vec: Learning Audio Embeddings for Universal Audio Retrieval with Large Audio-Language Models](https://arxiv.org/abs/2606.30682v1)** |  | 2026-06-27 | 7 pages, 3 figures |
