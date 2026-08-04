@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - August 04, 2026
+title: Latest Papers - August 05, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[JoyAI-Talker: Full-Duplex Speech Interactive Large Model Built for Empathetic Voice Agents](https://arxiv.org/abs/2608.01119v1)** |  | 2026-08-02 |  |
 | **[AuEmoChat: Authentic Emotion Understanding and Rendering for Conversational Speech Synthesis](https://arxiv.org/abs/2607.15755v2)** |  | 2026-07-31 | <details><summary>Accep...</summary><p>Accepted by ACMMM 2026</p></details> |
 | **[Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351v1)** |  | 2026-07-30 | <details><summary>16 pa...</summary><p>16 pages, 1 figure, 7 tables. Technical report. Project page: https://tefficlabs.com/teffic-audio</p></details> |
 | **[Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model](https://arxiv.org/abs/2607.26742v1)** |  | 2026-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables, submitted to IberSPEECH 2026</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[ChipChat: Low-Latency Cascaded Conversational Agent in MLX](https://arxiv.org/abs/2509.00078v2)** |  | 2026-07-19 | <details><summary>best ...</summary><p>best demo paper award ASRU 2025</p></details> |
 | **[VisionAssist: An Open-Source Smartphone Assistant for AI-Based Visual Accessibility](https://arxiv.org/abs/2607.16750v1)** |  | 2026-07-18 | <details><summary>resea...</summary><p>research work from Erasmus+ internship</p></details> |
 | **[Fréchet Distance Loss on Speech Representations for Text-to-Speech Synthesis](https://arxiv.org/abs/2607.06027v3)** |  | 2026-07-15 |  |
-| **[VoxENES 2026: Benchmarking Generalization of Speech Spoofing Detectors Against LLM-Era TTS and Voice Conversion](https://arxiv.org/abs/2607.11706v1)** |  | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted in InterSpeech 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
