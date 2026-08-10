@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - August 10, 2026
+title: Latest Papers - August 11, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -65,6 +65,7 @@ labels: documentation
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
 | **[The Eloquence team submission for task 1 of MLC-SLM challenge](https://arxiv.org/abs/2507.19308v2)** |  | 2026-08-04 | <details><summary>Techn...</summary><p>Technical Report for MLC-SLM Challenge of Interspeech2025</p></details> |
+| **[Separating Decision-Rule Misalignment from Readout-Coverage Limitations in Speech Language Models](https://arxiv.org/abs/2608.06409v1)** |  | 2026-08-03 |  |
 | **[SpeechLLM Meets Federated Learning for End-to-End ASR: English and Italian Case Studies](https://arxiv.org/abs/2607.25716v1)** |  | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted at the 2nd International Conference on Federated Learning and Intelligent Computing Systems (FLICS2026)</p></details> |
 | **[SimulS2ST-Omni: Data-Efficient Streaming Speech-to-Speech Translation via Explicit Trajectory Supervision](https://arxiv.org/abs/2607.19810v1)** |  | 2026-07-22 | <details><summary>29 pa...</summary><p>29 pages, 19 figures, 16 tables</p></details> |
 | **[Do Speech Tokens Leak Voiceprints? Speaker Inversion Attacks Against End-to-End Speech Language Models](https://arxiv.org/abs/2607.16870v1)** |  | 2026-07-18 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[Categorize Early, Integrate Late: Divergent Processing Strategies in Automatic Speech Recognition](https://arxiv.org/abs/2601.06972v2)** |  | 2026-06-27 | 3 figures, 9 tables |
 | **[HybridCodec: Modeling Discrete and Continuous Representations for Efficient Speech Language Models](https://arxiv.org/abs/2606.27627v1)** |  | 2026-06-26 | Accepted |
 | **[SpeechEQ: Benchmarking Emotional Intelligence Quotient in Socially Aware Voice Conversational Models](https://arxiv.org/abs/2606.25990v1)** |  | 2026-06-24 |  |
-| **[Evaluating Japanese Dialect Robustness Across Speech and Text-based Large Language Models](https://arxiv.org/abs/2606.25436v1)** |  | 2026-06-24 | Accepted to ASRU2025 |
