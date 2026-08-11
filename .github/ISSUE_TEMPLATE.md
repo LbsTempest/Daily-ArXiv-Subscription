@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - August 11, 2026
+title: Latest Papers - August 12, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection](https://arxiv.org/abs/2608.09593v1)** |  | 2026-08-10 | 11 pages, 1 figure |
+| **[An Improved Phase Coding Audio Steganography Algorithm](https://arxiv.org/abs/2408.13277v3)** |  | 2026-08-09 | <details><summary>6 pag...</summary><p>6 pages, 6 figures. Substantially revised: adds a measured evaluation over four carriers including real speech, a framing layer with CRC-16 and Hamming(7,4), and a limitations section. Corrects a quantization defect that caused failure on speech. Bibliography expanded from 6 to 23 verified references</p></details> |
+| **[CuteTTS: Efficient and High-Quality Speech Synthesis via Autoregressive Modeling of Continuous Latents](https://arxiv.org/abs/2608.08638v1)** |  | 2026-08-09 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 10 tables. Technical report</p></details> |
+| **[CtrlSpeech: Coarse-to-Fine Control for Expressive Speech Synthesis](https://arxiv.org/abs/2608.08362v1)** |  | 2026-08-08 | <details><summary>Inter...</summary><p>Interspeech 2026. Demo, code and model weights are available at https://zhishengzheng.com/ctrlspeech</p></details> |
 | **[Pixel-TTS: Image based Text Rendering for Robust Text-to-Speech](https://arxiv.org/abs/2606.14750v2)** |  | 2026-08-06 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 15 tables</p></details> |
 | **[JoyAI-Talker: Full-Duplex Speech Interactive Large Model Built for Empathetic Voice Agents](https://arxiv.org/abs/2608.01119v1)** |  | 2026-08-02 |  |
 | **[AuEmoChat: Authentic Emotion Understanding and Rendering for Conversational Speech Synthesis](https://arxiv.org/abs/2607.15755v2)** |  | 2026-07-31 | <details><summary>Accep...</summary><p>Accepted by ACMMM 2026</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[FreyaTTS: A Compact Tokenizer-Free Flow-Matching Transformer for Turkish-First Speech Synthesis](https://arxiv.org/abs/2607.09530v2)** |  | 2026-07-22 |  |
 | **[ETPDesigner: Multi-Agent Orchestration for Interactive Multimodal Electronic Theater Program](https://arxiv.org/abs/2607.19947v1)** |  | 2026-07-22 |  |
 | **[StellarTTS: Sparse Temporal Embedding for Low-Latency and Robust Speech Synthesis](https://arxiv.org/abs/2607.19859v1)** |  | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted by ASRU 2025</p></details> |
-| **[Harness TTS: Towards Context-Aware Expressive Speech Synthesis with Harness Layer](https://arxiv.org/abs/2607.17900v2)** |  | 2026-07-21 |  |
-| **[CS-ETS: Chaos-Inspired Samba-Based EMG-To-Speech Synthesis with Nonlinear Chaotic Losses](https://arxiv.org/abs/2607.18629v1)** |  | 2026-07-21 |  |
-| **[ChipChat: Low-Latency Cascaded Conversational Agent in MLX](https://arxiv.org/abs/2509.00078v2)** |  | 2026-07-19 | <details><summary>best ...</summary><p>best demo paper award ASRU 2025</p></details> |
-| **[VisionAssist: An Open-Source Smartphone Assistant for AI-Based Visual Accessibility](https://arxiv.org/abs/2607.16750v1)** |  | 2026-07-18 | <details><summary>resea...</summary><p>research work from Erasmus+ internship</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[AudioMap: Cloze-and-Choice Reinforcement Learning for Time-Aware Dense Audio Captioning](https://arxiv.org/abs/2608.09559v1)** |  | 2026-08-10 |  |
 | **[MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning](https://arxiv.org/abs/2607.27109v2)** |  | 2026-07-30 |  |
 | **[An Evaluation Framework for Structured Audio Captions Validated by Controlled Perturbations](https://arxiv.org/abs/2607.21424v1)** |  | 2026-07-23 | <details><summary>submi...</summary><p>submitted to DCASE 2026</p></details> |
 | **[CARD: Cross-component Audio Representation Distillation for Encoder-Free Audio Captioning](https://arxiv.org/abs/2607.04619v1)** |  | 2026-07-06 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Locality Matters for Training-Free Audio Token Compression in Audio-Language Models](https://arxiv.org/abs/2605.25179v1)** |  | 2026-05-24 | <details><summary>Prepr...</summary><p>Preprint. 8 pages main text, 10 pages total</p></details> |
 | **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v3)** |  | 2026-04-29 |  |
 | **[Towards Fine-grained Temporal Perception: Post-Training Large Audio-Language Models with Audio-Side Time Prompt](https://arxiv.org/abs/2604.13715v1)** |  | 2026-04-15 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
-| **[Noise-Aware In-Context Learning for Hallucination Mitigation in ALLMs](https://arxiv.org/abs/2604.09021v1)** |  | 2026-04-10 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
