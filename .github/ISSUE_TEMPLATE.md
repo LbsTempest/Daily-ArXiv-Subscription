@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - August 12, 2026
+title: Latest Papers - August 13, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[ASR-Roundtrip Evaluation Can Mask Context- and Convention-Dependent Reading Errors in Chinese News TTS](https://arxiv.org/abs/2608.10606v1)** |  | 2026-08-11 | <details><summary>5 pag...</summary><p>5 pages, 4 tables. Conference-format manuscript. Supporting materials are available at https://github.com/Jayden-X-L/cn-newstts-asr-roundtrip-masking and archived at https://doi.org/10.5281/zenodo.21454402</p></details> |
 | **[Pixel-TTS: Image based Text Rendering for Robust Text-to-Speech](https://arxiv.org/abs/2606.14750v2)** |  | 2026-08-06 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 15 tables</p></details> |
 | **[Best-of-$N$ TTS Evaluation is Confounded by ASR Family Alignment](https://arxiv.org/abs/2607.08256v2)** |  | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 Workshop on Machine Learning for Audio</p></details> |
 | **[DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech](https://arxiv.org/abs/2607.04140v2)** |  | 2026-08-05 | <details><summary>ICML ...</summary><p>ICML 2026 SPIGM Workshop</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Towards Digital Preservation of Efik: TTS for a Low-Resource African Language](https://arxiv.org/abs/2607.04515v1)** |  | 2026-07-05 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted to Interspeech 2026</p></details> |
 | **[LuxSQA: Ask Me in Luxembourgish with TTS-Augmented Spoken Question Answering](https://arxiv.org/abs/2607.02763v1)** |  | 2026-07-02 | <details><summary>7 pag...</summary><p>7 pages, under review</p></details> |
 | **[Towards a Phonology-Informed Evaluation of Multilingual TTS](https://arxiv.org/abs/2607.01965v1)** |  | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2026</p></details> |
-| **[Is Natural Always Appropriate? Investigating Naturalness and Appropriateness Across Different Domains for TTS Evaluation](https://arxiv.org/abs/2606.31729v1)** |  | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at Interspeech 26'</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Toward Fair Speech Technologies: A Comprehensive Survey of Bias and Fairness in Speech AI](https://arxiv.org/abs/2605.01597v2)** |  | 2026-08-11 | <details><summary>73 pa...</summary><p>73 pages, work in progress</p></details> |
+| **[Never Stop Speaking: a Denial-of-Service Attack on End-to-End Speech Language Models](https://arxiv.org/abs/2608.10405v1)** |  | 2026-08-11 |  |
+| **[VoxSumm: A Multilingual Corpus of Long-Form Spoken News for Joint Summarization and Translation](https://arxiv.org/abs/2608.10359v1)** |  | 2026-08-11 |  |
 | **[The Eloquence team submission for task 1 of MLC-SLM challenge](https://arxiv.org/abs/2507.19308v2)** |  | 2026-08-04 | <details><summary>Techn...</summary><p>Technical Report for MLC-SLM Challenge of Interspeech2025</p></details> |
 | **[Separating Decision-Rule Misalignment from Readout-Coverage Limitations in Speech Language Models](https://arxiv.org/abs/2608.06409v1)** |  | 2026-08-03 |  |
 | **[SpeechLLM Meets Federated Learning for End-to-End ASR: English and Italian Case Studies](https://arxiv.org/abs/2607.25716v1)** |  | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted at the 2nd International Conference on Federated Learning and Intelligent Computing Systems (FLICS2026)</p></details> |
@@ -76,6 +79,3 @@ labels: documentation
 | **[An Efficient vLLM-Based Inference Pipeline for Unified Audio Understanding and Generation](https://arxiv.org/abs/2607.02119v1)** |  | 2026-07-02 |  |
 | **[LLM can Read Spectrogram: Encoder-free Speech-Language Modeling](https://arxiv.org/abs/2606.10231v3)** |  | 2026-07-02 |  |
 | **[A Geometric Perspective on Composable Emotion Steering in Text-to-Speech Models](https://arxiv.org/abs/2607.00946v1)** |  | 2026-07-01 |  |
-| **[Categorize Early, Integrate Late: Divergent Processing Strategies in Automatic Speech Recognition](https://arxiv.org/abs/2601.06972v2)** |  | 2026-06-27 | 3 figures, 9 tables |
-| **[HybridCodec: Modeling Discrete and Continuous Representations for Efficient Speech Language Models](https://arxiv.org/abs/2606.27627v1)** |  | 2026-06-26 | Accepted |
-| **[SpeechEQ: Benchmarking Emotional Intelligence Quotient in Socially Aware Voice Conversational Models](https://arxiv.org/abs/2606.25990v1)** |  | 2026-06-24 |  |
