@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - August 13, 2026
+title: Latest Papers - August 14, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Marco-Voice Technical Report](https://arxiv.org/abs/2508.02038v5)** |  | 2026-08-12 | <details><summary>Techn...</summary><p>Technical Report. Our code and dataset are publicly available at https://github.com/AIDC-AI/Marco-Voice and https://huggingface.co/datasets/AIDC-AI/CSEMOTIONS respectively for non-commercial use only</p></details> |
 | **[MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection](https://arxiv.org/abs/2608.09593v1)** |  | 2026-08-10 | 11 pages, 1 figure |
 | **[An Improved Phase Coding Audio Steganography Algorithm](https://arxiv.org/abs/2408.13277v3)** |  | 2026-08-09 | <details><summary>6 pag...</summary><p>6 pages, 6 figures. Substantially revised: adds a measured evaluation over four carriers including real speech, a framing layer with CRC-16 and Hamming(7,4), and a limitations section. Corrects a quantization defect that caused failure on speech. Bibliography expanded from 6 to 23 verified references</p></details> |
 | **[CuteTTS: Efficient and High-Quality Speech Synthesis via Autoregressive Modeling of Continuous Latents](https://arxiv.org/abs/2608.08638v1)** |  | 2026-08-09 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 10 tables. Technical report</p></details> |
@@ -21,11 +22,13 @@ labels: documentation
 | **[Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs](https://arxiv.org/abs/2607.21042v1)** |  | 2026-07-23 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, 3 tables</p></details> |
 | **[FreyaTTS: A Compact Tokenizer-Free Flow-Matching Transformer for Turkish-First Speech Synthesis](https://arxiv.org/abs/2607.09530v2)** |  | 2026-07-22 |  |
 | **[ETPDesigner: Multi-Agent Orchestration for Interactive Multimodal Electronic Theater Program](https://arxiv.org/abs/2607.19947v1)** |  | 2026-07-22 |  |
-| **[StellarTTS: Sparse Temporal Embedding for Low-Latency and Robust Speech Synthesis](https://arxiv.org/abs/2607.19859v1)** |  | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted by ASRU 2025</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Phoenix TTS: High-Fidelity Synthesis and Voice Conversion via Flow-Matching-Driven Speech Tokenization](https://arxiv.org/abs/2608.11737v1)** |  | 2026-08-12 |  |
+| **[Confucius4-TTS: Transcript-Free Cross-Lingual Zero-Shot TTS with a Learnable Speaker Encoder](https://arxiv.org/abs/2608.11650v1)** |  | 2026-08-12 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 6 tables</p></details> |
+| **[Luna-TTS Family Technical Report](https://arxiv.org/abs/2608.11593v1)** |  | 2026-08-12 |  |
 | **[ASR-Roundtrip Evaluation Can Mask Context- and Convention-Dependent Reading Errors in Chinese News TTS](https://arxiv.org/abs/2608.10606v1)** |  | 2026-08-11 | <details><summary>5 pag...</summary><p>5 pages, 4 tables. Conference-format manuscript. Supporting materials are available at https://github.com/Jayden-X-L/cn-newstts-asr-roundtrip-masking and archived at https://doi.org/10.5281/zenodo.21454402</p></details> |
 | **[Pixel-TTS: Image based Text Rendering for Robust Text-to-Speech](https://arxiv.org/abs/2606.14750v2)** |  | 2026-08-06 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 15 tables</p></details> |
 | **[Best-of-$N$ TTS Evaluation is Confounded by ASR Family Alignment](https://arxiv.org/abs/2607.08256v2)** |  | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 Workshop on Machine Learning for Audio</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS](https://arxiv.org/abs/2607.06461v1)** |  | 2026-07-07 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 6 tables; Preprint</p></details> |
 | **[BlueMagpie-TTS: A Token-Efficient Tokenizer, Language Model, and TTS for Taiwanese-Accent Code-Switching Speech](https://arxiv.org/abs/2607.06054v1)** |  | 2026-07-07 |  |
 | **[TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables](https://arxiv.org/abs/2603.07606v2)** |  | 2026-07-06 | <details><summary>to ap...</summary><p>to appear in the proceedings of ICML 2026</p></details> |
-| **[Towards Digital Preservation of Efik: TTS for a Low-Resource African Language](https://arxiv.org/abs/2607.04515v1)** |  | 2026-07-05 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted to Interspeech 2026</p></details> |
-| **[LuxSQA: Ask Me in Luxembourgish with TTS-Augmented Spoken Question Answering](https://arxiv.org/abs/2607.02763v1)** |  | 2026-07-02 | <details><summary>7 pag...</summary><p>7 pages, under review</p></details> |
-| **[Towards a Phonology-Informed Evaluation of Multilingual TTS](https://arxiv.org/abs/2607.01965v1)** |  | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2026</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
