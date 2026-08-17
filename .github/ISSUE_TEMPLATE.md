@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - August 17, 2026
+title: Latest Papers - August 18, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351v2)** |  | 2026-08-14 | <details><summary>16 pa...</summary><p>16 pages, 1 figure, 7 tables. Technical report. Project page: https://tefficlabs.com/teffic-audio</p></details> |
+| **[S2Dialog: Multimodal Dialogue Retrieval with Semantic and Acoustic-Style Modeling](https://arxiv.org/abs/2608.14029v1)** |  | 2026-08-14 |  |
+| **[VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents](https://arxiv.org/abs/2608.13831v1)** |  | 2026-08-13 |  |
 | **[Marco-Voice Technical Report](https://arxiv.org/abs/2508.02038v5)** |  | 2026-08-12 | <details><summary>Techn...</summary><p>Technical Report. Our code and dataset are publicly available at https://github.com/AIDC-AI/Marco-Voice and https://huggingface.co/datasets/AIDC-AI/CSEMOTIONS respectively for non-commercial use only</p></details> |
 | **[MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection](https://arxiv.org/abs/2608.09593v1)** |  | 2026-08-10 | 11 pages, 1 figure |
 | **[An Improved Phase Coding Audio Steganography Algorithm](https://arxiv.org/abs/2408.13277v3)** |  | 2026-08-09 | <details><summary>6 pag...</summary><p>6 pages, 6 figures. Substantially revised: adds a measured evaluation over four carriers including real speech, a framing layer with CRC-16 and Hamming(7,4), and a limitations section. Corrects a quantization defect that caused failure on speech. Bibliography expanded from 6 to 23 verified references</p></details> |
@@ -15,17 +18,15 @@ labels: documentation
 | **[Pixel-TTS: Image based Text Rendering for Robust Text-to-Speech](https://arxiv.org/abs/2606.14750v2)** |  | 2026-08-06 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 15 tables</p></details> |
 | **[JoyAI-Talker: Full-Duplex Speech Interactive Large Model Built for Empathetic Voice Agents](https://arxiv.org/abs/2608.01119v1)** |  | 2026-08-02 |  |
 | **[AuEmoChat: Authentic Emotion Understanding and Rendering for Conversational Speech Synthesis](https://arxiv.org/abs/2607.15755v2)** |  | 2026-07-31 | <details><summary>Accep...</summary><p>Accepted by ACMMM 2026</p></details> |
-| **[Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351v1)** |  | 2026-07-30 | <details><summary>16 pa...</summary><p>16 pages, 1 figure, 7 tables. Technical report. Project page: https://tefficlabs.com/teffic-audio</p></details> |
 | **[Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model](https://arxiv.org/abs/2607.26742v1)** |  | 2026-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables, submitted to IberSPEECH 2026</p></details> |
 | **[Let Me Look at You: Advanced Facial Expression Modeling for Conversational Speech Synthesis](https://arxiv.org/abs/2607.24430v1)** |  | 2026-07-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 5 tables. Accepted by ACM MM 2026</p></details> |
 | **[Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores](https://arxiv.org/abs/2607.21127v1)** |  | 2026-07-23 | In peer review |
 | **[Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs](https://arxiv.org/abs/2607.21042v1)** |  | 2026-07-23 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, 3 tables</p></details> |
-| **[FreyaTTS: A Compact Tokenizer-Free Flow-Matching Transformer for Turkish-First Speech Synthesis](https://arxiv.org/abs/2607.09530v2)** |  | 2026-07-22 |  |
-| **[ETPDesigner: Multi-Agent Orchestration for Interactive Multimodal Electronic Theater Program](https://arxiv.org/abs/2607.19947v1)** |  | 2026-07-22 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents](https://arxiv.org/abs/2608.13831v1)** |  | 2026-08-13 |  |
 | **[Phoenix TTS: High-Fidelity Synthesis and Voice Conversion via Flow-Matching-Driven Speech Tokenization](https://arxiv.org/abs/2608.11737v1)** |  | 2026-08-12 |  |
 | **[Confucius4-TTS: Transcript-Free Cross-Lingual Zero-Shot TTS with a Learnable Speaker Encoder](https://arxiv.org/abs/2608.11650v1)** |  | 2026-08-12 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 6 tables</p></details> |
 | **[Luna-TTS Family Technical Report](https://arxiv.org/abs/2608.11593v1)** |  | 2026-08-12 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[VoxENES 2026: Benchmarking Generalization of Speech Spoofing Detectors Against LLM-Era TTS and Voice Conversion](https://arxiv.org/abs/2607.11706v1)** |  | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted in InterSpeech 2026</p></details> |
 | **[WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS](https://arxiv.org/abs/2607.06461v1)** |  | 2026-07-07 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 6 tables; Preprint</p></details> |
 | **[BlueMagpie-TTS: A Token-Efficient Tokenizer, Language Model, and TTS for Taiwanese-Accent Code-Switching Speech](https://arxiv.org/abs/2607.06054v1)** |  | 2026-07-07 |  |
-| **[TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables](https://arxiv.org/abs/2603.07606v2)** |  | 2026-07-06 | <details><summary>to ap...</summary><p>to appear in the proceedings of ICML 2026</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Leading-Silence Augmentation and Multi-Stage Synthetic Supervision for the Second MLC-SLM Challenge](https://arxiv.org/abs/2608.14150v1)** |  | 2026-08-14 |  |
+| **[VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents](https://arxiv.org/abs/2608.13831v1)** |  | 2026-08-13 |  |
 | **[Toward Fair Speech Technologies: A Comprehensive Survey of Bias and Fairness in Speech AI](https://arxiv.org/abs/2605.01597v2)** |  | 2026-08-11 | <details><summary>73 pa...</summary><p>73 pages, work in progress</p></details> |
 | **[Never Stop Speaking: a Denial-of-Service Attack on End-to-End Speech Language Models](https://arxiv.org/abs/2608.10405v1)** |  | 2026-08-11 |  |
 | **[VoxSumm: A Multilingual Corpus of Long-Form Spoken News for Joint Summarization and Translation](https://arxiv.org/abs/2608.10359v1)** |  | 2026-08-11 |  |
@@ -77,5 +79,3 @@ labels: documentation
 | **[Speaker-Disentangled Chunk-Wise Regression for Syllabic Tokenization](https://arxiv.org/abs/2607.04064v1)** |  | 2026-07-05 | <details><summary>Accep...</summary><p>Accepted by IEEE Open Journal of Signal Processing (OJSP), 10 pages, 4 figures</p></details> |
 | **[Unlocking Speech-Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning](https://arxiv.org/abs/2607.02214v1)** |  | 2026-07-02 |  |
 | **[An Efficient vLLM-Based Inference Pipeline for Unified Audio Understanding and Generation](https://arxiv.org/abs/2607.02119v1)** |  | 2026-07-02 |  |
-| **[LLM can Read Spectrogram: Encoder-free Speech-Language Modeling](https://arxiv.org/abs/2606.10231v3)** |  | 2026-07-02 |  |
-| **[A Geometric Perspective on Composable Emotion Steering in Text-to-Speech Models](https://arxiv.org/abs/2607.00946v1)** |  | 2026-07-01 |  |
