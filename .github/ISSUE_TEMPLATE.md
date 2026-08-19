@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - August 19, 2026
+title: Latest Papers - August 20, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,12 +7,13 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SpeechSense: A Paralinguistic-Focused Dataset for Fine-Grained Speech Sentiment Analysis](https://arxiv.org/abs/2608.17931v1)** |  | 2026-08-18 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 5 tables. Accepted to ACM Multimedia 2026 (Dataset Track). Dataset and code: https://github.com/Sher13cked/SpeechSense</p></details> |
+| **[Marco-Voice Technical Report](https://arxiv.org/abs/2508.02038v6)** |  | 2026-08-18 | <details><summary>Techn...</summary><p>Technical Report. Our code and dataset are publicly available at https://github.com/AIDC-AI/Marco-Voice and https://huggingface.co/datasets/AIDC-AI/CSEMOTIONS respectively for non-commercial use only</p></details> |
 | **[Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores](https://arxiv.org/abs/2607.21127v2)** |  | 2026-08-17 | <details><summary>Accep...</summary><p>Accepted @ DFF-Workshop, ACM Multimedia 2026</p></details> |
 | **[Iterative Self-Learning for Expressive Text-to-Speech Synthesis](https://arxiv.org/abs/2608.15910v1)** |  | 2026-08-16 |  |
 | **[Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351v2)** |  | 2026-08-14 | <details><summary>16 pa...</summary><p>16 pages, 1 figure, 7 tables. Technical report. Project page: https://tefficlabs.com/teffic-audio</p></details> |
 | **[S2Dialog: Multimodal Dialogue Retrieval with Semantic and Acoustic-Style Modeling](https://arxiv.org/abs/2608.14029v1)** |  | 2026-08-14 |  |
 | **[VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents](https://arxiv.org/abs/2608.13831v1)** |  | 2026-08-13 |  |
-| **[Marco-Voice Technical Report](https://arxiv.org/abs/2508.02038v5)** |  | 2026-08-12 | <details><summary>Techn...</summary><p>Technical Report. Our code and dataset are publicly available at https://github.com/AIDC-AI/Marco-Voice and https://huggingface.co/datasets/AIDC-AI/CSEMOTIONS respectively for non-commercial use only</p></details> |
 | **[MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection](https://arxiv.org/abs/2608.09593v1)** |  | 2026-08-10 | 11 pages, 1 figure |
 | **[An Improved Phase Coding Audio Steganography Algorithm](https://arxiv.org/abs/2408.13277v3)** |  | 2026-08-09 | <details><summary>6 pag...</summary><p>6 pages, 6 figures. Substantially revised: adds a measured evaluation over four carriers including real speech, a framing layer with CRC-16 and Hamming(7,4), and a limitations section. Corrects a quantization defect that caused failure on speech. Bibliography expanded from 6 to 23 verified references</p></details> |
 | **[CuteTTS: Efficient and High-Quality Speech Synthesis via Autoregressive Modeling of Continuous Latents](https://arxiv.org/abs/2608.08638v1)** |  | 2026-08-09 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 10 tables. Technical report</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[JoyAI-Talker: Full-Duplex Speech Interactive Large Model Built for Empathetic Voice Agents](https://arxiv.org/abs/2608.01119v1)** |  | 2026-08-02 |  |
 | **[AuEmoChat: Authentic Emotion Understanding and Rendering for Conversational Speech Synthesis](https://arxiv.org/abs/2607.15755v2)** |  | 2026-07-31 | <details><summary>Accep...</summary><p>Accepted by ACMMM 2026</p></details> |
 | **[Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model](https://arxiv.org/abs/2607.26742v1)** |  | 2026-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables, submitted to IberSPEECH 2026</p></details> |
-| **[Let Me Look at You: Advanced Facial Expression Modeling for Conversational Speech Synthesis](https://arxiv.org/abs/2607.24430v1)** |  | 2026-07-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 5 tables. Accepted by ACM MM 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
