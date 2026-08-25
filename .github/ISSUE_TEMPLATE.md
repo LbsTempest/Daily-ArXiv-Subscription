@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - August 25, 2026
+title: Latest Papers - August 26, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[AudioNoisePrints: Model-free audio watermarking using spatial correlation in flow matching TTS](https://arxiv.org/abs/2608.22186v1)** |  | 2026-08-23 |  |
 | **[Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons](https://arxiv.org/abs/2608.20822v1)** |  | 2026-08-21 |  |
 | **[Chatterbox-Flash: Prior-Calibrated Block Diffusion for Streaming Zero-Shot TTS](https://arxiv.org/abs/2605.30748v3)** |  | 2026-08-21 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 9 tables</p></details> |
 | **[TT-net: Quantum Inspired Tensor Network Denoising in Conditional GANs](https://arxiv.org/abs/2608.19789v1)** |  | 2026-08-20 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech](https://arxiv.org/abs/2607.04140v2)** |  | 2026-08-05 | <details><summary>ICML ...</summary><p>ICML 2026 SPIGM Workshop</p></details> |
 | **[Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model](https://arxiv.org/abs/2607.26742v1)** |  | 2026-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables, submitted to IberSPEECH 2026</p></details> |
 | **[Harness TTS: Towards Context-Aware Expressive Speech Synthesis with Harness Layer](https://arxiv.org/abs/2607.17900v2)** |  | 2026-07-21 |  |
-| **[Re-Sonance: A Dysarthric Asynchronous Real-Time Speech Conversion System Based on a Three-Stage Cascaded ASR-LLM-TTS Architecture](https://arxiv.org/abs/2607.17615v1)** |  | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted by NCMMSC 2025</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
