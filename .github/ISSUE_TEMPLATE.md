@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - August 27, 2026
+title: Latest Papers - August 28, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,8 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation](https://arxiv.org/abs/2608.24168v2)** |  | 2026-08-27 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. In this revision, the author list is ordered alphabetically by given name and an author-contribution statement is added; the technical content is unchanged</p></details> |
 | **[CuteTTS: Efficient and High-Quality Speech Synthesis via Autoregressive Modeling of Continuous Latents](https://arxiv.org/abs/2608.08638v2)** |  | 2026-08-26 |  |
-| **[FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation](https://arxiv.org/abs/2608.24168v1)** |  | 2026-08-25 | 20 pages, 3 figures |
 | **[EmoTra-TTS: Smooth Intra-Utterance Emotion Transitions for Speech Synthesis](https://arxiv.org/abs/2608.23791v1)** |  | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
 | **[Tracking the Trend in How Speech Synthesizers Deceive People](https://arxiv.org/abs/2608.19959v1)** |  | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted at the 6th Symposium on Security and Privacy in Speech Communication (SPSC 2026)</p></details> |
 | **[SpeechSense: A Paralinguistic-Focused Dataset for Fine-Grained Speech Sentiment Analysis](https://arxiv.org/abs/2608.17931v1)** |  | 2026-08-18 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 5 tables. Accepted to ACM Multimedia 2026 (Dataset Track). Dataset and code: https://github.com/Sher13cked/SpeechSense</p></details> |
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Scaling phoneme-based TTS augmentation for ASR: A unified pipeline and controlled study](https://arxiv.org/abs/2608.26697v1)** |  | 2026-08-27 |  |
 | **[EmoTra-TTS: Smooth Intra-Utterance Emotion Transitions for Speech Synthesis](https://arxiv.org/abs/2608.23791v1)** |  | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
 | **[AudioNoisePrints: Model-free audio watermarking using spatial correlation in flow matching TTS](https://arxiv.org/abs/2608.22186v1)** |  | 2026-08-23 |  |
 | **[Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons](https://arxiv.org/abs/2608.20822v1)** |  | 2026-08-21 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Pixel-TTS: Image based Text Rendering for Robust Text-to-Speech](https://arxiv.org/abs/2606.14750v2)** |  | 2026-08-06 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 15 tables</p></details> |
 | **[Best-of-$N$ TTS Evaluation is Confounded by ASR Family Alignment](https://arxiv.org/abs/2607.08256v2)** |  | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 Workshop on Machine Learning for Audio</p></details> |
 | **[DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech](https://arxiv.org/abs/2607.04140v2)** |  | 2026-08-05 | <details><summary>ICML ...</summary><p>ICML 2026 SPIGM Workshop</p></details> |
-| **[Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model](https://arxiv.org/abs/2607.26742v1)** |  | 2026-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables, submitted to IberSPEECH 2026</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
