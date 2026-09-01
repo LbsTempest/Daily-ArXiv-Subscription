@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - August 31, 2026
+title: Latest Papers - September 01, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[UltraVoice: Scaling Fine-Grained Style-Controlled Speech Conversations for Spoken Dialogue Models](https://arxiv.org/abs/2510.22588v2)** |  | 2026-08-29 | EMNLP 2026 Findings |
 | **[FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation](https://arxiv.org/abs/2608.24168v2)** |  | 2026-08-27 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. In this revision, the author list is ordered alphabetically by given name and an author-contribution statement is added; the technical content is unchanged</p></details> |
 | **[CuteTTS: Efficient and High-Quality Speech Synthesis via Autoregressive Modeling of Continuous Latents](https://arxiv.org/abs/2608.08638v2)** |  | 2026-08-26 |  |
 | **[EmoTra-TTS: Smooth Intra-Utterance Emotion Transitions for Speech Synthesis](https://arxiv.org/abs/2608.23791v1)** |  | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection](https://arxiv.org/abs/2608.09593v1)** |  | 2026-08-10 | 11 pages, 1 figure |
 | **[An Improved Phase Coding Audio Steganography Algorithm](https://arxiv.org/abs/2408.13277v3)** |  | 2026-08-09 | <details><summary>6 pag...</summary><p>6 pages, 6 figures. Substantially revised: adds a measured evaluation over four carriers including real speech, a framing layer with CRC-16 and Hamming(7,4), and a limitations section. Corrects a quantization defect that caused failure on speech. Bibliography expanded from 6 to 23 verified references</p></details> |
 | **[CtrlSpeech: Coarse-to-Fine Control for Expressive Speech Synthesis](https://arxiv.org/abs/2608.08362v1)** |  | 2026-08-08 | <details><summary>Inter...</summary><p>Interspeech 2026. Demo, code and model weights are available at https://zhishengzheng.com/ctrlspeech</p></details> |
-| **[Pixel-TTS: Image based Text Rendering for Robust Text-to-Speech](https://arxiv.org/abs/2606.14750v2)** |  | 2026-08-06 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 15 tables</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Diagnose, Then Refine: A Closed-Loop TTS System with AudioLLM-Guided Correction](https://arxiv.org/abs/2608.28970v1)** |  | 2026-08-29 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 main conference</p></details> |
 | **[Scaling phoneme-based TTS augmentation for ASR: A unified pipeline and controlled study](https://arxiv.org/abs/2608.26697v1)** |  | 2026-08-27 |  |
 | **[EmoTra-TTS: Smooth Intra-Utterance Emotion Transitions for Speech Synthesis](https://arxiv.org/abs/2608.23791v1)** |  | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
 | **[AudioNoisePrints: Model-free audio watermarking using spatial correlation in flow matching TTS](https://arxiv.org/abs/2608.22186v1)** |  | 2026-08-23 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[ASR-Roundtrip Evaluation Can Mask Context- and Convention-Dependent Reading Errors in Chinese News TTS](https://arxiv.org/abs/2608.10606v1)** |  | 2026-08-11 | <details><summary>5 pag...</summary><p>5 pages, 4 tables. Conference-format manuscript. Supporting materials are available at https://github.com/Jayden-X-L/cn-newstts-asr-roundtrip-masking and archived at https://doi.org/10.5281/zenodo.21454402</p></details> |
 | **[Pixel-TTS: Image based Text Rendering for Robust Text-to-Speech](https://arxiv.org/abs/2606.14750v2)** |  | 2026-08-06 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 15 tables</p></details> |
 | **[Best-of-$N$ TTS Evaluation is Confounded by ASR Family Alignment](https://arxiv.org/abs/2607.08256v2)** |  | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 Workshop on Machine Learning for Audio</p></details> |
-| **[DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech](https://arxiv.org/abs/2607.04140v2)** |  | 2026-08-05 | <details><summary>ICML ...</summary><p>ICML 2026 SPIGM Workshop</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[HEAR Who Said What: Unlocking Speaker-Attributed Reasoning via Counterfactual Voice Grounding](https://arxiv.org/abs/2608.29120v1)** |  | 2026-08-29 | <details><summary>EMNLP...</summary><p>EMNLP2026 Main Conference</p></details> |
+| **[FastSLM: Hierarchical Temporal Abstraction for Efficient Long-Form Speech Adaptation](https://arxiv.org/abs/2601.06199v4)** |  | 2026-08-28 | Contents updated |
 | **[VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction](https://arxiv.org/abs/2608.26005v1)** |  | 2026-08-26 | <details><summary>18 pa...</summary><p>18 pages, 9 figures, 6 tables</p></details> |
 | **[Leading-Silence Augmentation and Multi-Stage Synthetic Supervision for the Second MLC-SLM Challenge](https://arxiv.org/abs/2608.14150v1)** |  | 2026-08-14 |  |
 | **[VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents](https://arxiv.org/abs/2608.13831v1)** |  | 2026-08-13 |  |
@@ -77,5 +79,3 @@ labels: documentation
 | **[Do Speech Tokens Leak Voiceprints? Speaker Inversion Attacks Against End-to-End Speech Language Models](https://arxiv.org/abs/2607.16870v1)** |  | 2026-07-18 |  |
 | **[Hearing Like Humans? Sound Symbolism and Perceptual Alignment in Speech Language Models](https://arxiv.org/abs/2607.10162v1)** |  | 2026-07-11 | <details><summary>Submi...</summary><p>Submitted to SLT 2026</p></details> |
 | **[SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models](https://arxiv.org/abs/2607.05365v1)** |  | 2026-07-06 | <details><summary>Corre...</summary><p>Corresponding Website: https://thomasthebaud.github.io/SPEAR-benchmark-website/#welcome</p></details> |
-| **[Speaker-Disentangled Chunk-Wise Regression for Syllabic Tokenization](https://arxiv.org/abs/2607.04064v1)** |  | 2026-07-05 | <details><summary>Accep...</summary><p>Accepted by IEEE Open Journal of Signal Processing (OJSP), 10 pages, 4 figures</p></details> |
-| **[Unlocking Speech-Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning](https://arxiv.org/abs/2607.02214v1)** |  | 2026-07-02 |  |
