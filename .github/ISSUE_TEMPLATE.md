@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 02, 2026
+title: Latest Papers - September 03, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Phrase-Localized Language-Contrastive Guidance: Training-Free Localized Accent Control for Code-Switching Text-to-Speech](https://arxiv.org/abs/2609.01016v1)** |  | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). Demo: https://saga1214.github.io/PhraseLocalizedLCG/</p></details> |
+| **[Conversation Coach: A Voice-enabled AI System that Helps Practice Difficult Workplace Conversations](https://arxiv.org/abs/2609.00441v1)** |  | 2026-08-31 |  |
 | **[UltraVoice: Scaling Fine-Grained Style-Controlled Speech Conversations for Spoken Dialogue Models](https://arxiv.org/abs/2510.22588v2)** |  | 2026-08-29 | EMNLP 2026 Findings |
 | **[FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation](https://arxiv.org/abs/2608.24168v2)** |  | 2026-08-27 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. In this revision, the author list is ordered alphabetically by given name and an author-contribution statement is added; the technical content is unchanged</p></details> |
 | **[CuteTTS: Efficient and High-Quality Speech Synthesis via Autoregressive Modeling of Continuous Latents](https://arxiv.org/abs/2608.08638v2)** |  | 2026-08-26 |  |
@@ -20,12 +22,15 @@ labels: documentation
 | **[S2Dialog: Multimodal Dialogue Retrieval with Semantic and Acoustic-Style Modeling](https://arxiv.org/abs/2608.14029v1)** |  | 2026-08-14 |  |
 | **[VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents](https://arxiv.org/abs/2608.13831v1)** |  | 2026-08-13 |  |
 | **[MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection](https://arxiv.org/abs/2608.09593v1)** |  | 2026-08-10 | 11 pages, 1 figure |
-| **[An Improved Phase Coding Audio Steganography Algorithm](https://arxiv.org/abs/2408.13277v3)** |  | 2026-08-09 | <details><summary>6 pag...</summary><p>6 pages, 6 figures. Substantially revised: adds a measured evaluation over four carriers including real speech, a framing layer with CRC-16 and Hamming(7,4), and a limitations section. Corrects a quantization defect that caused failure on speech. Bibliography expanded from 6 to 23 verified references</p></details> |
-| **[CtrlSpeech: Coarse-to-Fine Control for Expressive Speech Synthesis](https://arxiv.org/abs/2608.08362v1)** |  | 2026-08-08 | <details><summary>Inter...</summary><p>Interspeech 2026. Demo, code and model weights are available at https://zhishengzheng.com/ctrlspeech</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Scalable Direction-Following TTS via Voice Impression-Guided Pseudo Triplet Construction](https://arxiv.org/abs/2609.02623v1)** |  | 2026-09-02 | <details><summary>5 pag...</summary><p>5 pages,4 figures, Accepted to INTERSPEECH 2026</p></details> |
+| **[Backdoor Attacks on Speech Emotion Recognition via TTS-Generated Poisoning](https://arxiv.org/abs/2606.21052v2)** |  | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted by IEEE Cyber AI 2026. This is the author preprint version</p></details> |
+| **[Hearing the Whispers: Black-Box Membership Inference Attacks on Finetuned TTS Models](https://arxiv.org/abs/2609.01723v1)** |  | 2026-09-01 | 18 pages |
+| **[Self-EmoQ: Plutchik-Guided Value-based Planning to Drive Streaming Emotional TTS](https://arxiv.org/abs/2606.09837v2)** |  | 2026-09-01 | ACL 2026 Findings |
+| **[Ready to Speak: Aligning LLMs for TTS-Friendly Text Generation](https://arxiv.org/abs/2609.01246v1)** |  | 2026-09-01 | <details><summary>EMNLP...</summary><p>EMNLP 2026 - Main Conference</p></details> |
 | **[Sequential Trajectories and Simultaneous Blending: Multi-Emotion Modeling for Instruction-Following TTS](https://arxiv.org/abs/2608.30325v1)** |  | 2026-08-31 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ictnlp/HybridEmo. Demo page: https://zhouyan19.github.io/HybridEmo-demo/</p></details> |
 | **[Joycent: Multi-Accent TTS via Disentangled Accent Modeling and Layer-Specific Conditioning](https://arxiv.org/abs/2606.16417v4)** |  | 2026-08-30 |  |
 | **[Diagnose, Then Refine: A Closed-Loop TTS System with AudioLLM-Guided Correction](https://arxiv.org/abs/2608.28970v1)** |  | 2026-08-29 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 main conference</p></details> |
@@ -36,15 +41,11 @@ labels: documentation
 | **[Chatterbox-Flash: Prior-Calibrated Block Diffusion for Streaming Zero-Shot TTS](https://arxiv.org/abs/2605.30748v3)** |  | 2026-08-21 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 9 tables</p></details> |
 | **[TT-net: Quantum Inspired Tensor Network Denoising in Conditional GANs](https://arxiv.org/abs/2608.19789v1)** |  | 2026-08-20 |  |
 | **[X2Streaming-TTS: Causal Token-Level Text-to-Speech from Streaming Text with Speech-State Inheritance](https://arxiv.org/abs/2608.18661v1)** |  | 2026-08-19 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 4 tables. Equal contribution by Rime Wen and Zehan Liu. Corresponding author: Hao Wang. Code: https://github.com/X-Square-Robot/X2Streaming-TTS</p></details> |
-| **[VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents](https://arxiv.org/abs/2608.13831v1)** |  | 2026-08-13 |  |
-| **[Phoenix TTS: High-Fidelity Synthesis and Voice Conversion via Flow-Matching-Driven Speech Tokenization](https://arxiv.org/abs/2608.11737v1)** |  | 2026-08-12 |  |
-| **[Confucius4-TTS: Transcript-Free Cross-Lingual Zero-Shot TTS with a Learnable Speaker Encoder](https://arxiv.org/abs/2608.11650v1)** |  | 2026-08-12 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 6 tables</p></details> |
-| **[Luna-TTS Family Technical Report](https://arxiv.org/abs/2608.11593v1)** |  | 2026-08-12 |  |
-| **[ASR-Roundtrip Evaluation Can Mask Context- and Convention-Dependent Reading Errors in Chinese News TTS](https://arxiv.org/abs/2608.10606v1)** |  | 2026-08-11 | <details><summary>5 pag...</summary><p>5 pages, 4 tables. Conference-format manuscript. Supporting materials are available at https://github.com/Jayden-X-L/cn-newstts-asr-roundtrip-masking and archived at https://doi.org/10.5281/zenodo.21454402</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SonicCaps: Large-Scale Diverse and Fine-Grained Captioning for Improved Audio-Retrieval](https://arxiv.org/abs/2609.02343v1)** |  | 2026-09-02 |  |
 | **[Closing the Verification Loop: Self-Check Captioning for Long-Paragraph Detailed Audio Captioning](https://arxiv.org/abs/2608.30713v1)** |  | 2026-08-31 | EMNLP2026 |
 | **[TEMPO: Temporally-grounded Multi-task Post-training for Large Audio-Language Models](https://arxiv.org/abs/2608.29999v1)** |  | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Main Conference. Project page - https://kaousheik-26.github.io/tempo</p></details> |
 | **[How Well Do Generative Music Models Follow Emotion Conditioning?](https://arxiv.org/abs/2608.29987v1)** |  | 2026-08-30 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 2 tables</p></details> |
@@ -59,11 +60,11 @@ labels: documentation
 | **[Taming Text-to-Sounding Video Generation via Advanced Modality Condition and Interaction](https://arxiv.org/abs/2510.03117v2)** |  | 2026-06-26 | <details><summary>The 1...</summary><p>The 19th European Conference on Computer Vision -- ECCV 2026</p></details> |
 | **[Aligning Audio Captions with Human Preferences](https://arxiv.org/abs/2509.14659v3)** |  | 2026-06-23 | <details><summary>This ...</summary><p>This paper has been accepted to INTERSPEECH 2026</p></details> |
 | **[Making the Most of Limited Data: Score-Aware Training for Text-to-Music Generation](https://arxiv.org/abs/2606.07387v1)** |  | 2026-06-05 |  |
-| **[MOSS-Audio Technical Report](https://arxiv.org/abs/2606.01802v3)** |  | 2026-06-05 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[MELD: Mel-Spectrogram-Based Speech Language Modeling with Discrete Latent Variables](https://arxiv.org/abs/2605.29859v2)** |  | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (main conference)</p></details> |
 | **[When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language Models](https://arxiv.org/abs/2608.31035v1)** |  | 2026-08-31 | <details><summary>Submi...</summary><p>Submitted to EMNLP 2026</p></details> |
 | **[Stride-k Subsampling: Train-Free Audio Token Reduction for Whisper](https://arxiv.org/abs/2608.30927v1)** |  | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted EMNLP 2026 Main</p></details> |
 | **[FastSLM: Hierarchical Temporal Abstraction for Efficient Long-Form Speech Adaptation](https://arxiv.org/abs/2601.06199v5)** |  | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026, page 2</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[VoxSumm: A Multilingual Corpus of Long-Form Spoken News for Joint Summarization and Translation](https://arxiv.org/abs/2608.10359v1)** |  | 2026-08-11 |  |
 | **[The Eloquence team submission for task 1 of MLC-SLM challenge](https://arxiv.org/abs/2507.19308v2)** |  | 2026-08-04 | <details><summary>Techn...</summary><p>Technical Report for MLC-SLM Challenge of Interspeech2025</p></details> |
 | **[Separating Decision-Rule Misalignment from Readout-Coverage Limitations in Speech Language Models](https://arxiv.org/abs/2608.06409v1)** |  | 2026-08-03 |  |
-| **[SpeechLLM Meets Federated Learning for End-to-End ASR: English and Italian Case Studies](https://arxiv.org/abs/2607.25716v1)** |  | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted at the 2nd International Conference on Federated Learning and Intelligent Computing Systems (FLICS2026)</p></details> |
