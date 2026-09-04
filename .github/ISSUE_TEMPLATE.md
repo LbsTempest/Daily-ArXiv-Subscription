@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 03, 2026
+title: Latest Papers - September 04, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Building and Evaluating Fixed-Voice Thai TTS from Synthetic Speech](https://arxiv.org/abs/2609.03502v1)** |  | 2026-09-03 | <details><summary>18 pa...</summary><p>18 pages, technical report</p></details> |
 | **[Scalable Direction-Following TTS via Voice Impression-Guided Pseudo Triplet Construction](https://arxiv.org/abs/2609.02623v1)** |  | 2026-09-02 | <details><summary>5 pag...</summary><p>5 pages,4 figures, Accepted to INTERSPEECH 2026</p></details> |
 | **[Backdoor Attacks on Speech Emotion Recognition via TTS-Generated Poisoning](https://arxiv.org/abs/2606.21052v2)** |  | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted by IEEE Cyber AI 2026. This is the author preprint version</p></details> |
 | **[Hearing the Whispers: Black-Box Membership Inference Attacks on Finetuned TTS Models](https://arxiv.org/abs/2609.01723v1)** |  | 2026-09-01 | 18 pages |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons](https://arxiv.org/abs/2608.20822v1)** |  | 2026-08-21 |  |
 | **[Chatterbox-Flash: Prior-Calibrated Block Diffusion for Streaming Zero-Shot TTS](https://arxiv.org/abs/2605.30748v3)** |  | 2026-08-21 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 9 tables</p></details> |
 | **[TT-net: Quantum Inspired Tensor Network Denoising in Conditional GANs](https://arxiv.org/abs/2608.19789v1)** |  | 2026-08-20 |  |
-| **[X2Streaming-TTS: Causal Token-Level Text-to-Speech from Streaming Text with Speech-State Inheritance](https://arxiv.org/abs/2608.18661v1)** |  | 2026-08-19 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 4 tables. Equal contribution by Rime Wen and Zehan Liu. Corresponding author: Hao Wang. Code: https://github.com/X-Square-Robot/X2Streaming-TTS</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[VoxPrivacy: A Benchmark for Evaluating Interactional Privacy of Speech Language Models](https://arxiv.org/abs/2601.19956v2)** |  | 2026-09-03 |  |
+| **[ParaBridge: Bridging Paralinguistic Perception and Dialogue Behavior in Speech Language Models](https://arxiv.org/abs/2606.10581v2)** |  | 2026-09-03 |  |
 | **[MELD: Mel-Spectrogram-Based Speech Language Modeling with Discrete Latent Variables](https://arxiv.org/abs/2605.29859v2)** |  | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (main conference)</p></details> |
 | **[When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language Models](https://arxiv.org/abs/2608.31035v1)** |  | 2026-08-31 | <details><summary>Submi...</summary><p>Submitted to EMNLP 2026</p></details> |
 | **[Stride-k Subsampling: Train-Free Audio Token Reduction for Whisper](https://arxiv.org/abs/2608.30927v1)** |  | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted EMNLP 2026 Main</p></details> |
@@ -77,5 +79,3 @@ labels: documentation
 | **[Toward Fair Speech Technologies: A Comprehensive Survey of Bias and Fairness in Speech AI](https://arxiv.org/abs/2605.01597v2)** |  | 2026-08-11 | <details><summary>73 pa...</summary><p>73 pages, work in progress</p></details> |
 | **[Never Stop Speaking: a Denial-of-Service Attack on End-to-End Speech Language Models](https://arxiv.org/abs/2608.10405v1)** |  | 2026-08-11 |  |
 | **[VoxSumm: A Multilingual Corpus of Long-Form Spoken News for Joint Summarization and Translation](https://arxiv.org/abs/2608.10359v1)** |  | 2026-08-11 |  |
-| **[The Eloquence team submission for task 1 of MLC-SLM challenge](https://arxiv.org/abs/2507.19308v2)** |  | 2026-08-04 | <details><summary>Techn...</summary><p>Technical Report for MLC-SLM Challenge of Interspeech2025</p></details> |
-| **[Separating Decision-Rule Misalignment from Readout-Coverage Limitations in Speech Language Models](https://arxiv.org/abs/2608.06409v1)** |  | 2026-08-03 |  |
