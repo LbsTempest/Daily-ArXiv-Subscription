@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 07, 2026
+title: Latest Papers - September 08, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Brain2Speech-Net: Intelligible, Real-Time Brain-to-Speech Synthesis Without Text Decoding](https://arxiv.org/abs/2609.04455v1)** |  | 2026-09-03 |  |
 | **[Phrase-Localized Language-Contrastive Guidance: Training-Free Localized Accent Control for Code-Switching Text-to-Speech](https://arxiv.org/abs/2609.01016v1)** |  | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). Demo: https://saga1214.github.io/PhraseLocalizedLCG/</p></details> |
 | **[Conversation Coach: A Voice-enabled AI System that Helps Practice Difficult Workplace Conversations](https://arxiv.org/abs/2609.00441v1)** |  | 2026-08-31 |  |
 | **[UltraVoice: Scaling Fine-Grained Style-Controlled Speech Conversations for Spoken Dialogue Models](https://arxiv.org/abs/2510.22588v2)** |  | 2026-08-29 | EMNLP 2026 Findings |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351v2)** |  | 2026-08-14 | <details><summary>16 pa...</summary><p>16 pages, 1 figure, 7 tables. Technical report. Project page: https://tefficlabs.com/teffic-audio</p></details> |
 | **[S2Dialog: Multimodal Dialogue Retrieval with Semantic and Acoustic-Style Modeling](https://arxiv.org/abs/2608.14029v1)** |  | 2026-08-14 |  |
 | **[VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents](https://arxiv.org/abs/2608.13831v1)** |  | 2026-08-13 |  |
-| **[MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection](https://arxiv.org/abs/2608.09593v1)** |  | 2026-08-10 | 11 pages, 1 figure |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models](https://arxiv.org/abs/2510.04593v4)** |  | 2026-09-04 | <details><summary>accep...</summary><p>accepted at interspeech2026</p></details> |
 | **[Building and Evaluating Fixed-Voice Thai TTS from Synthetic Speech](https://arxiv.org/abs/2609.03502v1)** |  | 2026-09-03 | <details><summary>18 pa...</summary><p>18 pages, technical report</p></details> |
 | **[Scalable Direction-Following TTS via Voice Impression-Guided Pseudo Triplet Construction](https://arxiv.org/abs/2609.02623v1)** |  | 2026-09-02 | <details><summary>5 pag...</summary><p>5 pages,4 figures, Accepted to INTERSPEECH 2026</p></details> |
 | **[Backdoor Attacks on Speech Emotion Recognition via TTS-Generated Poisoning](https://arxiv.org/abs/2606.21052v2)** |  | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted by IEEE Cyber AI 2026. This is the author preprint version</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[AudioNoisePrints: Model-free audio watermarking using spatial correlation in flow matching TTS](https://arxiv.org/abs/2608.22186v1)** |  | 2026-08-23 |  |
 | **[Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons](https://arxiv.org/abs/2608.20822v1)** |  | 2026-08-21 |  |
 | **[Chatterbox-Flash: Prior-Calibrated Block Diffusion for Streaming Zero-Shot TTS](https://arxiv.org/abs/2605.30748v3)** |  | 2026-08-21 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 9 tables</p></details> |
-| **[TT-net: Quantum Inspired Tensor Network Denoising in Conditional GANs](https://arxiv.org/abs/2608.19789v1)** |  | 2026-08-20 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
