@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 10, 2026
+title: Latest Papers - September 11, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Deterministic Prompting for Speaker-Stable Low-Resource Greek TTS](https://arxiv.org/abs/2609.10022v1)** |  | 2026-09-09 | Interspeech 2026 |
+| **[Scaling phoneme-based TTS augmentation for ASR: A unified pipeline and controlled study](https://arxiv.org/abs/2608.26697v2)** |  | 2026-09-09 |  |
+| **[X2-NativeCursor: Native-Token Text Progress Tracking for Incremental-Text Streaming Codec TTS](https://arxiv.org/abs/2609.09677v1)** |  | 2026-09-09 |  |
 | **[Stabilizing Instruction Supervision for Instruct-TTS via Controllable Diversification and Drift Filtering](https://arxiv.org/abs/2609.08204v1)** |  | 2026-09-08 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 5 tables. Audio demos: https://piedpiperg.github.io/instruct-tts-stabilizer/#audio-demos</p></details> |
 | **[CTC-TTS: LLM-based dual-streaming text-to-speech with CTC alignment](https://arxiv.org/abs/2602.19574v2)** |  | 2026-09-07 | <details><summary>Fix t...</summary><p>Fix two typos in Figure 2 in INTERSPEECH 2026 version</p></details> |
 | **[KABURI-TTS: Phoneme-Keyed Activity-conditioned Bi-channel Utterance Rendering for Interaction](https://arxiv.org/abs/2609.07200v1)** |  | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted at APSIPA ASC 2026</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Ready to Speak: Aligning LLMs for TTS-Friendly Text Generation](https://arxiv.org/abs/2609.01246v1)** |  | 2026-09-01 | <details><summary>EMNLP...</summary><p>EMNLP 2026 - Main Conference</p></details> |
 | **[Sequential Trajectories and Simultaneous Blending: Multi-Emotion Modeling for Instruction-Following TTS](https://arxiv.org/abs/2608.30325v1)** |  | 2026-08-31 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ictnlp/HybridEmo. Demo page: https://zhouyan19.github.io/HybridEmo-demo/</p></details> |
 | **[Joycent: Multi-Accent TTS via Disentangled Accent Modeling and Layer-Specific Conditioning](https://arxiv.org/abs/2606.16417v4)** |  | 2026-08-30 |  |
-| **[Diagnose, Then Refine: A Closed-Loop TTS System with AudioLLM-Guided Correction](https://arxiv.org/abs/2608.28970v1)** |  | 2026-08-29 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 main conference</p></details> |
-| **[Scaling phoneme-based TTS augmentation for ASR: A unified pipeline and controlled study](https://arxiv.org/abs/2608.26697v1)** |  | 2026-08-27 |  |
-| **[EmoTra-TTS: Smooth Intra-Utterance Emotion Transitions for Speech Synthesis](https://arxiv.org/abs/2608.23791v1)** |  | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
