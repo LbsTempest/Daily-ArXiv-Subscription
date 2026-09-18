@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 17, 2026
+title: Latest Papers - September 18, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[GrainSpeech: Less Context, More Detail for Compact Speech Synthesis](https://arxiv.org/abs/2609.18856v1)** |  | 2026-09-16 |  |
 | **[SyncVoice: Simple and Effective Automatic Video Dubbing with Vision-Augmented TTS](https://arxiv.org/abs/2512.05126v2)** |  | 2026-09-15 |  |
 | **[Language Orthogonalization for Zero-Shot Cross-Lingual Audio Deepfake Detection](https://arxiv.org/abs/2609.16458v1)** |  | 2026-09-15 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](https://arxiv.org/abs/2510.10774v4)** |  | 2026-09-14 | <details><summary>Accep...</summary><p>Accepted to the Main Conference of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language](https://arxiv.org/abs/2609.11523v1)** |  | 2026-09-10 |  |
 | **[KABURI-TTS: Phoneme-Keyed Activity-conditioned Bi-channel Utterance Rendering for Interaction](https://arxiv.org/abs/2609.07200v1)** |  | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted at APSIPA ASC 2026</p></details> |
 | **[HoliTok: A Continuous Holistic Tokenization with Robust Dual Capabilities of Speech Generation and Understanding](https://arxiv.org/abs/2605.29948v3)** |  | 2026-09-05 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 8 tables; Accepted by EMNLP 2026 Main Conference</p></details> |
-| **[What Did I Just Say? Self-Listening for Full-Duplex Speech Models](https://arxiv.org/abs/2609.05592v1)** |  | 2026-09-04 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Voice of Reason: Reinforcement Learning for Spoken Math](https://arxiv.org/abs/2609.18677v1)** |  | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
 | **[LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs](https://arxiv.org/abs/2609.17509v1)** |  | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted to SLT 2026. 8 pages, 5 figures</p></details> |
 | **[ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](https://arxiv.org/abs/2510.10774v4)** |  | 2026-09-14 | <details><summary>Accep...</summary><p>Accepted to the Main Conference of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</p></details> |
 | **[Reducing the Output-Mode Gap in Speech Language Models via Joint-Output On-Policy Distillation](https://arxiv.org/abs/2609.15313v1)** |  | 2026-09-14 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[Stride-k Subsampling: Train-Free Audio Token Reduction for Whisper](https://arxiv.org/abs/2608.30927v1)** |  | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted EMNLP 2026 Main</p></details> |
 | **[FastSLM: Hierarchical Temporal Abstraction for Efficient Long-Form Speech Adaptation](https://arxiv.org/abs/2601.06199v5)** |  | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026, page 2</p></details> |
 | **[KVoiceBench, KOpenAudioBench, and KMMAU: Agent-Driven Korean Speech Benchmarks for Evaluating SpeechLMs](https://arxiv.org/abs/2605.27984v2)** |  | 2026-08-30 | 16 pages, 4 figures |
-| **[SimulS2ST-Omni: Data-Efficient Streaming Speech-to-Speech Translation via Explicit Trajectory Supervision](https://arxiv.org/abs/2607.19810v2)** |  | 2026-08-30 | <details><summary>29 pa...</summary><p>29 pages, 19 figures, 16 tables</p></details> |
