@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 28, 2026
+title: Latest Papers - September 29, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[What Survives the Codec Shift: Pooled No-Vocals Residuals for Speech Deepfake Detection](https://arxiv.org/abs/2609.33375v1)** |  | 2026-09-27 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Prepared for submission to ICASSP 2027</p></details> |
+| **[Tracing Decoder Artifacts for Compact Synthetic Speech Screening](https://arxiv.org/abs/2609.32050v1)** |  | 2026-09-25 |  |
+| **[VoiceNet: Fine-Grained Voice Understanding Beyond Emotion at Scale](https://arxiv.org/abs/2609.32016v1)** |  | 2026-09-25 | <details><summary>33 pa...</summary><p>33 pages, 6 figures, 8 tables. Christoph Schuhmann and Robert Kaczmarczyk contributed equally. Code and benchmark: https://github.com/LAION-AI/emolia-bench</p></details> |
 | **[A Comprehensive Study of Content Representations for Speech Synthesis](https://arxiv.org/abs/2609.30975v1)** |  | 2026-09-25 | 5 pages, 1 figure |
 | **[ReaFlow-TTS: Realization-Conditioned Flow Matching for High-Quality and Controllable Speech Synthesis](https://arxiv.org/abs/2609.28906v1)** |  | 2026-09-24 |  |
 | **[Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchronous Dubbing](https://arxiv.org/abs/2609.26486v1)** |  | 2026-09-22 | <details><summary>accep...</summary><p>accepted at Interspeech 2026</p></details> |
@@ -19,13 +22,14 @@ labels: documentation
 | **[Morpho-VITS: Variational Inference with Morphological Modeling for End-to-End Speech Synthesis of a Tonal Bantu Language](https://arxiv.org/abs/2609.24310v1)** |  | 2026-09-21 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 2 tables</p></details> |
 | **[Listen, Critique, and Refine: RL-Based Self-Refinement for Instruction-Following Speech Synthesis](https://arxiv.org/abs/2609.24163v1)** |  | 2026-09-21 |  |
 | **[HaikuS2S: A Cascaded System For Responding In Verse](https://arxiv.org/abs/2609.23951v1)** |  | 2026-09-20 | <details><summary>Accep...</summary><p>Accepted to SLT 2026, Demo Track. 5 pages, 5 figures</p></details> |
-| **[Voice-Light: A Full-Duplex Cascaded Voice Agent with Causal Turn-Taking and Speculative Generation](https://arxiv.org/abs/2609.20995v1)** |  | 2026-09-17 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 6 tables. Code, datasets, and model artifacts: https://github.com/BertilBraun/Voice-Light ; live demo: https://voice.bertil-braun.de</p></details> |
-| **[Multi-Dimensional Prosody Judgment For Live Streaming Speech Synthesis](https://arxiv.org/abs/2609.20124v1)** |  | 2026-09-17 |  |
-| **[Robust Workflow Generation via Adversarial Learning for Audio Deepfake Detection](https://arxiv.org/abs/2609.20063v1)** |  | 2026-09-17 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Controlling Speaking Rate in Autoregressive TTS via Activation Steering](https://arxiv.org/abs/2609.33810v1)** |  | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted at IEEE SLT 2026. 8 pages, 3 figures, 5 tables</p></details> |
+| **[TT-VidT: Decoupling the Temporal Axis for Efficient Motion-Centric Video Pretraining](https://arxiv.org/abs/2609.33419v1)** |  | 2026-09-27 | <details><summary>accep...</summary><p>accepted by NeurIPS 2026 main track</p></details> |
+| **[From Script to Drama: An Agentic Framework for Controllable Multi-Speaker Dialogue TTS](https://arxiv.org/abs/2609.33362v1)** |  | 2026-09-27 |  |
+| **[DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS](https://arxiv.org/abs/2609.32777v1)** |  | 2026-09-26 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
 | **[COT-TTS: Audio Context-Aware Text-to-Speech with Chain-of-Thought Reasoning](https://arxiv.org/abs/2609.22697v2)** |  | 2026-09-25 | <details><summary>Under...</summary><p>Under review at IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)</p></details> |
 | **[EditVoice: Variable-Length Non-Autoregressive Zero-Shot TTS and Speech Editing with Edit Flows](https://arxiv.org/abs/2609.29889v1)** |  | 2026-09-24 | <details><summary>5 pag...</summary><p>5 pages, 3 figures. Audio samples: https://dhy02.github.io/editvoice-demo/</p></details> |
 | **[ReaFlow-TTS: Realization-Conditioned Flow Matching for High-Quality and Controllable Speech Synthesis](https://arxiv.org/abs/2609.28906v1)** |  | 2026-09-24 |  |
@@ -37,10 +41,6 @@ labels: documentation
 | **[SyncVoice: Simple and Effective Automatic Video Dubbing with Vision-Augmented TTS](https://arxiv.org/abs/2512.05126v2)** |  | 2026-09-15 |  |
 | **[Cross-Lingual F5-TTS 2: A Simplified Framework for Language-Agnostic Voice Cloning](https://arxiv.org/abs/2609.15184v1)** |  | 2026-09-14 |  |
 | **[Bridging Data, Reasoning, and Alignment: A Unified Framework for Context-Aware Instruction-Following TTS](https://arxiv.org/abs/2609.14740v1)** |  | 2026-09-13 | <details><summary>accep...</summary><p>accepted by ISCSLP 2026, the ISCSLP 2026 CoT-TTS Challenge</p></details> |
-| **[Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language](https://arxiv.org/abs/2609.11523v1)** |  | 2026-09-10 |  |
-| **[Deterministic Prompting for Speaker-Stable Low-Resource Greek TTS](https://arxiv.org/abs/2609.10022v1)** |  | 2026-09-09 | Interspeech 2026 |
-| **[X2-NativeCursor: Native-Token Text Progress Tracking for Incremental-Text Streaming Codec TTS](https://arxiv.org/abs/2609.09677v1)** |  | 2026-09-09 |  |
-| **[Stabilizing Instruction Supervision for Instruct-TTS via Controllable Diversification and Drift Filtering](https://arxiv.org/abs/2609.08204v1)** |  | 2026-09-08 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 5 tables. Audio demos: https://piedpiperg.github.io/instruct-tts-stabilizer/#audio-demos</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[DuraS2ST: Chain-of-Thought and Reinforcement Learning for Duration-Aligned Speech-to-Speech Translation](https://arxiv.org/abs/2609.33742v1)** |  | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
+| **[Turning Speech Language Models into Multilingual Listeners](https://arxiv.org/abs/2609.33204v1)** |  | 2026-09-27 | <details><summary>Inter...</summary><p>Interspeech 2026 Long</p></details> |
 | **[Acoustic-to-Text KV Compression for Full-Duplex Speech Models](https://arxiv.org/abs/2609.31224v1)** |  | 2026-09-25 |  |
 | **[TS-OPD: Reconciling ASR and QA in Speech Language Models via Task-Specific On-Policy Distillation](https://arxiv.org/abs/2609.29464v1)** |  | 2026-09-24 |  |
 | **[agentic-ger: terminology recovery in long-form speech using global context](https://arxiv.org/abs/2609.29428v1)** |  | 2026-09-24 | <details><summary>submi...</summary><p>submitted to ICASSP 2027</p></details> |
@@ -77,5 +79,3 @@ labels: documentation
 | **[SURE-Voice: A Front-End Baseline for Speech-Evidence Filtering in Speech LLMs](https://arxiv.org/abs/2608.27783v3)** |  | 2026-09-14 |  |
 | **[ParaBridge: Bridging Paralinguistic Perception and Dialogue Behavior in Speech Language Models](https://arxiv.org/abs/2606.10581v3)** |  | 2026-09-14 |  |
 | **[Quantifying the Generation Modality Gap in Speech-Text Language Models](https://arxiv.org/abs/2609.14743v1)** |  | 2026-09-13 | <details><summary>Accep...</summary><p>Accepted to SLT 2026, extended version with appendix</p></details> |
-| **[SEAR: Segment-Evidence-Aware Routing for Weak-to-Strong Multilingual Speech MCQ](https://arxiv.org/abs/2609.11355v1)** |  | 2026-09-10 |  |
-| **[Interleaved Speech Language Models Latently Work In Text](https://arxiv.org/abs/2606.22473v2)** |  | 2026-09-06 | <details><summary>Prepr...</summary><p>Preprint. 23 pages, 20 figures, 5 tables</p></details> |
