@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 29, 2026
+title: Latest Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[From Neurons to Conversation: Speech Brain-Computer Interfaces](https://arxiv.org/abs/2609.36736v1)** |  | 2026-09-29 | <details><summary>Revie...</summary><p>Review article, 28 pages, 4 figures, 2 boxes, 2 tables</p></details> |
+| **[GLAD: Global-Local Adaptive Detector for Robust Speech Deepfake Detection](https://arxiv.org/abs/2609.35411v1)** |  | 2026-09-28 |  |
 | **[What Survives the Codec Shift: Pooled No-Vocals Residuals for Speech Deepfake Detection](https://arxiv.org/abs/2609.33375v1)** |  | 2026-09-27 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Prepared for submission to ICASSP 2027</p></details> |
 | **[Tracing Decoder Artifacts for Compact Synthetic Speech Screening](https://arxiv.org/abs/2609.32050v1)** |  | 2026-09-25 |  |
 | **[VoiceNet: Fine-Grained Voice Understanding Beyond Emotion at Scale](https://arxiv.org/abs/2609.32016v1)** |  | 2026-09-25 | <details><summary>33 pa...</summary><p>33 pages, 6 figures, 8 tables. Christoph Schuhmann and Robert Kaczmarczyk contributed equally. Code and benchmark: https://github.com/LAION-AI/emolia-bench</p></details> |
@@ -20,14 +22,13 @@ labels: documentation
 | **[LLM-based Conversational AI Knowledge Assistant for MyBuddy Humanoid Robot](https://arxiv.org/abs/2609.24742v1)** |  | 2026-09-21 | <details><summary>This ...</summary><p>This work has been accepted as poster presentation for NeurIPS 2026 WiML Workshop</p></details> |
 | **[Decoding Order Matters in Autoregressive Speech Synthesis](https://arxiv.org/abs/2601.08450v2)** |  | 2026-09-21 |  |
 | **[Morpho-VITS: Variational Inference with Morphological Modeling for End-to-End Speech Synthesis of a Tonal Bantu Language](https://arxiv.org/abs/2609.24310v1)** |  | 2026-09-21 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 2 tables</p></details> |
-| **[Listen, Critique, and Refine: RL-Based Self-Refinement for Instruction-Following Speech Synthesis](https://arxiv.org/abs/2609.24163v1)** |  | 2026-09-21 |  |
-| **[HaikuS2S: A Cascaded System For Responding In Verse](https://arxiv.org/abs/2609.23951v1)** |  | 2026-09-20 | <details><summary>Accep...</summary><p>Accepted to SLT 2026, Demo Track. 5 pages, 5 figures</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[TT-VidT: Decoupling the Temporal Axis for Efficient Motion-Centric Video Pretraining](https://arxiv.org/abs/2609.33419v2)** |  | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026 main track, Project page: https://kohakublueleaf.github.io/TTVidT/</p></details> |
+| **[Harmonizing Spectral Evolution in Conditional Flow Matching for TTS](https://arxiv.org/abs/2609.34431v1)** |  | 2026-09-28 | 4 Pages, 5 figures |
 | **[Controlling Speaking Rate in Autoregressive TTS via Activation Steering](https://arxiv.org/abs/2609.33810v1)** |  | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted at IEEE SLT 2026. 8 pages, 3 figures, 5 tables</p></details> |
-| **[TT-VidT: Decoupling the Temporal Axis for Efficient Motion-Centric Video Pretraining](https://arxiv.org/abs/2609.33419v1)** |  | 2026-09-27 | <details><summary>accep...</summary><p>accepted by NeurIPS 2026 main track</p></details> |
 | **[From Script to Drama: An Agentic Framework for Controllable Multi-Speaker Dialogue TTS](https://arxiv.org/abs/2609.33362v1)** |  | 2026-09-27 |  |
 | **[DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS](https://arxiv.org/abs/2609.32777v1)** |  | 2026-09-26 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
 | **[COT-TTS: Audio Context-Aware Text-to-Speech with Chain-of-Thought Reasoning](https://arxiv.org/abs/2609.22697v2)** |  | 2026-09-25 | <details><summary>Under...</summary><p>Under review at IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Phoneme-guided TTS augmentation for ASR: A unified pipeline and multilingual evaluation](https://arxiv.org/abs/2608.26697v3)** |  | 2026-09-17 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[SyncVoice: Simple and Effective Automatic Video Dubbing with Vision-Augmented TTS](https://arxiv.org/abs/2512.05126v2)** |  | 2026-09-15 |  |
 | **[Cross-Lingual F5-TTS 2: A Simplified Framework for Language-Agnostic Voice Cloning](https://arxiv.org/abs/2609.15184v1)** |  | 2026-09-14 |  |
-| **[Bridging Data, Reasoning, and Alignment: A Unified Framework for Context-Aware Instruction-Following TTS](https://arxiv.org/abs/2609.14740v1)** |  | 2026-09-13 | <details><summary>accep...</summary><p>accepted by ISCSLP 2026, the ISCSLP 2026 CoT-TTS Challenge</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
