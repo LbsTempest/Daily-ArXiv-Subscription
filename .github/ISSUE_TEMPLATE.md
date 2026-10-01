@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - September 30, 2026
+title: Latest Papers - October 01, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,8 +26,12 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Harmonizing Spectral Evolution in Conditional Flow Matching for TTS](https://arxiv.org/abs/2609.34431v2)** |  | 2026-09-30 | 4 Pages, 5 figures |
+| **[SCIC: Scope- and Codebook-Aware Instruction Conditioning for Speaker-Adapted Expressive TTS](https://arxiv.org/abs/2609.39088v1)** |  | 2026-09-30 |  |
+| **[Tacit-TTS: From Autoregressive Decoding to Masked Prediction for Efficient Transcript-Free Voice Cloning](https://arxiv.org/abs/2609.38658v1)** |  | 2026-09-29 | Under Review |
+| **[EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation](https://arxiv.org/abs/2609.38157v1)** |  | 2026-09-29 | <details><summary>Work ...</summary><p>Work done at Meta. Code at https://github.com/facebookresearch/EmoRES-TTS</p></details> |
+| **[RAWD-TTS: Ratio-Free Reward Alignment for Discrete-Diffusion Voice Cloning](https://arxiv.org/abs/2609.37028v1)** |  | 2026-09-29 | <details><summary>Submi...</summary><p>Submitted to IEEE ICASSP 2027</p></details> |
 | **[TT-VidT: Decoupling the Temporal Axis for Efficient Motion-Centric Video Pretraining](https://arxiv.org/abs/2609.33419v2)** |  | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026 main track, Project page: https://kohakublueleaf.github.io/TTVidT/</p></details> |
-| **[Harmonizing Spectral Evolution in Conditional Flow Matching for TTS](https://arxiv.org/abs/2609.34431v1)** |  | 2026-09-28 | 4 Pages, 5 figures |
 | **[Controlling Speaking Rate in Autoregressive TTS via Activation Steering](https://arxiv.org/abs/2609.33810v1)** |  | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted at IEEE SLT 2026. 8 pages, 3 figures, 5 tables</p></details> |
 | **[From Script to Drama: An Agentic Framework for Controllable Multi-Speaker Dialogue TTS](https://arxiv.org/abs/2609.33362v1)** |  | 2026-09-27 |  |
 | **[DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS](https://arxiv.org/abs/2609.32777v1)** |  | 2026-09-26 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS](https://arxiv.org/abs/2606.25672v3)** |  | 2026-09-23 |  |
 | **[From Reliable Text to Real Voices: Trust-Aware Progressive Adaptation for Low-Resource TTS](https://arxiv.org/abs/2609.25951v1)** |  | 2026-09-22 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Jiayi Lu and Yizhong Geng contributed equally. Corresponding author: Ya Li</p></details> |
 | **[Interactive TTS: Dynamic Speaking Style Adaptation for Expressive Speech Synthesis](https://arxiv.org/abs/2609.25707v1)** |  | 2026-09-22 |  |
-| **[TTS-Guard: Black-Box Ownership Verification of Text-to-Speech Models via Adaptive Adversarial Speaker-Pair Fingerprints](https://arxiv.org/abs/2609.23729v1)** |  | 2026-09-20 |  |
-| **[Phoneme-guided TTS augmentation for ASR: A unified pipeline and multilingual evaluation](https://arxiv.org/abs/2608.26697v3)** |  | 2026-09-17 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
-| **[SyncVoice: Simple and Effective Automatic Video Dubbing with Vision-Augmented TTS](https://arxiv.org/abs/2512.05126v2)** |  | 2026-09-15 |  |
-| **[Cross-Lingual F5-TTS 2: A Simplified Framework for Language-Agnostic Voice Cloning](https://arxiv.org/abs/2609.15184v1)** |  | 2026-09-14 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[When Does a Spoken Agent Have Enough Evidence to Act? The PACT-SLM Contract Test](https://arxiv.org/abs/2609.38232v1)** |  | 2026-09-28 |  |
 | **[DuraS2ST: Chain-of-Thought and Reinforcement Learning for Duration-Aligned Speech-to-Speech Translation](https://arxiv.org/abs/2609.33742v1)** |  | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
 | **[Turning Speech Language Models into Multilingual Listeners](https://arxiv.org/abs/2609.33204v1)** |  | 2026-09-27 | <details><summary>Inter...</summary><p>Interspeech 2026 Long</p></details> |
 | **[Acoustic-to-Text KV Compression for Full-Duplex Speech Models](https://arxiv.org/abs/2609.31224v1)** |  | 2026-09-25 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[Reducing the Output-Mode Gap in Speech Language Models via Joint-Output On-Policy Distillation](https://arxiv.org/abs/2609.15313v1)** |  | 2026-09-14 |  |
 | **[SURE-Voice: A Front-End Baseline for Speech-Evidence Filtering in Speech LLMs](https://arxiv.org/abs/2608.27783v3)** |  | 2026-09-14 |  |
 | **[ParaBridge: Bridging Paralinguistic Perception and Dialogue Behavior in Speech Language Models](https://arxiv.org/abs/2606.10581v3)** |  | 2026-09-14 |  |
-| **[Quantifying the Generation Modality Gap in Speech-Text Language Models](https://arxiv.org/abs/2609.14743v1)** |  | 2026-09-13 | <details><summary>Accep...</summary><p>Accepted to SLT 2026, extended version with appendix</p></details> |
