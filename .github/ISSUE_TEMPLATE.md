@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 02, 2026
+title: Latest Papers - October 05, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential](https://arxiv.org/abs/2607.12235v2)** |  | 2026-10-02 |  |
 | **[DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS](https://arxiv.org/abs/2609.32777v2)** |  | 2026-09-30 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
 | **[Harmonizing Spectral Evolution in Conditional Flow Matching for TTS](https://arxiv.org/abs/2609.34431v2)** |  | 2026-09-30 | 4 Pages, 5 figures |
 | **[SCIC: Scope- and Codebook-Aware Instruction Conditioning for Speaker-Adapted Expressive TTS](https://arxiv.org/abs/2609.39088v1)** |  | 2026-09-30 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[ReaFlow-TTS: Realization-Conditioned Flow Matching for High-Quality and Controllable Speech Synthesis](https://arxiv.org/abs/2609.28906v1)** |  | 2026-09-24 |  |
 | **[Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS](https://arxiv.org/abs/2606.25672v3)** |  | 2026-09-23 |  |
 | **[From Reliable Text to Real Voices: Trust-Aware Progressive Adaptation for Low-Resource TTS](https://arxiv.org/abs/2609.25951v1)** |  | 2026-09-22 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Jiayi Lu and Yizhong Geng contributed equally. Corresponding author: Ya Li</p></details> |
-| **[Interactive TTS: Dynamic Speaking Style Adaptation for Expressive Speech Synthesis](https://arxiv.org/abs/2609.25707v1)** |  | 2026-09-22 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[NextMe-800: Anticipating Personal Behavior from Months of Egocentric Video](https://arxiv.org/abs/2610.01461v1)** |  | 2026-10-01 | <details><summary>24 pa...</summary><p>24 pages, 7 figures. Dataset and benchmark: https://huggingface.co/datasets/mmm8383/NextMe-800 ; project page: https://kkkkawayi.github.io/nextme-800/</p></details> |
 | **[CARD: Cross-component Audio Representation Distillation for Encoder-Free Audio Captioning](https://arxiv.org/abs/2607.04619v2)** |  | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted to IEEE Spoken Language Technology (SLT) 2026</p></details> |
 | **[TEMA: Evidence-Grounded Temporal Question Answering in Multi-Turn Multi-Audio Dialogs](https://arxiv.org/abs/2609.30029v1)** |  | 2026-09-24 | 5 pages, 2 figures |
 | **[An Evaluation Framework for Structured Audio Captions Validated by Controlled Perturbations](https://arxiv.org/abs/2607.21424v2)** |  | 2026-09-24 |  |
@@ -59,11 +60,14 @@ labels: documentation
 | **[AudioMap: Cloze-and-Choice Reinforcement Learning for Time-Aware Dense Audio Captioning](https://arxiv.org/abs/2608.09559v1)** |  | 2026-08-10 |  |
 | **[MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning](https://arxiv.org/abs/2607.27109v2)** |  | 2026-07-30 |  |
 | **[ALM2Vec: Learning Audio Embeddings for Universal Audio Retrieval with Large Audio-Language Models](https://arxiv.org/abs/2606.30682v1)** |  | 2026-06-27 | 7 pages, 3 figures |
-| **[Taming Text-to-Sounding Video Generation via Advanced Modality Condition and Interaction](https://arxiv.org/abs/2510.03117v2)** |  | 2026-06-26 | <details><summary>The 1...</summary><p>The 19th European Conference on Computer Vision -- ECCV 2026</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[ParaGeo: Decomposing Paralinguistic Variation into a Shared Latent Geometry](https://arxiv.org/abs/2610.03125v1)** |  | 2026-10-02 |  |
+| **[Learning When to Commit from Partial Speech for End-to-End Simultaneous Speech Translation](https://arxiv.org/abs/2610.02612v1)** |  | 2026-10-02 |  |
+| **[AURAL: Adaptive Latent Reasoning with Joint Chunk for Speech Language Models](https://arxiv.org/abs/2610.01560v1)** |  | 2026-10-01 |  |
+| **[Q-SPT: Learnable Query-Based Compression for Low-Frame-Rate Speech Tokenization](https://arxiv.org/abs/2610.01492v1)** |  | 2026-10-01 |  |
 | **[When Does a Spoken Agent Have Enough Evidence to Act? The PACT-SLM Contract Test](https://arxiv.org/abs/2609.38232v1)** |  | 2026-09-28 |  |
 | **[DuraS2ST: Chain-of-Thought and Reinforcement Learning for Duration-Aligned Speech-to-Speech Translation](https://arxiv.org/abs/2609.33742v1)** |  | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
 | **[Turning Speech Language Models into Multilingual Listeners](https://arxiv.org/abs/2609.33204v1)** |  | 2026-09-27 | <details><summary>Inter...</summary><p>Interspeech 2026 Long</p></details> |
@@ -75,7 +79,3 @@ labels: documentation
 | **[LLM can Read Spectrogram: Encoder-free Speech-Language Modeling](https://arxiv.org/abs/2606.10231v4)** |  | 2026-09-20 | <details><summary>Accep...</summary><p>Accepted to SLT 2026, camera-ready version</p></details> |
 | **[Voice of Reason: Reinforcement Learning for Spoken Math](https://arxiv.org/abs/2609.18677v1)** |  | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
 | **[LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs](https://arxiv.org/abs/2609.17509v1)** |  | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted to SLT 2026. 8 pages, 5 figures</p></details> |
-| **[ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](https://arxiv.org/abs/2510.10774v4)** |  | 2026-09-14 | <details><summary>Accep...</summary><p>Accepted to the Main Conference of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</p></details> |
-| **[Reducing the Output-Mode Gap in Speech Language Models via Joint-Output On-Policy Distillation](https://arxiv.org/abs/2609.15313v1)** |  | 2026-09-14 |  |
-| **[SURE-Voice: A Front-End Baseline for Speech-Evidence Filtering in Speech LLMs](https://arxiv.org/abs/2608.27783v3)** |  | 2026-09-14 |  |
-| **[ParaBridge: Bridging Paralinguistic Perception and Dialogue Behavior in Speech Language Models](https://arxiv.org/abs/2606.10581v3)** |  | 2026-09-14 |  |
