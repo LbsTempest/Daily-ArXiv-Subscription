@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 06, 2026
+title: Latest Papers - October 07, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Zero-Shot Lombard Speech Synthesis with Controllable Style Embeddings](https://arxiv.org/abs/2601.12966v2)** |  | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at IEEE SLT 2026</p></details> |
 | **[Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection](https://arxiv.org/abs/2610.05264v1)** |  | 2026-10-04 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, accepted to Interspeech 2026</p></details> |
 | **[Prompt-Consistency Inference for Zero-Shot Flow-Matching Text-to-Speech Models](https://arxiv.org/abs/2610.04757v1)** |  | 2026-10-03 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table, 1 algorithm, 11 equations</p></details> |
 | **[Learning to Watermark Speech Synthesis Against Model-Driven Reconstruction](https://arxiv.org/abs/2610.04235v1)** |  | 2026-10-03 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchronous Dubbing](https://arxiv.org/abs/2609.26486v1)** |  | 2026-09-22 | <details><summary>accep...</summary><p>accepted at Interspeech 2026</p></details> |
 | **[Brain2Speech-Net: Fast and Intelligible Brain-to-Speech Synthesis Without Text Decoding](https://arxiv.org/abs/2609.04455v2)** |  | 2026-09-22 |  |
 | **[Interactive TTS: Dynamic Speaking Style Adaptation for Expressive Speech Synthesis](https://arxiv.org/abs/2609.25707v1)** |  | 2026-09-22 |  |
-| **[Learnable Classifier-Free Guidance Null Embeddings for Enhanced Controllable Speech Synthesis](https://arxiv.org/abs/2609.25411v1)** |  | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted paper at Interspeech 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,8 +64,12 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[HINTT Submission to the 2nd MLC-SLM Challenge: Comparing Cascaded and Unified Approaches to Diarization and ASR](https://arxiv.org/abs/2610.08063v1)** |  | 2026-10-06 |  |
+| **[HiPLEX: Hierarchical Policy Factorization for Full Duplex Speech Language Models](https://arxiv.org/abs/2610.07727v1)** |  | 2026-10-06 | <details><summary>34 pa...</summary><p>34 pages, 9 figures, 17 tables,</p></details> |
+| **[Quantifying the Generation Modality Gap in Speech-Text Language Models](https://arxiv.org/abs/2609.14743v2)** |  | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted to SLT 2026, extended version with appendix</p></details> |
 | **[Steering Speech-Language Models: Training-Free Task Specialization via Contrastive Activation Addition](https://arxiv.org/abs/2610.04683v1)** |  | 2026-10-03 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[GS-Codec: A Gaussian-Splatting Bottleneck for Neural Audio Coding](https://arxiv.org/abs/2610.04651v1)** |  | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted to Neurips 2026</p></details> |
+| **[EMODE: Dynamic Para-Semantic Experts for Emotion-Aware Speech Language Modeling](https://arxiv.org/abs/2610.06956v1)** |  | 2026-10-03 |  |
 | **[ParaGeo: Decomposing Paralinguistic Variation into a Shared Latent Geometry](https://arxiv.org/abs/2610.03125v1)** |  | 2026-10-02 |  |
 | **[Learning When to Commit from Partial Speech for End-to-End Simultaneous Speech Translation](https://arxiv.org/abs/2610.02612v1)** |  | 2026-10-02 |  |
 | **[AURAL: Adaptive Latent Reasoning with Joint Chunk for Speech Language Models](https://arxiv.org/abs/2610.01560v1)** |  | 2026-10-01 |  |
@@ -75,7 +79,3 @@ labels: documentation
 | **[Turning Speech Language Models into Multilingual Listeners](https://arxiv.org/abs/2609.33204v1)** |  | 2026-09-27 | <details><summary>Inter...</summary><p>Interspeech 2026 Long</p></details> |
 | **[Acoustic-to-Text KV Compression for Full-Duplex Speech Models](https://arxiv.org/abs/2609.31224v1)** |  | 2026-09-25 |  |
 | **[TS-OPD: Reconciling ASR and QA in Speech Language Models via Task-Specific On-Policy Distillation](https://arxiv.org/abs/2609.29464v1)** |  | 2026-09-24 |  |
-| **[agentic-ger: terminology recovery in long-form speech using global context](https://arxiv.org/abs/2609.29428v1)** |  | 2026-09-24 | <details><summary>submi...</summary><p>submitted to ICASSP 2027</p></details> |
-| **[The Second MLC-SLM Challenge: Multilingual Conversational Speech Diarization, Recognition, and Understanding](https://arxiv.org/abs/2609.27514v1)** |  | 2026-09-23 |  |
-| **[Text Scores Can Miss Waveform Use: A Qwen2-Audio Quantization Case Study](https://arxiv.org/abs/2609.26823v1)** |  | 2026-09-20 |  |
-| **[LLM can Read Spectrogram: Encoder-free Speech-Language Modeling](https://arxiv.org/abs/2606.10231v4)** |  | 2026-09-20 | <details><summary>Accep...</summary><p>Accepted to SLT 2026, camera-ready version</p></details> |
