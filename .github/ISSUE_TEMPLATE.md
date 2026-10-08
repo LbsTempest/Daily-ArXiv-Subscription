@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 07, 2026
+title: Latest Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language](https://arxiv.org/abs/2609.11523v2)** |  | 2026-10-07 |  |
 | **[Zero-Shot Lombard Speech Synthesis with Controllable Style Embeddings](https://arxiv.org/abs/2601.12966v2)** |  | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at IEEE SLT 2026</p></details> |
 | **[Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection](https://arxiv.org/abs/2610.05264v1)** |  | 2026-10-04 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, accepted to Interspeech 2026</p></details> |
 | **[Prompt-Consistency Inference for Zero-Shot Flow-Matching Text-to-Speech Models](https://arxiv.org/abs/2610.04757v1)** |  | 2026-10-03 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table, 1 algorithm, 11 equations</p></details> |
@@ -21,11 +22,13 @@ labels: documentation
 | **[ReaFlow-TTS: Realization-Conditioned Flow Matching for High-Quality and Controllable Speech Synthesis](https://arxiv.org/abs/2609.28906v1)** |  | 2026-09-24 |  |
 | **[Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchronous Dubbing](https://arxiv.org/abs/2609.26486v1)** |  | 2026-09-22 | <details><summary>accep...</summary><p>accepted at Interspeech 2026</p></details> |
 | **[Brain2Speech-Net: Fast and Intelligible Brain-to-Speech Synthesis Without Text Decoding](https://arxiv.org/abs/2609.04455v2)** |  | 2026-09-22 |  |
-| **[Interactive TTS: Dynamic Speaking Style Adaptation for Expressive Speech Synthesis](https://arxiv.org/abs/2609.25707v1)** |  | 2026-09-22 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language](https://arxiv.org/abs/2609.11523v2)** |  | 2026-10-07 |  |
+| **[Training-Free Instruction TTS Gender Bias Calibration Using Model-Adaptive Steering](https://arxiv.org/abs/2610.09831v1)** |  | 2026-10-07 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 3 tables, submitted to ICASSP 2027</p></details> |
+| **[EmphTTS: an emphasis-control TTS with reinforcement learning](https://arxiv.org/abs/2609.27599v2)** |  | 2026-10-06 | <details><summary>5 pag...</summary><p>5 pages. Submitted to ICASSP 2027</p></details> |
 | **[Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS](https://arxiv.org/abs/2610.03320v1)** |  | 2026-10-02 |  |
 | **[A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential](https://arxiv.org/abs/2607.12235v2)** |  | 2026-10-02 |  |
 | **[DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS](https://arxiv.org/abs/2609.32777v2)** |  | 2026-09-30 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
@@ -38,13 +41,11 @@ labels: documentation
 | **[Controlling Speaking Rate in Autoregressive TTS via Activation Steering](https://arxiv.org/abs/2609.33810v1)** |  | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted at IEEE SLT 2026. 8 pages, 3 figures, 5 tables</p></details> |
 | **[From Script to Drama: An Agentic Framework for Controllable Multi-Speaker Dialogue TTS](https://arxiv.org/abs/2609.33362v1)** |  | 2026-09-27 |  |
 | **[COT-TTS: Audio Context-Aware Text-to-Speech with Chain-of-Thought Reasoning](https://arxiv.org/abs/2609.22697v2)** |  | 2026-09-25 | <details><summary>Under...</summary><p>Under review at IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)</p></details> |
-| **[EditVoice: Variable-Length Non-Autoregressive Zero-Shot TTS and Speech Editing with Edit Flows](https://arxiv.org/abs/2609.29889v1)** |  | 2026-09-24 | <details><summary>5 pag...</summary><p>5 pages, 3 figures. Audio samples: https://dhy02.github.io/editvoice-demo/</p></details> |
-| **[ReaFlow-TTS: Realization-Conditioned Flow Matching for High-Quality and Controllable Speech Synthesis](https://arxiv.org/abs/2609.28906v1)** |  | 2026-09-24 |  |
-| **[Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS](https://arxiv.org/abs/2606.25672v3)** |  | 2026-09-23 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[TAC: Timestamped Audio Captioning](https://arxiv.org/abs/2602.15766v2)** |  | 2026-10-06 |  |
 | **[NextMe-800: Anticipating Personal Behavior from Months of Egocentric Video](https://arxiv.org/abs/2610.01461v1)** |  | 2026-10-01 | <details><summary>24 pa...</summary><p>24 pages, 7 figures. Dataset and benchmark: https://huggingface.co/datasets/mmm8383/NextMe-800 ; project page: https://kkkkawayi.github.io/nextme-800/</p></details> |
 | **[CARD: Cross-component Audio Representation Distillation for Encoder-Free Audio Captioning](https://arxiv.org/abs/2607.04619v2)** |  | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted to IEEE Spoken Language Technology (SLT) 2026</p></details> |
 | **[TEMA: Evidence-Grounded Temporal Question Answering in Multi-Turn Multi-Audio Dialogs](https://arxiv.org/abs/2609.30029v1)** |  | 2026-09-24 | 5 pages, 2 figures |
@@ -59,11 +60,14 @@ labels: documentation
 | **[ACE-Cap: Active Evidence Acquisition via Agentic Co-Evolution for Long-Paragraph Fine-Grained Audio Captioning](https://arxiv.org/abs/2608.16162v2)** |  | 2026-08-20 |  |
 | **[AudioMap: Cloze-and-Choice Reinforcement Learning for Time-Aware Dense Audio Captioning](https://arxiv.org/abs/2608.09559v1)** |  | 2026-08-10 |  |
 | **[MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning](https://arxiv.org/abs/2607.27109v2)** |  | 2026-07-30 |  |
-| **[ALM2Vec: Learning Audio Embeddings for Universal Audio Retrieval with Large Audio-Language Models](https://arxiv.org/abs/2606.30682v1)** |  | 2026-06-27 | 7 pages, 3 figures |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[When Does a Spoken Agent Have Enough Evidence to Act? The PACT-SLM Contract Test](https://arxiv.org/abs/2609.38232v2)** |  | 2026-10-07 |  |
+| **[Dialect-Robust Speech Language Models with Synthetic Pseudo-Dialect Augmentation](https://arxiv.org/abs/2610.09321v1)** |  | 2026-10-07 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 7 tables. Accepted to IEEE SLT 2026</p></details> |
+| **[Steering Follows Geometry, Not Labels: Emotion Directions in a Full-Duplex Speech Model](https://arxiv.org/abs/2610.08887v1)** |  | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 Workshop on Real-Time Conversational Agents (RTCA), Sydney. OpenReview: https://openreview.net/forum?id=6IUNRorKmj</p></details> |
+| **[Hearing Like Humans? Sound Symbolism and Perceptual Alignment in Speech Language Models](https://arxiv.org/abs/2607.10162v2)** |  | 2026-10-06 | SLT 2026 |
 | **[HINTT Submission to the 2nd MLC-SLM Challenge: Comparing Cascaded and Unified Approaches to Diarization and ASR](https://arxiv.org/abs/2610.08063v1)** |  | 2026-10-06 |  |
 | **[HiPLEX: Hierarchical Policy Factorization for Full Duplex Speech Language Models](https://arxiv.org/abs/2610.07727v1)** |  | 2026-10-06 | <details><summary>34 pa...</summary><p>34 pages, 9 figures, 17 tables,</p></details> |
 | **[Quantifying the Generation Modality Gap in Speech-Text Language Models](https://arxiv.org/abs/2609.14743v2)** |  | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted to SLT 2026, extended version with appendix</p></details> |
@@ -74,8 +78,4 @@ labels: documentation
 | **[Learning When to Commit from Partial Speech for End-to-End Simultaneous Speech Translation](https://arxiv.org/abs/2610.02612v1)** |  | 2026-10-02 |  |
 | **[AURAL: Adaptive Latent Reasoning with Joint Chunk for Speech Language Models](https://arxiv.org/abs/2610.01560v1)** |  | 2026-10-01 |  |
 | **[Q-SPT: Learnable Query-Based Compression for Low-Frame-Rate Speech Tokenization](https://arxiv.org/abs/2610.01492v1)** |  | 2026-10-01 |  |
-| **[When Does a Spoken Agent Have Enough Evidence to Act? The PACT-SLM Contract Test](https://arxiv.org/abs/2609.38232v1)** |  | 2026-09-28 |  |
 | **[DuraS2ST: Chain-of-Thought and Reinforcement Learning for Duration-Aligned Speech-to-Speech Translation](https://arxiv.org/abs/2609.33742v1)** |  | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
-| **[Turning Speech Language Models into Multilingual Listeners](https://arxiv.org/abs/2609.33204v1)** |  | 2026-09-27 | <details><summary>Inter...</summary><p>Interspeech 2026 Long</p></details> |
-| **[Acoustic-to-Text KV Compression for Full-Duplex Speech Models](https://arxiv.org/abs/2609.31224v1)** |  | 2026-09-25 |  |
-| **[TS-OPD: Reconciling ASR and QA in Speech Language Models via Task-Specific On-Policy Distillation](https://arxiv.org/abs/2609.29464v1)** |  | 2026-09-24 |  |
