@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 08, 2026
+title: Latest Papers - October 09, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Edit Who Speaks, Control How They Speak: Global Timbre Editing and Local Instruction Control for TTS](https://arxiv.org/abs/2610.11437v1)** |  | 2026-10-08 |  |
 | **[Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language](https://arxiv.org/abs/2609.11523v2)** |  | 2026-10-07 |  |
 | **[Training-Free Instruction TTS Gender Bias Calibration Using Model-Adaptive Steering](https://arxiv.org/abs/2610.09831v1)** |  | 2026-10-07 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 3 tables, submitted to ICASSP 2027</p></details> |
 | **[EmphTTS: an emphasis-control TTS with reinforcement learning](https://arxiv.org/abs/2609.27599v2)** |  | 2026-10-06 | <details><summary>5 pag...</summary><p>5 pages. Submitted to ICASSP 2027</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[TT-VidT: Decoupling the Temporal Axis for Efficient Motion-Centric Video Pretraining](https://arxiv.org/abs/2609.33419v2)** |  | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026 main track, Project page: https://kohakublueleaf.github.io/TTVidT/</p></details> |
 | **[Controlling Speaking Rate in Autoregressive TTS via Activation Steering](https://arxiv.org/abs/2609.33810v1)** |  | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted at IEEE SLT 2026. 8 pages, 3 figures, 5 tables</p></details> |
 | **[From Script to Drama: An Agentic Framework for Controllable Multi-Speaker Dialogue TTS](https://arxiv.org/abs/2609.33362v1)** |  | 2026-09-27 |  |
-| **[COT-TTS: Audio Context-Aware Text-to-Speech with Chain-of-Thought Reasoning](https://arxiv.org/abs/2609.22697v2)** |  | 2026-09-25 | <details><summary>Under...</summary><p>Under review at IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
