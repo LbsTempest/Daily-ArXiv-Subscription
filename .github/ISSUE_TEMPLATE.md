@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 09, 2026
+title: Latest Papers - October 12, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[How Should We Evaluate Naturalness for Synthetic Speech with a Foreign Accent?](https://arxiv.org/abs/2610.13175v1)** |  | 2026-10-09 | Accepted to SLT2026 |
+| **[Mechanisms of Multimodal Synchronization: Insights from Decoder-Based Video-Text-to-Speech Synthesis](https://arxiv.org/abs/2411.17690v4)** |  | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted at TMLR 2026</p></details> |
 | **[Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language](https://arxiv.org/abs/2609.11523v2)** |  | 2026-10-07 |  |
 | **[Zero-Shot Lombard Speech Synthesis with Controllable Style Embeddings](https://arxiv.org/abs/2601.12966v2)** |  | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at IEEE SLT 2026</p></details> |
 | **[Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection](https://arxiv.org/abs/2610.05264v1)** |  | 2026-10-04 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, accepted to Interspeech 2026</p></details> |
@@ -20,12 +22,12 @@ labels: documentation
 | **[VoiceNet: Fine-Grained Voice Understanding Beyond Emotion at Scale](https://arxiv.org/abs/2609.32016v1)** |  | 2026-09-25 | <details><summary>33 pa...</summary><p>33 pages, 6 figures, 8 tables. Christoph Schuhmann and Robert Kaczmarczyk contributed equally. Code and benchmark: https://github.com/LAION-AI/emolia-bench</p></details> |
 | **[A Comprehensive Study of Content Representations for Speech Synthesis](https://arxiv.org/abs/2609.30975v1)** |  | 2026-09-25 | 5 pages, 1 figure |
 | **[ReaFlow-TTS: Realization-Conditioned Flow Matching for High-Quality and Controllable Speech Synthesis](https://arxiv.org/abs/2609.28906v1)** |  | 2026-09-24 |  |
-| **[Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchronous Dubbing](https://arxiv.org/abs/2609.26486v1)** |  | 2026-09-22 | <details><summary>accep...</summary><p>accepted at Interspeech 2026</p></details> |
-| **[Brain2Speech-Net: Fast and Intelligible Brain-to-Speech Synthesis Without Text Decoding](https://arxiv.org/abs/2609.04455v2)** |  | 2026-09-22 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[E3-System: Expressive EmoData, Explicitly Controllable, Easy-to-Use TTS](https://arxiv.org/abs/2610.12993v1)** |  | 2026-10-09 | 6 pages, 4 figures |
+| **[Emo-BPO: Emotion Bidirectional Preference Optimization for Diffusion-based Emotional TTS](https://arxiv.org/abs/2610.12958v1)** |  | 2026-10-09 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 | **[Edit Who Speaks, Control How They Speak: Global Timbre Editing and Local Instruction Control for TTS](https://arxiv.org/abs/2610.11437v1)** |  | 2026-10-08 |  |
 | **[Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language](https://arxiv.org/abs/2609.11523v2)** |  | 2026-10-07 |  |
 | **[Training-Free Instruction TTS Gender Bias Calibration Using Model-Adaptive Steering](https://arxiv.org/abs/2610.09831v1)** |  | 2026-10-07 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 3 tables, submitted to ICASSP 2027</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation](https://arxiv.org/abs/2609.38157v1)** |  | 2026-09-29 | <details><summary>Work ...</summary><p>Work done at Meta. Code at https://github.com/facebookresearch/EmoRES-TTS</p></details> |
 | **[RAWD-TTS: Ratio-Free Reward Alignment for Discrete-Diffusion Voice Cloning](https://arxiv.org/abs/2609.37028v1)** |  | 2026-09-29 | <details><summary>Submi...</summary><p>Submitted to IEEE ICASSP 2027</p></details> |
 | **[TT-VidT: Decoupling the Temporal Axis for Efficient Motion-Centric Video Pretraining](https://arxiv.org/abs/2609.33419v2)** |  | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026 main track, Project page: https://kohakublueleaf.github.io/TTVidT/</p></details> |
-| **[Controlling Speaking Rate in Autoregressive TTS via Activation Steering](https://arxiv.org/abs/2609.33810v1)** |  | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted at IEEE SLT 2026. 8 pages, 3 figures, 5 tables</p></details> |
-| **[From Script to Drama: An Agentic Framework for Controllable Multi-Speaker Dialogue TTS](https://arxiv.org/abs/2609.33362v1)** |  | 2026-09-27 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
