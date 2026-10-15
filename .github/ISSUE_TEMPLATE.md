@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 14, 2026
+title: Latest Papers - October 15, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[TDR: Tagalog Diacritic Restoration Dataset](https://arxiv.org/abs/2610.17597v1)** |  | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted at O-COCOSDA 2026</p></details> |
+| **[Learning from Real Stuttering: Synthetic Mandarin Stuttering Speech for Data Augmentation in Speech Recognition](https://arxiv.org/abs/2606.21457v2)** |  | 2026-10-11 | 19 pages,5 figures |
 | **[VoTSpeech: Decoupling Voice Design from Speech Generation in Instruction-Following TTS](https://arxiv.org/abs/2610.14694v1)** |  | 2026-10-10 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
 | **[Multimodal Co-Generation With Continuous Bitstream Diffusion](https://arxiv.org/abs/2610.14349v1)** |  | 2026-10-09 |  |
 | **[How Should We Evaluate Naturalness for Synthetic Speech with a Foreign Accent?](https://arxiv.org/abs/2610.13175v1)** |  | 2026-10-09 | Accepted to SLT2026 |
@@ -20,12 +22,12 @@ labels: documentation
 | **[GLAD: Global-Local Adaptive Detector for Robust Speech Deepfake Detection](https://arxiv.org/abs/2609.35411v1)** |  | 2026-09-28 |  |
 | **[What Survives the Codec Shift: Pooled No-Vocals Residuals for Speech Deepfake Detection](https://arxiv.org/abs/2609.33375v1)** |  | 2026-09-27 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Prepared for submission to ICASSP 2027</p></details> |
 | **[Tracing Decoder Artifacts for Compact Synthetic Speech Screening](https://arxiv.org/abs/2609.32050v1)** |  | 2026-09-25 |  |
-| **[VoiceNet: Fine-Grained Voice Understanding Beyond Emotion at Scale](https://arxiv.org/abs/2609.32016v1)** |  | 2026-09-25 | <details><summary>33 pa...</summary><p>33 pages, 6 figures, 8 tables. Christoph Schuhmann and Robert Kaczmarczyk contributed equally. Code and benchmark: https://github.com/LAION-AI/emolia-bench</p></details> |
-| **[A Comprehensive Study of Content Representations for Speech Synthesis](https://arxiv.org/abs/2609.30975v1)** |  | 2026-09-25 | 5 pages, 1 figure |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech](https://arxiv.org/abs/2607.04140v3)** |  | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
+| **[EditVoice: Variable-Length Non-Autoregressive Zero-Shot TTS and Speech Editing with Edit Flows](https://arxiv.org/abs/2609.29889v2)** |  | 2026-10-12 | <details><summary>5 pag...</summary><p>5 pages, 3 figures. v2: added code link. Audio samples ( https://dhy02.github.io/editvoice-demo/ ); code ( https://github.com/DHY02/EditVoice )</p></details> |
 | **[GAMW: Generation-Aware Mel-Domain Watermarking for TTS Traceability](https://arxiv.org/abs/2610.15082v1)** |  | 2026-10-10 |  |
 | **[Cross-Lingual TTS for Indian Languages: A Benchmark and Inference-Time Duration Estimation Strategies](https://arxiv.org/abs/2610.14826v1)** |  | 2026-10-10 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 5 tables. Accepted at the AACL-IJCNLP 2026 Workshop Multi-LLL. The dataset and code recipes are available at: https://github.com/Cross-Lingual-TTS-for-Indian-Languages/Cross-Lingual-TTS-Indic-Test-Set/</p></details> |
 | **[VoTSpeech: Decoupling Voice Design from Speech Generation in Instruction-Following TTS](https://arxiv.org/abs/2610.14694v1)** |  | 2026-10-10 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential](https://arxiv.org/abs/2607.12235v2)** |  | 2026-10-02 |  |
 | **[DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS](https://arxiv.org/abs/2609.32777v2)** |  | 2026-09-30 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
 | **[Harmonizing Spectral Evolution in Conditional Flow Matching for TTS](https://arxiv.org/abs/2609.34431v2)** |  | 2026-09-30 | 4 Pages, 5 figures |
-| **[SCIC: Scope- and Codebook-Aware Instruction Conditioning for Speaker-Adapted Expressive TTS](https://arxiv.org/abs/2609.39088v1)** |  | 2026-09-30 |  |
-| **[Tacit-TTS: From Autoregressive Decoding to Masked Prediction for Efficient Transcript-Free Voice Cloning](https://arxiv.org/abs/2609.38658v1)** |  | 2026-09-29 | Under Review |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Collapse, Repair, and Drift: Dissecting Fine Tuning Dynamics in Speech Language Models](https://arxiv.org/abs/2610.18192v1)** |  | 2026-10-13 | 20 pages |
+| **[What Matters in Preference Post-Training of Continuous Autoregressive Speech Language Models](https://arxiv.org/abs/2610.16276v1)** |  | 2026-10-12 |  |
 | **[When Does a Spoken Agent Have Enough Evidence to Act? The PACT-SLM Contract Test](https://arxiv.org/abs/2609.38232v2)** |  | 2026-10-07 |  |
 | **[Dialect-Robust Speech Language Models with Synthetic Pseudo-Dialect Augmentation](https://arxiv.org/abs/2610.09321v1)** |  | 2026-10-07 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 7 tables. Accepted to IEEE SLT 2026</p></details> |
 | **[Steering Follows Geometry, Not Labels: Emotion Directions in a Full-Duplex Speech Model](https://arxiv.org/abs/2610.08887v1)** |  | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 Workshop on Real-Time Conversational Agents (RTCA), Sydney. OpenReview: https://openreview.net/forum?id=6IUNRorKmj</p></details> |
@@ -77,5 +79,3 @@ labels: documentation
 | **[ParaGeo: Decomposing Paralinguistic Variation into a Shared Latent Geometry](https://arxiv.org/abs/2610.03125v1)** |  | 2026-10-02 |  |
 | **[Learning When to Commit from Partial Speech for End-to-End Simultaneous Speech Translation](https://arxiv.org/abs/2610.02612v1)** |  | 2026-10-02 |  |
 | **[AURAL: Adaptive Latent Reasoning with Joint Chunk for Speech Language Models](https://arxiv.org/abs/2610.01560v1)** |  | 2026-10-01 |  |
-| **[Q-SPT: Learnable Query-Based Compression for Low-Frame-Rate Speech Tokenization](https://arxiv.org/abs/2610.01492v1)** |  | 2026-10-01 |  |
-| **[DuraS2ST: Chain-of-Thought and Reinforcement Learning for Duration-Aligned Speech-to-Speech Translation](https://arxiv.org/abs/2609.33742v1)** |  | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
