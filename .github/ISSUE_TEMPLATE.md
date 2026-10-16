@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 15, 2026
+title: Latest Papers - October 16, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization](https://arxiv.org/abs/2610.20181v1)** |  | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Audio, Speech and Language Processing. 14 pages, 6 figures</p></details> |
+| **[Energy-Based Models For Speech Synthesis](https://arxiv.org/abs/2310.12765v2)** |  | 2026-10-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 6 tables. Accepted to ICASSP 2024</p></details> |
+| **[Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech](https://arxiv.org/abs/2610.19499v1)** |  | 2026-10-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables. Under review</p></details> |
 | **[TDR: Tagalog Diacritic Restoration Dataset](https://arxiv.org/abs/2610.17597v1)** |  | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted at O-COCOSDA 2026</p></details> |
 | **[Learning from Real Stuttering: Synthetic Mandarin Stuttering Speech for Data Augmentation in Speech Recognition](https://arxiv.org/abs/2606.21457v2)** |  | 2026-10-11 | 19 pages,5 figures |
 | **[VoTSpeech: Decoupling Voice Design from Speech Generation in Instruction-Following TTS](https://arxiv.org/abs/2610.14694v1)** |  | 2026-10-10 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
@@ -19,13 +22,12 @@ labels: documentation
 | **[Learning to Watermark Speech Synthesis Against Model-Driven Reconstruction](https://arxiv.org/abs/2610.04235v1)** |  | 2026-10-03 |  |
 | **[Watch Your Speech: Text-aware Video-to-Speech Synthesis with Textual Conditioning](https://arxiv.org/abs/2610.01012v1)** |  | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted to BMVC 2026</p></details> |
 | **[From Neurons to Conversation: Speech Brain-Computer Interfaces](https://arxiv.org/abs/2609.36736v1)** |  | 2026-09-29 | <details><summary>Revie...</summary><p>Review article, 28 pages, 4 figures, 2 boxes, 2 tables</p></details> |
-| **[GLAD: Global-Local Adaptive Detector for Robust Speech Deepfake Detection](https://arxiv.org/abs/2609.35411v1)** |  | 2026-09-28 |  |
-| **[What Survives the Codec Shift: Pooled No-Vocals Residuals for Speech Deepfake Detection](https://arxiv.org/abs/2609.33375v1)** |  | 2026-09-27 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Prepared for submission to ICASSP 2027</p></details> |
-| **[Tracing Decoder Artifacts for Compact Synthetic Speech Screening](https://arxiv.org/abs/2609.32050v1)** |  | 2026-09-25 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Long-Prompt Zero-Shot TTS: Benchmarking Prosody Reproduction Beyond Voice Cloning](https://arxiv.org/abs/2610.19774v1)** |  | 2026-10-14 |  |
+| **[Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech](https://arxiv.org/abs/2610.19499v1)** |  | 2026-10-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables. Under review</p></details> |
 | **[DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech](https://arxiv.org/abs/2607.04140v3)** |  | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
 | **[EditVoice: Variable-Length Non-Autoregressive Zero-Shot TTS and Speech Editing with Edit Flows](https://arxiv.org/abs/2609.29889v2)** |  | 2026-10-12 | <details><summary>5 pag...</summary><p>5 pages, 3 figures. v2: added code link. Audio samples ( https://dhy02.github.io/editvoice-demo/ ); code ( https://github.com/DHY02/EditVoice )</p></details> |
 | **[GAMW: Generation-Aware Mel-Domain Watermarking for TTS Traceability](https://arxiv.org/abs/2610.15082v1)** |  | 2026-10-10 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[EmphTTS: an emphasis-control TTS with reinforcement learning](https://arxiv.org/abs/2609.27599v2)** |  | 2026-10-06 | <details><summary>5 pag...</summary><p>5 pages. Submitted to ICASSP 2027</p></details> |
 | **[Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS](https://arxiv.org/abs/2610.03320v1)** |  | 2026-10-02 |  |
 | **[A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential](https://arxiv.org/abs/2607.12235v2)** |  | 2026-10-02 |  |
-| **[DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS](https://arxiv.org/abs/2609.32777v2)** |  | 2026-09-30 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
-| **[Harmonizing Spectral Evolution in Conditional Flow Matching for TTS](https://arxiv.org/abs/2609.34431v2)** |  | 2026-09-30 | 4 Pages, 5 figures |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
