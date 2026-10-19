@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 16, 2026
+title: Latest Papers - October 19, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[TTS-Q: Perception-Guided Post-Training Quantization of Text-to-Speech Diffusion Transformers](https://arxiv.org/abs/2610.12474v2)** |  | 2026-10-14 |  |
 | **[Long-Prompt Zero-Shot TTS: Benchmarking Prosody Reproduction Beyond Voice Cloning](https://arxiv.org/abs/2610.19774v1)** |  | 2026-10-14 |  |
 | **[Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech](https://arxiv.org/abs/2610.19499v1)** |  | 2026-10-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables. Under review</p></details> |
 | **[DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech](https://arxiv.org/abs/2607.04140v3)** |  | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Training-Free Instruction TTS Gender Bias Calibration Using Model-Adaptive Steering](https://arxiv.org/abs/2610.09831v1)** |  | 2026-10-07 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 3 tables, submitted to ICASSP 2027</p></details> |
 | **[EmphTTS: an emphasis-control TTS with reinforcement learning](https://arxiv.org/abs/2609.27599v2)** |  | 2026-10-06 | <details><summary>5 pag...</summary><p>5 pages. Submitted to ICASSP 2027</p></details> |
 | **[Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS](https://arxiv.org/abs/2610.03320v1)** |  | 2026-10-02 |  |
-| **[A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential](https://arxiv.org/abs/2607.12235v2)** |  | 2026-10-02 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Probing Neural Audio Codecs with Speaker Traits and Speech Characteristics](https://arxiv.org/abs/2610.20955v1)** |  | 2026-10-14 |  |
+| **[PEDBench: Can Speech Models Detect Phonetic Errors?](https://arxiv.org/abs/2610.20830v1)** |  | 2026-10-14 | 21 pages, 10 figures |
 | **[Collapse, Repair, and Drift: Dissecting Fine Tuning Dynamics in Speech Language Models](https://arxiv.org/abs/2610.18192v1)** |  | 2026-10-13 | 20 pages |
 | **[What Matters in Preference Post-Training of Continuous Autoregressive Speech Language Models](https://arxiv.org/abs/2610.16276v1)** |  | 2026-10-12 |  |
 | **[When Does a Spoken Agent Have Enough Evidence to Act? The PACT-SLM Contract Test](https://arxiv.org/abs/2609.38232v2)** |  | 2026-10-07 |  |
@@ -77,5 +79,3 @@ labels: documentation
 | **[GS-Codec: A Gaussian-Splatting Bottleneck for Neural Audio Coding](https://arxiv.org/abs/2610.04651v1)** |  | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted to Neurips 2026</p></details> |
 | **[EMODE: Dynamic Para-Semantic Experts for Emotion-Aware Speech Language Modeling](https://arxiv.org/abs/2610.06956v1)** |  | 2026-10-03 |  |
 | **[ParaGeo: Decomposing Paralinguistic Variation into a Shared Latent Geometry](https://arxiv.org/abs/2610.03125v1)** |  | 2026-10-02 |  |
-| **[Learning When to Commit from Partial Speech for End-to-End Simultaneous Speech Translation](https://arxiv.org/abs/2610.02612v1)** |  | 2026-10-02 |  |
-| **[AURAL: Adaptive Latent Reasoning with Joint Chunk for Speech Language Models](https://arxiv.org/abs/2610.01560v1)** |  | 2026-10-01 |  |
