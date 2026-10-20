@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 19, 2026
+title: Latest Papers - October 20, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection](https://arxiv.org/abs/2610.24468v1)** |  | 2026-10-17 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 5 tables</p></details> |
+| **[Interpreting SSL Representations for Spoof Detection: a WavLM Study](https://arxiv.org/abs/2610.23526v1)** |  | 2026-10-16 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 1 table. Published at IWBF 2026. An extended abstract of this work was presented as a poster at Odyssey 2026</p></details> |
+| **[Too Emotional to Be Fake? Intra-Utterance Emotion Shifts Expose Failure Modes in Speech Deepfake Detectors](https://arxiv.org/abs/2610.22832v1)** |  | 2026-10-16 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 | **[Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization](https://arxiv.org/abs/2610.20181v1)** |  | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Audio, Speech and Language Processing. 14 pages, 6 figures</p></details> |
 | **[Energy-Based Models For Speech Synthesis](https://arxiv.org/abs/2310.12765v2)** |  | 2026-10-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 6 tables. Accepted to ICASSP 2024</p></details> |
 | **[Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech](https://arxiv.org/abs/2610.19499v1)** |  | 2026-10-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables. Under review</p></details> |
@@ -19,13 +22,11 @@ labels: documentation
 | **[Zero-Shot Lombard Speech Synthesis with Controllable Style Embeddings](https://arxiv.org/abs/2601.12966v2)** |  | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at IEEE SLT 2026</p></details> |
 | **[Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection](https://arxiv.org/abs/2610.05264v1)** |  | 2026-10-04 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, accepted to Interspeech 2026</p></details> |
 | **[Prompt-Consistency Inference for Zero-Shot Flow-Matching Text-to-Speech Models](https://arxiv.org/abs/2610.04757v1)** |  | 2026-10-03 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table, 1 algorithm, 11 equations</p></details> |
-| **[Learning to Watermark Speech Synthesis Against Model-Driven Reconstruction](https://arxiv.org/abs/2610.04235v1)** |  | 2026-10-03 |  |
-| **[Watch Your Speech: Text-aware Video-to-Speech Synthesis with Textual Conditioning](https://arxiv.org/abs/2610.01012v1)** |  | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted to BMVC 2026</p></details> |
-| **[From Neurons to Conversation: Speech Brain-Computer Interfaces](https://arxiv.org/abs/2609.36736v1)** |  | 2026-09-29 | <details><summary>Revie...</summary><p>Review article, 28 pages, 4 figures, 2 boxes, 2 tables</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Beyond the Benchmark: Conditioning, Domains and Failure Modes of Qwen3-TTS](https://arxiv.org/abs/2610.23678v1)** |  | 2026-10-16 |  |
 | **[TTS-Q: Perception-Guided Post-Training Quantization of Text-to-Speech Diffusion Transformers](https://arxiv.org/abs/2610.12474v2)** |  | 2026-10-14 |  |
 | **[Long-Prompt Zero-Shot TTS: Benchmarking Prosody Reproduction Beyond Voice Cloning](https://arxiv.org/abs/2610.19774v1)** |  | 2026-10-14 |  |
 | **[Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech](https://arxiv.org/abs/2610.19499v1)** |  | 2026-10-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables. Under review</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Edit Who Speaks, Control How They Speak: Global Timbre Editing and Local Instruction Control for TTS](https://arxiv.org/abs/2610.11437v1)** |  | 2026-10-08 |  |
 | **[Training-Free Instruction TTS Gender Bias Calibration Using Model-Adaptive Steering](https://arxiv.org/abs/2610.09831v1)** |  | 2026-10-07 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 3 tables, submitted to ICASSP 2027</p></details> |
 | **[EmphTTS: an emphasis-control TTS with reinforcement learning](https://arxiv.org/abs/2609.27599v2)** |  | 2026-10-06 | <details><summary>5 pag...</summary><p>5 pages. Submitted to ICASSP 2027</p></details> |
-| **[Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS](https://arxiv.org/abs/2610.03320v1)** |  | 2026-10-02 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
