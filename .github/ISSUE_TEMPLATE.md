@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 21, 2026
+title: Latest Papers - October 22, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS](https://arxiv.org/abs/2610.28035v1)** |  | 2026-10-20 |  |
 | **[Steering intonational tunes in text-to-speech synthesis](https://arxiv.org/abs/2610.27403v1)** |  | 2026-10-19 | <details><summary>39 pa...</summary><p>39 pages, 25 figures, 12 tables (13 pages without appendices)</p></details> |
 | **[SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS](https://arxiv.org/abs/2610.26252v1)** |  | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026</p></details> |
 | **[SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection](https://arxiv.org/abs/2610.24468v1)** |  | 2026-10-17 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 5 tables</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Multimodal Co-Generation With Continuous Bitstream Diffusion](https://arxiv.org/abs/2610.14349v1)** |  | 2026-10-09 |  |
 | **[How Should We Evaluate Naturalness for Synthetic Speech with a Foreign Accent?](https://arxiv.org/abs/2610.13175v1)** |  | 2026-10-09 | Accepted to SLT2026 |
 | **[Mechanisms of Multimodal Synchronization: Insights from Decoder-Based Video-Text-to-Speech Synthesis](https://arxiv.org/abs/2411.17690v4)** |  | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted at TMLR 2026</p></details> |
-| **[Zero-Shot Lombard Speech Synthesis with Controllable Style Embeddings](https://arxiv.org/abs/2601.12966v2)** |  | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at IEEE SLT 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS](https://arxiv.org/abs/2610.28035v1)** |  | 2026-10-20 |  |
 | **[TTS-Q: Speaker-Aware Post-Training Quantization of Text-to-Speech Diffusion Transformers](https://arxiv.org/abs/2610.12474v3)** |  | 2026-10-20 |  |
 | **[SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS](https://arxiv.org/abs/2610.26252v1)** |  | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026</p></details> |
 | **[MixiSpeech: Progressive State Distillation for One-Step Vietnamese TTS](https://arxiv.org/abs/2610.25394v1)** |  | 2026-10-18 | <details><summary>Accep...</summary><p>Accepted at SOICT2026</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language](https://arxiv.org/abs/2609.11523v3)** |  | 2026-10-10 |  |
 | **[E3-System: Expressive EmoData, Explicitly Controllable, Easy-to-Use TTS](https://arxiv.org/abs/2610.12993v1)** |  | 2026-10-09 | 6 pages, 4 figures |
 | **[Emo-BPO: Emotion Bidirectional Preference Optimization for Diffusion-based Emotional TTS](https://arxiv.org/abs/2610.12958v1)** |  | 2026-10-09 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
-| **[Edit Who Speaks, Control How They Speak: Global Timbre Editing and Local Instruction Control for TTS](https://arxiv.org/abs/2610.11437v1)** |  | 2026-10-08 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
