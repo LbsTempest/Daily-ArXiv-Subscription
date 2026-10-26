@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 23, 2026
+title: Latest Papers - October 26, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[EmoFI-TTS: Face-Conditioned Expressive Voice Synthesis with Intensity Modulation](https://arxiv.org/abs/2610.30477v1)** |  | 2026-10-21 |  |
 | **[LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS](https://arxiv.org/abs/2610.28035v1)** |  | 2026-10-20 |  |
 | **[Steering intonational tunes in text-to-speech synthesis](https://arxiv.org/abs/2610.27403v1)** |  | 2026-10-19 | <details><summary>39 pa...</summary><p>39 pages, 25 figures, 12 tables (13 pages without appendices)</p></details> |
 | **[SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS](https://arxiv.org/abs/2610.26252v1)** |  | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026</p></details> |
@@ -21,11 +22,13 @@ labels: documentation
 | **[VoTSpeech: Decoupling Voice Design from Speech Generation in Instruction-Following TTS](https://arxiv.org/abs/2610.14694v1)** |  | 2026-10-10 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
 | **[Multimodal Co-Generation With Continuous Bitstream Diffusion](https://arxiv.org/abs/2610.14349v1)** |  | 2026-10-09 |  |
 | **[How Should We Evaluate Naturalness for Synthetic Speech with a Foreign Accent?](https://arxiv.org/abs/2610.13175v1)** |  | 2026-10-09 | Accepted to SLT2026 |
-| **[Mechanisms of Multimodal Synchronization: Insights from Decoder-Based Video-Text-to-Speech Synthesis](https://arxiv.org/abs/2411.17690v4)** |  | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted at TMLR 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Combining Masked Language Modeling and Cross-Modal Contrastive Learning for Prosody-Aware TTS](https://arxiv.org/abs/2604.01247v2)** |  | 2026-10-22 | <details><summary>This ...</summary><p>This paper has been submitted to ICASSP 2027 for review</p></details> |
+| **[TT-SAX: A Two-Track Time Series Symbolization for Natural Language Shape Querying](https://arxiv.org/abs/2610.30593v1)** |  | 2026-10-22 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 2 tables. Accepted at the Australasian Database Conference (ADC 2026). This is the submitted manuscript prior to peer review</p></details> |
+| **[EmoFI-TTS: Face-Conditioned Expressive Voice Synthesis with Intensity Modulation](https://arxiv.org/abs/2610.30477v1)** |  | 2026-10-21 |  |
 | **[Decodability Is Not Controllability: Local and Anisotropic Speaker Control in Continuous-Latent TTS](https://arxiv.org/abs/2610.29345v1)** |  | 2026-10-21 |  |
 | **[LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS](https://arxiv.org/abs/2610.28035v1)** |  | 2026-10-20 |  |
 | **[TTS-Q: Speaker-Aware Post-Training Quantization of Text-to-Speech Diffusion Transformers](https://arxiv.org/abs/2610.12474v3)** |  | 2026-10-20 |  |
@@ -38,13 +41,11 @@ labels: documentation
 | **[EditVoice: Variable-Length Non-Autoregressive Zero-Shot TTS and Speech Editing with Edit Flows](https://arxiv.org/abs/2609.29889v2)** |  | 2026-10-12 | <details><summary>5 pag...</summary><p>5 pages, 3 figures. v2: added code link. Audio samples ( https://dhy02.github.io/editvoice-demo/ ); code ( https://github.com/DHY02/EditVoice )</p></details> |
 | **[GAMW: Generation-Aware Mel-Domain Watermarking for TTS Traceability](https://arxiv.org/abs/2610.15082v1)** |  | 2026-10-10 |  |
 | **[Cross-Lingual TTS for Indian Languages: A Benchmark and Inference-Time Duration Estimation Strategies](https://arxiv.org/abs/2610.14826v1)** |  | 2026-10-10 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 5 tables. Accepted at the AACL-IJCNLP 2026 Workshop Multi-LLL. The dataset and code recipes are available at: https://github.com/Cross-Lingual-TTS-for-Indian-Languages/Cross-Lingual-TTS-Indic-Test-Set/</p></details> |
-| **[VoTSpeech: Decoupling Voice Design from Speech Generation in Instruction-Following TTS](https://arxiv.org/abs/2610.14694v1)** |  | 2026-10-10 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
-| **[Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language](https://arxiv.org/abs/2609.11523v3)** |  | 2026-10-10 |  |
-| **[E3-System: Expressive EmoData, Explicitly Controllable, Easy-to-Use TTS](https://arxiv.org/abs/2610.12993v1)** |  | 2026-10-09 | 6 pages, 4 figures |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Predicting Music Valence and Arousal via Textual and Multimodal In-Context Learning in Large Language Models](https://arxiv.org/abs/2610.31202v1)** |  | 2026-10-22 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[TAC: Timestamped Audio Captioning](https://arxiv.org/abs/2602.15766v2)** |  | 2026-10-06 |  |
 | **[NextMe-800: Anticipating Personal Behavior from Months of Egocentric Video](https://arxiv.org/abs/2610.01461v1)** |  | 2026-10-01 | <details><summary>24 pa...</summary><p>24 pages, 7 figures. Dataset and benchmark: https://huggingface.co/datasets/mmm8383/NextMe-800 ; project page: https://kkkkawayi.github.io/nextme-800/</p></details> |
 | **[CARD: Cross-component Audio Representation Distillation for Encoder-Free Audio Captioning](https://arxiv.org/abs/2607.04619v2)** |  | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted to IEEE Spoken Language Technology (SLT) 2026</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Do Joint Language-Audio Embeddings Encode Perceptual Timbre Semantics?](https://arxiv.org/abs/2510.14249v2)** |  | 2026-08-25 |  |
 | **[ACE-Cap: Active Evidence Acquisition via Agentic Co-Evolution for Long-Paragraph Fine-Grained Audio Captioning](https://arxiv.org/abs/2608.16162v2)** |  | 2026-08-20 |  |
 | **[AudioMap: Cloze-and-Choice Reinforcement Learning for Time-Aware Dense Audio Captioning](https://arxiv.org/abs/2608.09559v1)** |  | 2026-08-10 |  |
-| **[MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning](https://arxiv.org/abs/2607.27109v2)** |  | 2026-07-30 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
