@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 26, 2026
+title: Latest Papers - October 27, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition](https://arxiv.org/abs/2610.32187v1)** |  | 2026-10-23 |  |
 | **[EmoFI-TTS: Face-Conditioned Expressive Voice Synthesis with Intensity Modulation](https://arxiv.org/abs/2610.30477v1)** |  | 2026-10-21 |  |
 | **[LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS](https://arxiv.org/abs/2610.28035v1)** |  | 2026-10-20 |  |
 | **[Steering intonational tunes in text-to-speech synthesis](https://arxiv.org/abs/2610.27403v1)** |  | 2026-10-19 | <details><summary>39 pa...</summary><p>39 pages, 25 figures, 12 tables (13 pages without appendices)</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Learning from Real Stuttering: Synthetic Mandarin Stuttering Speech for Data Augmentation in Speech Recognition](https://arxiv.org/abs/2606.21457v2)** |  | 2026-10-11 | 19 pages,5 figures |
 | **[VoTSpeech: Decoupling Voice Design from Speech Generation in Instruction-Following TTS](https://arxiv.org/abs/2610.14694v1)** |  | 2026-10-10 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
 | **[Multimodal Co-Generation With Continuous Bitstream Diffusion](https://arxiv.org/abs/2610.14349v1)** |  | 2026-10-09 |  |
-| **[How Should We Evaluate Naturalness for Synthetic Speech with a Foreign Accent?](https://arxiv.org/abs/2610.13175v1)** |  | 2026-10-09 | Accepted to SLT2026 |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition](https://arxiv.org/abs/2610.32187v1)** |  | 2026-10-23 |  |
 | **[SLM-SS: Token-Based Speech Separation with Speech Language Models](https://arxiv.org/abs/2610.27785v1)** |  | 2026-10-20 |  |
 | **[AURAL: Adaptive Latent Reasoning with Joint Chunk for Speech Language Models](https://arxiv.org/abs/2610.01560v2)** |  | 2026-10-19 |  |
 | **[Probing Neural Audio Codecs with Speaker Traits and Speech Characteristics](https://arxiv.org/abs/2610.20955v1)** |  | 2026-10-14 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[HiPLEX: Hierarchical Policy Factorization for Full Duplex Speech Language Models](https://arxiv.org/abs/2610.07727v1)** |  | 2026-10-06 | <details><summary>34 pa...</summary><p>34 pages, 9 figures, 17 tables,</p></details> |
 | **[Quantifying the Generation Modality Gap in Speech-Text Language Models](https://arxiv.org/abs/2609.14743v2)** |  | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted to SLT 2026, extended version with appendix</p></details> |
 | **[Steering Speech-Language Models: Training-Free Task Specialization via Contrastive Activation Addition](https://arxiv.org/abs/2610.04683v1)** |  | 2026-10-03 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
-| **[GS-Codec: A Gaussian-Splatting Bottleneck for Neural Audio Coding](https://arxiv.org/abs/2610.04651v1)** |  | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted to Neurips 2026</p></details> |
