@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 27, 2026
+title: Latest Papers - October 28, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[ImageTTS: Repurposing Pretrained Image Diffusion Transformers for Speech Synthesis](https://arxiv.org/abs/2610.34807v1)** |  | 2026-10-26 |  |
+| **[Heard Enough to Act: Early Tool Calling in Spoken Dialogue Systems](https://arxiv.org/abs/2610.34653v1)** |  | 2026-10-26 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition](https://arxiv.org/abs/2610.32187v1)** |  | 2026-10-23 |  |
 | **[EmoFI-TTS: Face-Conditioned Expressive Voice Synthesis with Intensity Modulation](https://arxiv.org/abs/2610.30477v1)** |  | 2026-10-21 |  |
 | **[LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS](https://arxiv.org/abs/2610.28035v1)** |  | 2026-10-20 |  |
@@ -20,12 +22,13 @@ labels: documentation
 | **[Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech](https://arxiv.org/abs/2610.19499v1)** |  | 2026-10-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables. Under review</p></details> |
 | **[TDR: Tagalog Diacritic Restoration Dataset](https://arxiv.org/abs/2610.17597v1)** |  | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted at O-COCOSDA 2026</p></details> |
 | **[Learning from Real Stuttering: Synthetic Mandarin Stuttering Speech for Data Augmentation in Speech Recognition](https://arxiv.org/abs/2606.21457v2)** |  | 2026-10-11 | 19 pages,5 figures |
-| **[VoTSpeech: Decoupling Voice Design from Speech Generation in Instruction-Following TTS](https://arxiv.org/abs/2610.14694v1)** |  | 2026-10-10 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
-| **[Multimodal Co-Generation With Continuous Bitstream Diffusion](https://arxiv.org/abs/2610.14349v1)** |  | 2026-10-09 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Interaction Effects Between Learner Characteristics and Dialogue Format in LLM- and TTS-Generated Dialogue-Based Lessons](https://arxiv.org/abs/2608.20822v2)** |  | 2026-10-27 | <details><summary>Revis...</summary><p>Revised version of a manuscript submitted to Education Sciences (MDPI); not yet peer-reviewed. The title has been changed from v1. 23 pages, 1 figure</p></details> |
+| **[When the Persona Contradicts the Line: Diagnosing Plan-to-Synthesis Failures in Chain-of-Thought TTS](https://arxiv.org/abs/2610.35008v1)** |  | 2026-10-26 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
+| **[LeanTTS: Efficient Full-Stack Bilingual TTS for Zero-Shot Cloning and Voice Customization](https://arxiv.org/abs/2610.34408v1)** |  | 2026-10-25 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables. Audio demos: https://github.com/notlu/leantts</p></details> |
 | **[Combining Masked Language Modeling and Cross-Modal Contrastive Learning for Prosody-Aware TTS](https://arxiv.org/abs/2604.01247v2)** |  | 2026-10-22 | <details><summary>This ...</summary><p>This paper has been submitted to ICASSP 2027 for review</p></details> |
 | **[TT-SAX: A Two-Track Time Series Symbolization for Natural Language Shape Querying](https://arxiv.org/abs/2610.30593v1)** |  | 2026-10-22 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 2 tables. Accepted at the Australasian Database Conference (ADC 2026). This is the submitted manuscript prior to peer review</p></details> |
 | **[EmoFI-TTS: Face-Conditioned Expressive Voice Synthesis with Intensity Modulation](https://arxiv.org/abs/2610.30477v1)** |  | 2026-10-21 |  |
@@ -38,13 +41,11 @@ labels: documentation
 | **[Long-Prompt Zero-Shot TTS: Benchmarking Prosody Reproduction Beyond Voice Cloning](https://arxiv.org/abs/2610.19774v1)** |  | 2026-10-14 |  |
 | **[Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech](https://arxiv.org/abs/2610.19499v1)** |  | 2026-10-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables. Under review</p></details> |
 | **[DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech](https://arxiv.org/abs/2607.04140v3)** |  | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
-| **[EditVoice: Variable-Length Non-Autoregressive Zero-Shot TTS and Speech Editing with Edit Flows](https://arxiv.org/abs/2609.29889v2)** |  | 2026-10-12 | <details><summary>5 pag...</summary><p>5 pages, 3 figures. v2: added code link. Audio samples ( https://dhy02.github.io/editvoice-demo/ ); code ( https://github.com/DHY02/EditVoice )</p></details> |
-| **[GAMW: Generation-Aware Mel-Domain Watermarking for TTS Traceability](https://arxiv.org/abs/2610.15082v1)** |  | 2026-10-10 |  |
-| **[Cross-Lingual TTS for Indian Languages: A Benchmark and Inference-Time Duration Estimation Strategies](https://arxiv.org/abs/2610.14826v1)** |  | 2026-10-10 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 5 tables. Accepted at the AACL-IJCNLP 2026 Workshop Multi-LLL. The dataset and code recipes are available at: https://github.com/Cross-Lingual-TTS-for-Indian-Languages/Cross-Lingual-TTS-Indic-Test-Set/</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[TAC2: Timestamped Audio Captioning as composable functions](https://arxiv.org/abs/2610.36568v1)** |  | 2026-10-27 | 22 pages |
 | **[Predicting Music Valence and Arousal via Textual and Multimodal In-Context Learning in Large Language Models](https://arxiv.org/abs/2610.31202v1)** |  | 2026-10-22 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[TAC: Timestamped Audio Captioning](https://arxiv.org/abs/2602.15766v2)** |  | 2026-10-06 |  |
 | **[NextMe-800: Anticipating Personal Behavior from Months of Egocentric Video](https://arxiv.org/abs/2610.01461v1)** |  | 2026-10-01 | <details><summary>24 pa...</summary><p>24 pages, 7 figures. Dataset and benchmark: https://huggingface.co/datasets/mmm8383/NextMe-800 ; project page: https://kkkkawayi.github.io/nextme-800/</p></details> |
@@ -59,11 +60,12 @@ labels: documentation
 | **[LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training](https://arxiv.org/abs/2608.24845v1)** |  | 2026-08-25 |  |
 | **[Do Joint Language-Audio Embeddings Encode Perceptual Timbre Semantics?](https://arxiv.org/abs/2510.14249v2)** |  | 2026-08-25 |  |
 | **[ACE-Cap: Active Evidence Acquisition via Agentic Co-Evolution for Long-Paragraph Fine-Grained Audio Captioning](https://arxiv.org/abs/2608.16162v2)** |  | 2026-08-20 |  |
-| **[AudioMap: Cloze-and-Choice Reinforcement Learning for Time-Aware Dense Audio Captioning](https://arxiv.org/abs/2608.09559v1)** |  | 2026-08-10 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Developing a Speech Language Model for Basque](https://arxiv.org/abs/2610.36911v1)** |  | 2026-10-27 | <details><summary>IberS...</summary><p>IberSPEECH2026 - Jornadas en Tecnologias del Habla and Iberian SLTech Workshop Events</p></details> |
+| **[From Speech Tokens to Stolen Voices: Attacker-Chosen-Text Speaker Impersonation via Representation Inversion](https://arxiv.org/abs/2610.34688v1)** |  | 2026-10-26 |  |
 | **[Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition](https://arxiv.org/abs/2610.32187v1)** |  | 2026-10-23 |  |
 | **[SLM-SS: Token-Based Speech Separation with Speech Language Models](https://arxiv.org/abs/2610.27785v1)** |  | 2026-10-20 |  |
 | **[AURAL: Adaptive Latent Reasoning with Joint Chunk for Speech Language Models](https://arxiv.org/abs/2610.01560v2)** |  | 2026-10-19 |  |
@@ -77,5 +79,3 @@ labels: documentation
 | **[Hearing Like Humans? Sound Symbolism and Perceptual Alignment in Speech Language Models](https://arxiv.org/abs/2607.10162v2)** |  | 2026-10-06 | SLT 2026 |
 | **[HINTT Submission to the 2nd MLC-SLM Challenge: Comparing Cascaded and Unified Approaches to Diarization and ASR](https://arxiv.org/abs/2610.08063v1)** |  | 2026-10-06 |  |
 | **[HiPLEX: Hierarchical Policy Factorization for Full Duplex Speech Language Models](https://arxiv.org/abs/2610.07727v1)** |  | 2026-10-06 | <details><summary>34 pa...</summary><p>34 pages, 9 figures, 17 tables,</p></details> |
-| **[Quantifying the Generation Modality Gap in Speech-Text Language Models](https://arxiv.org/abs/2609.14743v2)** |  | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted to SLT 2026, extended version with appendix</p></details> |
-| **[Steering Speech-Language Models: Training-Free Task Specialization via Contrastive Activation Addition](https://arxiv.org/abs/2610.04683v1)** |  | 2026-10-03 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
