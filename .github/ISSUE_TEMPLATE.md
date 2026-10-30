@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 29, 2026
+title: Latest Papers - October 30, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Pronunciation-Supervised Text-to-Speech for Irish (Gaeilge)](https://arxiv.org/abs/2610.38384v1)** |  | 2026-10-28 |  |
 | **[ImageTTS: Repurposing Pretrained Image Diffusion Transformers for Speech Synthesis](https://arxiv.org/abs/2610.34807v1)** |  | 2026-10-26 |  |
 | **[Heard Enough to Act: Early Tool Calling in Spoken Dialogue Systems](https://arxiv.org/abs/2610.34653v1)** |  | 2026-10-26 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition](https://arxiv.org/abs/2610.32187v1)** |  | 2026-10-23 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Energy-Based Models For Speech Synthesis](https://arxiv.org/abs/2310.12765v2)** |  | 2026-10-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 6 tables. Accepted to ICASSP 2024</p></details> |
 | **[Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech](https://arxiv.org/abs/2610.19499v1)** |  | 2026-10-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables. Under review</p></details> |
 | **[TDR: Tagalog Diacritic Restoration Dataset](https://arxiv.org/abs/2610.17597v1)** |  | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted at O-COCOSDA 2026</p></details> |
-| **[Learning from Real Stuttering: Synthetic Mandarin Stuttering Speech for Data Augmentation in Speech Recognition](https://arxiv.org/abs/2606.21457v2)** |  | 2026-10-11 | 19 pages,5 figures |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[MixCards: Evaluating Structured Descriptions of Multi-Source Sound Scenes](https://arxiv.org/abs/2610.38276v1)** |  | 2026-10-28 | <details><summary>Bench...</summary><p>Benchmark dataset: https://doi.org/10.5281/zenodo.23702059 Code: https://github.com/Sound-Captioning-for-Accessibility/mixcardbench</p></details> |
 | **[TAC2: Timestamped Audio Captioning as composable functions](https://arxiv.org/abs/2610.36568v1)** |  | 2026-10-27 | 22 pages |
 | **[Predicting Music Valence and Arousal via Textual and Multimodal In-Context Learning in Large Language Models](https://arxiv.org/abs/2610.31202v1)** |  | 2026-10-22 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[TAC: Timestamped Audio Captioning](https://arxiv.org/abs/2602.15766v2)** |  | 2026-10-06 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[How Well Do Generative Music Models Follow Emotion Conditioning?](https://arxiv.org/abs/2608.29987v1)** |  | 2026-08-30 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 2 tables</p></details> |
 | **[LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training](https://arxiv.org/abs/2608.24845v1)** |  | 2026-08-25 |  |
 | **[Do Joint Language-Audio Embeddings Encode Perceptual Timbre Semantics?](https://arxiv.org/abs/2510.14249v2)** |  | 2026-08-25 |  |
-| **[ACE-Cap: Active Evidence Acquisition via Agentic Co-Evolution for Long-Paragraph Fine-Grained Audio Captioning](https://arxiv.org/abs/2608.16162v2)** |  | 2026-08-20 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
