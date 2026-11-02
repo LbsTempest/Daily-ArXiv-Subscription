@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 30, 2026
+title: Latest Papers - November 02, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Reading-Level Verification of Kanji Words in Japanese Financial Speech Synthesis](https://arxiv.org/abs/2610.39168v1)** |  | 2026-10-29 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 7 tables</p></details> |
 | **[Pronunciation-Supervised Text-to-Speech for Irish (Gaeilge)](https://arxiv.org/abs/2610.38384v1)** |  | 2026-10-28 |  |
 | **[ImageTTS: Repurposing Pretrained Image Diffusion Transformers for Speech Synthesis](https://arxiv.org/abs/2610.34807v1)** |  | 2026-10-26 |  |
 | **[Heard Enough to Act: Early Tool Calling in Spoken Dialogue Systems](https://arxiv.org/abs/2610.34653v1)** |  | 2026-10-26 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
@@ -21,11 +22,13 @@ labels: documentation
 | **[Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization](https://arxiv.org/abs/2610.20181v1)** |  | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Audio, Speech and Language Processing. 14 pages, 6 figures</p></details> |
 | **[Energy-Based Models For Speech Synthesis](https://arxiv.org/abs/2310.12765v2)** |  | 2026-10-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 6 tables. Accepted to ICASSP 2024</p></details> |
 | **[Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech](https://arxiv.org/abs/2610.19499v1)** |  | 2026-10-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables. Under review</p></details> |
-| **[TDR: Tagalog Diacritic Restoration Dataset](https://arxiv.org/abs/2610.17597v1)** |  | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted at O-COCOSDA 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models](https://arxiv.org/abs/2610.40505v1)** |  | 2026-10-29 | Under review |
+| **[What Makes a Good Audio Prompt for Zero-Shot TTS? Learning Prompt Selection from Synthesis Outcomes](https://arxiv.org/abs/2610.40372v1)** |  | 2026-10-29 |  |
+| **[EmpDPO: Enabling Emphasis Control in TTS via Direct Preference Optimization](https://arxiv.org/abs/2610.39427v1)** |  | 2026-10-29 | <details><summary>5 pag...</summary><p>5 pages, 3 figures. Submitted to ICASSP 2027. Audio samples: https://chaonan99.github.io/empdpo-demo/</p></details> |
 | **[Interaction Effects Between Learner Characteristics and Dialogue Format in LLM- and TTS-Generated Dialogue-Based Lessons](https://arxiv.org/abs/2608.20822v2)** |  | 2026-10-27 | <details><summary>Revis...</summary><p>Revised version of a manuscript submitted to Education Sciences (MDPI); not yet peer-reviewed. The title has been changed from v1. 23 pages, 1 figure</p></details> |
 | **[When the Persona Contradicts the Line: Diagnosing Plan-to-Synthesis Failures in Chain-of-Thought TTS](https://arxiv.org/abs/2610.35008v1)** |  | 2026-10-26 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[LeanTTS: Efficient Full-Stack Bilingual TTS for Zero-Shot Cloning and Voice Customization](https://arxiv.org/abs/2610.34408v1)** |  | 2026-10-25 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables. Audio demos: https://github.com/notlu/leantts</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS](https://arxiv.org/abs/2610.26252v1)** |  | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026</p></details> |
 | **[MixiSpeech: Progressive State Distillation for One-Step Vietnamese TTS](https://arxiv.org/abs/2610.25394v1)** |  | 2026-10-18 | <details><summary>Accep...</summary><p>Accepted at SOICT2026</p></details> |
 | **[Beyond the Benchmark: Conditioning, Domains and Failure Modes of Qwen3-TTS](https://arxiv.org/abs/2610.23678v1)** |  | 2026-10-16 |  |
-| **[Long-Prompt Zero-Shot TTS: Benchmarking Prosody Reproduction Beyond Voice Cloning](https://arxiv.org/abs/2610.19774v1)** |  | 2026-10-14 |  |
-| **[Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech](https://arxiv.org/abs/2610.19499v1)** |  | 2026-10-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables. Under review</p></details> |
-| **[DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech](https://arxiv.org/abs/2607.04140v3)** |  | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
