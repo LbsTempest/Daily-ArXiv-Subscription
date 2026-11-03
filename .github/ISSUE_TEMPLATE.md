@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 02, 2026
+title: Latest Papers - November 03, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories](https://arxiv.org/abs/2610.40970v1)** |  | 2026-10-29 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 3 tables</p></details> |
 | **[Reading-Level Verification of Kanji Words in Japanese Financial Speech Synthesis](https://arxiv.org/abs/2610.39168v1)** |  | 2026-10-29 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 7 tables</p></details> |
 | **[Pronunciation-Supervised Text-to-Speech for Irish (Gaeilge)](https://arxiv.org/abs/2610.38384v1)** |  | 2026-10-28 |  |
 | **[ImageTTS: Repurposing Pretrained Image Diffusion Transformers for Speech Synthesis](https://arxiv.org/abs/2610.34807v1)** |  | 2026-10-26 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Too Emotional to Be Fake? Intra-Utterance Emotion Shifts Expose Failure Modes in Speech Deepfake Detectors](https://arxiv.org/abs/2610.22832v1)** |  | 2026-10-16 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 | **[Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization](https://arxiv.org/abs/2610.20181v1)** |  | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Audio, Speech and Language Processing. 14 pages, 6 figures</p></details> |
 | **[Energy-Based Models For Speech Synthesis](https://arxiv.org/abs/2310.12765v2)** |  | 2026-10-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 6 tables. Accepted to ICASSP 2024</p></details> |
-| **[Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech](https://arxiv.org/abs/2610.19499v1)** |  | 2026-10-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables. Under review</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[VoxServe: Streaming-Centric Serving System for Speech Language Models](https://arxiv.org/abs/2602.00269v2)** |  | 2026-10-31 | <details><summary>The c...</summary><p>The code is available at https://github.com/vox-serve/vox-serve</p></details> |
+| **[C3: Speech-Guided KV Retrieval for Long-Context SpeechLLM Inference](https://arxiv.org/abs/2611.00333v1)** |  | 2026-10-30 | <details><summary>accep...</summary><p>accepted to NeurIPS 2026 AXIOM workshop</p></details> |
+| **[From Transcription to Reformulation: Defining and Benchmarking Grounded Generative Speech Recognition](https://arxiv.org/abs/2610.41292v1)** |  | 2026-10-30 |  |
+| **[Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use](https://arxiv.org/abs/2610.40738v1)** |  | 2026-10-29 |  |
 | **[Developing a Speech Language Model for Basque](https://arxiv.org/abs/2610.36911v1)** |  | 2026-10-27 | <details><summary>IberS...</summary><p>IberSPEECH2026 - Jornadas en Tecnologias del Habla and Iberian SLTech Workshop Events</p></details> |
 | **[From Speech Tokens to Stolen Voices: Attacker-Chosen-Text Speaker Impersonation via Representation Inversion](https://arxiv.org/abs/2610.34688v1)** |  | 2026-10-26 |  |
 | **[Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition](https://arxiv.org/abs/2610.32187v1)** |  | 2026-10-23 |  |
@@ -75,7 +79,3 @@ labels: documentation
 | **[What Matters in Preference Post-Training of Continuous Autoregressive Speech Language Models](https://arxiv.org/abs/2610.16276v1)** |  | 2026-10-12 |  |
 | **[When Does a Spoken Agent Have Enough Evidence to Act? The PACT-SLM Contract Test](https://arxiv.org/abs/2609.38232v2)** |  | 2026-10-07 |  |
 | **[Dialect-Robust Speech Language Models with Synthetic Pseudo-Dialect Augmentation](https://arxiv.org/abs/2610.09321v1)** |  | 2026-10-07 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 7 tables. Accepted to IEEE SLT 2026</p></details> |
-| **[Steering Follows Geometry, Not Labels: Emotion Directions in a Full-Duplex Speech Model](https://arxiv.org/abs/2610.08887v1)** |  | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 Workshop on Real-Time Conversational Agents (RTCA), Sydney. OpenReview: https://openreview.net/forum?id=6IUNRorKmj</p></details> |
-| **[Hearing Like Humans? Sound Symbolism and Perceptual Alignment in Speech Language Models](https://arxiv.org/abs/2607.10162v2)** |  | 2026-10-06 | SLT 2026 |
-| **[HINTT Submission to the 2nd MLC-SLM Challenge: Comparing Cascaded and Unified Approaches to Diarization and ASR](https://arxiv.org/abs/2610.08063v1)** |  | 2026-10-06 |  |
-| **[HiPLEX: Hierarchical Policy Factorization for Full Duplex Speech Language Models](https://arxiv.org/abs/2610.07727v1)** |  | 2026-10-06 | <details><summary>34 pa...</summary><p>34 pages, 9 figures, 17 tables,</p></details> |
