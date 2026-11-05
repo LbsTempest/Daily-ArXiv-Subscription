@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 04, 2026
+title: Latest Papers - November 05, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Detector-Guided Vocoder Training for Adversarial Text-to-Speech Synthesis](https://arxiv.org/abs/2611.04511v1)** |  | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted at WIFS 2026</p></details> |
 | **[Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection](https://arxiv.org/abs/2610.05264v2)** |  | 2026-11-02 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, Proceedings of Interspeech 2026</p></details> |
 | **[Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories](https://arxiv.org/abs/2610.40970v1)** |  | 2026-10-29 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 3 tables</p></details> |
 | **[Reading-Level Verification of Kanji Words in Japanese Financial Speech Synthesis](https://arxiv.org/abs/2610.39168v1)** |  | 2026-10-29 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 7 tables</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection](https://arxiv.org/abs/2610.24468v1)** |  | 2026-10-17 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 5 tables</p></details> |
 | **[Interpreting SSL Representations for Spoof Detection: a WavLM Study](https://arxiv.org/abs/2610.23526v1)** |  | 2026-10-16 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 1 table. Published at IWBF 2026. An extended abstract of this work was presented as a poster at Odyssey 2026</p></details> |
 | **[Too Emotional to Be Fake? Intra-Utterance Emotion Shifts Expose Failure Modes in Speech Deepfake Detectors](https://arxiv.org/abs/2610.22832v1)** |  | 2026-10-16 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization](https://arxiv.org/abs/2610.20181v1)** |  | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Audio, Speech and Language Processing. 14 pages, 6 figures</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Do Multi-Turn Conversational Capabilities Carry Over from Text to Speech? A Parallel Multilingual Benchmark](https://arxiv.org/abs/2611.04390v1)** |  | 2026-11-03 |  |
 | **[SpeechEQ: Benchmarking Emotional Intelligence Quotient in Socially Aware Voice Conversational Models](https://arxiv.org/abs/2606.25990v2)** |  | 2026-11-02 |  |
 | **[VoxServe: Streaming-Centric Serving System for Speech Language Models](https://arxiv.org/abs/2602.00269v2)** |  | 2026-10-31 | <details><summary>The c...</summary><p>The code is available at https://github.com/vox-serve/vox-serve</p></details> |
 | **[C3: Speech-Guided KV Retrieval for Long-Context SpeechLLM Inference](https://arxiv.org/abs/2611.00333v1)** |  | 2026-10-30 | <details><summary>accep...</summary><p>accepted to NeurIPS 2026 AXIOM workshop</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[PEDBench: Can Speech Models Detect Phonetic Errors?](https://arxiv.org/abs/2610.20830v1)** |  | 2026-10-14 | 21 pages, 10 figures |
 | **[Collapse, Repair, and Drift: Dissecting Fine Tuning Dynamics in Speech Language Models](https://arxiv.org/abs/2610.18192v1)** |  | 2026-10-13 | 20 pages |
 | **[What Matters in Preference Post-Training of Continuous Autoregressive Speech Language Models](https://arxiv.org/abs/2610.16276v1)** |  | 2026-10-12 |  |
-| **[When Does a Spoken Agent Have Enough Evidence to Act? The PACT-SLM Contract Test](https://arxiv.org/abs/2609.38232v2)** |  | 2026-10-07 |  |
