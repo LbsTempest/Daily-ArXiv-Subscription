@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 05, 2026
+title: Latest Papers - November 06, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Decode Before You Hear: Speculative Listening for Chunk-Interleaved Full-Duplex Speech Language Models](https://arxiv.org/abs/2611.06982v1)** |  | 2026-11-04 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 8 tables</p></details> |
 | **[Do Multi-Turn Conversational Capabilities Carry Over from Text to Speech? A Parallel Multilingual Benchmark](https://arxiv.org/abs/2611.04390v1)** |  | 2026-11-03 |  |
 | **[SpeechEQ: Benchmarking Emotional Intelligence Quotient in Socially Aware Voice Conversational Models](https://arxiv.org/abs/2606.25990v2)** |  | 2026-11-02 |  |
 | **[VoxServe: Streaming-Centric Serving System for Speech Language Models](https://arxiv.org/abs/2602.00269v2)** |  | 2026-10-31 | <details><summary>The c...</summary><p>The code is available at https://github.com/vox-serve/vox-serve</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[Probing Neural Audio Codecs with Speaker Traits and Speech Characteristics](https://arxiv.org/abs/2610.20955v1)** |  | 2026-10-14 |  |
 | **[PEDBench: Can Speech Models Detect Phonetic Errors?](https://arxiv.org/abs/2610.20830v1)** |  | 2026-10-14 | 21 pages, 10 figures |
 | **[Collapse, Repair, and Drift: Dissecting Fine Tuning Dynamics in Speech Language Models](https://arxiv.org/abs/2610.18192v1)** |  | 2026-10-13 | 20 pages |
-| **[What Matters in Preference Post-Training of Continuous Autoregressive Speech Language Models](https://arxiv.org/abs/2610.16276v1)** |  | 2026-10-12 |  |
