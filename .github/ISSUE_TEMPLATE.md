@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 09, 2026
+title: Latest Papers - November 10, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Real-Time Short-Response Selection for Spoken Dialogue Systems](https://arxiv.org/abs/2611.09057v1)** |  | 2026-11-06 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 7 tables</p></details> |
+| **[Ninada: Sub-Clause Split-Graph VITS Streaming and Capability-Routed 24 kHz Speech Synthesis Across Twelve Scripts](https://arxiv.org/abs/2611.10035v1)** |  | 2026-11-05 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables. Open-source browser, Node.js, and Python implementation with interactive demo at https://hemanth.github.io/ninada/ and https://github.com/hemanth/ninada</p></details> |
 | **[Detector-Guided Vocoder Training for Adversarial Text-to-Speech Synthesis](https://arxiv.org/abs/2611.04511v1)** |  | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted at WIFS 2026</p></details> |
 | **[Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection](https://arxiv.org/abs/2610.05264v2)** |  | 2026-11-02 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, Proceedings of Interspeech 2026</p></details> |
 | **[Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories](https://arxiv.org/abs/2610.40970v1)** |  | 2026-10-29 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 3 tables</p></details> |
@@ -20,12 +22,12 @@ labels: documentation
 | **[Steering intonational tunes in text-to-speech synthesis](https://arxiv.org/abs/2610.27403v1)** |  | 2026-10-19 | <details><summary>39 pa...</summary><p>39 pages, 25 figures, 12 tables (13 pages without appendices)</p></details> |
 | **[SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS](https://arxiv.org/abs/2610.26252v1)** |  | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026</p></details> |
 | **[SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection](https://arxiv.org/abs/2610.24468v1)** |  | 2026-10-17 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 5 tables</p></details> |
-| **[Interpreting SSL Representations for Spoof Detection: a WavLM Study](https://arxiv.org/abs/2610.23526v1)** |  | 2026-10-16 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 1 table. Published at IWBF 2026. An extended abstract of this work was presented as a poster at Odyssey 2026</p></details> |
-| **[Too Emotional to Be Fake? Intra-Utterance Emotion Shifts Expose Failure Modes in Speech Deepfake Detectors](https://arxiv.org/abs/2610.22832v1)** |  | 2026-10-16 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Guidance at Pure Noise Erodes Speaker Similarity in Few-Step Token-Conditioned Flow-Matching TTS](https://arxiv.org/abs/2611.11179v1)** |  | 2026-11-08 | <details><summary>13 pa...</summary><p>13 pages, 8 figures. Submitted to IEEE Transactions on Audio, Speech and Language Processing. Code: https://github.com/16jhlee/FSU</p></details> |
+| **[M5-TTS: A Mini-Scale Multilingual and Multi-Dialect Text-to-Speech Language Model with Multi-Token Prediction](https://arxiv.org/abs/2611.10162v1)** |  | 2026-11-06 | 16 pages,3 figures |
 | **[Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models](https://arxiv.org/abs/2610.40505v1)** |  | 2026-10-29 | Under review |
 | **[What Makes a Good Audio Prompt for Zero-Shot TTS? Learning Prompt Selection from Synthesis Outcomes](https://arxiv.org/abs/2610.40372v1)** |  | 2026-10-29 |  |
 | **[EmpDPO: Enabling Emphasis Control in TTS via Direct Preference Optimization](https://arxiv.org/abs/2610.39427v1)** |  | 2026-10-29 | <details><summary>5 pag...</summary><p>5 pages, 3 figures. Submitted to ICASSP 2027. Audio samples: https://chaonan99.github.io/empdpo-demo/</p></details> |
@@ -39,12 +41,12 @@ labels: documentation
 | **[LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS](https://arxiv.org/abs/2610.28035v1)** |  | 2026-10-20 |  |
 | **[TTS-Q: Speaker-Aware Post-Training Quantization of Text-to-Speech Diffusion Transformers](https://arxiv.org/abs/2610.12474v3)** |  | 2026-10-20 |  |
 | **[SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS](https://arxiv.org/abs/2610.26252v1)** |  | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026</p></details> |
-| **[MixiSpeech: Progressive State Distillation for One-Step Vietnamese TTS](https://arxiv.org/abs/2610.25394v1)** |  | 2026-10-18 | <details><summary>Accep...</summary><p>Accepted at SOICT2026</p></details> |
-| **[Beyond the Benchmark: Conditioning, Domains and Failure Modes of Qwen3-TTS](https://arxiv.org/abs/2610.23678v1)** |  | 2026-10-16 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[LongCap: Hour-Scale Timestamped Audio Captioning via Chunk-wise Processing](https://arxiv.org/abs/2611.11125v1)** |  | 2026-11-08 | <details><summary>26 pa...</summary><p>26 pages. Project page: https://jctian98.github.io/longcap/</p></details> |
+| **[LAION-BVD: A 13-Million-Hour Open Video Dataset for Multimodal Pre-training](https://arxiv.org/abs/2608.24845v2)** |  | 2026-11-07 |  |
 | **[MixCards: Evaluating Structured Descriptions of Multi-Source Sound Scenes](https://arxiv.org/abs/2610.38276v1)** |  | 2026-10-28 | <details><summary>Bench...</summary><p>Benchmark dataset: https://doi.org/10.5281/zenodo.23702059 Code: https://github.com/Sound-Captioning-for-Accessibility/mixcardbench</p></details> |
 | **[TAC2: Timestamped Audio Captioning as composable functions](https://arxiv.org/abs/2610.36568v1)** |  | 2026-10-27 | 22 pages |
 | **[Predicting Music Valence and Arousal via Textual and Multimodal In-Context Learning in Large Language Models](https://arxiv.org/abs/2610.31202v1)** |  | 2026-10-22 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
@@ -58,12 +60,11 @@ labels: documentation
 | **[Closing the Verification Loop: Self-Check Captioning for Long-Paragraph Detailed Audio Captioning](https://arxiv.org/abs/2608.30713v1)** |  | 2026-08-31 | EMNLP2026 |
 | **[TEMPO: Temporally-grounded Multi-task Post-training for Large Audio-Language Models](https://arxiv.org/abs/2608.29999v1)** |  | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Main Conference. Project page - https://kaousheik-26.github.io/tempo</p></details> |
 | **[How Well Do Generative Music Models Follow Emotion Conditioning?](https://arxiv.org/abs/2608.29987v1)** |  | 2026-08-30 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 2 tables</p></details> |
-| **[LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training](https://arxiv.org/abs/2608.24845v1)** |  | 2026-08-25 |  |
-| **[Do Joint Language-Audio Embeddings Encode Perceptual Timbre Semantics?](https://arxiv.org/abs/2510.14249v2)** |  | 2026-08-25 |  |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[M5-TTS: A Mini-Scale Multilingual and Multi-Dialect Text-to-Speech Language Model with Multi-Token Prediction](https://arxiv.org/abs/2611.10162v1)** |  | 2026-11-06 | 16 pages,3 figures |
 | **[Decode Before You Hear: Speculative Listening for Chunk-Interleaved Full-Duplex Speech Language Models](https://arxiv.org/abs/2611.06982v1)** |  | 2026-11-04 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 8 tables</p></details> |
 | **[Do Multi-Turn Conversational Capabilities Carry Over from Text to Speech? A Parallel Multilingual Benchmark](https://arxiv.org/abs/2611.04390v1)** |  | 2026-11-03 |  |
 | **[SpeechEQ: Benchmarking Emotional Intelligence Quotient in Socially Aware Voice Conversational Models](https://arxiv.org/abs/2606.25990v2)** |  | 2026-11-02 |  |
@@ -78,4 +79,3 @@ labels: documentation
 | **[AURAL: Adaptive Latent Reasoning with Joint Chunk for Speech Language Models](https://arxiv.org/abs/2610.01560v2)** |  | 2026-10-19 |  |
 | **[Probing Neural Audio Codecs with Speaker Traits and Speech Characteristics](https://arxiv.org/abs/2610.20955v1)** |  | 2026-10-14 |  |
 | **[PEDBench: Can Speech Models Detect Phonetic Errors?](https://arxiv.org/abs/2610.20830v1)** |  | 2026-10-14 | 21 pages, 10 figures |
-| **[Collapse, Repair, and Drift: Dissecting Fine Tuning Dynamics in Speech Language Models](https://arxiv.org/abs/2610.18192v1)** |  | 2026-10-13 | 20 pages |
