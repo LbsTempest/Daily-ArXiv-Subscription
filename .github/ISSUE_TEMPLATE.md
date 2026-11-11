@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 10, 2026
+title: Latest Papers - November 11, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Text Grouping Changes Completion-Time Comparisons in Long-Form Simultaneous Speech Translation](https://arxiv.org/abs/2611.12501v1)** |  | 2026-11-09 |  |
 | **[Real-Time Short-Response Selection for Spoken Dialogue Systems](https://arxiv.org/abs/2611.09057v1)** |  | 2026-11-06 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 7 tables</p></details> |
 | **[Ninada: Sub-Clause Split-Graph VITS Streaming and Capability-Routed 24 kHz Speech Synthesis Across Twelve Scripts](https://arxiv.org/abs/2611.10035v1)** |  | 2026-11-05 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables. Open-source browser, Node.js, and Python implementation with interactive demo at https://hemanth.github.io/ninada/ and https://github.com/hemanth/ninada</p></details> |
 | **[Detector-Guided Vocoder Training for Adversarial Text-to-Speech Synthesis](https://arxiv.org/abs/2611.04511v1)** |  | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted at WIFS 2026</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS](https://arxiv.org/abs/2610.28035v1)** |  | 2026-10-20 |  |
 | **[Steering intonational tunes in text-to-speech synthesis](https://arxiv.org/abs/2610.27403v1)** |  | 2026-10-19 | <details><summary>39 pa...</summary><p>39 pages, 25 figures, 12 tables (13 pages without appendices)</p></details> |
 | **[SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS](https://arxiv.org/abs/2610.26252v1)** |  | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026</p></details> |
-| **[SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection](https://arxiv.org/abs/2610.24468v1)** |  | 2026-10-17 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 5 tables</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[LAION-Audio-XL: A Web-Scale Corpus and Scaling Studies for Contrastive Language-Audio Pretraining](https://arxiv.org/abs/2611.11592v1)** |  | 2026-11-08 | <details><summary>Proje...</summary><p>Project page: https://projects.laion.ai/clap2/</p></details> |
 | **[LongCap: Hour-Scale Timestamped Audio Captioning via Chunk-wise Processing](https://arxiv.org/abs/2611.11125v1)** |  | 2026-11-08 | <details><summary>26 pa...</summary><p>26 pages. Project page: https://jctian98.github.io/longcap/</p></details> |
 | **[LAION-BVD: A 13-Million-Hour Open Video Dataset for Multimodal Pre-training](https://arxiv.org/abs/2608.24845v2)** |  | 2026-11-07 |  |
 | **[MixCards: Evaluating Structured Descriptions of Multi-Source Sound Scenes](https://arxiv.org/abs/2610.38276v1)** |  | 2026-10-28 | <details><summary>Bench...</summary><p>Benchmark dataset: https://doi.org/10.5281/zenodo.23702059 Code: https://github.com/Sound-Captioning-for-Accessibility/mixcardbench</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[SonicCaps: Large-Scale Diverse and Fine-Grained Captioning for Improved Audio-Retrieval](https://arxiv.org/abs/2609.02343v1)** |  | 2026-09-02 |  |
 | **[Closing the Verification Loop: Self-Check Captioning for Long-Paragraph Detailed Audio Captioning](https://arxiv.org/abs/2608.30713v1)** |  | 2026-08-31 | EMNLP2026 |
 | **[TEMPO: Temporally-grounded Multi-task Post-training for Large Audio-Language Models](https://arxiv.org/abs/2608.29999v1)** |  | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Main Conference. Project page - https://kaousheik-26.github.io/tempo</p></details> |
-| **[How Well Do Generative Music Models Follow Emotion Conditioning?](https://arxiv.org/abs/2608.29987v1)** |  | 2026-08-30 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 2 tables</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
