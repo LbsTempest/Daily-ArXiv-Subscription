@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 11, 2026
+title: Latest Papers - November 12, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,9 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Ninada: Sub-Clause Split-Graph VITS Streaming and Capability-Routed 24 kHz Speech Synthesis Across Twelve Scripts](https://arxiv.org/abs/2611.10035v2)** |  | 2026-11-10 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables. Open-source browser, NodeJS, and Python implementation with interactive demo at https://hemanth.github.io/ninada/ and https://github.com/hemanth/ninada</p></details> |
 | **[Text Grouping Changes Completion-Time Comparisons in Long-Form Simultaneous Speech Translation](https://arxiv.org/abs/2611.12501v1)** |  | 2026-11-09 |  |
 | **[Real-Time Short-Response Selection for Spoken Dialogue Systems](https://arxiv.org/abs/2611.09057v1)** |  | 2026-11-06 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 7 tables</p></details> |
-| **[Ninada: Sub-Clause Split-Graph VITS Streaming and Capability-Routed 24 kHz Speech Synthesis Across Twelve Scripts](https://arxiv.org/abs/2611.10035v1)** |  | 2026-11-05 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables. Open-source browser, Node.js, and Python implementation with interactive demo at https://hemanth.github.io/ninada/ and https://github.com/hemanth/ninada</p></details> |
 | **[Detector-Guided Vocoder Training for Adversarial Text-to-Speech Synthesis](https://arxiv.org/abs/2611.04511v1)** |  | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted at WIFS 2026</p></details> |
 | **[Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection](https://arxiv.org/abs/2610.05264v2)** |  | 2026-11-02 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, Proceedings of Interspeech 2026</p></details> |
 | **[Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories](https://arxiv.org/abs/2610.40970v1)** |  | 2026-10-29 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 3 tables</p></details> |
@@ -45,6 +45,7 @@ labels: documentation
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Walrus Technical Report](https://arxiv.org/abs/2611.13689v1)** |  | 2026-11-10 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, technical report</p></details> |
 | **[LAION-Audio-XL: A Web-Scale Corpus and Scaling Studies for Contrastive Language-Audio Pretraining](https://arxiv.org/abs/2611.11592v1)** |  | 2026-11-08 | <details><summary>Proje...</summary><p>Project page: https://projects.laion.ai/clap2/</p></details> |
 | **[LongCap: Hour-Scale Timestamped Audio Captioning via Chunk-wise Processing](https://arxiv.org/abs/2611.11125v1)** |  | 2026-11-08 | <details><summary>26 pa...</summary><p>26 pages. Project page: https://jctian98.github.io/longcap/</p></details> |
 | **[LAION-BVD: A 13-Million-Hour Open Video Dataset for Multimodal Pre-training](https://arxiv.org/abs/2608.24845v2)** |  | 2026-11-07 |  |
@@ -59,11 +60,12 @@ labels: documentation
 | **[AnyAudio-Judge: A Dynamic Rubric-Based Benchmark and Evaluator for Audio Instruction Following](https://arxiv.org/abs/2606.03116v2)** |  | 2026-09-17 | EMNLP 2026 |
 | **[SonicCaps: Large-Scale Diverse and Fine-Grained Captioning for Improved Audio-Retrieval](https://arxiv.org/abs/2609.02343v1)** |  | 2026-09-02 |  |
 | **[Closing the Verification Loop: Self-Check Captioning for Long-Paragraph Detailed Audio Captioning](https://arxiv.org/abs/2608.30713v1)** |  | 2026-08-31 | EMNLP2026 |
-| **[TEMPO: Temporally-grounded Multi-task Post-training for Large Audio-Language Models](https://arxiv.org/abs/2608.29999v1)** |  | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Main Conference. Project page - https://kaousheik-26.github.io/tempo</p></details> |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Quantifying the Generation Modality Gap in Speech-Text Language Models](https://arxiv.org/abs/2609.14743v3)** |  | 2026-11-10 | <details><summary>Accep...</summary><p>Accepted to SLT 2026, extended version with appendix</p></details> |
+| **[Walrus Technical Report](https://arxiv.org/abs/2611.13689v1)** |  | 2026-11-10 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, technical report</p></details> |
 | **[M5-TTS: A Mini-Scale Multilingual and Multi-Dialect Text-to-Speech Language Model with Multi-Token Prediction](https://arxiv.org/abs/2611.10162v1)** |  | 2026-11-06 | 16 pages,3 figures |
 | **[Decode Before You Hear: Speculative Listening for Chunk-Interleaved Full-Duplex Speech Language Models](https://arxiv.org/abs/2611.06982v1)** |  | 2026-11-04 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 8 tables</p></details> |
 | **[Do Multi-Turn Conversational Capabilities Carry Over from Text to Speech? A Parallel Multilingual Benchmark](https://arxiv.org/abs/2611.04390v1)** |  | 2026-11-03 |  |
@@ -77,5 +79,3 @@ labels: documentation
 | **[Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition](https://arxiv.org/abs/2610.32187v1)** |  | 2026-10-23 |  |
 | **[SLM-SS: Token-Based Speech Separation with Speech Language Models](https://arxiv.org/abs/2610.27785v1)** |  | 2026-10-20 |  |
 | **[AURAL: Adaptive Latent Reasoning with Joint Chunk for Speech Language Models](https://arxiv.org/abs/2610.01560v2)** |  | 2026-10-19 |  |
-| **[Probing Neural Audio Codecs with Speaker Traits and Speech Characteristics](https://arxiv.org/abs/2610.20955v1)** |  | 2026-10-14 |  |
-| **[PEDBench: Can Speech Models Detect Phonetic Errors?](https://arxiv.org/abs/2610.20830v1)** |  | 2026-10-14 | 21 pages, 10 figures |
