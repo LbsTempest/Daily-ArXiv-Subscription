@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 13, 2026
+title: Latest Papers - November 16, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[RSE-TTS: Compact Text-to-Speech through Shared Text-Aware Reference Encoding and Generation](https://arxiv.org/abs/2611.15464v1)** |  | 2026-11-11 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 8 tables. Audio samples: https://voxnexusai.github.io/RSE-TTS/</p></details> |
 | **[Guidance at Pure Noise Erodes Speaker Similarity in Few-Step Token-Conditioned Flow-Matching TTS](https://arxiv.org/abs/2611.11179v1)** |  | 2026-11-08 | <details><summary>13 pa...</summary><p>13 pages, 8 figures. Submitted to IEEE Transactions on Audio, Speech and Language Processing. Code: https://github.com/16jhlee/FSU</p></details> |
 | **[M5-TTS: A Mini-Scale Multilingual and Multi-Dialect Text-to-Speech Language Model with Multi-Token Prediction](https://arxiv.org/abs/2611.10162v1)** |  | 2026-11-06 | 16 pages,3 figures |
 | **[Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models](https://arxiv.org/abs/2610.40505v1)** |  | 2026-10-29 | Under review |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Decodability Is Not Controllability: Local and Anisotropic Speaker Control in Continuous-Latent TTS](https://arxiv.org/abs/2610.29345v1)** |  | 2026-10-21 |  |
 | **[LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS](https://arxiv.org/abs/2610.28035v1)** |  | 2026-10-20 |  |
 | **[TTS-Q: Speaker-Aware Post-Training Quantization of Text-to-Speech Diffusion Transformers](https://arxiv.org/abs/2610.12474v3)** |  | 2026-10-20 |  |
-| **[SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS](https://arxiv.org/abs/2610.26252v1)** |  | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
