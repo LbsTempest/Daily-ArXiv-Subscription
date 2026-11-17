@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 16, 2026
+title: Latest Papers - November 17, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[A Speech-LLM Framework for Enrollment-Free Wake-Word-Guided Target-Speaker Recognition in Complex Noisy Scenarios for Seamless Human-Machine Interaction](https://arxiv.org/abs/2611.19844v1)** |  | 2026-11-15 |  |
+| **[Latency, Speech Recognition and Turn-Taking in Voice Agents for Spanish Phone Negotiation: An Externally Measured Comparison of Pipecat, LiveKit and GPT-Live](https://arxiv.org/abs/2611.19118v1)** |  | 2026-11-14 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 11 tables. Code and data: https://github.com/AILabFr8tech/voice-negotiation-agents (archived at https://doi.org/10.5281/zenodo.24211550)</p></details> |
 | **[Ninada: Sub-Clause Split-Graph VITS Streaming and Capability-Routed 24 kHz Speech Synthesis Across Twelve Scripts](https://arxiv.org/abs/2611.10035v2)** |  | 2026-11-10 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables. Open-source browser, NodeJS, and Python implementation with interactive demo at https://hemanth.github.io/ninada/ and https://github.com/hemanth/ninada</p></details> |
 | **[Text Grouping Changes Completion-Time Comparisons in Long-Form Simultaneous Speech Translation](https://arxiv.org/abs/2611.12501v1)** |  | 2026-11-09 |  |
 | **[Real-Time Short-Response Selection for Spoken Dialogue Systems](https://arxiv.org/abs/2611.09057v1)** |  | 2026-11-06 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 7 tables</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition](https://arxiv.org/abs/2610.32187v1)** |  | 2026-10-23 |  |
 | **[EmoFI-TTS: Face-Conditioned Expressive Voice Synthesis with Intensity Modulation](https://arxiv.org/abs/2610.30477v1)** |  | 2026-10-21 |  |
 | **[LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS](https://arxiv.org/abs/2610.28035v1)** |  | 2026-10-20 |  |
-| **[Steering intonational tunes in text-to-speech synthesis](https://arxiv.org/abs/2610.27403v1)** |  | 2026-10-19 | <details><summary>39 pa...</summary><p>39 pages, 25 figures, 12 tables (13 pages without appendices)</p></details> |
-| **[SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS](https://arxiv.org/abs/2610.26252v1)** |  | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026</p></details> |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Auditory-Feedback-Conditioned Flow TTS for Implicit Lombard Adaptation](https://arxiv.org/abs/2611.19260v1)** |  | 2026-11-14 |  |
 | **[RSE-TTS: Compact Text-to-Speech through Shared Text-Aware Reference Encoding and Generation](https://arxiv.org/abs/2611.15464v1)** |  | 2026-11-11 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 8 tables. Audio samples: https://voxnexusai.github.io/RSE-TTS/</p></details> |
 | **[Guidance at Pure Noise Erodes Speaker Similarity in Few-Step Token-Conditioned Flow-Matching TTS](https://arxiv.org/abs/2611.11179v1)** |  | 2026-11-08 | <details><summary>13 pa...</summary><p>13 pages, 8 figures. Submitted to IEEE Transactions on Audio, Speech and Language Processing. Code: https://github.com/16jhlee/FSU</p></details> |
 | **[M5-TTS: A Mini-Scale Multilingual and Multi-Dialect Text-to-Speech Language Model with Multi-Token Prediction](https://arxiv.org/abs/2611.10162v1)** |  | 2026-11-06 | 16 pages,3 figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[EmoFI-TTS: Face-Conditioned Expressive Voice Synthesis with Intensity Modulation](https://arxiv.org/abs/2610.30477v1)** |  | 2026-10-21 |  |
 | **[Decodability Is Not Controllability: Local and Anisotropic Speaker Control in Continuous-Latent TTS](https://arxiv.org/abs/2610.29345v1)** |  | 2026-10-21 |  |
 | **[LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS](https://arxiv.org/abs/2610.28035v1)** |  | 2026-10-20 |  |
-| **[TTS-Q: Speaker-Aware Post-Training Quantization of Text-to-Speech Diffusion Transformers](https://arxiv.org/abs/2610.12474v3)** |  | 2026-10-20 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Toward Fair Speech Technologies: A Comprehensive Survey of Bias and Fairness in Speech AI](https://arxiv.org/abs/2605.01597v3)** |  | 2026-11-14 | <details><summary>Accep...</summary><p>Accepted at TMLR, Survey Certificate</p></details> |
 | **[Quantifying the Generation Modality Gap in Speech-Text Language Models](https://arxiv.org/abs/2609.14743v3)** |  | 2026-11-10 | <details><summary>Accep...</summary><p>Accepted to SLT 2026, extended version with appendix</p></details> |
 | **[Walrus Technical Report](https://arxiv.org/abs/2611.13689v1)** |  | 2026-11-10 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, technical report</p></details> |
 | **[M5-TTS: A Mini-Scale Multilingual and Multi-Dialect Text-to-Speech Language Model with Multi-Token Prediction](https://arxiv.org/abs/2611.10162v1)** |  | 2026-11-06 | 16 pages,3 figures |
@@ -78,4 +79,3 @@ labels: documentation
 | **[From Speech Tokens to Stolen Voices: Attacker-Chosen-Text Speaker Impersonation via Representation Inversion](https://arxiv.org/abs/2610.34688v1)** |  | 2026-10-26 |  |
 | **[Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition](https://arxiv.org/abs/2610.32187v1)** |  | 2026-10-23 |  |
 | **[SLM-SS: Token-Based Speech Separation with Speech Language Models](https://arxiv.org/abs/2610.27785v1)** |  | 2026-10-20 |  |
-| **[AURAL: Adaptive Latent Reasoning with Joint Chunk for Speech Language Models](https://arxiv.org/abs/2610.01560v2)** |  | 2026-10-19 |  |
