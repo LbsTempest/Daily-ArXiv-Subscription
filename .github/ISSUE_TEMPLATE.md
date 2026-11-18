@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 17, 2026
+title: Latest Papers - November 18, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[No-Shot Text-to-Speech: Limitations of Zero-Shot TTS and its Evaluation Methods in Representing Queer and Transgender Voices](https://arxiv.org/abs/2611.20822v1)** |  | 2026-11-16 | <details><summary>Proce...</summary><p>Proceedings of Interspeech 2026</p></details> |
 | **[Auditory-Feedback-Conditioned Flow TTS for Implicit Lombard Adaptation](https://arxiv.org/abs/2611.19260v1)** |  | 2026-11-14 |  |
 | **[RSE-TTS: Compact Text-to-Speech through Shared Text-Aware Reference Encoding and Generation](https://arxiv.org/abs/2611.15464v1)** |  | 2026-11-11 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 8 tables. Audio samples: https://voxnexusai.github.io/RSE-TTS/</p></details> |
 | **[Guidance at Pure Noise Erodes Speaker Similarity in Few-Step Token-Conditioned Flow-Matching TTS](https://arxiv.org/abs/2611.11179v1)** |  | 2026-11-08 | <details><summary>13 pa...</summary><p>13 pages, 8 figures. Submitted to IEEE Transactions on Audio, Speech and Language Processing. Code: https://github.com/16jhlee/FSU</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[TT-SAX: A Two-Track Time Series Symbolization for Natural Language Shape Querying](https://arxiv.org/abs/2610.30593v1)** |  | 2026-10-22 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 2 tables. Accepted at the Australasian Database Conference (ADC 2026). This is the submitted manuscript prior to peer review</p></details> |
 | **[EmoFI-TTS: Face-Conditioned Expressive Voice Synthesis with Intensity Modulation](https://arxiv.org/abs/2610.30477v1)** |  | 2026-10-21 |  |
 | **[Decodability Is Not Controllability: Local and Anisotropic Speaker Control in Continuous-Latent TTS](https://arxiv.org/abs/2610.29345v1)** |  | 2026-10-21 |  |
-| **[LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS](https://arxiv.org/abs/2610.28035v1)** |  | 2026-10-20 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[CAF-Score: Calibrating CLAP with LALMs for Reference-free Audio-Text Alignment Evaluation](https://arxiv.org/abs/2603.19615v2)** |  | 2026-11-16 | <details><summary>Accep...</summary><p>Accepted to EACL 2027 (Main Conference). 16 pages, 9 figures, 4 tables. Code: https://github.com/inseong00/CAF-Score</p></details> |
 | **[Walrus Technical Report](https://arxiv.org/abs/2611.13689v1)** |  | 2026-11-10 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, technical report</p></details> |
 | **[LAION-Audio-XL: A Web-Scale Corpus and Scaling Studies for Contrastive Language-Audio Pretraining](https://arxiv.org/abs/2611.11592v1)** |  | 2026-11-08 | <details><summary>Proje...</summary><p>Project page: https://projects.laion.ai/clap2/</p></details> |
 | **[LongCap: Hour-Scale Timestamped Audio Captioning via Chunk-wise Processing](https://arxiv.org/abs/2611.11125v1)** |  | 2026-11-08 | <details><summary>26 pa...</summary><p>26 pages. Project page: https://jctian98.github.io/longcap/</p></details> |
@@ -59,11 +60,12 @@ labels: documentation
 | **[An Evaluation Framework for Structured Audio Captions Validated by Controlled Perturbations](https://arxiv.org/abs/2607.21424v2)** |  | 2026-09-24 |  |
 | **[AnyAudio-Judge: A Dynamic Rubric-Based Benchmark and Evaluator for Audio Instruction Following](https://arxiv.org/abs/2606.03116v2)** |  | 2026-09-17 | EMNLP 2026 |
 | **[SonicCaps: Large-Scale Diverse and Fine-Grained Captioning for Improved Audio-Retrieval](https://arxiv.org/abs/2609.02343v1)** |  | 2026-09-02 |  |
-| **[Closing the Verification Loop: Self-Check Captioning for Long-Paragraph Detailed Audio Captioning](https://arxiv.org/abs/2608.30713v1)** |  | 2026-08-31 | EMNLP2026 |
 
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[VoxSafeBench: Not Just What Is Said, but Who, How, and Where](https://arxiv.org/abs/2604.14548v3)** |  | 2026-11-16 |  |
+| **[Learning from Distribution: Rethinking One-Hot Supervision for ASR and QA in Speech Language Models](https://arxiv.org/abs/2611.20436v1)** |  | 2026-11-16 |  |
 | **[Toward Fair Speech Technologies: A Comprehensive Survey of Bias and Fairness in Speech AI](https://arxiv.org/abs/2605.01597v3)** |  | 2026-11-14 | <details><summary>Accep...</summary><p>Accepted at TMLR, Survey Certificate</p></details> |
 | **[Quantifying the Generation Modality Gap in Speech-Text Language Models](https://arxiv.org/abs/2609.14743v3)** |  | 2026-11-10 | <details><summary>Accep...</summary><p>Accepted to SLT 2026, extended version with appendix</p></details> |
 | **[Walrus Technical Report](https://arxiv.org/abs/2611.13689v1)** |  | 2026-11-10 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, technical report</p></details> |
@@ -77,5 +79,3 @@ labels: documentation
 | **[Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use](https://arxiv.org/abs/2610.40738v1)** |  | 2026-10-29 |  |
 | **[Developing a Speech Language Model for Basque](https://arxiv.org/abs/2610.36911v1)** |  | 2026-10-27 | <details><summary>IberS...</summary><p>IberSPEECH2026 - Jornadas en Tecnologias del Habla and Iberian SLTech Workshop Events</p></details> |
 | **[From Speech Tokens to Stolen Voices: Attacker-Chosen-Text Speaker Impersonation via Representation Inversion](https://arxiv.org/abs/2610.34688v1)** |  | 2026-10-26 |  |
-| **[Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition](https://arxiv.org/abs/2610.32187v1)** |  | 2026-10-23 |  |
-| **[SLM-SS: Token-Based Speech Separation with Speech Language Models](https://arxiv.org/abs/2610.27785v1)** |  | 2026-10-20 |  |
