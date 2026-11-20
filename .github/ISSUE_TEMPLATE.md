@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 19, 2026
+title: Latest Papers - November 20, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[DRVEXO-4B-Unified: Design and Evaluation of a Modular Speech-Vision System](https://arxiv.org/abs/2611.25521v1)** |  | 2026-11-19 | 23 pages, 5 figures |
 | **[A Speech-LLM Framework for Enrollment-Free Wake-Word-Guided Target-Speaker Recognition in Complex Noisy Scenarios for Seamless Human-Machine Interaction](https://arxiv.org/abs/2611.19844v1)** |  | 2026-11-15 |  |
 | **[Latency, Speech Recognition and Turn-Taking in Voice Agents for Spanish Phone Negotiation: An Externally Measured Comparison of Pipecat, LiveKit and GPT-Live](https://arxiv.org/abs/2611.19118v1)** |  | 2026-11-14 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 11 tables. Code and data: https://github.com/AILabFr8tech/voice-negotiation-agents (archived at https://doi.org/10.5281/zenodo.24211550)</p></details> |
 | **[Ninada: Sub-Clause Split-Graph VITS Streaming and Capability-Routed 24 kHz Speech Synthesis Across Twelve Scripts](https://arxiv.org/abs/2611.10035v2)** |  | 2026-11-10 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables. Open-source browser, NodeJS, and Python implementation with interactive demo at https://hemanth.github.io/ninada/ and https://github.com/hemanth/ninada</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Heard Enough to Act: Early Tool Calling in Spoken Dialogue Systems](https://arxiv.org/abs/2610.34653v1)** |  | 2026-10-26 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition](https://arxiv.org/abs/2610.32187v1)** |  | 2026-10-23 |  |
 | **[EmoFI-TTS: Face-Conditioned Expressive Voice Synthesis with Intensity Modulation](https://arxiv.org/abs/2610.30477v1)** |  | 2026-10-21 |  |
-| **[LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS](https://arxiv.org/abs/2610.28035v1)** |  | 2026-10-20 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
