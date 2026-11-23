@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 20, 2026
+title: Latest Papers - November 23, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[EAF-TTS: Rethinking Codec-Latent Coordinates for Flow TTS](https://arxiv.org/abs/2611.27214v1)** |  | 2026-11-20 |  |
+| **[Rhythm-TTS: High-Fidelity Shortcut Latent Modeling and Probabilistic Rhythm Generation for Zero-Shot Text-to-Speech](https://arxiv.org/abs/2510.02848v3)** |  | 2026-11-20 |  |
 | **[No-Shot Text-to-Speech: Limitations of Zero-Shot TTS and its Evaluation Methods in Representing Queer and Transgender Voices](https://arxiv.org/abs/2611.20822v1)** |  | 2026-11-16 | <details><summary>Proce...</summary><p>Proceedings of Interspeech 2026</p></details> |
 | **[Auditory-Feedback-Conditioned Flow TTS for Implicit Lombard Adaptation](https://arxiv.org/abs/2611.19260v1)** |  | 2026-11-14 |  |
 | **[RSE-TTS: Compact Text-to-Speech through Shared Text-Aware Reference Encoding and Generation](https://arxiv.org/abs/2611.15464v1)** |  | 2026-11-11 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 8 tables. Audio samples: https://voxnexusai.github.io/RSE-TTS/</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[LeanTTS: Efficient Full-Stack Bilingual TTS for Zero-Shot Cloning and Voice Customization](https://arxiv.org/abs/2610.34408v1)** |  | 2026-10-25 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables. Audio demos: https://github.com/notlu/leantts</p></details> |
 | **[Combining Masked Language Modeling and Cross-Modal Contrastive Learning for Prosody-Aware TTS](https://arxiv.org/abs/2604.01247v2)** |  | 2026-10-22 | <details><summary>This ...</summary><p>This paper has been submitted to ICASSP 2027 for review</p></details> |
 | **[TT-SAX: A Two-Track Time Series Symbolization for Natural Language Shape Querying](https://arxiv.org/abs/2610.30593v1)** |  | 2026-10-22 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 2 tables. Accepted at the Australasian Database Conference (ADC 2026). This is the submitted manuscript prior to peer review</p></details> |
-| **[EmoFI-TTS: Face-Conditioned Expressive Voice Synthesis with Intensity Modulation](https://arxiv.org/abs/2610.30477v1)** |  | 2026-10-21 |  |
-| **[Decodability Is Not Controllability: Local and Anisotropic Speaker Control in Continuous-Latent TTS](https://arxiv.org/abs/2610.29345v1)** |  | 2026-10-21 |  |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
