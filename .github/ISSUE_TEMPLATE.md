@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 23, 2026
+title: Latest Papers - November 24, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Speech Synthesis
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Ultrasound Watermark: Real-time Acoustic Watermarking against Voice Scams on Smartphones](https://arxiv.org/abs/2611.30106v1)** |  | 2026-11-23 |  |
+| **[PAWP-TTS: Phoneme-Aware Weight Programming for Compact Bilingual English-Nepali Speech Synthesis](https://arxiv.org/abs/2611.29455v1)** |  | 2026-11-22 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, 1 table. Code: https://github.com/Firojpaudel/PAWP_TTS | Audio Demo: https://huggingface.co/spaces/Firoj112/pawp-tts-demo | Models: https://huggingface.co/Firoj112/pawp-tts-1.5m and https://huggingface.co/Firoj112/pawp-tts-300k</p></details> |
+| **[Preserving Prosody in Speaker Anonymization](https://arxiv.org/abs/2611.28290v1)** |  | 2026-11-20 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[DRVEXO-4B-Unified: Design and Evaluation of a Modular Speech-Vision System](https://arxiv.org/abs/2611.25521v1)** |  | 2026-11-19 | 23 pages, 5 figures |
 | **[A Speech-LLM Framework for Enrollment-Free Wake-Word-Guided Target-Speaker Recognition in Complex Noisy Scenarios for Seamless Human-Machine Interaction](https://arxiv.org/abs/2611.19844v1)** |  | 2026-11-15 |  |
 | **[Latency, Speech Recognition and Turn-Taking in Voice Agents for Spanish Phone Negotiation: An Externally Measured Comparison of Pipecat, LiveKit and GPT-Live](https://arxiv.org/abs/2611.19118v1)** |  | 2026-11-14 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 11 tables. Code and data: https://github.com/AILabFr8tech/voice-negotiation-agents (archived at https://doi.org/10.5281/zenodo.24211550)</p></details> |
@@ -19,15 +22,15 @@ labels: documentation
 | **[Reading-Level Verification of Kanji Words in Japanese Financial Speech Synthesis](https://arxiv.org/abs/2610.39168v1)** |  | 2026-10-29 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 7 tables</p></details> |
 | **[Pronunciation-Supervised Text-to-Speech for Irish (Gaeilge)](https://arxiv.org/abs/2610.38384v1)** |  | 2026-10-28 |  |
 | **[ImageTTS: Repurposing Pretrained Image Diffusion Transformers for Speech Synthesis](https://arxiv.org/abs/2610.34807v1)** |  | 2026-10-26 |  |
-| **[Heard Enough to Act: Early Tool Calling in Spoken Dialogue Systems](https://arxiv.org/abs/2610.34653v1)** |  | 2026-10-26 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
-| **[Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition](https://arxiv.org/abs/2610.32187v1)** |  | 2026-10-23 |  |
-| **[EmoFI-TTS: Face-Conditioned Expressive Voice Synthesis with Intensity Modulation](https://arxiv.org/abs/2610.30477v1)** |  | 2026-10-21 |  |
 
 ## TTS
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Rhythm-TTS: High-Fidelity Shortcut Latent Modeling and Probabilistic Rhythm Generation for Zero-Shot Text-to-Speech](https://arxiv.org/abs/2510.02848v4)** |  | 2026-11-23 | <details><summary>Accep...</summary><p>Accepted at EACL (Findings) 2027</p></details> |
+| **[Scoring L2 Pronunciation Without Synthesis: Counterfactual Velocity Contrast in Frozen Flow-Matching TTS](https://arxiv.org/abs/2611.29985v1)** |  | 2026-11-23 |  |
+| **[PAWP-TTS: Phoneme-Aware Weight Programming for Compact Bilingual English-Nepali Speech Synthesis](https://arxiv.org/abs/2611.29455v1)** |  | 2026-11-22 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, 1 table. Code: https://github.com/Firojpaudel/PAWP_TTS | Audio Demo: https://huggingface.co/spaces/Firoj112/pawp-tts-demo | Models: https://huggingface.co/Firoj112/pawp-tts-1.5m and https://huggingface.co/Firoj112/pawp-tts-300k</p></details> |
+| **[Tenlai-TTS 2.0: Continuous-Representation LLM-Based TTS System with End-to-End Training](https://arxiv.org/abs/2611.29226v1)** |  | 2026-11-22 |  |
 | **[EAF-TTS: Rethinking Codec-Latent Coordinates for Flow TTS](https://arxiv.org/abs/2611.27214v1)** |  | 2026-11-20 |  |
-| **[Rhythm-TTS: High-Fidelity Shortcut Latent Modeling and Probabilistic Rhythm Generation for Zero-Shot Text-to-Speech](https://arxiv.org/abs/2510.02848v3)** |  | 2026-11-20 |  |
 | **[No-Shot Text-to-Speech: Limitations of Zero-Shot TTS and its Evaluation Methods in Representing Queer and Transgender Voices](https://arxiv.org/abs/2611.20822v1)** |  | 2026-11-16 | <details><summary>Proce...</summary><p>Proceedings of Interspeech 2026</p></details> |
 | **[Auditory-Feedback-Conditioned Flow TTS for Implicit Lombard Adaptation](https://arxiv.org/abs/2611.19260v1)** |  | 2026-11-14 |  |
 | **[RSE-TTS: Compact Text-to-Speech through Shared Text-Aware Reference Encoding and Generation](https://arxiv.org/abs/2611.15464v1)** |  | 2026-11-11 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 8 tables. Audio samples: https://voxnexusai.github.io/RSE-TTS/</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[EmpDPO: Enabling Emphasis Control in TTS via Direct Preference Optimization](https://arxiv.org/abs/2610.39427v1)** |  | 2026-10-29 | <details><summary>5 pag...</summary><p>5 pages, 3 figures. Submitted to ICASSP 2027. Audio samples: https://chaonan99.github.io/empdpo-demo/</p></details> |
 | **[Interaction Effects Between Learner Characteristics and Dialogue Format in LLM- and TTS-Generated Dialogue-Based Lessons](https://arxiv.org/abs/2608.20822v2)** |  | 2026-10-27 | <details><summary>Revis...</summary><p>Revised version of a manuscript submitted to Education Sciences (MDPI); not yet peer-reviewed. The title has been changed from v1. 23 pages, 1 figure</p></details> |
 | **[When the Persona Contradicts the Line: Diagnosing Plan-to-Synthesis Failures in Chain-of-Thought TTS](https://arxiv.org/abs/2610.35008v1)** |  | 2026-10-26 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
-| **[LeanTTS: Efficient Full-Stack Bilingual TTS for Zero-Shot Cloning and Voice Customization](https://arxiv.org/abs/2610.34408v1)** |  | 2026-10-25 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables. Audio demos: https://github.com/notlu/leantts</p></details> |
-| **[Combining Masked Language Modeling and Cross-Modal Contrastive Learning for Prosody-Aware TTS](https://arxiv.org/abs/2604.01247v2)** |  | 2026-10-22 | <details><summary>This ...</summary><p>This paper has been submitted to ICASSP 2027 for review</p></details> |
-| **[TT-SAX: A Two-Track Time Series Symbolization for Natural Language Shape Querying](https://arxiv.org/abs/2610.30593v1)** |  | 2026-10-22 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 2 tables. Accepted at the Australasian Database Conference (ADC 2026). This is the submitted manuscript prior to peer review</p></details> |
 
 ## Audio Caption
 | **Title** | **Link** | **Date** | **Comment** |
