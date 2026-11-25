@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 24, 2026
+title: Latest Papers - November 25, 2026
 labels: documentation
 ---
 **Please check the [Github page](https://github.com/LbsTempest/Daily-ArXiv-Subscription) for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## Speech language model
 | **Title** | **Link** | **Date** | **Comment** |
 | --- | --- | --- | --- |
+| **[Is Prosody Encoded in the Neural Audio Codec Mimi?](https://arxiv.org/abs/2611.32795v1)** |  | 2026-11-24 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, Published as a Speech Prosody 2026 conference paper, 569-573, doi: 10.21437/SpeechProsody.2026-115</p></details> |
 | **[VoxSafeBench: Not Just What Is Said, but Who, How, and Where](https://arxiv.org/abs/2604.14548v3)** |  | 2026-11-16 |  |
 | **[Learning from Distribution: Rethinking One-Hot Supervision for ASR and QA in Speech Language Models](https://arxiv.org/abs/2611.20436v1)** |  | 2026-11-16 |  |
 | **[Toward Fair Speech Technologies: A Comprehensive Survey of Bias and Fairness in Speech AI](https://arxiv.org/abs/2605.01597v3)** |  | 2026-11-14 | <details><summary>Accep...</summary><p>Accepted at TMLR, Survey Certificate</p></details> |
@@ -78,4 +79,3 @@ labels: documentation
 | **[From Transcription to Reformulation: Defining and Benchmarking Grounded Generative Speech Recognition](https://arxiv.org/abs/2610.41292v1)** |  | 2026-10-30 |  |
 | **[Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use](https://arxiv.org/abs/2610.40738v1)** |  | 2026-10-29 |  |
 | **[Developing a Speech Language Model for Basque](https://arxiv.org/abs/2610.36911v1)** |  | 2026-10-27 | <details><summary>IberS...</summary><p>IberSPEECH2026 - Jornadas en Tecnologias del Habla and Iberian SLTech Workshop Events</p></details> |
-| **[From Speech Tokens to Stolen Voices: Attacker-Chosen-Text Speaker Impersonation via Representation Inversion](https://arxiv.org/abs/2610.34688v1)** |  | 2026-10-26 |  |
